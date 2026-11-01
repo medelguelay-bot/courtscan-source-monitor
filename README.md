@@ -3,7 +3,7 @@
 Publish ONLY this directory as `medelguelay-bot/courtscan-source-monitor` (main branch).
 It contains public data, attributed source URLs, monitoring code/tests and text snapshots.
 No application server, local drafts, account data, credentials or deployment token belong here.
-The workflow is prepared, NOT enabled or run by this implementation task.
+The daily workflow is installed and active at 06:17 UTC. Its first hosted run completed on 2026-11-01: 221 successful baseline checks and 71 visible errors, with results committed before CI reported failure. See the latest data/source-status.json for current counts.
 
 Run `python -m pip install -r requirements.txt`, then `python -m unittest discover -s tests -v`, then `python monitor.py`.
 Python 3.12 and the pinned pypdf version are the workflow target. The monitor has no secrets.
@@ -42,11 +42,11 @@ https://creativecommons.org/licenses/by/4.0/
 CourtScan changes: U.S. selection, schema normalization, primary-source summaries, explicit uncertainty and monitoring annotations.
 Original documents retain their applicable rights and terms. Attribution implies no endorsement. Extracted source text is public-source material, not client or account data.
 
-## Activation handoff
+## Original activation handoff (completed 2026-11-01)
 
 After root creates and publishes the repository, verify raw JSON responses and enable the daily workflow. Check its first actual run and failures.
 Then merge the three entries in the frontend handoff `rewrites.pending.json` into `vercel.json`. Never activate rewrites before repository availability.
-No workflow execution, repository publication, DNS change or Vercel deployment is claimed here.
+Live publication: https://courtscan.io. First hosted run: https://github.com/medelguelay-bot/courtscan-source-monitor/actions/runs/41323216264. Source retrieval errors remain explicit; no legal currency or completeness certification is claimed.
 
 ## Text publication boundary
 
