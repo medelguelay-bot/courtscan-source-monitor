@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+diagnostics.json
+test-results.txt
+sync-output.txt
+tests/tmp*/
+tests/fixture-*/
