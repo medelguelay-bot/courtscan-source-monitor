@@ -1,0 +1,829 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF CALIFORNIA
+UNITED STATES OF AMERICA,
+Plaintiff,
+v.
+__________________________,
+Defendant(s).
+Case No.
+STANDING ORDER FOR
+CRIMINAL CASES ASSIGNED TO
+JUDGE ANNE HWANG
+READ THIS ORDER CAREFULLY. IT CONTROLS THIS CASE AND
+DIFFERS IN SOME RESPECTS FROM THE LOCAL RULES.
+This action has been assigned to Judge Anne Hwang. Both the Court and all
+counsel bear responsibility for the progress of this action. “Counsel,” as used in this
+Order, includes attorneys and parties who have elected to appear without an attorney
+and are representing themselves (hereinafter referred to as “pro se defendants”). To
+ensure the just determination of this action, “to secure simplicity in procedure and
+fairness in administration, and to eliminate unjustifiable expense and delay,” Fed. R.
+Crim. P. 2, all parties or their counsel, including pro se defendants, are ordered to be
+familiar with the Federal Rules of Criminal Procedure, the Local Criminal Rules of
+the Central District of California (“Local Criminal Rules”), the applicable Local Civil
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+2
+Rules of the Central District of California (“Local Civil Rules”),1 and this court’s
+standing orders, online procedures, and schedules.
+UNLESS OTHERWISE ORDERED BY THE COURT, THE FOLLOWING
+RULES SHALL APPLY:
+A. GENERAL REQUIREMENTS
+1. Formatting of Pleadings
+The caption title of every pleading shall contain the name of the first-listed
+defendant if the pleading applies to all defendants. If the document applies only to
+certain defendants, the caption shall list the name of the first defendant followed by
+the name(s) and number(s) of the remaining defendants involved (in the order listed
+on the docket). In an effort to create a docket that is clear and that can be searched
+easily, the title of every pleading shall include the name of the defendant(s) to which it
+refers. However, if the pleading applies to all defendants or if there is only a single
+defendant, the name(s) of the defendant(s) do not need to appear in the title.
+2. Electronic Filing
+Counsel shall electronically file (“e-file”) all filings pursuant to the Central
+District’s Local Rules and General Orders concerning electronic filing, unless
+superseded by this Order. Items that do not require the Court’s signature shall be e-
+filed in PDF format. Pro se defendants may submit documents for filing through the
+Court’s Electronic Document Submission System (“EDSS”) instead of mailing or
+bringing documents to the Clerk’s Office. Only internet access and an email address
+are required. Documents are submitted in PDF format through an online portal on the
+Court’s website. To access EDSS and for additional information, visit the Court’s
+website at https://apps.cacd.uscourts.gov/edss.
+1 “When applicable directly or by analogy, the Local [Civil] Rules of the Central
+District of California shall govern the conduct of criminal proceedings before the
+District Court, unless otherwise specified.” Local Criminal Rule 57-1.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+3
+3. Mandatory Chambers Copies
+Mandatory chambers copies are to be submitted pursuant to Local Civil Rule
+5-4.5. The Court requires copies of (i) motion papers (motions, oppositions, replies,
+non-oppositions, and any related document) and (ii) trial documents (joint statement
+of the case, proposed voir dire, jury instructions, verdict form, joint exhibit list, joint
+witness list, and any disputes relating to any of the foregoing).
+Deliver Chambers Copies promptly to Judge Hwang’s mailbox outside the
+Clerk’s Office on the fourth floor of the Felicitas and Gonzalo Mendez United States
+Courthouse no later than 12:00 p.m. on the court day following the filing of the
+document. Applicable documents will not be considered until Chambers Copies are
+submitted. Delay in submitting such copies will delay consideration of the
+submission.
+Chambers Copies, which do not need to be submitted with blue backing, should
+be copies of the filed document—i.e., they should have the docket information on the
+top of each page. Filings that include highlighting, color photographs, “redlining,” or
+the like should be printed in color.
+4. Proposed Orders
+Each party filing or opposing a motion or seeking the determination of any
+matter shall serve and lodge a proposed order setting forth the relief or action sought
+and a brief statement of the rationale for the decision with appropriate citations. The
+Court enforces strict compliance with Local Rule 5-4.4.2, which instructs: “After a
+document requiring a judge’s signature has been lodged under L.R. 5-4.4.1, a . . .
+Microsoft Word copy of the proposed document, along with a PDF copy of the
+electronically filed main document, must be emailed to the assigned judge’s generic
+chambers email address,” AH_chambers@cacd.uscourts.gov. The Court will not
+consider a stipulation, ex parte application, or other request for relief until a compliant
+proposed order is received by email. If the proposed order is based on a stipulation or
+an ex parte application, counsel must email both the order and the stipulation or ex
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+4
+parte application. Otherwise, accompanying documents (such as motions) should not
+be emailed to Chambers.
+5. Artificial Intelligence
+Any party who uses generative artificial intelligence (such as ChatGPT,
+Harvey, CoCounsel, or Claude) to generate any portion of a brief, pleading, or other
+filing must attach to the filing a separate declaration disclosing the use of artificial
+intelligence and certifying that the filer has reviewed the source material and verified
+that the artificially generated content is accurate and complies with the filer’s Rule 11
+obligations.
+B. DISCOVERY
+Counsel shall comply promptly with discovery and notice pursuant to Rules 12,
+12.1, 12.2, 12.3, 12.4, 15, and 16 of the Federal Rules of Criminal Procedure. The
+Government shall promptly produce to Defendant(s) any evidence falling within the
+scope of Brady v. Maryland, 373 U.S. 83 (1963); Giglio v. United States, 405 U.S.
+150 (1972); Roviaro v. United States, 353 U.S. 53 (1957); and United States v.
+Henthorn, 931 F.2d 29 (9th Cir. 1991). Upon the Government’s discovery of any
+evidence within the scope of Brady v. Maryland, 373 U.S. 83 (1963), such evidence
+shall be produced forthwith to Defendant(s). The Government shall also disclose
+Defendant(s) the existence or non-existence of: (1) evidence obtained by electronic
+surveillance; and (2) testimony by a government informer.
+The Government shall produce to Defendant(s) the discovery related to
+evidence it seeks to introduce at trial no later than two (2) weeks prior to the
+scheduled trial date. If there is discovery related to trial evidence that is produced
+after this date, such evidence will not be admitted at trial subject to an ex parte
+application being filed by the Government seeking such relief that is approved by the
+Court.
+Counsel shall meet and confer to resolve discovery disputes informally prior to
+filing a motion to compel discovery. All discovery motions shall state with
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+5
+particularity what is requested, the basis for the request, whether the discovery at issue
+has been requested, and opposing counsel’s response to such request. The Court may
+decline to hear discovery motions made without prior consultation with opposing
+counsel.
+C. BAIL REVIEW
+Any request for bail review based on changed circumstances or information not
+previously presented to the Magistrate Judge shall be addressed in the first instance to
+the Magistrate Judge and shall be served on both opposing counsel and Pretrial
+Services.
+D. CONTINUANCES
+Continuances are granted only on a showing of good cause. Requests for
+continuances must be made before the date to be continued and by motion or
+stipulation, along with a proposed order. Motions and stipulations must be
+accompanied by a detailed declaration setting forth the specific reasons for the
+requested continuance and the precise deadline(s) the parties propose. A stipulation
+that fails to list the precise date(s) the parties wish to move, and the new date(s) they
+propose, will be denied for failure to comply with this Standing Order. For example,
+if the stipulation improperly proposes that all deadlines be moved by “60 days”
+without specifying the proposed new dates that would result from that requested
+continuance, the Court will deny the request. The declaration also should state
+whether there have been any previous requests for continuances; whether these
+requests were granted or denied by the Court; what efforts were made to meet the
+existing deadline; and what, if any, prejudice would result if the request is denied.
+Stipulations extending dates set by this Court are not effective unless approved by the
+Court.
+E. MOTIONS - GENERAL REQUIREMENTS
+1. Time for Filing and Hearing Motions
+Motions shall be filed in accordance with Federal Rule of Criminal Procedure
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+6
+47 and Local Criminal Rule 49, et seq., unless superseded by this Order. Pretrial
+motions, including motions in limine, shall be filed no later than four weeks before the
+Final Pretrial Conference. This Court hears criminal motions on Wednesdays,
+beginning at 8:30 a.m. The Court hears all motions in limine, which shall be
+numbered sequentially by each party who presents them, at the time of the Final
+Pretrial Conference. The last day to hear motions is the date of the Final Pretrial
+Conference. All motions shall be set in accordance with this Order and the Local
+Rules.
+2. “Meet and Confer” Requirement
+Counsel must meet and confer with opposing counsel “to discuss thoroughly
+. . . the substance of the contemplated motion and any potential resolution” thereof.
+Local Criminal Rule 57-1; Local Civil Rule 7-3. Counsel shall discuss the issues to a
+sufficient degree that if a motion is still necessary, the briefing may be directed to
+those substantive issues requiring resolution by the court.
+3. Length and Format of Motion Papers
+Memoranda of points and authorities in support of or in opposition to motions
+shall not exceed twenty-five (25) pages. Replies shall not exceed twelve (12) pages.
+Only in rare instances and for good cause shown will the Court grant an application to
+extend these page limitations. Typeface and spacing shall comply with Local Rule
+11-3.1.1, except that the parties are required to use only 14-point Times New Roman
+font. Footnotes shall be in the same font and the same size as the body of the
+memorandum. Counsel shall adhere to Local Rule 5-4.3 with respect to the
+conversion of all documents to PDF format so that when a document is electronically
+filed, it is in proper size and is text searchable. Further, all documents shall be filed in
+a format so that text can be selected, copied, and pasted directly from the document.
+See Local Rule 5-4.3.1.
+a. Documents with Declarations, Exhibits, and Other Attachments
+If a filed or lodged document has declarations, exhibits, or other attachments,
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+7
+each of these must be filed as a separately docketed attachment to the main docket
+entry with a description of the attachment (e.g., Dkt. 29-1 Smith Declaration).
+b. Citations to Case Law
+Citations to case law must identify not only the case cited, but the specific page
+referenced. Citations to cases must be in Bluebook format. Parties should not use
+string cites without good reason. When using string cites, a party should include a
+parenthetical explanation for each cited case.
+c. Citations to Other Sources
+Statutory references should identify with specificity the sections and
+subsections referenced. Citations to treatises, manuals, and other materials should
+include the volume, section, and pages being referenced.
+4. Ex Parte Applications
+The Court considers ex parte applications on the papers and does not usually set
+these matters for a hearing. If a hearing is necessary, the parties will be notified. Ex
+parte applications are solely for extraordinary relief and should be used with
+discretion. Any party seeking ex parte relief must comply with Local Rule 7-19. The
+moving party must also serve the opposing party by email, fax, or personal service,
+and notify that party that opposing papers must be filed not later than forty-eight (48)
+hours following service or by 3:00 p.m. on the first court day after the service,
+whichever is later. The moving party must indicate whether an opposition is
+anticipated and the nature of the dispute. The opposing party should advise the
+Courtroom Deputy Clerk as soon as possible whether it intends to oppose the ex parte
+application. The application will not be considered until a Mandatory Chambers Copy
+has been provided. Reply briefs in support of ex parte applications are not permitted.
+The Court generally will not rule on any application for such relief for at least forty-
+eight (48) hours (or two (2) court days) after the party subject to the requested order
+has been served unless service is excused or unless the interests of justice so require.
+The parties should not assume that an unopposed ex parte application will be granted,
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+8
+and a last-minute application (or stipulation) that is denied will not serve to relieve a
+party of an underlying obligation (e.g., a soon-to-expire deadline).
+F. HEARINGS
+All criminal matters are heard on Wednesdays beginning at 8:30 a.m.
+1. Sentencing Hearings
+A sentencing hearing will be scheduled at the conclusion of the plea hearing. It
+will be scheduled for no less than 14 weeks after the plea hearing to permit the
+preparation of the presentence report. Both parties will be permitted to file a
+sentencing brief, which is due no later than 14 days before the sentencing hearing. If
+either party does not intend to file a brief, the Courtroom Deputy Clerk shall be
+notified no less than 14 prior to the sentencing hearing.
+Any request for a continuance shall be made no later than seven days prior to
+the date of the hearing.
+2. Change of Plea/Entry of Guilty Plea Hearings
+If the parties believe an immediate change of plea hearing is warranted, they
+shall advise the Courtroom Deputy Clerk. Counsel shall contact the Courtroom
+Deputy Clerk to set a date for the hearing. If the parties agree to proceed with an open
+plea, counsel shall confer and file a stipulation as to the factual basis no later than
+seven days prior to the hearing. A superseding information or indictment shall not be
+attached to the end of the plea agreement. It shall be filed pursuant to the Local Rules
+and have its own docket entry. Counsel will be referred to PIA to be arraigned on the
+new charges.
+G. TRIAL REQUIREMENTS
+No later than 14 days before the Final Pretrial Conference, unless otherwise
+indicated, counsel shall file the following:
+1. Trial Memorandum
+The Government shall file a trial memorandum that shall set forth (1) a factual
+summary of the Government’s case-in-chief; (2) a statement of the charges and the
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+9
+elements of each charge; (3) a time estimate of the length of the Government’s case-
+in-chief, including anticipated cross-examination; and (4) a discussion of relevant
+legal and evidentiary issues as applied to the facts of the particular case. The
+Government shall specify, after a meet and confer, whether the parties agree or
+disagree on matters (1) through (4).
+2. Statement of the Case
+Counsel shall meet and confer 21 calendar days prior to the Final Pretrial
+Conference and seek to reach agreement on a Joint Statement of the Case that will be
+read to the panel of prospective jurors. Counsel shall file the joint statement of the
+case no later than 14 calendar days prior to the Final Pretrial Conference. If the
+parties cannot agree on such a joint statement, they shall file a “Disputed Joint
+Statement of the Case,” which shall include each party’s respective proposed
+statement, together with a “redline” comparing the parties’ respective statements. The
+parties shall deliver a courtesy copy pursuant to Local Civil Rule 5-4.5. A final
+version of the joint statement shall be provided to the Court on the first day of trial.
+3. Voir Dire
+Counsel may submit proposed voir dire questions that are unique to the
+particular trial. Each party may file their respective questions 14 calendar days prior
+to the Final Pretrial Conference.
+4. Witness List
+The Government shall file a witness list no later than 14 calendar days prior to
+the Final Pretrial Conference. The list shall include the witnesses in the order that
+they are expected to testify and, to the extent possible, an accurate estimate of the time
+needed for each witness for direct testimony. It shall also include a brief summary of
+each witness’s testimony. If more than one witness is offered on the same subject, the
+summary should be sufficiently detailed to allow the Court to determine if the
+testimony is cumulative.
+Not later than 12:00 pm on the Friday before the commencement of trial, the
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+10
+Government and the Defendant shall each email their respective witness lists in Word
+to AH_Chambers@cacd.uscourts.gov. If the Defendant does not intend to call any
+witnesses, the email shall so state.
+5. Jury Instructions
+Jury instructions shall be filed no later than 14 calendar days prior to the Final
+Pretrial Conference. The parties shall make every attempt to agree upon jury
+instructions before submitting proposals to the Court. The Court prefers Ninth Circuit
+model instructions. Counsel shall exchange proposed jury instructions (general and
+special) 28 calendar days prior to the Final Pretrial Conference. Counsel shall
+exchange any objections to the instructions 21 calendar days prior to the Final Pretrial
+Conference. Counsel shall meet and confer with the goal of reaching an agreement on
+one set of joint jury instructions, which shall be filed no later than 14 calendar days
+before the Final Pretrial Conference. If the parties disagree over any proposed jury
+instruction(s), the parties shall file: (i) one set of proposed jury instructions to which
+all parties agree and (ii) one set of disputed jury instructions, which shall include a
+“redline” of any disputed language and the factual or legal basis for each party’s
+respective position as to each disputed instruction. Where appropriate, the disputed
+instructions shall be organized by subject, so that the instructions that address the
+same or similar issues are presented sequentially. The parties shall deliver a courtesy
+copy of these documents pursuant to Local Civil Rule 5-4.5. A final “clean” version
+of the jury instructions, which shall include the text of each instruction (eliminating
+titles, supporting authority, indication of party proposing, etc.), shall be provided to
+the Court on the first day of trial and sent via email in Word to
+AH_Chambers@cacd.uscourts.gov.
+6. Verdict Forms
+The parties shall make every attempt to agree upon a verdict form before
+submitting proposals to the Court. Counsel shall file the proposed verdict form(s) no
+later than 14 calendar days prior to the Final Pretrial Conference. If the parties are
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+11
+unable to agree on a verdict form, the parties shall file one document titled
+“Competing Verdict Forms” which shall include: (i) the parties’ respective proposed
+verdict form; (ii) a “redline” of any disputed language; and (iii) the factual or legal
+basis for each party’s respective position if the entire form is being disputed. The
+parties shall deliver a courtesy copy of these documents pursuant to Local Civil Rule
+5-4.5. A final version of the verdict form shall be provided to the Court on the first
+day of trial and sent via email in Word to AH_Chambers@cacd.uscourts.gov.
+7. Exhibits
+a. Exhibit List
+Counsel shall each prepare an exhibit list in compliance with Local Civil Rule
+16-6. Counsel shall meet and confer at least 21 calendar days before the Final Pretrial
+Conference to discuss and seek to agree, to the extent possible, on issues including
+foundation and admissibility of proposed exhibits by the Government. The exhibit list
+shall comply with Local Civil Rule 16-6.1. The Government shall file its exhibit list
+14 calendar days prior to the Final Pretrial Conference. Counsel shall file a “Notice of
+Disputed Exhibits,” if applicable, which shall set forth the basis for any disputed
+exhibit(s). Counsel shall confer so that there are no duplicate exhibits.
+Not later than 12:00 pm on the Friday before the commencement of trial, the
+Government and the Defendant shall each email their respective exhibit lists in Word
+to AH_Chambers@cacd.uscourts.gov. If the Defendant does not intend to offer any
+exhibits, then the email shall so state.
+b. Exhibit Preparation
+One original (witness copy) and two copies (bench and courtroom deputy
+copies) shall be presented to the Courtroom Deputy Clerk on the first day of trial.
+The exhibits shall be presented in a binder. Each binder shall be clearly labeled on the
+spine to include the case name, party, and volume number. Each party shall use a
+different number sequence and shall comply with Local Civil Rule 26-3.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+12
+c. Voluminous/Security Prone Trial Exhibits/Materials
+Arrangements for bringing voluminous trial materials or exhibits into the
+Courtroom through the Building Vehicle Loading Dock, if required, may be made
+through the Space & Facilities Help Desk at (213) 894-1400. Before contacting Space
+& Facilities for a required security pass, prior approval of delivery time must be
+coordinated with the Courtroom Deputy Clerk. Once approval from the Clerk is
+received, logistical delivery information must be provided to Space & Facilities no
+later than 48 hours prior to the date of arrival to create and issue the required security
+pass. Counsel and messengers attempting to access the building parking and loading
+dock without a required pass will be denied entry. Exhibits such as firearms,
+narcotics, etc., must remain in the custody of a law enforcement agent during the
+pendency of the trial. It shall be the responsibility of the agent to produce any such
+items for the Court, secure them at all times that the Court is not in session, and guard
+them at all times while in the courtroom. The United States Marshals Service shall be
+advised whenever weapons or contraband are to be brought into the courthouse.
+d. Video Exhibits
+Counsel shall seek admission only of the portions of video exhibits played
+before the jury. The Court will not admit extraneous portions of videos and will
+strictly control the admission of any wasteful or cumulative video exhibits under Rule
+403.
+e. Glossary/Notice
+At least one week before trial, the parties must confer and file a glossary of
+terms for the court reporter that includes applicable medical, scientific, or technical
+terms, gang terms, slang, the names and spellings of names likely to be cited, and any
+other case-specific terminology.
+H. ATTORNEY AND PARTY CONDUCT AT TRIAL
+1. Trial Schedule
+The Court will adopt a particular time schedule on a case-by-case basis. In
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+13
+general, the schedule will be either: (i) from 8:30 a.m. to 2:30 p.m. with two or three
+20-minute breaks or (ii) from 9:00 a.m. to 5:00 p.m., with a 15-minute break in both
+the morning and the afternoon, and a one-hour lunch break. This schedule may be
+changed for each trial and during each trial depending on the scheduling needs of
+jurors, witnesses, counsel, or the Court. Defense counsel is responsible for making
+the necessary arrangements with the United States Marshals Service so that any
+defendant who is in custody is provided clothing and/or snacks.
+a. Courtesy Copies
+At the time of trial, counsel shall provide to the Courtroom Deputy Clerk three
+(3) copies of: (i) the witness list in the order in which the witnesses will be called to
+testify; (ii) the witness list in alphabetical order; (iii) a final set of jury instructions;
+(iv) a final version of the verdict form; (v) the exhibit list and exhibits; (vi) proposed
+voir dire questions; and (vii) a statement of the case. To the extent changes are made
+to the jury instructions, verdict form, or exhibit list, a Word version shall be emailed
+immediately to AH_Chambers@cacd.uscourts.gov.
+2. Trial Conduct
+a. Opening Statements, Examining Witnesses and Summation
+At the end of each day, counsel presenting his or her case shall advise opposing
+counsel of the witnesses expected to testify the following day, with an estimate of the
+length of direct examination for each witness. Opposing counsel shall provide an
+estimate of the length of cross-examination for each witness. Cooperation of counsel
+will ensure an efficient trial process. It is the responsibility of all counsel to arrange
+the appearance of witnesses in order to avoid delay.
+Opening statements, examination of witnesses, and summation will be from the
+lectern only. Counsel should not spend an unreasonable amount of time writing out
+words or drawing charts or diagrams. Counsel may do so in advance and explain that
+the item was prepared earlier to save time as ordered by the Court. The Court will
+honor reasonable time estimates for opening and closing presentations to the jury. In
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+14
+jury trials, where a party has more than one lawyer, only one may conduct the direct
+or cross-examination of a given witness.
+b. Punctuality
+The Court expects the parties, counsel, and witnesses to be punctual. Once the
+parties and their counsel are engaged in trial, the trial must be their priority. The
+Court will not delay progress of the trial or inconvenience jurors. If a witness was on
+the stand at the time of a recess or adjournment, the party that called the witness shall
+ensure the witness is back on the stand and ready to proceed as soon as trial resumes.
+The parties must notify the Courtroom Deputy Clerk in advance if any party,
+counsel, or witness requires a reasonable accommodation based on a disability or
+other reason. No presenting party may be without witnesses. If a party’s remaining
+witnesses are not immediately available, thereby causing an unreasonable delay, the
+Court may deem that party to have rested. The Court generally will accommodate
+witnesses by permitting them to be called out of sequence. Counsel should meet and
+confer in advance and make every effort to resolve the matter.
+c. Objections and General Decorum
+When objecting, counsel must stand to state the objection and state only that
+counsel objects and the legal ground for objection. If counsel wishes to argue an
+objection further, counsel must ask for permission to do so; the Court may or may not
+grant a request for conference at sidebar. The Court strongly discourages the
+excessive use of sidebars because this is inefficient. Instead, evidentiary issues should
+be anticipated in advance of trial and should be addressed through motions in limine
+and/or in connection with the rulings on exhibits.
+Counsel must not approach the Courtroom Deputy Clerk or the witness stand
+without permission. When permission is given, counsel shall return to the lectern
+when the task has been completed. Counsel must not engage in questioning a witness
+at the witness stand absent specific approval by the Court.
+Counsel must address all remarks to the Court. Counsel are not to address the
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+15
+Courtroom Deputy Clerk, the Reporter, persons in the audience, or opposing counsel.
+If counsel wishes to speak with opposing counsel, counsel must ask permission to talk
+off the record. Any request for the re-reading of questions or answers shall be
+addressed to the Court, not to the court reporter. Counsel must not make an offer of
+stipulation unless counsel already has conferred with opposing counsel and has reason
+to believe the stipulation will be acceptable. On the first day of trial, counsel shall
+advise the Court of any commitments that may result in counsel’s absence or late
+arrival on any day of the trial.
+Dated: September 25, 2026 _______________________________________
+HON. ANNE HWANG
+UNITED STATES DISTRICT JUDGE

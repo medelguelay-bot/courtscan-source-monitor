@@ -1,0 +1,28 @@
+STANDING ORDER GOVERNING THE USE
+OF GENERATIVE ARTIFICIAL INTELLIGENCE
+With increasing frequency, litigants are relying on text-generation software powered
+by Artificial Intelligence (“AI”) to prepare motions and other papers. This has prompted
+concern regarding the reliability and accuracy of filings in this Court. These generative AI
+platforms include, but are not limited to, ChatGPT, Google Gemini, and Harvey.ai.
+Rule 11(b) of the Federal Rules of Civil Procedure provides that by submitting a
+motion, brief, pleading or other filing to the Court, an attorney or self-represented litigant
+certifies that their claims, defenses, and other legal contentions are warranted by existing law
+and that their factual contentions find evidentiary support. Notwithstanding this rule, litigants
+in this Court have submitted filings that include citations to non-existent cases or arguments
+and citations not warranted by existing law.
+Thus, to guard against the use of generative AI in a manner that contravenes Rule 11,
+it is hereby ORDERED that any party, including any self-represented litigant, who uses
+generative AI to generate any portion of a motion, brief, pleading or other filing must attach
+to the filing a separate declaration disclosing the use of generative AI. In this declaration, the
+attorney or self-represented litigant must certify that he or she has reviewed therelevant source
+material and has verified that all submissions to the Court are accurate, and that the individual
+has otherwise complied with his or her Rule 11 obligations. This declaration should be
+captioned: “Disclosure and Verification of Use of Generative AI.”
+Any attomey or self-represented litigant who signs a motion, brief, pleading or other
+filing submitted to the Court will be held responsible for the contents of that filing under Rule
+11, regardless of whether that individual used generative AI to generate any portion of that
+filing. Failure to comply with Rule 11(b) may result in sanctions. See Fed. R. Civ. P. 11(c).
+IT IS SO ORDERED.
+August 20, 2025
+eff . Hopkins
+United States District Judge

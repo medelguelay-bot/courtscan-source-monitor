@@ -1,0 +1,1148 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF CALIFORNIA
+Petitioner(s),
+v.
+Respondent(s).
+Case No.
+INITIAL STANDING ORDER
+FOR CIVIL CASES ASSIGNED
+TO JUDGE MARK C. SCARSI
+This case has been assigned to the calendar of Judge Mark C. Scarsi. Both the
+Court and the parties bear responsibility for the progress of this litigation in federal
+court. To "secure the just, speedy, and ine xpensive determination" of this case,
+Fed. R. Civ. P. 1, all counsel and unrepresented litigants must become familiar with
+the Federal Rules of Civil Procedure, the Local Rules of the Central District of
+California, the Court’s standing orders, and Judge Scarsi’s webpage,
+https://apps.cacd.uscourts.gov/Jps/honorable-mark-c-scarsi,
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+1. Service of the Complaint
+The plaintiff shall promptly serve the complaint in accordance with Federal
+Rule of Civil Procedure 4 and file proof of service pursuant to Local Rule 4( l).
+Rule 4(m) requires the summons and complaint to be served within 90 days. The
+Court expects service to be completed as s oon as reasonably practicable. The Court
+will require plaintiff to show good cause to extend the service deadline beyond 90
+days.
+2. Presence of Lead Counsel
+Lead trial counsel shall attend any motion hearing and any scheduling, pretrial,
+or settlement conference set by the Court. The Court does not permit special
+appearances; only counsel of record may appear at any proceeding.
+The Court expects counsel to appear in person at any hearing. The Court does
+not permit remote appearances. A party whose lead counsel cannot appear at a
+hearing for good cause may request leave to appear by non-lead counsel, an order
+advancing the hearing, or an order continuing the hearing no longer than one week.
+Such a request must be made by the Wednesday before the subject hearing and be
+supported by a declaration demonstrating good cause.
+3. Ex Parte Applications
+Ex parte applications are solely for extraordinary relief and are rarely granted.
+See Mission Power Eng’g Co. v. Cont’l Cas. Co. , 883 F. Supp. 488, 492 (C.D. Cal.
+1995). (“Lawyers must understand that filing an ex parte motion ...i st h ef o r e n s i c
+equivalent of standing in a crowded theater and shouting, ‘Fire!’ There had better
+be a fire.”). Such applications must be supported by “evidence... that the moving
+party’s case will be irreparably prejudiced if the underlying motion is heard
+according to regularly noticed motion procedures,” and a showing “that the
+moving party is without fault in creating the crisis that requires ex parte relief, or
+that the crisis occurred as a result of excusable neglect.” Id. at 492. Ex parte
+applications that fail to conform to Local Rule 7-19, including a statement of
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+opposing counsel’s position, will not be considered except on a specific showing
+of good cause.
+Counsel for the applicant must provide advance notice of the application by
+telephone and email to all other parties. In addition to the information required
+by Local Rule 7-19.1, the notice must advise the other parties of the anticipated
+deadline to oppose the application. The applicant must serve the application by
+facsimile, email, or personal service, even if electronic service is effected under
+Local Rule 5-3.2.1.
+Oppositions to ex parte applications must be filed within 24 hours of the filing
+of the application, subject to Rule 6(a)(2). If an opposing party does not intend to
+oppose the ex parte application, counsel must inform the Courtroom Deputy Clerk
+by telephone or email as soon as possible. No replies in support of ex parte
+applications are authorized.
+4. Continuances or Extensions of Time
+This Court is committed to adhering to all scheduled dates. In general, this
+makes the judicial process more efficie nt and less costly. Changes in dates are
+sharply disfavored. The case schedule set by the Court, including the trial date, is
+firm and will rarely be changed. Therefore, any request, whether by application or
+stipulation, to continue the date of any matter before this Court must be supported
+by good cause demonstrating why the change in the date is essential. Without such
+compelling factual support, requests to continue dates set by this Court will not be
+approved. Counsel requesting a continuance m ust electronically file any application
+or stipulation with a proposed order and a d etailed declaration of counsel providing
+the grounds for the requested continuance or extension of time. The Court will deny
+any request that fails to comply with the Local Rules and this Order. Stipulations
+and requests to amend the case schedule become effective only if, and when, this
+Court approves the stipulation as presented to, or modified by, the Court. The Court
+acts promptly to resolve requests to modify the case schedule, but processing delays
+3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+of up to a week are not unusual; therefore, counsel shall not submit requests for a
+schedule modification fewer than seven calendar days prior to the earliest date
+subject to the request. The Court presu mes that there is no good cause to continue
+any deadline that will pass within a week of a continuance request or has already
+passed.
+5. TROs and Injunctions
+Parties seeking emergency or provisional relief shall comply with Federal
+Rule of Civil Procedure 65 and Local Rule 65-1. The application shall include a
+proof of service which complies with the Court’s requirements for ex parte
+applications or a separate request for service to be excused. The Court will not
+rule on any application for such relief for at least 24 hours after the party subject
+to the requested order has been served unless service is excused. Counsel shall call
+the Courtroom Deputy Clerk no later than 30 minutes after filing the documents.
+6. Cases Removed from State Court
+All documents filed in state court, including documents appended to the
+complaint, answers, and motions, must be re-filed in this Court as a supplement to
+the notice of removal. See 28 U.S.C. § 1447(a)-(b). If the defendant has not yet
+answered or filed a motion in response to the complaint, the answer or responsive
+pleading filed in this Court must comply with the Federal Rules of Civil Procedure
+and the Local Rules. If, before the case was removed, a motion or demurrer in
+response to the complaint was pending in state court, it must be re-noticed in this
+Court in accordance with Local Rule 6-1 and Local Rule 7. Counsel shall file with
+their first appearance a notice of interested parties in accordance with Local Rule
+7.1-1.
+If an action is removed to this Court t hat contains a form pleading, i.e., a
+pleading in which boxes are checked, the party or parties utilizing the form
+pleading must file an appropriate pleading with this Court within 30 days of receipt
+of the Notice of Removal. The appropriate pleading referred to must comply with
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+the requirements of Federal Rules of Civil Procedure 7, 7.1, 8, 9, 10, and 11.
+7. Status of Fictitiously Named Defendants
+This Court intends to adhere to the following procedures where a matter is
+removed to this Court on diversity grounds with fictitiously named defendants. See
+28 U.S.C. §§ 1441, 1447.
+Plaintiff is expected to ascertain the identity of, and serve, any fictitiously
+named defendant, within 90 days of the removal of the action to this Court.
+If plaintiff believes (by reason of th e necessity for discovery or otherwise)
+that fictitiously named defendants cannot be identified within the 90-day period,
+a ne xp a r t ea p p l i c a t i o nr e q u e s t i n gp e r m i s s i o nt oe x t e n dt h a tp e r i o dt oe f f e c t u a t e
+service may be filed with this Court. Such an application shall state the specific
+reasons for the requested extension of time, including a description of all efforts
+made up to that time to identify and serve such defendants. The ex parte
+application shall be served upon all appearing parties, and shall state that
+appearing parties may file written com ments within seven days of filings of the
+ex parte application.
+If plaintiff wants to substitute a defendant for one of the fictitiously named
+defendants, plaintiff shall first seek the consent of counsel for all defendants (and
+counsel for the fictitiously named party , if that party has separate counsel). If
+consent is withheld or denied, plaintiff should file a motion on regular notice. The
+motion and opposition should address whether the matter should thereafter be
+remanded to the Superior Court if complete diversity of citizenship would no
+longer be present as a result of the addition of the new party. See U.S.C. § 1447(c)
+and (d).
+8. Discovery
+a. Discovery Matters Referred to the Magistrate Judge
+All discovery matters, including all d iscovery motions, are referred to the
+assigned United States Magistrate Judge. T he Magistrate Judge’s initials follow the
+5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+District Judge’s initials next to the case number on this Order. All discovery-related
+documents must include the words "DISCOVERY MATTER" in the caption to
+ensure proper routing. Counsel are direct ed to contact the Magistrate Judge’s
+Courtroom Deputy Clerk to schedule matters for hearing.
+In accordance with 28 U.S.C. § 636(b)(1)(A), the Court will not reverse any
+order of the Magistrate Judge unless it has been shown that the Magistrate Judge’s
+order is clearly erroneous or contrary to law.
+Any party may file and serve a motion for review and reconsideration before
+this Court. See Fed. R. Civ. P. 72(a). The moving party must file and serve the
+motion within 14 days of service of a wr itten ruling or within 14 days of an oral
+ruling that the Magistrate Judge states will not be followed by a written ruling.
+The motion must specify which portions of the ruling are clearly erroneous or
+contrary to law and support the conten tion with points and authorities.
+b. Compliance with Federal Rule of Civil Procedure 26(a)
+Unless there is a likelihood that, upon motion by a party, the Court would
+order that any or all discovery is premature, counsel should begin to conduct
+discovery actively before the Scheduling Conference. Discovery is not stayed prior
+to the Scheduling Conference or after dates have been set unless otherwise ordered
+by the Court. At the very least, the parties shall comply fully with the letter and
+spirit of Rule 26(a) and thereby obtain and produce most of what would be
+produced in the early stage of discovery.
+9. Motions
+a. Time for Filing and Hearing Motions
+Motions shall be filed in accordance with Local Rule 6-1 and Local Rule 7.
+Except for motions set for hearing at a pretrial conference, parties must set motions
+for hearing on a Monday at 9:00 a.m. The Court does not hear motions on national
+holidays or closed motion dates, as maintained on the Court’s webpage. It is not
+necessary to clear a hearing date with the Courtroom Deputy Clerk prior to the
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+filing of a motion.
+b. Briefing Motions
+Please read this section carefully. T his Court’s schedule for briefing
+motions differs significantly from the briefing schedule set by the Local Rules.
+Any motion that is filed and set for a hearing to be held fewer than 35 days
+from the date of the filing of the motion shall be briefed pursuant to Local Rules
+7-9 and 7-10. Otherwise, motions shall be briefed according to the following
+schedule:
+Any motion that is filed and set for a hearing between 35 and 70 days from
+the date of the filing of the motion: (i) any opposition must be filed no later than
+14 days after the filing of the motion; and (ii) any reply must be filed no later than
+21 days after the filing of the motion.
+Any motion that is filed and set for a hearing more than 70 days from the
+date of the filing of the motion: (i) any opposition must be filed no later than 21
+days after the filing of the motion; and (ii) any reply must be filed no later than 35
+days after the filing of the motion.
+c. Prefiling Requirement to Meet and Confer
+Counsel must comply with Local Rule 7-3, which requires counsel to engage
+in a prefiling conference "to discuss thor oughly... the substance of the contemplated
+motion and any potential resolution," and to file a declaration confirming
+compliance. In addition to the requirements stated in Local Rule 7-3, the
+declaration must state whether the conf erence took place in person, by telephone,
+or via video conference. Counsel should discuss the issues to a sufficient degree
+that if a motion is still necessary, the briefing may be directed to those substantive
+issues requiring resolution by the Court. Counsel should resolve minor procedural
+or other non-substantive matters during the conference, including the prospective
+hearing date. The in propria persona status of one or more parties does not alter
+this requirement. Any motion that fails to comply with Local Rule 7-3 will be
+7
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+denied.
+d. Length and Format of Motion Papers
+All motion papers shall comply with Local Rule 11-3. Only in rare instances
+and for good cause shown will the Court grant an application for relief from the
+brief length limitations of Local Rule 11-6. Reply briefs may not exceed 3,000
+words, excluding indices and exhibits. A handwritten or typewritten reply brief
+may not exceed 10 pages, excluding indi ces and exhibits. No supplemental brief
+or surreply shall be filed without prior leave of Court.
+Counsel shall adhere to Local Rule 5-4.3.1 with respect to the conversion of
+all documents to a PDF so that when a document is filed, it is in the proper size
+and format that is text-searchable. Further, all documents shall be filed in a format
+so that text can be selected, copied, and pasted directly from the document.
+Electronic nonpaper exhibits lodged under Local Rule 5-4.2(b)(1) (e.g., audio
+and video files) must be provided on a USB flash drive or by sending a link to an
+Internet file hosting service (e.g., Dropbox) by email to
+mcs_chambers@cacd.uscourts.gov. Exhibits provided on a CD or DVD will not
+be considered and will be destroyed unless the CD or DVD itself is a nonpaper
+exhibit subject to Local Rule 11-5.1.
+e. Chambers Copies
+Chambers copies are not required. Unless subject to Local Rule 5-4.2, paper
+copies of any documents delivered to the Court will be refused or destroyed and not
+considered.
+f. Citations of Case Law
+Citations of case law must identify not only the case cited, but also the specific
+page referenced. For example, if a quotation is presented, the associated page
+citation shall be provided. Similarly, if a case is cited in support of a proposition
+based on language in the opinion, the pages on which such language appears shall
+be provided. Bluebook style is preferred.
+8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+g. Citations of Other Sources
+Statutory references should identif y with specificity the sections and
+subsections referenced. Citations of treatis es, manuals, and other materials should
+include the volume, section, and pages that are referenced. Citations of prior filings
+in the same matter shall include the docket entry number, section, and pages that
+are referenced. Bluebook style is preferred.
+h. Oral Argument
+If the Court deems a matter appropriate for decision without oral argument,
+the Court will notify the parties in advance. C.D. Cal. R. 7-15. Requests to conduct
+or waive a hearing may not be honored.
+10. Specific Motions
+a. Rule 12 Motions
+Many motions to dismiss or to strike can be avoided if the parties confer in
+good faith (as required by Local Rule 7-3), e specially where perceived defects in a
+complaint, answer, or counterclaim could be corrected by amendment. See Chang
+v. Chen, 80 F. 3d 1293, 1296 (9th Cir. 1996) (where a motion to dismiss is granted,
+a district court should provide leave to amend unless it is clear that the complaint
+could not be saved by any amendment). These principles require that plaintiff’s
+counsel carefully evaluate defendant’s contentions as to the deficiencies in the
+complaint. In most instances, the moving party should agree to any amendment
+that would cure the defect.
+This Court generally denies any Rule 12(f) motion to strike unless the movant
+can demonstrate it will suffer prej udice absent the requested relief. In re Honest
+Co., Inc. Sec. Litig ., 343 F.R.D. 147, 151 (C.D. Cal. 2022) (Scarsi, J.). A
+plaintiff’s prayer for a remedy precluded as a matter of law is not the proper target
+of a Rule 12 motion. See Whittlestone, Inc. v. Handi-Craft Co ., 618 F.3d 970,
+974-75 (9th Cir. 2010); Saroya v. Univ. of Pac. , 503 F. Supp. 3d 986, 1000 (N.D.
+Cal. 2020).
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+If a motion to dismiss is granted with leave to amend, counsel shall attach as
+an appendix to an amended pleading a "redline" version of the amended pleading
+showing all additions and deletions of material.
+b. Motions for Leave to Amend
+All motions for leave to amend pleadings shall: (1) state the effect of the
+amendment and (2) identify the page and line numbers and wording of any
+proposed change or addition of material. The proposed amended pleading shall
+be serially numbered to differentiate it from previously amended pleadings.
+In addition to the requirements of Local Rule 15, counsel shall attach as an
+appendix to the moving papers a "redline" version of the proposed amended
+pleading showing all additions and deletions of material.
+c. Motions for Summary Judgment
+Parties need not wait until the motion cut-off date to bring a motion for
+summary judgment or partial summary judgment. A party moving for summary
+judgment must file the motion at least 35 days before the hearing. The parties
+should prepare papers in a fashion that will assist the Court in locating the
+evidence with respect to the facts (e.g., generous use of tabs, tables of contents,
+headings, indices, etc.).
+i. Separate Statements
+The parties are to comply precisely with Local Rules 56-1 through 56-3
+governing Statements of Uncontroverted F acts and Statements of Genuine Disputes.
+If the opposing party submits that the C ourt should consider facts that bear on,
+or relate to, the issues raised by the movant but are not presented in the moving
+party’s Statement of Uncontroverted Fa cts or the opposing party’s Statement of
+Genuine Disputes, the opposing party may submit a Statement of Additional
+Uncontroverted Facts, which must be filed as a document separate from the
+Statement of Genuine Disputes and must follow the format described in Local Rule
+56-1 with respect to the moving party’s Sta tement of Uncontroverted Facts. The
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+nonmoving party’s additional facts must be numbered sequentially to follow the
+last numbered fact presented by the moving party. With its reply papers, the
+moving party may submit a Statement of A dditional Genuine Disputes following
+the format prescribed by Local Rule 56-2 with respect to the nonmoving party’s
+Statement of Genuine Disputes. Absent a court order, no response to the
+Statement of Additional Genuine Disputes is authorized.
+ii. Supporting Evidence
+No party shall submit evidence other than the specific items of evidence or
+testimony necessary to support or controve rt a proposed statement of undisputed
+fact. For example, entire deposition tra nscripts, entire sets of interrogatory
+responses, and documents that do not specifically support or controvert material in
+the separate statement shall not be submitted in support of or opposition to a
+motion for summary judgment.
+Evidence in support of, or in opposition to, a motion should be submitted
+either by way of stipulation or as exhibits to declarations sufficient to authenticate
+the proffered evidence and should not be attached to the memorandum of points
+and authorities. Documentary evidence as to which there is no stipulation regarding
+foundation must be accompanied by the testimony, either by declaration or
+properly authenticated deposition transcript, or a witness who can establish
+authenticity.
+The parties shall ensure that electronically filed copies of evidence in support
+of, or in opposition to, a motion for summary judgment are in the proper format.
+Thus, all documents must be text-searchable and have selectable text that may be
+copied and pasted directly from the filed document.
+Additionally, testimony cited in a st atement of uncontroverted facts,
+statement of genuine material facts, or st atement of additional material facts shall
+be highlighted and/or underlined.
+\\\
+11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+iii. Objections to Evidence
+Evidentiary objections to a declaration submitted in connection with a motion
+or other matter shall be made in writing and served and filed at the same time as,
+but separately from, the opposition or reply papers. If a party disputes a fact based
+in whole or in part of an evidentiary objection, the ground of the objection should
+be succinctly stated in a separate statement of evidentiary objections in a
+three-column format ( see Exhibit A):
+The left column should include the relevant portions of any declaration or
+deposition, which shall include the highlighted, underlined, and/or bracketed
+portions that are being objected to (including page and line number, if applicable).
+Each objection shall be numbered and located within the copy of the declaration.
+The middle column should set forth a conc ise objection (e.g., hearsay, lacks
+foundation, etc.) with a citation of the Federal Rules of Evidence or, where
+applicable, a case citation.
+The right column should provide space for the Court’s entry of its ruling on
+the objection.
+A proposed order shall be filed and attached to the evidentiary objections as
+a separate document consistent with Loca l Rule 52-4.1 and either uploaded through
+the CM/ECF system or emailed directly to mcs_chambers@cacd.uscourts.gov.
+Counsel shall adhere to this format for any evidentiary objections that are
+submitted to the Court for consideration.
+d. Motions for Attorney’s Fees
+Motions for attorney’s fees shall be filed and set for hearing according to
+Local Rule 6-1 and this Order. Any motion or request for attorney’s fees shall
+attach two summaries, in table form, of the hours worked by and billing rate of
+each attorney with title (i.e., partner, local counsel, associate, etc.) ( see Exhibit B).
+The first table shall include a summary of the hours worked by each attorney,
+organized by task (i.e., discovery, motion to dismiss, motion for summary
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+judgment). If the hourly rate charged by any individual attorney changed while the
+case was ongoing, the party shall provide separate calculation for the total number
+of hours that the attorney spent in connection with each task at each hourly rate.
+The second table shall include a summary of the hours worked by each
+attorney, organized by attorney. This table shall list all of the tasks on which the
+attorney worked, the hours worked on each task, and the hourly rate of each
+attorney.
+Any table as set forth above shall be attached to the motion and electronically
+filed. A copy of the table shall be emailed to mcs_chambers@cacd.uscourts.gov
+in Microsoft Excel format and have all restrictions removed so that the spreadsheet
+can be edited.
+e. Motions for Preliminary and Final Approval of Class Action
+Settlement
+Parties submitting a motion for preliminary or final approval of a class
+settlement shall include a spreadsheet supporting any proposed award of attorney’s
+fees. The spreadsheet shall include an es timate of any future attorney’s fees for
+which compensation will be sought, the normal hourly rate of all counsel for whom
+entries appear on the spreadsheet, the support for such hourly rate(s), and an
+explanation of the basis of any service e nhancement award for lead plaintiff(s),
+including the hours worked and activities performed by such lead plaintiff(s). A
+copy of the table shall be emailed to mcs_chambers@cacd.uscourts.gov in
+Microsoft Excel format and have all restrictions removed so that the spreadsheet
+can be edited.
+f. Daubert Motions
+A motion to exclude expert testimony may be filed as a regularly noticed
+motion or as a motion in limine to be heard at the final pretrial conference. If the
+expert subject to the motion prepared a report, the movant must file a copy of
+the report with the motion.
+13
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+11. Under Seal Documents
+Counsel shall comply with Local Rule 79-5. All applications must provide
+the reason(s) why the parties’ interest in maintaining the confidentiality of the
+document(s) outweighs the public’s right of access to materials submitted in
+connection with a judicial proceeding. Counsel are ordered to meet and confer in
+person or by telephone at least seven calendar days prior to the filing of an
+application in which the basis for the requested sealing is stated to determine if they
+can agree on the proposed under seal filing. No later than two calendar days after
+the meet and confer process has concluded, the non-proposing party shall confirm
+whether it agrees to having such information designated as confidential or whether
+it opposes an under seal filing. Any application for under seal filing, whether or
+not opposed, shall contain the dates and method by which the parties met and
+conferred. If such information is not provided, the application will be denied
+without prejudice to an amended application being filed that complies with the
+foregoing terms.
+The parties’ obligations for submitting sealing applications, as set forth in
+Local Rule 79-5.2.2, are:
+1. The application for leave to file under seal shall be filed on the
+public docket and shall attach a proposed order pursuant to Local
+Rule 5-4.4.1 and 5-4.4.2. Any declaration that supports the
+application shall also be attached to the application unless it
+contains confidential information. The declaration shall be filed
+under seal as its own docket entry if it contains confidential
+information.
+2. The unredacted version of all documents sought to be sealed shall
+be filed provisionally under seal. The documents may be attached
+to the declaration that supports the application, if the declaration
+is sealed and is filed as its own docket entry. Otherwise, the
+14
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+documents should be filed separa tely under provisional seal. The
+title shall include "Unredacted" or "Sealed" as the first word of
+the title of the document. Any provisionally sealed document
+must clearly mark the information that is confidential or
+privileged via highlighting in color and/or using brackets.
+3. The Court will review the submitted documents and determine
+whether the documents can be sealed. If the application is
+granted, counsel shall file:
+i. The unredacted version of the entire document as its own
+docket entry. The title shall include "Unredacted" or
+"Sealed" as the first word of the title of the document.
+Any information that has been redacted or omitted from
+the public filing must be clearly marked via highlighting
+in color and/or using brackets.
+ii. The redacted version of the entire document as its own
+docket entry. Unless otherwise stated in the order
+granting the application, a redacted version is required
+of all sealed documents. The title shall include
+"Redacted" as the first word of the title of the document.
+Any information that is confidential or privileged must
+be blacked out or a page shall be inserted with the title
+of the document that indicates that the entire document
+is sealed.
+Closely related materials filed at the same time where some are proposed to be
+filed under seal and others will not be sealed shall be considered as a single
+document and filed as a single docket entry containing multiple attachments. For
+example, if certain exhibits to a declaration are to be filed under seal, even if other
+exhibits or the declaration are not, the en tire document for which permission to seal
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+should be sought is the declaration and all exhibits. The docket shall therefore
+include: (1) One unredacted, sealed docke t entry containing the declaration with
+all exhibits, including sealed exhibits, filed as an attachment to the declaration; and
+(2) a separate, redacted docket entry containing the declaration with all exhibits,
+including redacted exhibits, filed as an attachment to the declaration.
+12. Initial Pleadings
+Counsel shall comply with Local Rule 3 when filing initial pleadings. All
+initiating pleadings, including third- party complaints, amended complaints,
+complaints in intervention, counterclaims, and crossclaims, shall be filed as a
+separate document. None shall be combined with an answer.
+13. Amended Pleadings
+Every amended pleading shall be seri ally numbered to differentiate the
+pleading from prior pleadings, e.g. First Amended Complaint, Second Amended
+Counterclaim, Third Amended Crosscl aim, etc. Counsel shall attach as an
+appendix to all amended pleadings a "redline" version of the amended pleading
+showing all additions and deletions of material from the most recent prior pleading.
+14. Settlements
+If the parties reach a settlement in principle, the parties must file a notice of
+settlement to the docket as soon as possible. So long as a notice of settlement is
+filed promptly, the parties need not se parately contact the Courtroom Deputy
+Clerk to report the settlement under Local Rules 16-15.7 and 40-2 unless a hearing
+or trial is scheduled within the following seven days or the Court has taken a
+motion under submission. The Court expects the parties to complete the settlement
+and either voluntarily dismiss the case or stipulate to judgment within 45 days of
+filing a notice of settlement. A voluntary dis missal that complies with Rule 41(a)(1)
+does not require a court order. The Court g enerally does not retain jurisdiction
+over settlement enforcement. Kokkonen v. Guardian Life Ins. Co. of Am. , 511
+U.S. 375, 382 (1994).
+16
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+15. Use of Generative Artificial Intelligence
+Any party to this proceeding that uses a generative artificial intelligence
+platform (e.g., ChatGPT, Claude, Gemini, Copilot, Harvey, Protégé, and
+CoCounsel) (“Generative AI”) in connection with a filing in this matter must
+attach to the subject filing a separate decla ration disclosing the use of Generative
+AI and certifying that the filer, in the exercise of the filer’s independent legal
+judgment, has reviewed and verified the content of the filing as accurate and in
+compliance with Federal Rule of Civil Procedure 11. The declaration must identify
+which, if any, portion of the filing incor porates Generative AI outputs. The Court
+warns that a party who presents to the Court a pleading, written motion, or other
+paper incorporating inaccurate or undecl ared Generative AI outputs may be subject
+to sanctions without further warning.
+16. Pro Se/Self-Represented Parties
+Pro se/self-represented parties may continue to present all documents to the
+Clerk for filing in paper format pursuant to Local Rule 5-4.2. However, the Court
+will also permit self-represented parties to present all documents to the Clerk for
+filing by email so long as they comply with the following requirements:
+(a) The document shall be prepared so that it complies with the
+requirements set forth in Local Rule 11-3, i.e., legibility, font, paper, pagination,
+spacing, title page, page limits, etc.
+(b) The document shall be emailed as a PDF document to
+mcs_chambers@cacd.uscourts.gov no later than the date it is due. The Court will
+deem the date the document is emailed as the filed or lodged date. The subject line
+of the email shall contain: (i) the case number, (ii) case name, and (iii) "Pro Se
+Filing" to ensure it will be filed/lodged properly.
+Pro se/self-represented parties may use the chambers email solely to present
+documents for filing. The chambers email is not to be used in any way to
+communicate with the Judge or Clerk. All par ties, including pro se/self-represented
+17
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+parties, shall refrain from writing letters to the Court, sending email messages,
+making telephone calls to chambers, or otherwise communicating with the Court
+unless opposing counsel is present. All matters must be called to the Court’s
+attention by appropriate application or motion C.D. Cal. R. 83-2.5.
+The Court expects pro se/self-represented parties to comply with the Local
+Rules and the rules set by this Court. In this and other court orders, references to
+“attorney” or “counsel” apply to pro se litigants unless the context requires
+otherwise. Id. R. 1-3. The Court has a Pro Se Clinic available to assist those
+persons who do not have an attorney to represent them. Clinics are located in
+Los Angeles, Riverside, and Santa Ana. More information can be obtained by
+calling (213) 385-2977, ext. 270, or visiting the Court’s website at
+http://prose.cacd.uscourts.gov/.
+17. Notice of This Order/Electronically Filed Documents
+If this case was initiated in this Court, plaintiff(s) shall immediately serve this
+Order on all parties, including any new parties to the action. If this case was
+removed from state court, the removing defendant(s) shall serve this Order on all
+other parties.
+Any document that is electronically filed shall be served by mail that same
+day on any party or attorney who is not permitted or has not consented to electronic
+service, with a proof of service to be filed within 24 hours.
+IT IS SO ORDERED.
+Dated:
+HONORABLE MARK C. SCARSI
+UNITED STATES DISTRICT JUDGE
+18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+EXHIBIT A: FORMAT FOR EVIDENTIARY OBJECTIONS
+Declaration/Testimony of _______ Objection Ruling
+Example 1: Entire Declaration of John
+Smith
+Start of Deposition.......................................
+[1. Language subject to objection]
+.......................................................................
+........................................................................
+.........................................................................
+[2. Language subject to objection]
+........................................................................
+........................................................................
+........................................................................
+[3. Language subject to objection]
+.......................................................................
+.......................................................................
+.......................................................................
+1. E.g., Hearsay, cite.
+2. E.g., Lacks
+foundation, cite.
+3. E.g., Hearsay, cite.
+1. Sustained /
+Overruled
+2. Sustained /
+Overruled
+3. Sustained /
+Overruled
+19
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+EXHIBIT B: FORMAT FOR ATTORNEY’S FEES SUMMARY CHARTS
+Table 1
+Task 1: Motion to Dismiss
+Attorney Rate Hours Fee
+Attorney 1
+(position)
+$XXX/hour Total hours spent by
+Attorney 1 on Task 1
+$XXX
+Attorney 1
+(position)
+$XXX/hour Total hours spent by
+Attorney 1 on Task 1
+$XXX
+Fee Request for Task 1 Task 1 Sum Task 1 Sum
+Task 2: Motion for Summary Judgment
+Attorney 1
+(position)
+$XXX/hour Total hours spent by
+Attorney 1 on Task 1
+$XXX
+Attorney 1
+(position)
+$XXX/hour Total hours spent by
+Attorney 1 on Task 1
+$XXX
+Fee Request for Task 1 Task 1 Sum Task 1 Sum
+Table 2
+Attorney Rate HOURS BY TASK TOTALS
+Attorney 1
+(position)
+Task Total Hours
+Spent by
+Attorney on
+Task
+Hours:
+Amount:$
+i.e., Motion to
+Dismiss
+Discovery
+Deposition
+Task 4
+Task 5 (etc.)
+Attorney 1
+(position)
+Task Total Hours
+Spent by
+Attorney on
+Task
+Hours:
+Amount:$
+Total Hours:
+Amount:$
+20

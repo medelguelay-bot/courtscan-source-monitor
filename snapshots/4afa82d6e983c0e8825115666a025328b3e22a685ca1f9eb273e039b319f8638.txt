@@ -1,0 +1,25 @@
+UNITED STATES BANKRUPTCY COURT
+SOUTHERN DISTRICT OF CALIFORNIA
+In re:
+FILINGS USING GENERATIVE
+ARTIFICIAL INTELLIGENCE
+BANKRUPTCY GENERAL
+ORDER NO. 210
+Effective January 1, 2026, any pleading, motion, or paper (whether moving, opposing, or
+in reply) that the filer prepared in any aspect by using a generative artificial intelligence (“AI”)
+program must be accompanied by an attestation or certification signed by the filer:
+. Identifying the AI program used; and
+° Certifying that the filer checked the document for factual and legal accuracy using print
+reporters, traditional legal databases, or other reliable means.
+This General Order applies to all filers — whether attorneys or self-represented litigants.
+Rule 9011 of the Federal Rules of Bankruptcy Procedure continues to apply to all
+documents filed with the Court. Furthermore, the Court construes each filing as a certification by
+the person signing a filed document of compliance with Rule 9011(b).
+IT IS SO ORDERED.
+Dated: November 18, 2025
+CLIN BG.
+CHRISTOPHER B. LATHAM
+Chief Judge, U.S. Bankruptcy Court
+Rea
+\BARRETT MARUM
+Judge, U.S. Bankruptcy Court

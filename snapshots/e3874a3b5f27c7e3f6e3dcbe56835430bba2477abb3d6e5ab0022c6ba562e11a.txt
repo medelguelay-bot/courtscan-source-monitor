@@ -1,0 +1,540 @@
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+STANDING ORDER FOR CIVIL CASES BEFORE JUDGE VINCE CHHABRIA
+TABLE OF KEY DEADLINES ........................................................................................................... 2
+CONFORMITY WITH RULES ........................................................................................................... 2
+EMERGENCY APPLICATIONS ......................................................................................................... 2
+SCHEDULING ..................................................................................................................................... 3
+CASE MANAGEMENT CONFERENCES ......................................................................................... 4
+DISCOVERY ........................................................................................................................................ 5
+FILING AND COURTESY COPIES ................................................................................................... 6
+PROPOSED ORDERS.......................................................................................................................... 8
+MOTIONS TO SEAL ........................................................................................................................... 8
+BRIEFS ............................................................................................................................................... 10
+AMICUS BRIEFS .............................................................................................................................. 10
+SUMMARY JUDGMENT .................................................................................................................. 11
+DEFAULT JUDGMENT .................................................................................................................... 12
+HEARINGS AND TENTATIVE RULINGS ..................................................................................... 12
+CLASS ACTIONS .............................................................................................................................. 13
+PATENT CASES ................................................................................................................................ 19
+SOCIAL SECURITY CASES ............................................................................................................ 20
+HABEAS CASES ............................................................................................................................... 20
+ERISA CASES .................................................................................................................................... 21
+WAGE AND HOUR CASES ............................................................................................................. 21
+SECTION 1983 CASES...................................................................................................................... 22
+2
+TABLE OF KEY DEADLINES
+DEADLINE DATE
+Joint discovery letters As soon as practicable, but no later than 7
+days after applicable discovery deadline
+Cross-motions for summary judgment Because the Court requires the parties to file
+4 sequential briefs, typically the parties must
+file the first brief no later than 7 weeks before
+the scheduled hearing date. The final brief
+should be filed no later than 14 days before
+the scheduled hearing date.
+Request for extension of any case
+management deadlines
+72 hours prior to the deadline party wishes to
+extend
+Request to reschedule a case management
+conference
+At least 72 hours prior to the case
+management conference
+CONFORMITY WITH RULES
+1. The parties shall follow the Federal Rules of Civil Procedure, the Civil Local
+Rules, and the General Orders of the Northern District of California, except as superseded by this
+Court’s standing orders.
+EMERGENCY APPLICATIONS
+2. When a party files an application for a temporary restraining order or other
+emergency relief, the opposing party should not file a response unless instructed to do so by the
+Court. The Court will almost never grant such an application without requesting a response from
+the opposing party.
+3
+3. If the party seeking emergency relief does not show that it made every reasonable
+effort to notify the opposing party and the opposing party’s counsel, at the earliest possible time,
+of its intent to seek emergency relief, the relief will not be granted.
+4. Emergency applications do not have to comply with Judge Chhabria’s default 15-
+page limit for briefs.
+SCHEDULING
+5. For the latest information on when and where hearings and case management
+conferences are held, check Judge Chhabria’s webpage.
+6. Counsel need not reserve hearing dates but should check Judge Chhabria’s
+calendar on the Court’s website to make sure the desired date is not blocked. The parties may not
+specially set any matter without leave of the Court.
+7. Counsel for the moving party should confer with opposing counsel about a
+mutually convenient hearing date before noticing any motion.
+8. No changes to the Court’s schedule can be made except by order of the Court.
+Any motion to continue a hearing or case management conference must be made no later than 72
+hours prior to the scheduled appearance.
+9. Any request for an extension of a deadline (other than an extension that the rules
+allow the parties to arrange between themselves without a court order) must be filed no later than
+72 hours prior to the deadline.
+10. When the parties request an extension of time, the parties must submit a proposed
+order listing all future deadlines and the proposed extensions. The parties must also submit,
+alongside any stipulation or administrative motion to change deadlines, a chart that includes the
+currently scheduled deadlines and the parties’ proposed deadlines. If the parties disagree on what
+4
+the new deadlines should be, the chart must reflect both parties’ proposals. The parties must also
+state how many times the parties have requested extensions, whether the Court has granted those
+extensions, and whether the Court has stated that no further extensions will be granted.
+11. Once a trial date has been set, the parties should treat it as firm. Absent
+extraordinary circumstances, the Court will not continue a trial date.
+12. Stipulations or motions to continue case schedules for mediation or
+settlement purposes will usually not be granted.
+CASE MANAGEMENT CONFERENCES
+13. The attorney appearing at a case management conference need not be lead counsel
+but must have full authority to make decisions about any issue that may come up during the
+conference. They must also be sufficiently informed about the case to participate in discussions
+about what schedule makes sense for that case.
+14. If a defendant files a motion to dismiss that is dispositive of the entire case, the
+parties can stipulate to move the initial case management conference to 15 days after the hearing
+on that motion. If the motion to dismiss is not dispositive, the initial case management
+conference will typically not be moved. In their case management statement for the initial case
+management conference, the parties must propose a full litigation schedule, including a proposed
+last day to amend pleadings, regardless of whether they have received a ruling on any motion to
+dismiss. The only exception is proposed class actions, in which case the parties can propose a
+schedule through the first phase of the case, as discussed in the class action section of this standing
+order.
+15. Parties should typically be prepared to adopt the following schedule at the initial
+case management conference:
+● The trial date will almost always be 12–16 months after the date the original complaint
+5
+was filed.
+● The pretrial conference will be 1 or 2 weeks before the trial. The last day for a hearing on
+dispositive motions will be roughly 2 to 3 months before the pretrial conference.
+● The discovery cutoff will be roughly 8 weeks before the dispositive motions hearing.
+(The parties should consider whether to schedule expert discovery before or after the
+deadline for hearing motions for summary judgment.)
+● The last day to amend pleadings will typically be 60 days after the initial case
+management conference.
+● A further case management conference will take place roughly 4 weeks before the close
+of fact discovery.
+● The parties should be prepared to present their preferred ADR process at the initial case
+management conference.
+16. If the parties wish to continue a case management conference, they must file a
+stipulation or motion—in a separate filing from their joint case management statement—at least
+72 hours prior to the conference.
+17. Parties who would like an expedited initial case management conference can
+request one by emailing Judge Chhabria’s Courtroom Deputy, Bhavna Sharma.
+DISCOVERY
+18. Discovery in almost all cases will be referred to a magistrate judge. In those cases,
+the parties must follow the magistrate judge’s procedures. However, the parties are encouraged
+to bring discovery disputes to the magistrate judge sooner rather than later. If the parties end up
+seeking a continuation of the case schedule based on the pendency of discovery disputes, the
+Court will deny that request if it determines that brewing discovery disputes were not teed up
+6
+promptly for the magistrate judge, and the parties will simply need to go to trial without having
+conducted the desired discovery.
+19. In the rare cases where Judge Chhabria is overseeing discovery, the following
+procedures apply. Discovery disputes should be brought to the Court’s attention as early as
+possible. If the parties cannot resolve their discovery dispute after a good faith effort, they shall
+prepare and file a joint letter of no longer than 5 pages stating the nature and status of their
+dispute. Both sides must submit proposed orders as well. No exhibits may be submitted with the
+letter other than any discovery request or response that is the subject of the letter. The letter must
+be filed as soon as possible, but under no circumstances may it be filed more than 7 days after
+the applicable discovery cutoff. See Civil Local Rule 37-3. The side seeking relief from the
+Court should prepare its portion of the letter first, and then provide that to the opposing side so
+that the opposing side may prepare its response. The party seeking relief from the Court should
+file the letter. The Court may resolve the dispute on the papers or schedule a hearing. The joint
+discovery letter process does not apply to discovery disputes with third parties.
+20. Parties requesting a protective order or ESI order are encouraged to base any
+proposed order on the model orders on the Northern District’s website
+(http://www.cand.uscourts.gov/model-protective-orders; https://cand.uscourts.gov/forms/e-
+discovery-esi-guidelines). When filing a proposed order, at the very beginning of their stipulation
+or motion, parties must indicate whether they have based their proposed order on one of the
+Northern District’s model orders. If they have, they must identify any deviations from the model
+order by submitting as an exhibit a redline comparison of their proposed order and the model
+order.
+FILING AND COURTESY COPIES
+21. When filing motions on ECF, each motion, supporting declaration, and
+7
+attachment to a declaration (such as an exhibit) should be filed as a separate PDF. That is, a
+declaration must be filed separately from the motion, and each exhibit to a declaration must be
+filed separately from the declaration and from the other exhibits. However, when an exhibit to a
+declaration contains an attachment, that attachment need not be filed separately. A motion, along
+with any supporting declarations or exhibits, should generally be filed as one docket entry, with
+the motion submitted as the “Main Document” in ECF, and each declaration and exhibit filed
+separately as “Attachments.”
+22. For an example, see the image below:
+23. When filing motions, exhibits, and declarations, the ECF “Description” of each
+document should include the name of the document and a brief description of the document. For
+instance, a news release filed as the first exhibit to a declaration would be, “Decl Doe Ex 1 -
+News Release.”
+24. When a document filed on ECF is accompanied by more than 10
+attachments, the filing party must upload those documents within 3 days onto an online
+location designed by the Clerk’s Office. The name of each uploaded PDF file should adhere
+to the naming convention described above and should include the docket number of the
+8
+filed document. For example, a news release filed as the first exhibit to a declaration, at
+docket number 60-2 should be uploaded with the file name “[60-2] Decl Doe Ex 1 - News
+Release.” On occasion, the parties may be asked by the courtroom deputy to deliver a flash
+drive with all the attachments to Judge Chhabria’s chambers. The flash drive should be
+labeled with the name and number of the case. The flash drive should contain the ECF
+version of each attachment, with its ECF header. The name of each PDF file on the flash
+drive should include the type of document, a brief description of the document, and the
+docket number. Each PDF document must be text-searchable. This requirement is waived
+for people proceeding pro se.
+25. Briefs, declarations, and other filings need not be on pleading paper with line
+numbers. The Court prefers blank paper (although pleading paper will be accepted).
+26. Paper courtesy copies shall not be submitted unless the Court requests them. The
+Court may at times order the parties to provide digital courtesy copies of motion briefs, including
+supporting documents, on portable media (for example, a CD or flash drive).
+PROPOSED ORDERS
+27. Proposed orders are not necessary for most substantive motions, such as motions
+for summary judgment, motions to dismiss, or preliminary injunction motions. The parties
+should submit proposed orders only in connection with administrative motions, stipulations
+requiring modifications of the case schedule, ex parte applications, discovery disputes, and
+rulings that call upon the court to make factual findings (such as a motion to approve a class
+settlement or a motion for attorneys’ fees). All proposed orders should be sent in Microsoft
+Word format to vcpo@cand.uscourts.gov.an
+MOTIONS TO SEAL
+28. The Court requires strict compliance with Civil Local Rule 79-5 (with the
+9
+exception of 79-5(d)(2), as explained below).
+29. The Court almost always denies motions to seal because they are almost always
+without merit. Parties that submit frivolous motions to seal or frivolously overbroad motions will
+be sanctioned. See Nevro Corp. v. Boston Scientific Corp., 2018 WL 2111164 (N.D. Cal. May 8,
+2018). Federal courts are paid for by the public, and the public has the right to inspect court
+records, subject only to narrow exceptions.
+30. When submitting a motion to seal, the filing party must state whether the
+compelling reasons or good cause standard applies and explain why. See Center for Auto
+Safety v. Chrysler Group, LLC, 809 F.3d 1092, 1099 (9th Cir. 2016).
+31. The filing party must make a specific showing explaining why each document
+that it seeks to seal may justifiably be sealed and why the proposed redactions are as narrowly
+tailored as possible, rather than making a blanket statement about the grounds for sealing.
+Generic and vague references to “competitive harm” are almost always insufficient justification
+for sealing. If a party files a request to seal that is significantly overbroad and/or does not provide
+adequate reasons for concealing information from the public, the party bears the risk that the
+Court will simply deny the request in its entirety and place all documents sought to be sealed on
+the public docket.
+32. Each document filed under seal must be highlighted to show the proposed
+redactions. In the rare situation where a party believes it is appropriate to seal an entire
+document, the document filed under seal should be labeled to indicate that sealing is sought in
+full.
+33. If you have a complicated sealing motion, or set of motions, consider filling out
+and filing the Motion to Seal Summary Table linked on the Standing Orders page of Judge
+Chhabria’s website.
+10
+34. Courtesy copies under Civil Local Rule 79-5(d)(2) are not required, provided that
+the document at issue is appropriately filed electronically under seal in an unredacted form.
+BRIEFS
+35. Unless permitted by the Court, briefs in support of and in opposition to all
+substantive motions (except for preliminary injunction motions, summary judgment motions,
+class certification motions, motions for approval of class settlements, and summary judgment /
+claim construction motions in patent cases, as discussed below) may not exceed 15 pages, and
+reply briefs may not exceed 10 pages. These page limits include summaries of argument and
+exclude the title page, table of contents, table of authorities, and exhibits. All briefs must use
+Times New Roman font (size 12) and must be double spaced.
+36. The final brief for any motion should be filed at least 14 days prior to the hearing
+on the motion.
+37. When citing exhibits (including deposition testimony), briefs should identify the
+declaration to which the exhibit is attached, the letter or number of the exhibit, and the relevant
+page number (for example: “Smith Decl., Ex. 1, at 22”).
+38. Motions to increase page limits will almost never be granted, but any such motion
+must be filed no later than 72 hours before the brief is due.
+39. Simultaneous briefing is not permitted for any type of motion.
+40. Briefs in support of and in opposition to a preliminary injunction motion cannot
+exceed 25 pages, and reply briefs cannot exceed 15 pages.
+AMICUS BRIEFS
+41. Permission to file an amicus brief in connection with a motion is not needed.
+However, any amicus brief in support of the moving party must be filed at least 7 days before
+11
+the opposition is due, and any amicus brief in support of the opposing party must be filed at
+least 7 days before the reply is due. For emergency motions involving a compressed briefing
+schedule, amicus may, after consulting with the parties, file a request to reduce this number of
+days.
+42. Amicus briefs cannot exceed 15 pages, and permission to file an overlength
+amicus brief will almost never be granted. These page limits include descriptions of the
+interests of amici and summaries of argument and exclude the title page, table of contents,
+table of authorities, and exhibits. All briefs must use Times New Roman font (size 12) and
+must be double spaced.
+SUMMARY JUDGMENT
+43. Unless permitted by the Court, briefs in support of and in opposition to summary
+judgment motions cannot exceed 25 pages, and reply briefs cannot exceed 15 pages. Motions to
+increase page limits will almost never be granted, but any such motion must be filed no later
+than 72 hours before the brief is due.
+44. In the event of cross-motions for summary judgment, the parties must file a total
+of four briefs sequentially, rather than three pairs of simultaneous briefs. Unless the parties agree
+to reverse the order (which they are free to do on their own), the opening brief is filed by the
+plaintiff side, the opening/opposition brief is filed by the defense side, the opposition/reply is
+filed by the plaintiff side, and the reply is filed by the defense side. The first two briefs are
+limited to 25 pages, the third brief is limited to 20 pages, and the fourth brief is limited to 15
+pages. The parties may submit a stipulation and proposed order setting a briefing schedule for the
+cross-motions in advance of the first brief, which will likely be signed so long as the fourth brief
+is due no later than 14 days before the hearing date.
+45. The parties should not file joint or separate statements of undisputed facts
+12
+in connection with summary judgment motions.
+46. At the summary judgment hearing and/or in the briefs, the parties should not
+hesitate to alert the Court of the need for a prompt ruling in light of their trial preparation
+schedule.
+47. Any Daubert motion seeking to preclude a party’s reliance on an expert opinion
+at the summary judgment stage must be filed in the same brief as the motion for summary
+judgment or the opposition to that motion. Oppositions and replies relating to the Daubert
+motion must also be filed in the same briefs as argument on the merits of the summary judgment
+motion. The only exception is when the party moving to exclude is the party opposing summary
+judgment, in which case that party may file a reply brief (not to exceed 5 pages and filed no later
+than 7 days after the other party’s reply in support of summary judgment) in support of the
+Daubert motion.
+DEFAULT JUDGMENT
+48. Judge Chhabria’s rule is to have hearings on motions for default judgment except
+in highly unusual circumstances. Therefore, after a party seeking default judgment has obtained
+entry of default from the Clerk’s Office, the party should notice a hearing when filing their
+motion for default judgment.
+49. Any such motion should explain why the Eitel factors support the entry of a
+default judgment and address the basis for personal jurisdiction over the defendant(s). See Eitel
+v. McCool, 782 F.2d 1470, 1471–72 (9th Cir. 1986); Axiom Foods Inc. v. Acerchem
+International, Inc., 874 F.3d 1064, 1068 (9th Cir. 2017); see also In re Tuli, 172 F.3d 707, 712
+(9th Cir. 1999).
+HEARINGS AND TENTATIVE RULINGS
+50. If the Court determines a hearing is not necessary, it will usually be vacated no
+13
+later than three days before the hearing.
+51. The Court ordinarily will not issue tentative rulings, but it typically announces its
+tentative thinking at the outset of the hearing.
+52. If a motion will be argued by an attorney who has 7 years or less of experience,
+counsel may notify the Courtroom Deputy of that fact within 7 days of the hearing. The Court
+will take this into account in deciding whether to vacate the hearing and submit the motion on
+the papers, putting a thumb on the scale in favor of a hearing if arguing counsel has 7 years or
+less of experience. Co-counsel with more than 7 years of experience may still offer argument for
+a few minutes at the end of the hearing.
+53. When using exhibits during evidentiary hearings, the parties must prepare and
+present exhibits in accordance with the Court’s Standing Order for Civil Trials.
+CLASS ACTIONS
+54. At the initial case management conference, the parties should be prepared to
+discuss whether they prefer to litigate cross-motions for summary judgment on liability with
+respect to the named plaintiffs before litigating the issue of class certification. The Court is of the
+view that this approach will often save a great deal of time and money and is therefore often in
+the defendant’s interest, but it requires the defendant’s consent, since a grant of summary
+judgment in the named plaintiff’s favor could end up giving unnamed class members a chance to
+opt in to a lawsuit where a legal issue has already been decided against the defendant.
+55. Briefs in support of or opposition to class certification motions cannot exceed 25
+pages, and reply briefs cannot exceed 15 pages. These limits also apply to motions for
+preliminary or final approval of class settlements (although, if the parties believe they need more
+space to adequately explain the basis for a class action settlement, this is the one type of brief for
+which a request for additional pages is likely to be granted).
+14
+56. Any Daubert motion seeking to preclude a party’s reliance on an expert opinion
+at the class certification stage must be filed in the same brief as the motion for class certification
+or the opposition to that motion. Oppositions and replies relating to the Daubert motion must
+also be filed in the same briefs as argument on the merits of the class certification motion. The
+only exception is when the party moving to exclude is the party opposing class certification, in
+which case that party may file a reply brief (not to exceed 5 pages and filed no later than 7 days
+after the other party’s reply in support of class certification) in support of the Daubert motion.
+57. In any motion for class certification, plaintiffs’ counsel must include a section
+called “Manageability of the Class Action Trial” in which they explain precisely how the Court
+should handle any potentially individualized issues to ensure that they don’t render the trial
+unmanageable. This section should generally include a discussion of jury instructions, especially
+in cases that involve subclasses, plaintiffs from multiple states, or law from multiple
+jurisdictions. In addition, to assist the Court in assessing any manageability concerns, plaintiffs’
+counsel must file a proposed verdict form in connection with the motion for class certification.
+58. Plaintiffs’ counsel are warned that they may have only one chance to seek class
+certification. If a plaintiff grossly overreaches on a motion for class certification, thereby forcing
+a defendant to waste significant time and money respond to a motion that had virtually no chance
+of being granted in the first place, the Court will be far less likely to allow a renewed motion.
+59. In connection with motions for approval of class settlements, the parties should
+keep the following things in mind:
+▪ The parties should consult the Northern District’s Procedural Guidance for Class Action
+Settlements. See https://cand.uscourts.gov/rules-forms-fees/northern-district-
+guidelines/procedural-guidance-class-action-settlements.
+15
+Preliminary Approval
+▪ The Court’s scrutiny of the proposed settlement will be as rigorous at the preliminary
+approval stage as at the final approval stage. Any motion for preliminary approval should
+explain why the settlement survives this level of scrutiny, and any proposed order should
+recite this standard. See Cotter v. Lyft, Inc., 193 F. Supp. 3d 1030, 1036-37 (N.D. Cal.
+2016); see also Hunt v. VEP Healthcare, Inc., 2017 WL 3608297 (N.D. Cal. Aug. 22,
+2017); Eddings v. DS Services of America, Inc., 2016 WL 3390477 (N.D. Cal. May 20,
+2016).
+▪ The proposed settlement administrator must submit a declaration in support of the
+motion for preliminary approval that describes (a) any money or thing of value the
+administrator will receive in connection with the settlement beyond the fee described in
+the preliminary approval papers, including interest or float on settlement deposits,
+payments from depository banks, and any revenue-sharing, ownership percentage, or
+markups on settlement services from payment, claims processing, social media, or other
+vendors; (b) any fees class members or claimants could be charged by the administrator
+or its subcontractors in connection with the settlement, including interchange fees,
+dormancy fees, or retention of residual balances; (c) whether data about visitors to the
+settlement website or other settlement class data will be shared with third parties not
+involved in administering the settlement, including via trackers or pixels; (d) whether
+artificial intelligence will be used to administer the settlement either by the
+administrator or subcontractors and, if so, what safeguards will ensure accuracy and
+lack of bias; and (e) a detailed fraud prevention plan, including whether there will be
+real-time fraud reporting and assessments to detect if an unusual number of payments
+are being sent to linked accounts. Proposed class counsel’s declaration shall describe
+16
+what due diligence counsel performed regarding the proposed administrator’s approach
+to each of the above issues, any potential conflict of interest or potential appearance of
+conflict of interest for counsel in the selection of the administrator (including any
+financial relationship), and the basis for counsel’s conclusion that the proposed
+administration arrangements serve the best interests of the settlement class.
+▪ Release language should make clear that the class members are releasing claims based
+only on the identical factual predicate. Each proposed notice should make that clear as
+well. Hesse v. Sprint Corp., 598 F.3d 581, 590 (9th Cir. 2010).
+▪ Absent extraordinary circumstances, the Court will not enjoin current or future
+litigation in other courts based on conduct covered by the release. Whether to stay or
+dismiss any such cases will be for the assigned judge to decide. Any language
+regarding an injunction must be removed from the notice, proposed order, and
+settlement agreement.
+▪ If a proposed notice to class members (or prospective class members) requires a written
+objection as a prerequisite to appearing in court to object to the settlement, the notice
+must specify that this requirement may be excused upon a showing of good cause. The
+Court will require only substantial compliance with the requirements for submitting an
+objection, and this should be made clear in any notice to class members.
+▪ If the parties believe they need more space to adequately explain the basis for a
+settlement, they should make a request to extend the page limit for the motion. The Court
+will likely grant such a request for this kind of motion (despite rarely granting such
+requests for other motions).
+Notice and Claims Procedure
+▪ The proposed notices, claims forms, and other documents associated with preliminary
+17
+approval should be sent in Microsoft Word format to vcpo@cand.uscourts.gov.
+▪ For large settlements, the parties are encouraged to include an opt-out form and an
+objection form.
+▪ If the proposed notices are not carefully written and in plain English, the Court will reject
+the motion for preliminary approval. Unnecessary acronyms should be avoided.
+▪ The parties should consider using the Federal Judicial Center’s model notices, which are
+available at www.fjc.gov/content/301253/illustrative-forms-class-action-notices-
+introduction.
+▪ The parties should consider whether notice by email and/or social media is appropriate.
+Moreover, the parties should consider whether claims and opt-out forms can be filed online,
+and whether it is appropriate to have a website for the settlement. If these procedures are not
+followed, the parties should be prepared to explain why.
+▪ In a proposed settlement involving the distribution of money to a class, the parties should
+consider whether unclaimed funds should be redistributed to class members who claimed
+their share. If a provision of this type is absent, the parties should be prepared to explain
+why.
+▪ The parties should consider whether theirs is the type of settlement that requires class
+members to file claims, as opposed to simply receiving funds. The motion for
+preliminary approval should address this issue.
+▪ Although the parties should generally adhere to the Northern District’s Procedural
+Guidance for Class Action Settlements, they need not discuss “the lead class counsel’s
+firms’ history of engagements with the settlement administrator over the last two years.”
+Nor does lead counsel need to discuss “at least one of their past comparable class
+settlements.”
+18
+Final Approval
+▪ In proposing a schedule for final approval of a class settlement, the parties must ensure
+that the motion for attorneys’ fees is filed at least 14 days before the deadline for
+objecting to the settlement. See In re Mercury Interactive Corp. Sec. Litig., 618 F.3d 988
+(9th Cir. 2010). The Court will make parties re-send notices if the motion for attorneys’
+fees is filed late, which can be quite expensive. The proposed order granting final
+approval should list all dates relating to the administration of the settlement, including the
+dates for when the checks distributing the settlement fund payments will be mailed to
+class members.
+▪ The parties should file a proposed judgment separately from their proposed order
+granting final approval.
+▪ Within 21 days after the settlement funds have been fully distributed to class members
+(but before distribution to cy pres recipients), class counsel will be required to file a Post-
+Distribution Accounting, as described in the Northern District’s Procedural Guidance for
+Class Action Settlements. The purpose of this notice is to inform the Court about the
+administration of the settlement.
+▪ The Court will typically withhold between 10% and 20% of the attorneys’ fees granted at
+final approval until after the Post-Distribution Accounting has been filed. The proposed
+order granting final approval should specify what percentage class counsel believes it is
+appropriate to withhold.
+▪ The proposed order granting final approval should also include language describing the
+Post-Distribution Accounting that class counsel will file, including, as relevant, when
+payments were made to class members, the number of members who were sent payments,
+the total amount of money paid out to members, the average and median recovery per
+19
+class member, the largest and smallest amount paid to class members, the number and
+value of cashed and uncashed checks, the number of members who could not be
+contacted, the number of objections and opt-outs, the amount to be distributed to each cy
+pres recipient, any significant or recurring concerns communicated by members to the
+settlement administrator and counsel since final approval, any other issues in settlement
+administration since final approval, and how any concerns or issues were resolved. See
+Cotter v. Lyft, No. 13-cv-04065-VC, Dkt. No. 348 (N.D. Cal. Apr. 6, 2018); Hunt v. VEP
+Healthcare, Inc., No. 16-cv-04790-VC, Dkt. No. 68 (N.D. Cal. Apr. 3, 2018).
+▪ Where class members are entitled to non-monetary relief, such as discount coupons, debit
+cards, or similar instruments, the Post-Distribution Accounting should also describe the
+number of class members availing themselves of such relief and the aggregate value
+redeemed by the class members and/or by an assignees or transferees of the class
+members’ interests. Where class members are entitled to injunctive and/or other non-
+monetary relief, the Post-Distribution Accounting should discuss the progress made on
+fulfilling the terms of that relief.
+▪ With the Post-Distribution Accounting, class counsel should submit a proposed order
+releasing the remainder of the fees.
+PATENT CASES
+60. Parties must follow the Patent Local Rules of the Northern District of California,
+except when those rules conflict with this standing order.
+61. Absent a compelling reason, the Court will conduct claim construction only in
+conjunction with a dispositive motion. Parties should still follow Rules 4-1 through 4-4 of the
+Patent Local Rules. Rules 4-5 and 4-6, on the other hand, will give way to the details provided in
+the paragraphs below.
+20
+62. The opening summary judgment (and claim construction) brief, as well as the
+opposition brief, cannot exceed 40 pages. The reply brief cannot exceed 20 pages.
+63. In the event of cross-motions for summary judgment, the parties must file a
+total of four briefs sequentially, rather than three pairs of simultaneous briefs. Unless the
+parties agree to reverse the order, the opening brief is filed by the party asserting
+infringement, the opening/opposition brief is filed by the party defending against the
+infringement claim, the opposition/reply is filed by the party asserting infringement, and the
+reply is filed by the party defending against the infringement claim. The first brief is limited
+to 40 pages, the second brief is limited to 50 pages, the third brief is limited to 30 pages, and
+the fourth brief is limited to 20 pages.
+64. If the parties believe it would be helpful for the Court, they should schedule a
+claim construction tutorial to occur 7 days prior to the claim construction/summary judgment
+hearing. The parties should contact Judge Chhabria’s Courtroom Deputy, Bhavna Sharma, to
+schedule the tutorial.
+SOCIAL SECURITY CASES
+65. Judge Chhabria’s default rule is to have hearings in Social Security cases. The
+Court will schedule a hearing for its civil law and motion calendar for approximately 60 days
+after an opposition brief is filed. Counsel are free to meet and confer on a mutually acceptable
+hearing date, and contact Bhavna Sharma, Judge Chhabria’s Courtroom Deputy, to schedule a
+hearing on that date. If, after reviewing the papers and the record, the Court decides a hearing is
+not necessary, it will typically notify the parties within 2–3 days of the hearing.
+HABEAS CASES
+66. Judge Chhabria’s default rule is to have hearings in habeas cases where the
+petitioner is represented by counsel. The Court will schedule a hearing for its civil law and
+21
+motion calendar for approximately 60 days after an answer is filed. Counsel are free to meet and
+confer on a mutually acceptable hearing date, and contact Bhavna Sharma, Judge Chhabria’s
+Courtroom Deputy, to schedule a hearing on that date. If, after reviewing the papers and the
+record, the Court decides a hearing is not necessary, it will typically notify the parties within 2–3
+days of the hearing.
+ERISA CASES
+67. On the issue of discovery in cases that are subject to de novo review, please see
+Ball v. Sun Life Assurance Company of Canada, 2016 WL 3211227 (N.D. Cal. Apr. 13, 2016).
+WAGE AND HOUR CASES
+68. In FLSA cases, the presumptive deadline for filing a motion for conditional
+certification of a collective is 28 days from the date of the initial case management conference,
+unless the parties reach a tolling agreement. Motions for conditional certification are almost
+always granted. The parties therefore are encouraged to stipulate to conditional certification with
+the understanding that the defendant may later seek to decertify the collective. If the parties
+stipulate to conditional certification, the parties must still submit the proposed notice to the Court
+for approval.
+69. Absent extraordinary circumstances, the contact information for potential
+collective members in FLSA cases must be produced by the defendant at the Rule 26(f)
+conference. The court will almost never grant requests to continue the initial case management
+conference in FLSA cases—even if there is a pending motion to dismiss—unless the parties have
+reached a tolling agreement.
+70. Likewise, in a Rule 23 wage and hour class action brought under California law,
+absent extraordinary circumstances, the contact information for potential class members must be
+produced early in the case. At the initial case management conference, the parties should expect
+22
+to set an early deadline for the production of this information. Typically, the only circumstance
+in which this production may be delayed is when the schedule calls for cross-motions for
+summary judgment regarding liability as to the named plaintiffs to be adjudicated prior to class
+certification, as discussed in the “Class Actions” section of this standing order.
+71. Should the parties reach a settlement in a FLSA collective action, the parties may
+not simply file a notice of voluntary dismissal. The parties must file a motion for settlement
+approval explaining why the proposed settlement is a fair and reasonable resolution of a bona
+fide dispute. See Alder v. County of Yolo, No. 16-1682-VC, Dkt. No. 25 (E.D. Cal. Nov. 20,
+2017).
+SECTION 1983 CASES
+72. In cases involving Monell claims, the Court will often stay discovery on
+municipal liability until the individual constitutional claim has been adjudicated through trial.
+Therefore, in cases where the defendant believes that the plaintiff has stated an individual
+constitutional claim but has failed to state a Monell claim, the defendant should consider whether
+to seek a stay of the Monell claim in lieu of filing a motion to dismiss. A stay of a Monell claim
+will often preserve resources for the defendant, as compared to litigating multiple motions to
+dismiss. If the defendant chooses to seek a stay of a Monell claim, the deadline to file a motion to
+dismiss is tolled by the filing of the stay motion (and by the stay itself, if any). If a defendant
+chooses instead to file a motion to dismiss a Monell claim, the defendant should be prepared to
+explain why the claim should not be stayed instead.
+IT IS SO ORDERED.
+Dated: October 26, 2026
+Vince Chhabria
+United States District Judge

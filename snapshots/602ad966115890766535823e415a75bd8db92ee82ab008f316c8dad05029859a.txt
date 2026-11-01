@@ -1,0 +1,237 @@
+1
+CIVIL AND DISCOVERY REFERRAL MATTERS STANDING ORDER
+MAGISTRATE JUDGE SUSAN VAN KEULEN
+Updated February 2026
+1. LOCATION
+The parties must check ECF to confirm whether any hearing will be in-person or by
+Zoom video link.
+• All civil discovery and motion hearings will be in person unless otherwise noticed by
+the Court in Courtroom 6, 4th Floor, San Jose Federal Courthouse.
+• Initial case management conferences, status conferences, and order to show cause
+hearings in re settlement/dismissal will be by Zoom video link. Specific call-in/Zoom
+instructions will be posted on ECF no later than 48 hours in advance. General
+information is available in Judge van Keulen’s scheduling notes on the Court website.
+• Any deviation from the appearance standards above requires prior approval of the
+Court. The requesting party must file an administrative motion to appear by Zoom
+video link or telephonic link at least 5 days before the hearing. If the request is
+granted, specific call-in/Zoom instructions will be posted on ECF no later than 48
+hours in advance.
+2. SCHEDULING
+Civil case management conferences are held on Tuesdays at 9:30 a.m.
+Civil motions are heard on Tuesdays at 10:00 a.m.
+Civil pretrial conferences are held on Thursdays at 9:30 a.m.
+Parties are not required to reserve a hearing date but should confirm at cand.uscourts.gov
+that the Court is not unavailable on the date selected. Hearings and motions may be reset
+by the Court as its calendar requires. For questions regarding scheduling, please contact
+the Courtroom Deputy at svkcrd@cand.uscourts.gov or (408) 535-5363.
+3. COMMUNICATION WITH THE COURT
+Any requests for Court action must be filed on the docket. Parties must refrain from
+contacting the Courtroom Deputy by email or telephone unless (1) required to do so by
+one of the Court’s standing orders; (2) instructed to do so by the Court; or (3) necessary
+to inform the Court about a time-sensitive matter. Contact with the Courtroom Deputy
+must be limited to purely administrative matters, such as scheduling and general case
+management. Parties are not to communicate with the Courtroom Deputy regarding
+substantive or procedural issues, such as requests for legal advice or for interpretation of
+procedural rules.
+2
+4. CASES INITIALLY ASSIGNED TO JUDGE VAN KEULEN: CONSENT OR DECLINATION
+In civil cases initially assigned to Judge van Keulen for all purposes, each party must file
+written consent to the jurisdiction of a magistrate judge or a written request for
+reassignment to a district judge as soon as possible but no later than the deadlines
+specified in Civil Local Rule 73-1(a). If a party files a dispositive motion (such as a
+motion to dismiss or a motion for remand), the moving party must file the consent or
+declination simultaneously with the motion.
+5. CASE MANAGEMENT CONFERENCE STATEMENTS
+In civil cases assigned to Judge van Keulen for all purposes, all joint case management
+statements are due one week before the case management conference. Joint case
+management statements must include as the first item the case schedule, if it has been set,
+as well as all information required under the Standing Order for All Judges of the
+Northern District of California – Contents of Joint Case Management Statement.
+6. MOTIONS AND STIPULATIONS
+a. PROPOSED ORDERS AND STIPULATIONS
+All stipulations and proposed orders are to be emailed in Word format to
+svkcrd@cand.uscourts.gov on the same day as the documents are e-filed.
+b. MOTIONS TO SEAL
+• Motions to seal shall be filed in accordance with Civil Local Rule 79-5. When
+submitting a proposed order pursuant to Civil Local Rule 79-5(c)(3), the table
+format included in the order shall comply with the below format:
+Document Text to be Sealed Basis for Sealing
+[redacted portions to be identified by
+page and line number]
+• Where a party (“Filing Party”) files a motion to consider whether another party’s
+(“Designating Party”) materials should be sealed pursuant to Civil Local Rule 79-
+5(f), the Designating Party’s statement and/or declaration in support of sealing
+pursuant to Civil Local Rule 79-5(f)(3) shall attach as exhibit(s) the proposed,
+public, redacted version of the document(s) sought to be sealed to the extent the
+proposed redactions differ from the redactions proposed by the Filing Party.
+c. POST-ANSWER DISPOSITIVE MOTIONS
+Unless otherwise permitted by the Court, only one Motion for Summary Judgment,
+Partial Summary Judgment, or Summary Adjudication may be filed by each party.
+d. MOTIONS TO STRIKE AFFIRMATIVE DEFENSES
+Motions to strike affirmative defenses may not be filed without leave of Court. Leave of
+Court may be sought by a motion for administrative relief pursuant to Civil Local Rule
+7-11.
+3
+e. FORMAT OF MOTIONS:
+i. USE OF FOOTNOTES
+Use of footnotes in Court filings is to be limited to providing brief points of
+clarification or cross-references. Argument in footnotes will not be
+considered by the Court. The form of footnotes must comply with Civil
+Local Rule 3-4(c)(2). The Court may strike any filing that includes
+excessive or improper footnotes.
+ii. EXHIBITS
+The cover page of any exhibit submitted in connection with briefing on a
+motion must include the exhibit number and the title or brief description of
+the exhibit (e.g., “Ex. 1 – 1/1/2023 email from Joe Smith to Nancy Jones”).
+f. HEARING MATERIALS
+Any party who distributes materials at the hearing on any matter must supply the
+Court with two color copies of those materials at the hearing and all other parties
+with at least one copy. Unless the Court orders otherwise, all materials are to be
+filed on ECF promptly following the hearing.
+7. DISCOVERY
+a. PROTECTIVE ORDERS
+All proposed discovery protective orders in cases in which Judge van Keulen is the
+assigned discovery referral judge and in cases that are assigned to Judge van Keulen for
+all purposes through consent of the parties shall be submitted for Judge van Keulen’s
+signature in text- searchable PDF format. If the submitting party or parties have used
+one of this District’s model protective orders as the basis for their proposed
+protective order, their submission of the proposed protective order must be
+accompanied by either: (1) a redline version indicating any changes from the model
+order or (2) a statement in the caption or a cover pleading that the parties have not
+made any changes from the model order.
+b. DISCOVERY DISPUTES
+Discovery disputes in cases in which Judge van Keulen is the assigned discovery referral
+judge and in cases that are assigned to Judge van Keulen for all purposes through consent
+of the parties shall follow the same procedures set forth below:
+• For all discovery disputes, the parties must meet and confer to attempt to resolve the
+dispute. The meet and confer must be in person or by videoconference and conducted
+by counsel with authority to negotiate and compromise. A mere exchange of letters,
+emails, telephone calls, or voicemail messages does not satisfy the requirement to
+meet and confer.
+4
+• If the parties are unable to reach a resolution, they must file a joint statement not to
+exceed 10 pages, exclusive of the caption page, double-spaced with 12-point font and
+in text-searchable PDF format. Footnotes, if any, must comply with section 6(e)(i)
+above.
+• In the opening paragraph, the joint statement must: (1) state the dates for the close of
+fact discovery and, if set, start of trial; (2) briefly describe each unresolved issue
+without undue argument; and (3) set forth each party’s proposed compromise with
+respect to each unresolved issue.
+• In addition, when specific discovery requests are disputed, the parties must include
+as an exhibit a joint chart, in landscape format, summarizing the basis of the
+dispute. Specifically, the chart must set forth in columns only the following: the
+disputed request, the response thereto, the parties’ respective proposed compromises
+and a blank column for the Court’s use. The chart must not contain argument; the
+Court considers only arguments set forth in the joint statement. The summary chart
+should present as follows:
+Discovery Request(s)
+(e.g., RFPs,
+Interrogatories, Etc.)
+Objecting Party’s
+Response or
+Objection
+Requesting
+Party’s
+Proposed
+Compromise
+Objecting
+Party’s
+Proposed
+Compromise
+For the
+Court’s Use
+This column should
+include the text of any
+disputed request, with
+no additional
+argumentation by a
+party.
+Where numerous
+requests are in dispute,
+the Parties may
+organize them by
+category, identified by
+sub-headings in the
+chart, to be resolved in
+a single ruling.
+This column should
+include the text of
+original (and
+supplemental, if
+appropriate) response
+at issue.
+Only if the response or
+objection is originally
+and properly made in
+the joint statement, a
+brief summary of the
+joint-statement
+response may be
+included. This chart is
+not the place to restate
+arguments or assert
+additional arguments.
+• The joint statement must also include each party’s proposed order as an exhibit.
+5
+• Absent prior leave of Court, the only additional exhibit(s) permitted to the joint
+statement are a copy of the specific discovery request(s) at issue and the response(s)
+to it (e.g., requests for production, interrogatories, privilege log, nonparty subpoena,
+deposition excerpts, initial disclosures, contentions, etc.)
+• The joint statement must be filed in ECF under the Civil Events category of Motions
+and Related Filings > Motions: General > Discovery Letter Brief.
+• Word versions of the joint chart exhibit and each party’s proposed order must also be
+emailed to svkcrd@cand.uscourts.gov
+• Upon review of the joint statement, the Court will advise the parties regarding the
+need, if any, for more briefing, a hearing, or a telephonic conference.
+• For all cases, the joint statement must be filed no later than 7 days after the
+discovery cut-off date(s) pursuant to Civil Local Rule 37-3.
+c. PRIVILEGE LOGS
+If a party withholds information that is responsive to a discovery request and is otherwise
+discoverable under the Federal Rules of Civil Procedure, by claiming that it is privileged
+or protected from discovery under the attorney work product doctrine or any other
+protective doctrine (including, but not limited to, privacy rights), that party shall prepare a
+privilege log (Fed. R. Civ. P. 26(b)(5)) setting forth the privilege relied upon and
+specifying separately for each document or for each category of similarly-situated
+documents:
+a. The name and job title or capacity of the author;
+b. The name and job title or capacity of each recipient;
+c. The date the document was prepared and, if different, the date(s) on which it was
+sent to or shared with persons other than its author(s);
+d. The title and description of the document;
+e. The subject matter addressed in the document;
+f. The purpose(s) for which it was prepared or communicated; and
+g. The specific basis for the claim that it is privileged.
+The privilege log will be produced as quickly as possible, but no later than 14 days after
+the discovery responses are due, unless the parties stipulate or the Court orders otherwise.
+8. AMENDED PLEADINGS
+If a party filed an amended complaint or other amended pleading, they must also file as
+an exhibit to the pleading a redline version showing what changes have been made to the
+most-recent version. Self-represented parties are not required to comply with this
+requirement.
+6
+9. CHAMBERS COPIES NOT REQUIRED; EXCEPTIONS
+Pursuant to Civil Local Rule 5-1(d)(7), no chambers copies are required unless
+specifically requested by the Court. If chambers copies are requested by the Court,
+parties are to notify the courtroom deputy at svkcrd@cand.uscourts.gov when they have
+been delivered.
+10. USE OF ARTIFICIAL INTELLIGENCE (AI)
+Counsel is responsible for providing complete and accurate representations in any
+submission (including filings, demonstratives, evidence and oral argument) to the Court
+as required by Rule 11 of the Federal Rules of Civil Procedure, the California Rules of
+Professional Conduct, and any other applicable legal or ethical guidance. Use of
+generative AI tools, such as ChatGPT, Claude, Gemini, etc., in preparing submissions to
+the Court is not prohibited, but counsel and self-represented parties must at all times
+personally confirm for themselves the accuracy of any content generated by these tools.
+The signature of counsel or a self-represented party on any submission containing AI-
+generated content, including citations generated by AI, constitutes a certification that the
+signing attorney (or self-represented party) has personally verified the content’s accuracy.
+The Court will impute any errors by such AI tools to the attorney or party whose
+signature appears on the document containing those errors.
+Failure to verify the accuracy of submissions, particularly the accuracy of citations to law
+and evidence, may be grounds for sanctions. Counsel is responsible for maintaining
+records of all prompts or inquiries submitted to any generative AI tools in the event those
+records become relevant at any point.
+SO ORDERED.
+February 2, 2026
+SUSAN VAN KEULEN
+United States Magistrate Judge
