@@ -109,6 +109,7 @@ class MonitorTests(unittest.TestCase):
                     self.assertIsInstance(replacement.get(field),str)
                     self.assertTrue(replacement[field].strip())
                 monitor.validate_url(replacement['url'],set(candidate['hosts']))
+                if 'adapter' in replacement:monitor.cacd_adapter.validate(replacement['adapter'],replacement['url'],previous)
                 self.assertIsNotNone(monitor.datetime.fromisoformat(replacement['verifiedAt']).tzinfo)
                 targets.add(replacement['url'])
             self.assertEqual(original|skipped|targets,actual)
@@ -311,7 +312,7 @@ class ResilienceTests(unittest.TestCase):
             with self.assertRaises(bounded_ocr.OCRFailure) as ctx:bounded_ocr.extract_pdf(b'pdf',2,monitor.time.monotonic()+20,10000)
         self.assertEqual(ctx.exception.code,'OCR_INCOMPLETE')
 
-    def test_mixed_pdf_requires_all_page_ocr(self):
+    def test_mixed_pdf_keeps_native_text_and_requires_missing_page_ocr(self):
         import io
         from pypdf import PdfWriter
         from pypdf.generic import DictionaryObject,NameObject,DecodedStreamObject
@@ -329,6 +330,8 @@ class ResilienceTests(unittest.TestCase):
             with self.assertRaises(monitor.MonitorError) as ctx:monitor.extract(stream.getvalue(),'application/pdf')
             self.assertEqual(ctx.exception.code,'OCR_INCOMPLETE')
             self.assertEqual(ocr.call_args.args[1],2)
+            self.assertIn('A legal rule on the text page.',ocr.call_args.kwargs['native_texts'][0])
+            self.assertEqual(ocr.call_args.kwargs['native_texts'][1],'')
 
     def test_docx_utf16_entity_declaration_is_rejected(self):
         hostile='<!DOCTYPE x [<!ENTITY a "secret">]><x>&a;</x>'.encode('utf-16')
@@ -340,16 +343,171 @@ class ResilienceTests(unittest.TestCase):
             data=root/'data';data.mkdir()
             monitor.atomic_json(root/'allowlist.json',{**self.config,'skipped':[],'publicTextUrls':[]})
             monitor.atomic_json(data/'court-rules.min.json',{'records':[{'id':'r','sourceUrl':URL,'verificationLabel':'PRIMARY_SOURCE_REVIEWED','actionProfile':{'generationEligible':True}}],'counts':{}})
-            monitor.atomic_json(data/'source-status.json',{'sources':[]})
+            monitor.atomic_json(data/'source-status.json',{'sources':[],'preparedAt':'2026-10-31T00:00:00Z','limitations':['No live monitor run has been performed for this initial package.','No OCR: scanned PDFs remain ERROR.']})
             monitor.atomic_json(data/'changelog.json',{'events':[]})
             result={'text':'OCR legal text','resolvedUrl':URL,'observedAt':'2026-11-01T00:00:00Z','attempts':1,'httpStatus':200,'extractionMethod':'OCR','reviewRequired':True,'ocrPages':1,'ocrMeanConfidence':95,'ocrEmptyPages':[]}
             with patch('monitor.worker',return_value=result):self.assertEqual(monitor.sync(root),0)
-            source=json.loads((data/'source-status.json').read_text())['sources'][0]
+            status=json.loads((data/'source-status.json').read_text())
+            source=status['sources'][0]
+            self.assertEqual(status['preparedAt'],'2026-10-31T00:00:00Z')
+            self.assertNotIn('No live monitor run',json.dumps(status['limitations']))
+            self.assertNotIn('No OCR:',json.dumps(status['limitations']))
+            self.assertTrue(any('Two-day' in value for value in status['limitations']))
+            self.assertTrue(any('hash-only' in value for value in status['limitations']))
             record=json.loads((data/'court-rules.min.json').read_text())['records'][0]
             self.assertTrue(source['reviewRequired']);self.assertEqual(source['extractionMethod'],'OCR')
             self.assertEqual(source['textPublication'],'HASH_ONLY');self.assertIsNone(source['snapshot'])
             self.assertEqual(record['verificationLabel'],'REVIEW_REQUIRED')
             self.assertFalse(record['actionProfile']['generationEligible'])
             self.assertFalse(list(root.rglob('*.txt')))
+
+
+    def test_selective_ocr_keeps_native_text_and_document_page_order(self):
+        import bounded_ocr
+        from types import SimpleNamespace
+        native=['Native page '+str(page) for page in range(1,26)]
+        native[1]='';native[14]='';native[23]=''
+        selected=[];active=[]
+        header='level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tconf\ttext\n'
+        def execute(args,**kwargs):
+            if args[0]=='pdftoppm':
+                page=int(args[args.index('-f')+1]);selected.append(page);active[:]=[page]
+                self.assertEqual(args[args.index('-l')+1],str(page))
+                Path(args[-1]+'.png').write_bytes(b'image')
+                return SimpleNamespace(returncode=0,stdout=b'')
+            rows=''.join('5\t1\t1\t1\t1\t%d\t90\tpage%dword%d\n'%(i,active[0],i) for i in range(1,13))
+            return SimpleNamespace(returncode=0,stdout=(header+rows).encode())
+        with patch('bounded_ocr.shutil.which',side_effect=lambda name:name),patch('bounded_ocr.subprocess.run',side_effect=execute),patch('bounded_ocr.tempfile.TemporaryDirectory',return_value=workspace_temp()):
+            text,metadata=bounded_ocr.extract_pdf(b'pdf',25,monitor.time.monotonic()+20,10000,blank_pages=[15],native_texts=native)
+        self.assertEqual(selected,[2,24])
+        expected=list(native)
+        for page in selected:expected[page-1]=' '.join('page%dword%d'%(page,i) for i in range(1,13))
+        self.assertEqual(text,'\n'.join(expected))
+        self.assertEqual(metadata['pdfPages'],25);self.assertEqual(metadata['ocrPages'],2)
+        self.assertEqual(metadata['ocrPageNumbers'],[2,24]);self.assertEqual(metadata['blankPdfPageNumbers'],[15])
+        self.assertEqual(sorted(metadata['ocrPageNumbers']+metadata['nativeTextPageNumbers']+metadata['blankPdfPageNumbers']),list(range(1,26)))
+        self.assertTrue(metadata['reviewRequired'])
+
+    def test_selective_ocr_still_rejects_more_than_twenty_missing_pages(self):
+        import bounded_ocr
+        with patch('bounded_ocr.shutil.which') as tool:
+            with self.assertRaises(bounded_ocr.OCRFailure) as ctx:
+                bounded_ocr.extract_pdf(b'pdf',25,monitor.time.monotonic()+20,10000,native_texts=['Native']*4+['']*21)
+            self.assertEqual(ctx.exception.code,'OCR_PAGE_LIMIT');tool.assert_not_called()
+            with self.assertRaises(bounded_ocr.OCRFailure) as ctx:
+                bounded_ocr.extract_pdf(b'pdf',501,monitor.time.monotonic()+20,10000,native_texts=['Native']*500+[''])
+            self.assertEqual(ctx.exception.code,'PDF_PAGE_LIMIT')
+
+    def test_selective_ocr_cannot_drop_unaccounted_pages(self):
+        import bounded_ocr
+        for texts,blank in [(['native'],[]),(['native',''],[1]),(['native',''],[3])]:
+            with self.subTest(texts=texts,blank=blank),self.assertRaises(bounded_ocr.OCRFailure) as ctx:
+                bounded_ocr.extract_pdf(b'pdf',2,monitor.time.monotonic()+20,1000,blank_pages=blank,native_texts=texts)
+            self.assertEqual(ctx.exception.code,'OCR_PAGE_ACCOUNTING')
+
+    def test_selective_ocr_missing_page_failure_discards_combined_result(self):
+        import bounded_ocr
+        from types import SimpleNamespace
+        header='level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tconf\ttext\n'
+        native=['Native page '+str(p) for p in range(1,26)];native[1]='';native[23]=''
+        active=[]
+        def execute(args,**kwargs):
+            if args[0]=='pdftoppm':
+                active[:]=[int(args[args.index('-f')+1])]
+                Path(args[-1]+'.png').write_bytes(b'image')
+                return SimpleNamespace(returncode=0,stdout=b'')
+            rows=''.join('5\t1\t1\t1\t1\t%d\t90\tword%d\n'%(i,i) for i in range(1,13)) if active[0]==2 else ''
+            return SimpleNamespace(returncode=0,stdout=(header+rows).encode())
+        with patch('bounded_ocr.shutil.which',side_effect=lambda name:name),patch('bounded_ocr.subprocess.run',side_effect=execute),patch('bounded_ocr.tempfile.TemporaryDirectory',return_value=workspace_temp()):
+            with self.assertRaises(bounded_ocr.OCRFailure) as ctx:
+                bounded_ocr.extract_pdf(b'pdf',25,monitor.time.monotonic()+20,10000,native_texts=native)
+        self.assertEqual(ctx.exception.code,'OCR_INCOMPLETE')
+
+    def test_network_wait_is_longer_but_deadline_bounded(self):
+        from unittest.mock import Mock
+        for remaining,expected in [(80,25),(7,7)]:
+            response=Mock(status=200)
+            response.getheader.side_effect=lambda name,default=None:{'Content-Type':'text/plain','Content-Length':'10'}.get(name,default)
+            response.read.side_effect=[b'Legal rule',b'']
+            connection=Mock();connection.getresponse.return_value=response
+            with patch('monitor.PinnedHTTPS',return_value=connection) as factory,patch('monitor.resolve_public',return_value='8.8.8.8'),patch('monitor.host_throttle.wait'),patch('monitor.time.monotonic',return_value=100):
+                result=monitor.fetch_once(URL,self.config,100+remaining)
+            self.assertEqual(result['text'],'Legal rule')
+            self.assertEqual(factory.call_args.args[2],expected)
+            self.assertTrue(all(call.args[0]<=expected for call in connection.sock.settimeout.call_args_list))
+        self.assertEqual(monitor.SOURCE_SECONDS,90);self.assertEqual(monitor.RUN_SECONDS,720)
+
+
+    def api_fixture(self):
+        identity='3e4e42a0-7045-4e32-432f-08de214ff94e'
+        adapter={'type':'CACD_JUDGE_PROCEDURES','judgeId':identity,'initials':'DSR','blockTitle':'Important Notice'}
+        url='https://apps.cacd.uscourts.gov/JpsApi/judge/'+identity
+        source='https://apps.cacd.uscourts.gov/Jps/#/judge/'+identity+'/dsr'
+        clause='Artificial Intelligence. Counsel and parties are reminded of their responsibilities when signing any document filed with this court and must comply with Federal Rule of Civil Procedure 11. This synthetic fixture also contains the entire final sentence.'
+        data={'id':identity,'initials':'DSR','name':'Daniel S. Roberts','zoomPasscode':'UNRELATED_SECRET','webPage':{'webBlocks':[{'title':'Other','content':None},{'title':'Important Notice','content':'<p>'+clause+'</p>'},{'title':'Calendar','content':'UNRELATED_CALENDAR'}]}}
+        return source,url,adapter,data,clause
+
+    def test_exact_api_route_returns_whole_selected_procedure_only(self):
+        from unittest.mock import Mock
+        source,url,adapter,data,clause=self.api_fixture()
+        body=json.dumps(data).encode()
+        response=Mock(status=200)
+        response.getheader.side_effect=lambda name,default=None:{'Content-Type':'application/json','Content-Length':str(len(body))}.get(name,default)
+        response.read.side_effect=[body,b'']
+        connection=Mock();connection.getresponse.return_value=response
+        config={'urls':[source],'hosts':['apps.cacd.uscourts.gov'],'sourceReplacements':{source:{'url':url,'verifiedAt':'2026-11-01','evidenceUrl':source,'note':'fixture','adapter':adapter}}}
+        with patch('monitor.PinnedHTTPS',return_value=connection),patch('monitor.resolve_public',return_value='8.8.8.8'),patch('monitor.host_throttle.wait'):
+            result=monitor.fetch_text(source,config)
+        self.assertEqual(result['resolvedUrl'],url)
+        self.assertEqual(result['text'],'Judge: Daniel S. Roberts (DSR)\nImportant Notice\n'+clause)
+        self.assertNotIn('UNRELATED',result['text'])
+        self.assertEqual(result['extractionMethod'],'CACD_PROCEDURE_HTML')
+        self.assertTrue(result['reviewRequired']);self.assertTrue(result['observedSourceChange'])
+
+    def test_api_identity_schema_and_exact_block_fail_closed(self):
+        source,url,adapter,data,clause=self.api_fixture()
+        variants=[]
+        changed=copy.deepcopy(data);changed['id']='other';variants.append((changed,'ADAPTER_IDENTITY'))
+        changed=copy.deepcopy(data);changed['name']='Other Judge';variants.append((changed,'ADAPTER_IDENTITY'))
+        changed=copy.deepcopy(data);changed['initials']='OTHER';variants.append((changed,'ADAPTER_IDENTITY'))
+        changed=copy.deepcopy(data);changed['webPage']=None;variants.append((changed,'ADAPTER_SCHEMA'))
+        changed=copy.deepcopy(data);changed['webPage']['webBlocks']={};variants.append((changed,'ADAPTER_SCHEMA'))
+        changed=copy.deepcopy(data);changed['webPage']['webBlocks']=[];variants.append((changed,'ADAPTER_BLOCK'))
+        changed=copy.deepcopy(data);changed['webPage']['webBlocks'].append(changed['webPage']['webBlocks'][1]);variants.append((changed,'ADAPTER_BLOCK'))
+        for content in (None,'',13):
+            changed=copy.deepcopy(data);changed['webPage']['webBlocks'][1]['content']=content;variants.append((changed,'ADAPTER_EMPTY_BLOCK'))
+        for changed,code in variants:
+            with self.subTest(code=code),self.assertRaises(monitor.cacd_adapter.AdapterError) as ctx:
+                monitor.cacd_adapter.read_html(json.dumps(changed).encode(),'application/json',adapter,url)
+            self.assertEqual(ctx.exception.code,code)
+
+    def test_api_scope_rejects_unknown_url_and_mismatched_original_identity(self):
+        source,url,adapter,data,clause=self.api_fixture()
+        for target in (url+'?other=1',url+'/',url.replace('https:','http:'),url.replace('apps.cacd.uscourts.gov','evil.example')):
+            with self.subTest(target=target),self.assertRaises(monitor.cacd_adapter.AdapterError):
+                monitor.cacd_adapter.validate(adapter,target,source)
+        with self.assertRaises(monitor.cacd_adapter.AdapterError):
+            monitor.cacd_adapter.validate(adapter,url,source.replace('/dsr','/ayp'))
+        changed={**adapter,'judgeId':'00000000-0000-0000-0000-000000000000'}
+        with self.assertRaises(monitor.cacd_adapter.AdapterError):monitor.cacd_adapter.validate(changed,url)
+
+    def test_api_missing_ai_body_and_non_json_never_success(self):
+        source,url,adapter,data,clause=self.api_fixture()
+        for text in ('Artificial Intelligence','Artificial Intelligence\nRule 11','Ordinary procedures with no selected legal section.'*8):
+            with self.subTest(text=text),self.assertRaises(monitor.cacd_adapter.AdapterError) as ctx:monitor.cacd_adapter.verify_text(text)
+            self.assertEqual(ctx.exception.code,'ADAPTER_AI_BODY_MISSING')
+        for body,kind,code in [(b'<html><div id="root"></div></html>','text/html','ADAPTER_CONTENT_TYPE'),(b'{}','application/json','ADAPTER_IDENTITY'),(b'{"id":1,"id":2}','application/json','ADAPTER_DUPLICATE_KEY'),(b'not json','application/json','ADAPTER_JSON'),(b'x'*(1024*1024+1),'application/json','ADAPTER_BODY_LIMIT')]:
+            with self.subTest(code=code),self.assertRaises(monitor.cacd_adapter.AdapterError) as ctx:monitor.cacd_adapter.read_html(body,kind,adapter,url)
+            self.assertEqual(ctx.exception.code,code)
+
+    def test_api_redirect_requires_renewed_review(self):
+        from unittest.mock import Mock
+        source,url,adapter,data,clause=self.api_fixture()
+        response=Mock(status=302)
+        connection=Mock();connection.getresponse.return_value=response
+        with patch('monitor.PinnedHTTPS',return_value=connection),patch('monitor.resolve_public',return_value='8.8.8.8'),patch('monitor.host_throttle.wait'):
+            with self.assertRaises(monitor.MonitorError) as ctx:
+                monitor.fetch_once(url,{'hosts':['apps.cacd.uscourts.gov']},monitor.time.monotonic()+20,adapter=adapter)
+        self.assertEqual(ctx.exception.code,'ADAPTER_REDIRECT_DENIED')
 
 if __name__=='__main__':unittest.main()

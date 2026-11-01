@@ -9,6 +9,7 @@ from email.utils import parsedate_to_datetime
 import host_throttle
 import bounded_ocr
 import bounded_docx
+import cacd_adapter
 from html.parser import HTMLParser
 import http.client
 import io
@@ -30,6 +31,7 @@ ROOT=Path(__file__).resolve().parent
 BODY_LIMIT=8*1024*1024
 TEXT_LIMIT=2*1024*1024
 SOURCE_SECONDS=90
+NETWORK_SECONDS=25
 RUN_SECONDS=720
 
 NEXT_ACTIONS={
@@ -192,7 +194,7 @@ def extract(body,content_type,deadline=None,metadata=None):
             raise MonitorError('PARSER_ERROR','PDF_PARSE_ERROR','PDF parsing failed ('+type(exc).__name__+').') from exc
         if needs_ocr or not text.strip():
             if len(blank_pages)==len(reader.pages):raise MonitorError('PARSER_ERROR','PDF_EMPTY_TEXT','PDF contains only blank pages.')
-            try:text,ocr_metadata=bounded_ocr.extract_pdf(body,len(reader.pages),deadline,TEXT_LIMIT,blank_pages)
+            try:text,ocr_metadata=bounded_ocr.extract_pdf(body,len(reader.pages),deadline,TEXT_LIMIT,blank_pages,native_texts=parts)
             except bounded_ocr.OCRFailure as exc:raise MonitorError(exc.category,exc.code,exc.detail) from exc
             metadata.update(ocr_metadata)
         else:metadata['extractionMethod']='PDF_TEXT'
@@ -228,7 +230,10 @@ def extract(body,content_type,deadline=None,metadata=None):
     if len(text.encode('utf-8'))>TEXT_LIMIT:raise MonitorError('LIMIT','TEXT_LIMIT','Extracted text exceeds the text size limit.')
     return text
 
-def fetch_once(url,config,deadline):
+def fetch_once(url,config,deadline,adapter=None):
+    if adapter is not None:
+        try:cacd_adapter.validate(adapter,url)
+        except cacd_adapter.AdapterError as exc:raise MonitorError(exc.category,exc.code,exc.detail) from exc
     hosts=set(config['hosts']);current=url
     for hop in range(4):
         p=validate_url(current,hosts)
@@ -236,7 +241,7 @@ def fetch_once(url,config,deadline):
         address=resolve_public(p.hostname)
         remaining=deadline-time.monotonic()
         if remaining<=0:raise TimeoutError()
-        conn=PinnedHTTPS(p.hostname,address,min(10,remaining))
+        conn=PinnedHTTPS(p.hostname,address,min(NETWORK_SECONDS,remaining))
         try:
             path=p.path or '/'
             if p.query:path+='?'+p.query
@@ -246,6 +251,7 @@ def fetch_once(url,config,deadline):
                 'Accept-Language':'en-US,en;q=0.9','Accept-Encoding':'identity','Connection':'close'})
             response=conn.getresponse()
             if response.status in (301,302,303,307,308):
+                if adapter is not None:raise MonitorError('REDIRECT','ADAPTER_REDIRECT_DENIED','Reviewed JSON adapters require the exact configured endpoint; redirects require renewed review.')
                 if hop==3:raise MonitorError('REDIRECT','REDIRECT_LIMIT','Redirect chain exceeds the four-hop request limit.')
                 location=response.getheader('Location')
                 if not location:raise MonitorError('REDIRECT','MISSING_REDIRECT','Redirect response has no Location header.')
@@ -267,15 +273,23 @@ def fetch_once(url,config,deadline):
             while True:
                 remaining=deadline-time.monotonic()
                 if remaining<=0:raise TimeoutError()
-                if conn.sock is not None:conn.sock.settimeout(min(10,remaining))
+                if conn.sock is not None:conn.sock.settimeout(min(NETWORK_SECONDS,remaining))
                 chunk=response.read(65536)
                 if not chunk:break
                 body.extend(chunk)
                 if len(body)>BODY_LIMIT:raise MonitorError('LIMIT','BODY_LIMIT','Response exceeds the 8 MiB body limit.',200)
             metadata={}
-            try:text=extract(bytes(body),response.getheader('Content-Type',''),deadline,metadata)
+            try:
+                if adapter is not None:
+                    content,identity=cacd_adapter.read_html(bytes(body),response.getheader('Content-Type',''),adapter,current)
+                    text=extract(content.encode('utf-8'),'text/html; charset=utf-8',deadline,metadata)
+                    cacd_adapter.verify_text(text)
+                    text=normalize(identity+'\n'+text)
+                    metadata.update(extractionMethod='CACD_PROCEDURE_HTML',reviewRequired=True)
+                else:text=extract(bytes(body),response.getheader('Content-Type',''),deadline,metadata)
             except Exception as exc:
-                error=error_info(exc);error.http_status=200
+                error=MonitorError(exc.category,exc.code,exc.detail) if isinstance(exc,cacd_adapter.AdapterError) else error_info(exc)
+                error.http_status=200
                 raise error from exc
             return {'text':text,'resolvedUrl':current,'httpStatus':200,**metadata}
         finally:conn.close()
@@ -284,20 +298,24 @@ def fetch_once(url,config,deadline):
 def fetch_text(url,config):
     if url not in config['urls']:raise error_info(ValueError('NOT_ALLOWLISTED'))
     replacement=config.get('sourceReplacements',{}).get(url)
-    target=url
+    target=url;adapter=None
     if replacement:
         if not isinstance(replacement,dict) or not all(isinstance(replacement.get(k),str) and replacement[k] for k in ('url','verifiedAt','evidenceUrl')):
             raise MonitorError('SECURITY','SOURCE_REPLACEMENT_INVALID','A replacement requires an exact reviewed URL and provenance.')
         target=replacement['url']
         validate_url(target,set(config['hosts']))
+        if 'adapter' in replacement:
+            adapter=replacement['adapter']
+            try:cacd_adapter.validate(adapter,target,url)
+            except cacd_adapter.AdapterError as exc:raise MonitorError(exc.category,exc.code,exc.detail) from exc
     # Outer worker enforces 90s even for DNS or parser calls that cannot be interrupted here.
     deadline=time.monotonic()+SOURCE_SECONDS-2
     history=[]
     for attempt in range(1,4):
         try:
-            result=fetch_once(target,config,deadline)
+            result=fetch_once(target,config,deadline,adapter=adapter) if adapter is not None else fetch_once(target,config,deadline)
             result['attempts']=attempt
-            if replacement:result.update(reviewRequired=True,observedSourceChange=True,sourceReplacement={k:replacement[k] for k in ('url','verifiedAt','evidenceUrl','note') if k in replacement})
+            if replacement:result.update(reviewRequired=True,observedSourceChange=True,sourceReplacement={k:replacement[k] for k in ('url','verifiedAt','evidenceUrl','note','adapter') if k in replacement})
             if history:result['attemptErrors']=history
             return result
         except Exception as exc:
@@ -393,7 +411,7 @@ def sync(root=ROOT):
                 publish_text=url in config.get('publicTextUrls',[]) and (final_host=='uscourts.gov' or final_host.endswith('.uscourts.gov') or final_host in ('www.govinfo.gov','www.federalregister.gov'))
                 results[url]=observe(url,result['text'],old,root,result['observedAt'],events,result['resolvedUrl'],publish_text=publish_text)
                 results[url].update(attempts=result.get('attempts',1),httpStatus=result.get('httpStatus',200))
-                for field in ('extractionMethod','ocrPages','ocrMeanConfidence','ocrEmptyPages','publicEmptyPassword','observedSourceChange','sourceReplacement'):
+                for field in ('extractionMethod','ocrPages','ocrMeanConfidence','ocrEmptyPages','pdfPages','ocrPageNumbers','nativeTextPageNumbers','blankPdfPageNumbers','publicEmptyPassword','observedSourceChange','sourceReplacement'):
                     if field in result:results[url][field]=result[field]
                 results[url]['reviewRequired']=results[url]['reviewRequired'] or result.get('reviewRequired',False)
                 if result.get('attemptErrors'):results[url]['attemptErrors']=result['attemptErrors']
@@ -404,6 +422,15 @@ def sync(root=ROOT):
     dataset['counts'].update(records=len(dataset['records']),primaryReviewed=labels['PRIMARY_SOURCE_REVIEWED'],publisherReported=labels['PUBLISHER_REPORTED'],reviewRequired=labels['REVIEW_REQUIRED'],verificationLabels=dict(labels))
     counts=Counter(x['status'] for x in results.values());errors=counts['ERROR']
     status.update(generatedAt=at,runId=at,status='PARTIAL_ERROR' if errors else 'OK',sources=list(results.values()),counts={'allowlisted':len(urls),'monitored':len(urls)-errors,'errors':errors,'pending':0,'skipped':len(config['skipped']),'states':dict(counts)})
+    status['limitations']=[
+        'Monitoring checks extracted text, not legal applicability or completeness.',
+        'PDF processing is capped at 500 pages; optional OCR covers at most 20 missing-text pages and preserves native text in document order.',
+        'OCR, reviewed replacement URLs and validated procedure adapters require human review; incomplete extraction, unsupported formats and access failures remain ERROR.',
+        'HTML or publisher procedure changes can trigger conservative review.',
+        'Two-day freshness window; no personal or email alerts.',
+        'Only exact reviewed original URLs and documented replacements are checked; no discovery of later orders or case dockets.',
+        'Uncleared third-party text remains hash-only; monitoring does not establish republication rights.'
+    ]
     changelog.update(generatedAt=at,runId=at)
     # Individual atomic writes. runId detects interrupted/mixed publication in consumers.
     atomic_json(root/'data/changelog.json',changelog)

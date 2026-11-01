@@ -601,6 +601,114 @@
       "verifiedAt": "2026-11-01T17:27:09.783846+00:00",
       "evidenceUrl": "https://www.ca5.uscourts.gov/docs/default-source/default-document-library/court-decision-on-proposed-rule.pdf",
       "note": "Official same-host301 Location with raw spaces; encoded target verified200 PDF, title Court Decision on Proposed Rule, Fifth Judicial Circuit. SHA256 exactly equals existing primaryReview.sha256. Same-byte relocation of previously reviewed historical non-adoption decision; not a new law/current supersession review. Raw Location retained in ca5-verification.json."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/33cb8842-9482-45f4-3518-08de636ff965/ayp": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/33cb8842-9482-45f4-3518-08de636ff965",
+      "verifiedAt": "2026-11-01T17:38:09.305339+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/33cb8842-9482-45f4-3518-08de636ff965",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "33cb8842-9482-45f4-3518-08de636ff965",
+        "initials": "AYP",
+        "blockTitle": "Judge's Procedures"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title \"Judge's Procedures\". Rule 11/signing reminder only; no additional AI-specific disclosure, verification or certification duty stated. Existing summary and three key provisions match. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/1d7ad7ef-589f-4c4a-3eda-08ddece20de6/ads": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/1d7ad7ef-589f-4c4a-3eda-08ddece20de6",
+      "verifiedAt": "2026-11-01T17:38:09.336850+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/1d7ad7ef-589f-4c4a-3eda-08ddece20de6",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "1d7ad7ef-589f-4c4a-3eda-08ddece20de6",
+        "initials": "ADS",
+        "blockTitle": "Important Notice"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title 'Important Notice'. Separate declaration for AI-generated filing portions, AI-use disclosure, source review, accuracy and Rule 11 certification. Existing summary and four key provisions match. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/33e68914-24b3-40a5-3ed9-08ddece20de6/kes": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/33e68914-24b3-40a5-3ed9-08ddece20de6",
+      "verifiedAt": "2026-11-01T17:38:09.348855+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/33e68914-24b3-40a5-3ed9-08ddece20de6",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "33e68914-24b3-40a5-3ed9-08ddece20de6",
+        "initials": "KES",
+        "blockTitle": "Judge's Procedures"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title \"Judge's Procedures\". Signing an AI-created filing certifies cited-authority checking under Rule 11; hallucination warning. No separate declaration requirement is claimed by current record. Existing summary and four key provisions match. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/3e4e42a0-7045-4e32-432f-08de214ff94e/dsr": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/3e4e42a0-7045-4e32-432f-08de214ff94e",
+      "verifiedAt": "2026-11-01T17:38:09.779877+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/3e4e42a0-7045-4e32-432f-08de214ff94e",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "3e4e42a0-7045-4e32-432f-08de214ff94e",
+        "initials": "DSR",
+        "blockTitle": "Important Notice"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title 'Important Notice'. Rule 11/signing reminder only; no additional AI-specific disclosure/certification/verification duty stated. Existing summary and three key provisions match. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/a9e85fb5-8f88-408d-3ec1-08ddece20de6/jfw": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/a9e85fb5-8f88-408d-3ec1-08ddece20de6",
+      "verifiedAt": "2026-11-01T17:38:09.744982+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/a9e85fb5-8f88-408d-3ec1-08ddece20de6",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "a9e85fb5-8f88-408d-3ec1-08ddece20de6",
+        "initials": "JFW",
+        "blockTitle": "Important Notice"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title 'Important Notice'. AI preparation triggers disclosure plus personal verification certification covering citations, quotations, factual statements and analyses; missing certification leads to striking. Existing summary and four key provisions match. Notice also says page information does not replace standing/scheduling orders; preserve this scope limitation. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/99da3dfe-00c8-4e85-3ec3-08ddece20de6/odw": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/99da3dfe-00c8-4e85-3ec3-08ddece20de6",
+      "verifiedAt": "2026-11-01T17:38:10.000241+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/99da3dfe-00c8-4e85-3ec3-08ddece20de6",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "99da3dfe-00c8-4e85-3ec3-08ddece20de6",
+        "initials": "ODW",
+        "blockTitle": "Judge's Procedures"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title \"Judge's Procedures\". Specified briefs require a certificate covering AI use or non-use; AI-use duty includes review, revision/supplementation and independent factual/legal verification. Existing summary and four key provisions match. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/ad05fcf4-7d99-4dad-3739-08de58702db8/accv": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/ad05fcf4-7d99-4dad-3739-08de58702db8",
+      "verifiedAt": "2026-11-01T17:38:10.228974+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/ad05fcf4-7d99-4dad-3739-08de58702db8",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "ad05fcf4-7d99-4dad-3739-08de58702db8",
+        "initials": "ACCV",
+        "blockTitle": "Important Notice"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title 'Important Notice'. Separate declaration/disclosure/source review/accuracy/Rule 11; $500 initial and $500 each subsequent violation. Existing summary and four key provisions match; no escalation amount inferred. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/e048d7c4-f266-4bec-3ed2-08ddece20de6/rao": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/e048d7c4-f266-4bec-3ed2-08ddece20de6",
+      "verifiedAt": "2026-11-01T17:38:10.172457+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/e048d7c4-f266-4bec-3ed2-08ddece20de6",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "e048d7c4-f266-4bec-3ed2-08ddece20de6",
+        "initials": "RAO",
+        "blockTitle": "Judge's Procedures"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title \"Judge's Procedures\". Separate declaration/disclosure/source review/accuracy/Rule 11. Existing summary and four key provisions match. Publisher text has typo artificially generated contact; do not silently rewrite exact source text. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
+    },
+    "https://apps.cacd.uscourts.gov/Jps/#/judge/c2f8424c-aa26-4c30-3ed8-08ddece20de6/as": {
+      "url": "https://apps.cacd.uscourts.gov/JpsApi/judge/c2f8424c-aa26-4c30-3ed8-08ddece20de6",
+      "verifiedAt": "2026-11-01T17:38:10.519326+00:00",
+      "evidenceUrl": "https://apps.cacd.uscourts.gov/JpsApi/judge/c2f8424c-aa26-4c30-3ed8-08ddece20de6",
+      "adapter": {
+        "type": "CACD_JUDGE_PROCEDURES",
+        "judgeId": "c2f8424c-aa26-4c30-3ed8-08ddece20de6",
+        "initials": "AS",
+        "blockTitle": "Important Notice"
+      },
+      "note": "Verified public API representation of same official judge page; actual AI legal text is webPage.webBlocks exact title 'Important Notice'. Separate declaration/disclosure/source review/accuracy/Rule 11. Existing summary and four key provisions match. Requires exact reviewed JPS JSON adapter; never generic JSON flattening or JavaScript-shell success."
     }
   }
 }

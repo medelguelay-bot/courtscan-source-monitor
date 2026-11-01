@@ -16,11 +16,11 @@ The built-in GitHub job token commits only `data/` and `snapshots/`; no external
 Two records have no monitored original URL; see `data/source-status.json`. No URL discovery, docket crawling or arbitrary URL input exists.
 The list includes non-court original legislation and professional guidance already in the dataset; these are not relabeled court orders.
 Redirects are HTTPS only and limited to the explicitly listed hosts; each hop rejects non-public IP addresses, and TLS connections pin the checked address.
-Four workers maximum, four requests per source maximum, 8 MiB body, 2 MiB extracted text, 500 PDF pages, 40 seconds per source process, 600-second run scheduling budget.
+Four workers maximum; at most three attempts per source and four redirect-chain requests per attempt. Limits: 8 MiB body, 2 MiB extracted text, 500 PDF pages, 20 pages requiring OCR, 25-second socket cap, 90 seconds per isolated source process and a 720-second run scheduling budget. Host pacing and Retry-After are respected.
 Unstarted budget-limited sources are ERROR, never unchanged. No proxy environment is used.
 
 First actual observation is BASELINED. Text is NFKC/whitespace normalized, hashed with SHA256, stored in immutable content-addressed snapshots and compared with a unified text diff.
-PDF bytes/metadata are not the change oracle. No OCR; scanned PDFs, extraction failures, unsupported formats and challenges remain ERROR.
+Change detection uses normalized extracted text, not PDF bytes or metadata. Bounded OCR recovers scanned pages when Poppler and Tesseract are installed; native and OCR page text remain ordered. Incomplete, low-confidence or unsupported content remains ERROR. OCR observations require review and do not establish legal applicability.
 Whole visible HTML can include navigation changes and conservatively trigger review. Extraction is not a legal-change classifier.
 The initial snapshot is the accepted public dataset, not a fabricated court-text baseline. All 292 checks start PENDING.
 
