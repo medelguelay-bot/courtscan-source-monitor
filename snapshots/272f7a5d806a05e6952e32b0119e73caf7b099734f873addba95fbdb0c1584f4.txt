@@ -1,0 +1,43 @@
+U.S. District Court, District of Minnesota
+GenAI FAQ
+October 1, 2025
+What is Generative AI?
+Generative AI, often referred to as “GenAI,” is a set of AI tools and techniques trained to detect
+complex patterns within large textual and audio-visual data sets it is fed. GenAI creates new
+content, such as text, images, audio, video, and computer code, based on those patterns and
+in response to human inputs and instructions called “prompts.”
+What is Generative AI used for?
+Some litigants use GenAI to help research facts and issues, create �irst drafts of documents
+and communications (or revise and re�ine human-created drafts of content), summarize
+large volumes of text, paraphrase existing text, translate foreign-language content, compare
+documents, and create images and other audio-visual content for presentations.
+What are the limitations of Generative AI?
+GenAI’s responses depend on the content and quality of the training data. Responses may be
+out of date, plausible in appearance but inaccurate (a phenomenon known as “AI
+hallucination”), or re�lective of biases in the training data . GenAI responses are especially
+unreliable when relating to facts and issues that are underrepresented in training data. GenAI
+cannot check the accuracy of its own responses.
+Do litigants need to disclose the use of GenAI tools to the Court?
+The District of Minnesota does not currently require disclosure of AI use in court �ilings.
+Litigants should be aware, however, of AI-use disclosure requirements in other jurisdictions.
+What are some practice pointers for the use of GenAI tools to assist with legal tasks?
+When using GenAI tools to assist with legal tasks, be aware that pursuant to Fed. R. Civ. P . 11
+and 26(g), you are ultimately responsible for the accuracy and suf�iciency of the resulting
+work product, and for any other impacts of your GenAI use. Here are some practice pointers:
+• Av
+oid entering privileged, con�idential, or otherwise sensitive information into a GenAI
+tool if you are concerned that data inputs may be retained by the tool or may be
+intercepted or otherwise accessed by malicious actors . Whenever possible, assess the
+tool’s terms of use and security statement.
+• Use detailed prompts to instruct the GenAI tool on the requirements and constraints of
+the task and on the desired structure of the response. Use follow-up prompts to revise and
+re�ine initial GenAI responses.
+• Review the overall accuracy and reliability of GenAI-created factual assertions to avoid the
+risk of hallucinated content.
+• Con�irm that GenAI-provided legal research and citations are valid references to existing
+caselaw, statutes, or regulations that have not been superseded or overruled, and that
+cited excerpts are not taken out of context.
+• Review GenAI-created content for professionally appropriate tone, language, and imagery.
+You must always use GenAI in a manner consistent with applicable ethical obligations ,
+obligations under the Federal Rules of Civil and Criminal Procedure, including Fed. R. Civ. P .
+11 and 26(g), and duties under controlling protective orders.

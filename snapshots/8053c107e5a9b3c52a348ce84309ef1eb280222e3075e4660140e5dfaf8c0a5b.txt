@@ -1,0 +1,899 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF CALIFORNIA
+[PLAINTIFFS], ET AL.,
+Plaintiff(s),
+v.
+[DEFENDANTS], ET AL.,
+Defendant(s).
+Case No. EDCV XX-XXXX-KK (XXx)
+CIVIL STANDING ORDER
+PLEASE READ THIS ORDER CAREFULLY. IT GOVERNS THIS CASE
+AND DIFFERS IN SOME RESPECTS FROM THE LOCAL RULES.
+“To secure the just, speedy, and inexpensive determination of every action and
+proceeding,” FED. R. CIV. P. 1, all counsel are hereby ordered to familiarize
+themselves with the Federal Rules of Civil Procedure, the Local Civil Rules of the
+Central District of California, and this Court’s Orders.1 “Counsel,” as used in this
+order, includes parties appearing pro se. This Court does not exempt parties
+appearing pro se from compliance with any of the Local Rules, including Local Rules
+16 and 7-3.
+1 Copies of the Local Rules are availabl e on the Central District of California
+website at http://www.cacd.uscourts.gov. In addition, Counsel shall review and
+comply with Judge Kato’s Schedule and Procedures, available at
+https://apps.cacd.uscourts.gov/Jps/honorable-kenly-kiya-kato.
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+UNLESS OTHERWISE ORDERED BY THE COURT, THE
+FOLLOWING RULES SHALL APPLY:
+I. CIVILITY AND PROFESSIONALISM
+The Court expects counsel to treat each other, the parties, and the Court,
+including Court staff, with dignity and respect. As set forth in the preamble to the
+Central District of California’s Civility and Professionalism Guidelines, “[u]ncivil
+behavior does not constitute effective advocacy; rather, it serves to increase litigation
+costs and fails to advance the client’s lawful interests. Perhaps just as importantly, this
+type of behavior causes the public to lose faith in the legal profession and its ability to
+benefit society. For these reasons, . . . civility and professionalism among advocates,
+between lawyer and client, and between bench and bar are essential to the
+administration of justice.” For more detailed guidance, counsel are advised to refer to
+the Civility and Professionalism Guidelines, which can be found at
+http://www.cacd.uscourts.gov/attorneys/admissions/civility-and-professionalism-
+guidelines.
+II. SERVICE OF THE COMPLAINT
+Plaintiff(s) shall promptly serve the complaint in accordance with Federal Rule
+of Civil Procedure 4 and file proofs of service pursuant to the Local Rules. This
+Order serves as notice pursuant to Federal Rule of Civil Procedure 4(m) that failure
+by plaintiff(s) to file a timely proof of service of the summons and complaint will
+result in the dismissal of the case for failure to prosecute. In addition, any
+defendant(s) not timely served will be dismissed from the action without prejudice
+and any “Doe” or fictitiously named defendant who is not identified and served
+within ninety (90) days after the case is filed will be dismissed pursuant to Federal
+Rule of Civil Procedure 4(m).
+III. CONSENT TO A MAGISTRATE JUDGE
+Under 28 U.S.C. § 636, the parties may consent to have a magistrate judge
+preside over all proceedings, including trial. The magistrate judges who accept those
+3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+designations are identified on the Central District’s website at
+http://www.cacd.uscourts.gov/judges-requirements/court-programs/voluntary-
+consent-magistrate-judges, which also contains a link to the consent form CV-11D.
+The parties can select a participating magistrate judge from any of the three divisions
+in the Central District of California. In addition, magistrate judges do not handle
+felony criminal trials; therefore, civil trial dates are not at risk of being preempted by a
+felony criminal trial, which normally has priority. Further, in most cases, a magistrate
+judge may be able to assign a more flexible trial date than a district judge. There may
+be other advantages or disadvantages which you will want to consider.
+Parties wishing to consent to a magistrate judge shall complete and attach Form
+CV-11D (Statement of Consent to Proceed Before a United States Magistrate Judge) to a Notice
+of Lodging of Consent Form, which shall be e-filed as required by Local Rule 5-4.4 as
+a proposed document.
+IV. ALTERNATIVE DISPUTE RESOLUTION
+No case will proceed to trial unless all parties, including the principals of all
+corporate parties, have appeared personally at a settlement conference under the
+Court-Directed Alternative Dispute Resolution (“ADR”) Program (Local Rule 16-
+15.4) and complied with Local Rule 16-15.5.
+Upon receipt of oral or written notice that a case has settled, the Court
+will administratively close the case and if no agreed final order or judgment is
+thereafter submitted within thirty (30) days, or if no party files a motion to
+reopen within such time, the case shall, without further order, stand dismissed
+with prejudice.
+V. DISCOVERY
+Parties are to commence discovery as soon as the first answer or motion to
+dismiss is filed. The parties should note that, unless otherwise ordered, discovery
+will not be stayed while any motion is pending, including any motion to dismiss,
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+motion for protective order, or motion to stay. Similarly, discovery will not be
+stayed pending completion of the Court’s mandatory ADR requirement.
+Whenever possible, the Court expects counsel to resolve discovery disputes
+among themselves in a courteous, reasonable, and professional manner. Discovery
+disputes should, therefore, be limited to those rare occasions where the parties cannot
+resolve a matter despite diligent and good faith efforts to meet and confer.
+All discovery matters have been referred to the assigned magistrate judge, who
+will hear all discovery disputes. The magistrate judge’s initials follow the district
+judge’s initials next to the case number. All discovery-related documents must include
+the words “DISCOVERY MATTER” in the caption to ensure proper routing.
+Counsel are directed to review the magistrate judge’s Procedures and Schedules on the
+Central District’s website to schedule discovery matters for hearing. Discovery is
+governed by the Federal Rules of Civil Procedure and applicable Local Rules of the
+Central District of California. In particular, counsel must strictly comply with Civil
+Local Rule 37, including the meet and confer and joint stipulation requirements.
+Counsel are expressly cautioned that failure to comply with or cooperate in the Local
+Rule 37 procedures and/or the filing of frivolous motions may result in the
+imposition of sanctions. See FED. R. CIV. P. 11; L.R. 37-4.
+In accordance with 28 U.S.C. § 636(b)(1)(A), the magistrate judge’s decision
+shall be final, and this Court will not reverse any order of the magistrate judge unless
+it has been shown that the magistrate judge’s order is clearly erroneous or contrary to
+law. FED. R. CIV. P. 72(a). Any party may file and serve a motion for review and
+reconsideration before this Court. See L.R. 72-2. The moving party must file and
+serve the motion within fourteen (14) days of service of a written ruling or an oral
+ruling that the magistrate judge states will not be followed by a written ruling. The
+motion must specify which portions of the ruling are clearly erroneous or contrary to
+law, and the claim must be supported by points and authorities.
+5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+In addition, the magistrate judge does not have authority to order discovery
+after the discovery cut-off or to continue the discovery cut-off. See United States v.
+Celgene Corp., No. CV 10-3165-GHK-SSx, 2015 WL 9661172, at *1 (C.D. Cal. Oct.
+16, 2015) (holding a magistrate judge “does not have the authority to order discovery
+after the deadline set by the District Judge”). Accordingly, any stipulations or
+motions to continue discovery deadlines shall be separately filed and noticed for
+hearing before Judge Kato. However, the Court is not inclined to grant any
+extensions of the discovery or other case-related deadlines. The parties are,
+therefore, directed to conduct any necessary discovery as soon as possible.
+VI. ARTIFICIAL INTELLIGENCE
+Any party who uses generative artificial intelligence (such as ChatGPT, Harvey,
+CoCounsel, or Google Bard) to generate any portion of a motion, brief, pleading, or
+other filing must attach to the filing a separate declaration disclosing the use of
+artificial intelligence and certifying that the filer has reviewed the source material and
+verified that the artificially generated content is accurate and complies with the filer’s
+Rule 11 obligations. Non-compliance and/or citations to non-existent or inaccurate
+sources will result in sanctions of $500 for an initial violation and $500 for each
+subsequent violation. All counsel are reminded of their ongoing obligation to ensure
+all representations to the Court are “to the best of the person’s knowledge,
+information, and belief, formed after an inquiry reasonable under the circumstances.”
+FED. R. CIV. P. 11(b).
+VII. MOTIONS – GENERAL REQUIREMENTS
+1. Time for Filing and Hearing Motions
+This Court hears civil motions on Thursdays, beginning at 9:30 a.m. If
+Thursday is a court holiday, motions will be heard on the next Thursday. It is not
+necessary to clear a hearing date with the Court Clerk before filing a motion. Counsel
+must check the Court’s website for Closed Motion Dates. If the motion date selected
+is not available, the Court will issue a minute order continuing the date.
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Adherence to the timing requirements is mandatory for chambers’ preparation
+of motion matters. The parties may stipulate to a different briefing schedule, so long
+as the schedule provides at least two weeks between the filing of the reply and the
+hearing date.
+If the parties are able to resolve the issue, or if a party intends to
+withdraw or declines to oppose a motion, the Court must be notified as soon as
+possible, but no later than seven days before the hearing date. Failure to
+oppose a motion will likely result in the motion being granted immediately
+after the opposition would have been due. See L.R. 7-12.
+2. Pre-Filing Conference Requirement
+Counsel for the parties shall meet and confer pursuant to Local Rule 7-3, which
+requires “counsel contemplating filing of any motion” to “first contact opposing
+counsel to discuss thoroughly, preferably in person, the substance of the
+contemplated motion and any potential resolution.” The parties must discuss in real-
+time all issues to be raised in the motion, as well as the law and evidence relevant to
+those issues, so that the parties’ briefing reflects that they are fully cognizant of the
+other side’s position(s). Letters and e-mail are insufficient to satisfy the prefiling
+conference requirements of Local Rule 7-3. The notice of motion must include a
+statement of compliance with Local Rule 7-3. The Court may strike or summarily
+deny a motion if counsel fails to adequately meet and confer in good faith.
+3. Proposed Orders
+Each party filing or opposing a motion or seeking the determination of any
+matter shall serve and electronically lodge – at the time the moving or opposition
+papers are filed – a proposed order setting forth the relief or action sought and a brief
+statement of the rationale for the decision with appropriate citations. In addition, a
+copy of the proposed order in Word format shall be e-mailed to chambers at
+kk_chambers@cacd.uscourts.gov on the day the document is e-filed.
+7
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+VIII. SPECIFIC MOTIONS
+1. Motions for Class Certification
+The parties in a putative class action are to act diligently and begin discovery
+immediately, so that the motion for class certification can be filed expeditiously. For
+any action purporting to commence a class action, other than an action subject to the
+Private Securities Litigation Reform Act of 1995, plaintiff(s) shall file a motion for
+class certification no later than 100 days from the set date of the scheduling
+conference, regardless of whether the scheduling conference is later vacated. This
+deadline will be continued only upon a showing of due diligence and good cause.
+2. Motions to Dismiss or Strike
+Many motions to dismiss or strike can be avoided if the parties confer in good
+faith as required by Local Rule 7-3, especially for perceived defects in a complaint,
+answer, or counterclaim that can be corrected by amendment. See Eminence Cap.,
+LLC v. Aspeon, Inc., 316 F.3d 1048, 1052 (9th Cir. 2003) (where a motion to dismiss
+is granted, a district court should provide leave to amend unless it is clear that the
+complaint could not be saved by any amendment). Even after a complaint has been
+amended or a responsive pleading has been served, the Federal Rules of Civil
+Procedure provide that leave to amend should be “freely given when justice so
+requires.” FED. R. CIV. P. 15(a). Indeed, the Ninth Circuit requires that this policy
+favoring amendment be applied with “extreme liberality.” Owens v. Kaiser Found.
+Health Plan, Inc., 244 F.3d 708, 712 (9th Cir. 2001).
+Consequently, parties should carefully consider and weigh an opponent’s
+contentions as to the deficiencies in a pleading. The Court expects that, in most
+instances, the parties will agree to any amendment that would cure the defect.
+3. Motions to Amend
+In addition to complying with the requirements of Local Rule 15-1, all motions
+to amend pleadings shall: (1) state the effect of the amendment; and (2) identify the
+page and line number(s) and wording of any proposed change or addition of material.
+8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+The proposed amended pleading shall be serially numbered to differentiate it from
+previously amended pleadings (e.g., “Second Amended Complaint” or “Third
+Amended Answer and Counterclaims”). In addition to Local Rule 15-1’s requirement
+of electronic lodging of the proposed amended pleading as a document separate from
+the motion, counsel shall attach as an appendix to the moving papers a “redlined”
+version of the proposed amended pleading, indicating all additions and deletions of
+material.
+4. Continuances or Extensions of Time
+Requests for continuances will not be granted routinely. Counsel must submit
+any request for a continuance or extension of time no later than five (5) court days
+prior to the expiration of the scheduled date. Requests to continue dates that have
+passed will be denied. Stipulations extending scheduling dates set by this Court are
+not effective unless approved by the Court. The caption of any request for a
+continuance or extension of time shall indicate how many previous extensions
+have been requested (e.g., First, Second, Third, etc. Request for Extension).
+Counsel requesting a continuance must submit a properly noticed motion or
+stipulation, with a detailed declaration that demonstrates good cause as to why the
+change in the date is essential, and a proposed order. The motion or stipulation must
+also indicate whether there have been any previous requests for continuances and
+whether those requests were granted or denied by the Court. Any continuances that
+are requested without an accompanying declaration will be rejected without further
+notice to the parties.
+If it is necessary to file an ex parte application seeking an extension of any
+deadlines, the application must be accompanied by a declaration setting forth the
+reasons for the requested extension of time. The declaration must also indicate
+whether there have been any previous requests for continuances and whether those
+requests were granted or denied by the Court.
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+The Court sets firm dates and will not change them without a showing of good
+cause. Such a showing generally requires unforeseeable circumstances and a showing
+of diligence by the parties in pursuing discovery. See Johnson v. Mammoth
+Recreations, Inc., 975 F.2d 604, 609 (9th Cir. 1992) (“Rule 16(b)’s ‘good cause’
+standard primarily considers the diligence of the party seeking the amendment.”).
+5. Ex Parte Applications
+Counsel are reminded that ex parte applications are solely for extraordinary
+relief and are discouraged. Mission Power Eng’g Co. v. Cont’l Cas. Co., 883 F. Supp.
+488, 488 (C.D. Cal. 1995). A party seeking ex parte relief must show: (1) “the moving
+party’s cause will be irreparably prejudiced if the underlying motion is heard according
+to regular noticed motion procedures”; and (2) “the moving party is without fault in
+creating the crisis that requires ex parte relief,” or “the crisis occurred as a result of
+excusable neglect.” Id. at 492. Applications that do not meet the requirements set
+forth in Local Rule 7-19 will not be considered. Sanctions may be imposed for misuse
+of ex parte applications. The Court considers ex parte applications on the papers and
+usually does not set these matters for hearing.
+The moving party shall file and serve the opposing party by electronic mail or
+hand delivery and shall notify the opposing party that opposing papers must be filed
+not later than twenty-four hours following such electronic mail or hand service. The
+twenty-four-hour clock runs on business days only.
+The moving party’s declaration in support of an ex parte application shall
+demonstrate compliance with Local Rule 7-19 and this Order. Failure to comply with
+the Local Rules and this Order will result in the application being denied.
+If a party does not intend to oppose an ex parte application, the party must
+inform the CRD as soon as possible but not later than twenty-four hours following
+service. Unless otherwise ordered, reply briefs are not allowed and will be stricken.
+///
+///
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+6. TROs and Injunctions
+Parties seeking emergency or provisional relief shall comply with Federal Rule
+of Civil Procedure 65 and Local Rule 65. The caption of any such request for
+relief shall indicate whether the request is “Unopposed” or “Opposed.” The
+Court will not rule on any application for such relief for at least twenty-four hours
+after the party subject to the requested order has been served, unless service is
+excused. Such party may file opposing or responding papers in the interim.
+7. Summary Judgment Motions
+Each side is allowed one motion for summary judgment pursuant to Federal
+Rule of Civil Procedure 56, regardless of whether such motion is denominated as a
+motion for summary judgment or summary adjudication. To the extent it is
+appropriate based on undisputed facts and controlling principles of law, the court may
+sua sponte enter summary judgment for the nonmoving party.
+Counsel should not wait until the motion cut-off to file their motion for
+summary judgment or partial summary judgment. All potentially dispositive motions
+shall comply with the requirements set forth in the Court’s Civil Trial Scheduling
+Order.
+8. Motions for Default Judgment
+Unless otherwise ordered, motions for default judgment shall be filed no later
+than 14 days after the later of (1) entry of default against the last remaining defendant,
+or (2) resolution of all claims against all defendants who have not defaulted. A
+motion for default judgment must include a showing of both subject matter
+jurisdiction and personal jurisdiction. See In re Tuli, 172 F.3d 707, 712 (9th Cir.
+1999).
+9. Motions for Attorney’s Fees
+Motions for attorney’s fees shall be electronically filed and set for hearing
+according to Local Rule 6-1 and this Order. Any motion or request for attorney’s fees
+11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+shall attach a summary, in table form, of the hours worked by and billing rate of each
+attorney with title (e.g., partner, counsel, associate, etc.).
+The table shall include a summary of the hours worked by each attorney,
+organized by attorney. The table shall list all the tasks on which the attorney worked,
+the hours worked on each task, and the hourly rate of each attorney. If the hourly
+rate charged by any individual attorney changed while the action was ongoing, the
+party shall provide separate calculations for the total number of hours the attorney
+spent in connection with each task at each hourly rate.
+The table shall be attached to the motion and electronically filed. The courtesy
+copies of the table shall be prepared in Excel, have all restrictions removed so the
+spreadsheets can be edited, and be emailed to opposing counsel and the Court’s
+chambers email address at kk_chambers@cacd.uscourts.gov.
+An opposing party shall specify its objections to the fee requests and time spent
+in the form set forth below:
+ATTORNEY DATE DESCRIPTION TIME
+CHALLENGED
+REDUCE
+BY
+OBJECTION REASON FOR
+OBJECTION
+J. Doe 1/21/21 T/C with
+consultant
+3.0 3.0 Vague Fails to
+articulate who
+the consultant
+was and what
+the
+conversation
+concerned.
+S. Roe 2/1/21 Research Notice
+of Related Cases
+2.5 2.3 Excessive Notice of
+Related Cases is
+a form
+document.
+Attorney S. Roe
+should not
+charge for basic
+research.
+J. Doe 2/21/21 Calendar ed dates 1.3 1.3 Clerical work Attorney
+cannot charge
+for clerical
+work.
+///
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+IX. CASES REMOVED FROM STATE COURT
+Any answers filed in state court must be re-filed in this Court separately as a
+supplement to the Notice of Removal. Any pending motions must be re-noticed in
+accordance with Local Rule 6-1. If a removed action contains a “form pleading,” i.e.,
+a pleading in which boxes are checked, the party or parties that filed the form
+pleading must file an appropriate pleading with this Court within thirty (30) days of
+the filing of the notice of removal. If a responsive pleading is required, the responsive
+pleading shall be filed in accordance with the Federal Rules of Civil Procedure.
+This Court adheres to the following procedures when a complaint with
+fictitiously named defendants is removed to this Court on diversity grounds. See 28
+U.S.C. §§ 1441(a) and 1447.
+(a) Plaintiff(s) must ascertain the identi ty of and serve any fictitiously named
+defendants before the date of the Rule 16(b) scheduling conference. The Court
+generally will dismiss “Doe” defendants on or after the date of the scheduling
+conference, as they prevent the Court from accurately tracking its cases.
+(b) If plaintiff(s) believe (by reas on of the necessity for discovery or
+otherwise) that all fictitiously named defendants cannot be identified within
+that period, a request to extend the time must be made in the Joint Rule 26(f)
+Report. Counsel should state the reasons why fictitiously named defendants
+have not been identified and served.
+(c) If plaintiff(s) want to substitute a defendant for one of the fictitiously
+named defendants, plaintiff(s) must first seek the consent of counsel for all
+defendants (and counsel for the fictitiously named party, if that party has
+separate counsel). If consent is withheld or denied, plaintiff(s) should file a
+regularly noticed motion. The motion and opposition should address whether
+the matter should thereafter be remanded to the superior court if diversity is
+destroyed by the addition of the newly substituted party. See 28 U.S.C.
+§§ 1447(c) and (e).
+13
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+X. ERISA CASES INVOLVING BENEFITS CLAIMS
+The Court may issue an Order Setting Scheduling Conference as a matter of
+course in ERISA cases involving benefits claims. However, because the ordinary
+pretrial and trial schedule does not apply to these cases, the parties need only submit a
+Joint Status Report identifying any special issues that should be considered.
+The parties should proceed with the preparation of the administrative record
+and briefing without delay upon service of the complaint. If necessary, the Court will
+hear motions to determine the standard of review, whether discovery will be
+permitted, and the scope of the administrative record. Counsel are discouraged from
+filing motions for summary judgment or partial summary judgment for a merits
+determination. See Kearney v. Standard Ins. Co., 175 F.3d 1084, 1095 (9th Cir. 1999)
+(en banc) (noting the difference in procedures between Rule 56 and Rule 52). A
+bench trial, ordinarily limited to oral argument on the administrative record, will be
+scheduled within six months from the filing of the original complaint, unless good
+cause for additional time is shown in the Joint Status Report. If the Court concludes
+that the decision would not benefit from oral argument, the matter may be submitted
+for decision on the papers.
+XI. NOTICES OF UNAVAILABILITY
+A “Notice of Unavailability” has no force or effect in this Court and should
+not be filed. The filing of such a document may result in sanctions. The Court
+nonetheless expects that counsel will conduct themselves appropriately and will not
+deliberately schedule Court or other proceedings when opposing counsel are
+unavailable.
+XII. COMMUNICATIONS WITH CHAMBERS
+Counsel must not attempt to contact the Court or its chambers staff by
+telephone or by any other ex parte means unless contact has been first initiated by
+chambers staff. Counsel may contact the courtroom deputy clerk with appropriate
+inquiries. The preferred method of communication with the courtroom deputy clerk
+14
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+is through the Court’s chambers email address at kk_chambers@cacd.uscourts.gov.
+All counsel shall be included on any communications with the courtroom deputy
+clerk. In addition, to facilitate communication with the courtroom deputy clerk,
+counsel should list their email addresses along with their telephone numbers on all
+papers.
+XIII. PRESENCE OF LEAD COUNSEL
+Lead trial counsel must attend any proceeding set by this Court, including all
+scheduling, pretrial, and settlement conferences. Only ONE attorney for a party may
+be designated as lead trial counsel unless otherwise permitted by the Court. Counsel
+should not claim to be co-lead trial counsel for the purpose of avoiding this
+requirement. If counsel purport to be co-lead trial counsel, both must attend the
+pretrial conference. Unless lead trial counsel’s absence is excused by the Court for
+good cause no less than five (5) court days in advance of the hearing, or is due to an
+emergency that prevented prior notice, the Court reserves the right to designate the
+attorney handling such proceeding as lead counsel for all purposes. Failure of lead
+counsel to appear will be grounds for sanctions.
+XIV. INTERPRETER SERVICES
+Counsel in civil actions are responsible for arranging for the services of an
+interpreter. The Interpreter’s Office may be reached at (213) 894-4599.
+XV. CHAMBERS COURTESY COPIES
+The Court does not require chambers copies of any motion papers or
+exhibits and discourages the parties from sending chambers courtesy copies,
+with the following exceptions: the Court requires (1) one mandatory chambers
+copy of motions for summary judgment and motions for class certification, as well as
+any associated briefing, including oppositions and replies, and (2) one mandatory
+chambers copy of overlength briefs when the Court has granted a party’s request for
+leave to file an overlength brief. Chambers copies shall be delivered to Judge Kato’s
+“Mandatory Chambers Copies” box, located on the third floor of the George E.
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Brown Federal Building, 3470 Twelfth Street, Riverside, CA 92501. A mandatory
+chambers copy must comply with Local Rule 11-3 (i.e. font size, page numbering,
+exhibit tabbing, etc.) but need not be blue-backed. The mandatory chambers copy
+must be prominently labeled MANDATORY CHAMBERS COPY on the face page.
+XVI. GUIDANCE FOR PRO SE LITIGANTS
+Parties proceeding pro se, i.e., without an attorney, often face special challenges
+in federal court. The Public Service Law Corporation runs a free Federal Pro Se
+Clinic at the following federal courthouses where pro se litigants can get information
+and guidance:
+(1) Roybal Federal Building and Cour thouse, 255 East Temple Street, Suite
+170, Los Angeles, California 90012. The Los Angeles location of the clinic
+operates by appointment only. Pro se litigants may schedule an appointment
+either by calling the clinic at (213) 385-2977, ext. 270, or submitting an internet
+request at http://prose.cacd.uscourts.gov/los-angeles. Clinic staff can respond
+to many questions with a telephonic appointment or through email. It may be
+more convenient to email your questions or schedule a telephonic
+appointment. Staff can also schedule you for an in-person appointment.
+(2) George E. Brown Federal Buildin g, 3470 Twelfth Street, Room 125,
+Riverside, CA 92501. For more information, pro se litigants may call (951)
+682-7968 or visit http://prose.cacd.uscourts.gov/riverside.
+(3) Ronald Reagan Federal Building an d United States Courthouse, 411 W.
+4th Street, Room 1055, Santa Ana, CA 92701. For more information, pro se
+litigants may call (714) 541-1010, ext. 222, or visit
+http://prose.cacd.uscourts.gov/santa-ana.
+Further information about the Federal Pro Se Clinic may be found on the
+Court’s website at https://prose.cacd.uscourts.gov/.
+///
+///
+16
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+XVII. NOTICE
+Counsel for plaintiff(s) or plaintiff(s) (if appearing on their own behalf) shall
+immediately serve this Order on all parties, including any new parties to the action. If
+this case was removed from state court, the removing defendant(s) shall serve this
+Order on all other parties.
+The Court thanks the parties and their counsel for their anticipated cooperation
+in complying with these requirements.
+IT IS SO ORDERED.
+Dated:
+HONORABLE KENLY KIYA KATO
+United States District Judge

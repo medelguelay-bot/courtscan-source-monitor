@@ -1,0 +1,851 @@
+1 Updated: May 2025
+U.S. DISTRICT JUDGE MARINA GARCIA MARMOLEJO
+United States Courthouse Angie Treviño, Case Manager
+1300 Victoria St. Ste. 2267 Tel: (956) 790-1364
+Laredo, TX 78040 Fax: (956) 726-2900
+Tel: (956) 726-2209 Email: angie_trevino@txs.uscourts.gov
+Fax: (956) 726-2900
+COURT PROCEDURES IN CIVIL CASES
+1. Contact with Court Personnel
+2. Courtesy Copies of Documents
+3. Emergencies
+4. Continuances
+5. Appearances
+6. Motion Practice
+7. Memoranda of Law
+8. Use of Generative Artificial Intelligence (AI)
+9. Initial Pretrial Conference and Scheduling Orders
+10. Required Trial Materials (including Pretrial Orders)
+11. Trial Settings
+12. Exhibits
+13. Equipment
+14. Courtroom Procedures
+15. Depositions
+16. Settlement and Orders of Dismissal
+17. Attachments
+THESE PROCEDURES MUST BE SERVED WITH THE SUMMONS AND COMPLAINT OR
+REMOVAL PAPERS and are to be used in conjunction with the Local Rules for the Southern
+District of Texas and not as a substitute for them. The Local Rules of this District can be
+obtained on the District website at www.txs.uscourts.gov. The Court requires strict compliance
+with these Local Rules.
+2 Updated: May 2025
+1. CONTACT WITH COURT PERSONNEL
+A. The Court requires parties to file documents through the District Court’s
+Case Management/Electronic Case Filing (“CM/ECF”) System. See
+Southern District of Texas Local Rule 5.1 (LR 5.1) and the District’s
+Administrative Procedures for CM/ECF (as amended and available at
+www.txs.uscourts.gov).
+B. Case-related telephone and email inquiries are strictly limited to
+procedural matters and should be made only to the Case Manager .
+Inquiries should not be made to the Court’s judicial assistant or law clerks.
+The Court’s caseload does not allow the Case Manager to respond to casual
+telephone inquiries about the status of motions or cases. All inquiries to
+the Case Manager should be by letter sent or delivered to Chambers, or by
+email. See Section 1.D below.
+C. Information about the status of documents, entry of orders, or docket
+entries should be obtained from the CM/ECF or Pacer Systems, or if
+absolutely necessary, from the United States District Clerk’s Office at
+(956) 723-3542.
+D. Correspondence with the Court must be delivered or sent to the Court’s
+Chambers:
+1) Case-related correspondence should be addressed to:
+Angie Treviño
+Case Manager to District Judge Marina Garcia Marmolejo
+1300 Victoria St., Ste. 2267
+Laredo, TX 78040
+Or by email: angie_trevino@txs.uscourts.gov
+2) Do not address substantive issues in letter or email form. Parties
+must file copies of all letters. Email correspondence with the Court
+will be docketed at the Court’s discretion.
+3) Copies of urgent documents (including letters) may be sent by First
+Class Mail, emailed, or hand-delivered to Chambers via the Court’s
+Case Manager, with copies to all parties. (See Emergencies, Section
+3 below.) Service copies must be transmitted to all counsel of record
+simultaneously with or prior to transmission to the Court and in the
+same manner as transmitted to the Court. The documents may not
+be faxed without express prior permission of the Court.
+3 Updated: May 2025
+2. COURTESY COPIES OF DOCUMENTS
+A. Letters to the Court may be hand- delivered, sent by First Class Mail to
+Chambers, or transmitted by email, with copies to all parties served prior
+to or at the time of filing. See addresses above. Letters concerning
+discovery and scheduling matters must be filed in the docket.
+B. The parties must forward promptly to Chambers courtesy copies of (i) all
+documents that exceed ten (10) pages in length, including exhibits and
+attachments, and (ii) documents pertaining to matters to be heard by the
+Court within seven (7) days after the documents are filed. Unless this rule
+is followed, the Court will not consider any documents filed within seven
+(7) days of any Court appearance. Do not fax or email copies of
+documents to Chambers unless specifically authorized to do so by the
+Court.
+3. EMERGENCIES
+A. Applications for restraining orders or for other immediate relief shall be
+filed electronically through the CM/ECF system and all related
+communications with the Court must be through the Case Manager.
+1) Such applications shall be presented to the Court by the Case
+Manager following counsel’s affirmation that the opposing party
+has been contacted and that both parties can be available for a
+conference before the Court, or an explanation of why such contact
+is not legally required.
+2) Ex parte applications for restraining orders will not be entertained
+by the Court unless the requirements of F ED. R. CIV. P. 65(b) have
+been satisfied.
+B. Motions for extension of deadlines or cut-off dates in the Scheduling Order
+are not emergencies. (See Continuances, Section 4 below.)
+4. CONTINUANCES
+A. Motions for continuance must be filed at least THREE (3) business
+days prior to the date of the controlling deadline and will be granted
+only at the Court’s discretion. Motions for continuance filed on the
+date of the deadline, absent a showing of good cause, will not be
+granted.
+B. Agreements or joint motions among counsel for continuance are not
+binding on the Court. Parties must notify the Court of agreed
+continuances by submitting an agreed motion and proposed order.
+4 Updated: May 2025
+C. A trial will not be continued because of the unavailability of a witness.
+Counsel are expected to anticipate such possibilities and should be
+prepared to present testimony by written deposition, videotaped
+deposition, or by stipulation.
+5. APPEARANCES
+A. An attorney who appears at a hearing or conference must:
+1) be familiar with the case,
+2) have authority to bind the client, and
+3) be in charge for that appearance.
+B. All counsel wishing to appear at a conference or hearing by telephone must
+submit a written request by e-mail to the Case Manager as far in advance
+of the conference as reasonably possible, unless explicitly authorized by
+the Court in an order or notice of setting. The Court will attempt to
+accommodate such requests.
+C. Failure to appear when notified of a setting may subject the attorney
+and/or his or her client to sanctions, including dismissal for want of
+prosecution and/or other appropriate order or judgment.
+D. Motions for admission pro hac vice shall include the attorney applicant’s
+averment that he or she has familiarized him/herself with the Local Rules
+of the Southern District of Texas and these Procedures applicable to civil
+cases before Judge Garcia Marmolejo. ( See attached form, also available
+at the Court’s website.)
+E. Young Lawyers. The Court strongly encourages litigants to be mindful
+of opportunities for young lawyers ( i.e., lawyers practicing for less than
+seven years) to conduct hearings before the Court, particularly for motions
+where the young lawyer drafted or contributed significantly to the
+underlying motion or response. The Court believes it is crucial to provide
+substantive speaking opportunities to young lawyers, and that the
+benefits of doing so will accrue to young lawyers, to clients, and to the
+profession generally. Thus, the Court encourages all lawyers practicing
+before it to keep this goal in mind.
+5 Updated: May 2025
+6. MOTION PRACTICE
+A. General Guidelines. The Court follows the written motion practice
+described in the Local Rules. In addition, the following procedures apply:
+1) Counsel must make serious and timely efforts to c onfer with
+opposing counsel on all motions to try to reach agreements on the
+relief to be requested by the movant.
+2) Every non -dispositive motion must contain a certificate of
+conference. Failure to comply may result in the party’s pleading
+being denied or stricken.
+3) All motions, except summary judgment motions filed pursuant to
+FED. R. CIV. P. 56, must be accompanied by a separate proposed
+order granting or denying the relief requested.
+4) Opposed motions generally will be considered by the Court after the
+expiration of 28 days from the motion filing date. Responses by the
+non-movant must be filed within 21 calendar days of the motion.
+The movant’s reply must be filed within 7 calendar day s after the
+non-movant’s response.
+When circumstances dictate, the Court may consider a motion prior
+to expiration of the 28 day period.
+Parties may, by agreement, extend a motion submission day, but
+must give the Court prompt written notice of the agreement
+accompanied by a proposed order granting the extension. Parties’
+agreed extensions in violation of a Court imposed deadline require
+Court approval.
+5) Because most motions will be ruled on without an oral hearing,
+focused and clear motion papers are very important. Requests for
+oral argument on motions are not necessary. The Case Manager
+will notify counsel should the Court determine that oral argument
+would be beneficial.
+6) All pleadings or other documents filed under seal in a civil case must
+be identified as “SEALED” in the title of the document. For
+example, a motion for summary judgment filed under seal must be
+docketed as “MOTION for Summary Judgment (SEALED).” No
+pleading may be filed for docketing simply as “SEALED
+DOCUMENT” without advance permission of the Court.
+7) Any pleadings filed with the Court, including exhibits thereto,
+containing personal data identifiers must comply with the S.D.
+Texas General Order #2004-11 (available at the District’s website)
+on protecting personal privacy in public case files.
+6 Updated: May 2025
+B. Submitted Motions – Need for Expedited Decision.
+1) If a pending motion requires resolution on an expedited basis,
+please advise the Court by letter.
+2) The Court will rule on expedited motions as soon as possible after
+the submission day or a response is filed. See Section 6.A.4 above.
+Counsel of record and pro se parties will be furnished with copies of
+orders.
+C. Discovery and Scheduling Disputes.
+1) The Court believes that most discovery and schedule- related
+disputes, especially those dealing with (i) scheduling, (ii) the
+number, length, and form of oral and written questions, (iii) the
+responsiveness of answers to oral and written questions, and (iv)
+the mechanics of document productions, including protective orders
+and the proper method of raising claims of privilege, can be resolved
+by counsel without the intervention of the Court. Counsel are
+responsible for conferring in good faith to resolve discovery
+and scheduling disputes. See Section 6.A.1 above.
+2) If counsel for the parties are unable to reach an agreement, the
+motion MUST contain a certificate of conference pursuant to SDTX
+LR 7.1D and Section 6.A.2 above and specify the date, time, and
+place of the parties’ prior out- of-court discovery or scheduling
+discussion(s), the names of all counsel that participated in the
+discussion(s), and a brief summary of the results of the
+discussion(s).
+7. MEMORANDA OF LAW
+A. Page Limits and Briefing Requirements. The Court requires concise,
+pertinent, and well organized memoranda of law. Without leave of Court,
+all memoranda of law are limited to 25 pages, 12 -point type font, double-
+spaced, with 1" margins. All memoranda of law must contain items 3, 4,
+6, and 7 below. Any memorandum that has more than ten (10) pages of
+argument must contain the following eight (8) items:
+1) a table of contents setting forth the page number of each section,
+including all headings designated in the body of the brief or
+memorandum;
+2) an alphabetically arranged table of all citations to cases, statutes,
+rules, textbooks, and other authorities that appear in
+memorandum;
+7 Updated: May 2025
+3) a short statement of the nature and stage of the proceeding;
+4) a statement of the issues to be ruled on by the Court and, with
+respect to each issue, a short statement (supported by authority) of
+the standard of review;
+5) a short summary of the argument;
+6) succinct headings dividing the argument into separate points;
+7) a short conclusion stating the precise relief sought; and
+8) proposed orders (except on summary judgment motions).
+B. Copies of Authorities and Other Materials Cited.
+1) Please append copies of cases and the relevant parts of authorities
+that are cited in a brief, memorandum, or motion only if the
+authorities are not published or reasonably available
+through Westlaw or Lexis-Nexis.
+2) Copies of supporting affidavits, deposition testimony excerpts, and
+other discovery referred to in the briefs should be separately filed in
+one or more appendices of no more than 40 pages each.
+3) All appendices should contain a table of contents. Conventionally
+filed ( i.e., not electronically) appendices and all courtesy copies
+should be tabbed at the right margin to facilitate location of the
+materials cited.
+8. USE OF GENERATIVE ARTIFICIAL INTELLIGENCE (AI)
+Attorneys and self -represented litigants must ensure that any filing prepared
+with the assistance of generative artificial intelligence (e.g., ChatGPT,
+Harvey.AI, or similar tools) is thoroughly reviewed for factual and legal accuracy
+prior to submission. These tools are capable of producing content that may be
+factually incorrect or legally unsound.
+All counsel and pro se parties are reminded that, consistent with Federal Rule of
+Civil Procedure 11, the person signing any pleading, motion, or other paper
+remains fully responsible for its content, regardless of whether it was drafted in
+whole or in part by generative AI. The Court will not accept the excuse that such
+content was prepared by AI, staff, or others when assessing potential violations
+of Rule 11 or applicable ethical obligations.
+Attorneys are further reminded of their professional obligations under the Texas
+Disciplinary Rules of Professional Conduct, including the duty of candor to the
+tribunal and the prohibition against knowingly offering false statements of law.
+8 Updated: May 2025
+See Tex. Disciplinary Rules Prof’l Conduct r. 3.03(a) (Tex. Bar Ass’n 2024).
+Attorneys must also remain proficient and competent in the practice of law,
+including recognizing the benefits and risks associated with relevant technology.
+See id. at 1.01, cmt. 8.
+The Court adopts and incorporates by reference Chief Judge Randy Crane’s
+General Order 2025-04 on the Use of Generative Artificial Intelligence in Court
+Filings.
+9. INITIAL PRETRIAL CONFERENCES AND SCHEDULING ORDERS
+Please refer to LR 16.1 and Section 5 above (“Appearances”) for general
+procedures for conferences. In addition:
+A. Shortly after a party files a complaint or removes a case, the Court will
+issue an Order containing, among other things, a deadline for the parties
+to file a Joint Case Management Plan and a setting for the Initial Pretrial
+and Scheduling Conference.
+B. After the Initial Pretrial and Scheduling Conference, the Court will enter
+a Scheduling Order that will control various pretrial deadlines.
+1) In the Joint Case Management Plan, the parties must propose
+deadlines for the completion of various pretrial matters and the
+Court will consider those proposed dates at the Initial Pretrial and
+Scheduling Conference.
+2) The Scheduling Order will govern throughout the case. The
+Scheduling Order deadlines shall not be modified except by leave
+of this Court upon a showing of good cause.
+3) If a change to an existing Scheduling Order is requested, the parties
+shall submit recommendations for adjusting all dates in the
+Scheduling Order that follow the date the parties seek to modify.
+4) Counsel shall include in their filings their email addresses.
+C. Added Parties. If new parties are joined after entry of the Scheduling
+Order, the party causing such joinder shall provide to the new parties
+copies of: (i) all orders and pleadings previously filed in the case, (ii) the
+operative Scheduling Order, and (iii) these Court Procedures.
+10. REQUIRED TRIAL MATERIALS
+A. Joint Pretrial Order. Joint Pretrial Orders must be signed by all
+counsel. All parties are responsible for complying with all requirements
+to prepare the Joint Pretrial Order.
+9 Updated: May 2025
+1) Plaintiff is primarily responsible for ensuring that a complete Joint
+Pretrial Order is timely filed. A form Joint Pretrial Order is
+attached to these Procedures and is also available on the Court’s
+website. The Joint Pretrial Order form should be followed, but may
+be adapted, within reason, to accommodate for the size and nature
+of the case. If Plaintiff fails to file the Joint Pretrial Order, then
+Defendant is responsible for filing Defendant’s portions of a
+Proposed Pretrial Order in the Joint Pretrial Order format.
+2) Plaintiff must deliver to Court’s Chambers a courtesy copy of the
+Joint Pretrial Order with all attachments.
+3) Failure to timely file the Joint Pretrial Order will subject counsel
+and the client to sanctions, including dismissal for want of
+prosecution and/or other appropriate relief. This applies also to
+parties appearing pro se.
+B. Other Required Documents. With the filing of the Joint Pretrial Order,
+each party also must file:
+1) For All Trials and Evidentiary Hearings:
+a. Exhibit List (see attached form, also available at the Court’s
+website).
+b. Witness List for live witnesses ( see attached form, also
+available at the Court’s website).
+c. Designation of deposition excerpts for witnesses being
+called by deposition. A copy of each deposition excerpt must
+be provided to the Court.
+d. Objections, if any, to an opponent’s exhibits, witnesses, or
+deposition excerpts must be filed within fourteen (14)
+calendar days prior to the scheduled trial date. This
+time limit supersedes LR 46.
+2) For Jury Trials:
+a. Voir Dire: Counsel will be generally allowed 15 -35 minutes
+(depending on the complexity of the case) to conduct an
+examination of the venire, provided that the proposed voir
+dire questions are submitted as part of the Joint Pretrial
+Order.
+b. Jury Instructions: The parties must file a single, joint
+proposed jury charge, including all necessary instructions,
+definitions, and questions. The proposed charges must also
+10 Updated: May 2025
+be submitted electronically on a CD in Corel WordPerfect, X3
+or higher, or Microsoft Word.
+i) Each requested instruction must be numbered and
+presented with authority.
+ii) The parties shall include in the proposed jury charge
+all necessary instructions or definitions. The
+instructions shall, at a minimum, include: (1) the
+prima facie elements of each cause of action and
+defense asserted, (2) legal definitions required by the
+jury, (3) items of damages, and (4) methods of
+calculation of damages. Counsel are to use the Fifth
+Circuit Pattern Jury Instructions, as modified by case
+law or statutory amendments, whenever possible. Any
+deviations must be identified and accompani ed with
+legal authorities for the proposed deviation.
+iii) Even if the parties cannot, after a good faith attempt,
+agree on all proposed instructions, definitions, and
+questions, the parties should nonetheless submit a
+single, unified charge . Each disputed instruction,
+definition, or question should be set out in bold type,
+underlined, or in italics and identified as disputed.
+Each disputed item should be labeled to show which
+party is requesting the disputed language.
+Accompanying each instruction shall be all authority
+or related materials upon which each party relies.
+c. The parties shall submit a trial memorandum of law
+addressing the law governing the case and all contested
+issues.
+3) For Non-Jury Trials, each party must file:
+a. Proposed Findings of Fact (electronically in Corel
+WordPerfect X3 or higher, or Microsoft Word). Counsel are
+strongly encouraged to include references to testimony and
+exhibits that support each proposed finding;
+b. Proposed Conclusions of Law (electronically in Corel
+WordPerfect, X3 or higher, or Microsoft Word). Each
+proposed conclusion of law shall contain citation to legal
+authority supporting the conclusions; and
+c. Memorandum of Law. The memorandum of law, proposed
+findings, and proposed conclusions should, at a minimum,
+address the following: (1) the prima facie elements of each
+cause of action and defense asserted, (2) legal definitions, (3)
+11 Updated: May 2025
+components of damages, and (4) methods of calculation of
+damages.
+11. TRIAL SETTINGS
+A. The Court sets trial dates at Docket Call in civil cases. Docket Call is a
+final pretrial conference. Parties should be prepared to answer questions
+on all pending motions. Pending motions may be ruled on at the Docket
+Call. Trial may be set for any day after the Docket Call.
+B. Unless an attorney has actually commenced trial in court, another trial
+setting will not cause the Court to pass a trial setting in a case.
+C. Information on Trial Settings. The Case Manager cannot definitively
+ascertain when a case will be reached or where a case is on the trial docket.
+Any predictions given by the Case Manager are only “educated guesses”
+and are NOT binding on the Court.
+12. EXHIBITS
+A. All exhibits must be pre-marked and exchanged among counsel at the
+time the Pretrial Order is filed, unless a later date is agreed to by counsel.
+Generally, in civil cases, exhibits that have not been disclosed to opposing
+counsel prior to trial will not be received in evidence. The offering party
+shall mark its name, the case number, and the exhibit number on each
+exhibit to be offered. Any exhibits containing personal data identifiers
+must comply with S.D. Texas General Order #2004- 11 (available at the
+District website).
+B. Authentication Objections. Counsel requiring authentication of an
+opponent’s exhibit must notify offering counsel in writing within seven (7)
+days after the exhibit is identified and made available for examination.
+Failure to do so is an admission of authenticity. See LR 44.1.
+C. Other Objections to Exhibits. Unless otherwise directed by the Court,
+a party in a civil case may offer in evidence any exhibits listed in the final
+Joint Pretrial Order unless opposing counsel files specific written
+objections within fourteen (14) calendar days prior to the
+scheduled trial date. This time limit supersedes LR 46. The Court
+endeavors to rule on objections to exhibits outside the presence of the jury
+and will do so prior to opening statements, to the extent possible.
+D. Copies of Exhibits. The parties must provide the Court with two (2)
+complete sets of exhibits for use at trial in a properly tabbed and indexed
+notebook.
+12 Updated: May 2025
+E. Trial Procedure as to Exhibits.
+1) Counsel may not pass exhibits to the jury during trial without
+obtaining permission in advance from the Court.
+2) Exhibits must be identified in front of the jury before they will be
+received in evidence. Only exhibits admitted during trial will go to
+the jury during its deliberations.
+F. Disposition of Exhibits. Counsel should become familiar with LR 79.2
+regarding disposition of exhibits following trial.
+13. EQUIPMENT
+A. Sound and Video Equipment . The Court has projection, document
+camera, sound and video equipment in the courtroom. Counsel are invited
+to use that equipment during trial. Counsel seeking to test the equipment
+prior to trial shall contact the Case Manager by e-mail, letter, or phone to
+make arrangements. Parties also may provide their own equipment, but
+special arrangements must be made with the Case Manager prior to the
+day of trial.
+B. Other. Easels with writing pads are available for use in the courtroom,
+upon request to the Case Manager prior to trial.
+14. COURTROOM PROCEDURES
+A. Hours. The Court’s hours during trial will vary depending on the type of
+case and the needs of the parties, counsel, witnesses, and the Court. Court
+normally will convene at 8:30 a.m. and adjourn by 5:30 p.m., with a 12:00
+to 1:30 p.m. lunch recess.
+B. Access at Other Times.
+1) Should counsel require access to the courtroom to set up equipment
+or exhibits before or after normal hours of Court, counsel must
+contact the Case Manager in advance to make the appropriate
+arrangements.
+2) Enter and leave the courtroom only by the front doors; do not use
+the Court’s entrance or the side entrances without permission.
+C. Telephones. Telephone messages for counsel generally will not be taken
+by the Judge’s staff, and counsel shall refrain from requesting use of
+telephones in Chambers.
+D. Filing of Documents. Handing documents to the Court or Case Manager
+does not constitute filing of the documents in the CM/ECF system.
+13 Updated: May 2025
+1) All original documents must be filed through the CM/ECF system.
+2) Copies of documents filed within seven (7) days prior to and during
+trial should be submitted to the Case Manager in duplicate.
+E. Decorum.
+1) Counsel and parties will comply with LR 83.9 regarding courtroom
+Behavior. These procedures are strictly enforced.
+2) Counsel shall stand when addressing the Court. Counsel may use
+a lectern positioned appropriately to make oral argument. Counsel
+may question witnesses standing at the lectern or seated at counsel
+table.
+3) Counsel will ensure that they, all parties, and all witnesses refrain
+from drinking (other than water), eating, smoking, or reading
+newspapers, books, etc. in the courtroom. No cellular telephones,
+pagers, or iPads are allowed in the courtroom. Attorneys
+needing to use computers or iPads during trial must seek prior
+approval from the Court. Recording equipment and photographic
+mechanisms are strictly prohibited.
+F. Witnesses.
+1) Counsel are responsible for summoning witnesses into the
+courtroom and instructing them on courtroom decorum and attire.
+Counsel may question witnesses while standing at the podium or
+while seated at Counsel table.
+2) Counsel should bear in mind the Court’s hours and arrange for
+witnesses accordingly. The Court will not recess to permit counsel
+to call a missing witness unless he or she has been subpoenaed and
+has failed to appear.
+3) Counsel shall make every effort to elicit from the witnesses only
+information relevant to the issues in the case and to avoid
+cumulative testimony.
+G. Seating Assignments. The party with the burden of proof may be seated
+near the jury box.
+14 Updated: May 2025
+H. Jury Matters.
+1) While the jury is deliberating, counsel are to remain near the
+courtroom to be immediately available for jury notes or a verdict,
+unless given permission to leave by the Court.
+2) After the jury is excused, counsel may not contact jurors unless
+permitted to do so by the Court. See LR 47.
+15. DEPOSITIONS
+A. The Court will accept the parties’ agreement to use a deposition at trial
+even when the witness is available. Otherwise, parties must follow F ED.
+R. CIV. P. 32.
+B. Counsel will designate the portion of any deposition to be read by citing
+page and line numbers in the Joint Pretrial Order. Objections to those
+portions (citing page and line numbers) with supporting authority must be
+filed at least three (3) business days before trial.
+C. Use of videotape depositions is permitted if counsel voluntarily edit them
+to resolve objections and incorporate rulings by the Court.
+D. In a non- jury trial, counsel shall provide a list of the portions of the
+depositions offered as an exhibit, citing page and line numbers.
+16. SETTLEMENTS AND ORDERS OF DISMISSAL
+A. Motions resolved by the parties. If the parties are able to resolve a
+pending motion without Court intervention, they should advise the case
+manager immediately. The Court will then deny the motion as moot.
+B. Settlements. Counsel and pro se litigants shall notify the Court
+immediately in writing of the parties’ settlement of any matter by filing
+a document in the case, such as an advisory letter, a joint stipulation or
+dismissal motion, as appropriate.
+1) Upon receipt of parties’ announcement of settlement, the Court will
+enter a 45-day order on closing documents, ordering the parties to
+file closing documents that are in compliance with Federal Rule of
+Civil Procedure 41 (e.g., a stipulated dismissal signed by counsel for
+all parties or an agreed Rule 41(a)(2) motion to dismiss).
+2) Upon settlement of a suit involving a minor plaintiff, counsel must
+jointly move for appointment of a guardian ad litem if there is
+potential conflict of interest between the parent(s) and the minor.
+15 Updated: May 2025
+a. If counsel cannot agree on a guardian ad litem, the Court will
+make the appointment. Counsel may submit the names of
+qualified attorneys they propose for the appointment.
+b. Contemporaneously with the motion for appointment,
+counsel must notify the Case Manager by letter requesting a
+settlement conference.
+C. Orders of Dismissal For Want of Prosecution. Any defendant upon
+whom service has not been perfected within 120 days after the complaint
+is filed will be dismissed for want of prosecution in accordance with F ED.
+R. CIV. P. 4(m).
+17. ATTACHMENTS
+A. Template Joint Discovery/Case Management Plan
+B. Template Joint Pretrial Order
+C. Template Exhibit List
+D. Template Witness List
+E. Notice of the Right to Try a Civil Case before a Magistrate Judge
+F. Consent to Proceed before a Magistrate Judge/Order to Transfer
+G. Motion and Order for Admission Pro Hac Vice
+16 Updated: May 2025
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF TEXAS
+LAREDO DIVISION
+[PARTY NAME] §
+§
+VS. § CIVIL ACTION NO. 5:__-CV-____
+§
+[PARTY NAME] §
+JOINT REPORT REQUIRED BY FED. R. CIV. P. 26(f)
+AND JOINT DISCOVERY/CASE MANAGEMENT PLAN
+Please restate each instruction in bold before furnishing the requested
+information.
+Any differences between parties as to the response(s) to any matter must be set
+forth in this report.
+Preliminary Matters
+1. State when and in what manner the parties conferred as required by Rule 26(f), and
+identify the counsel and / or parties who participated in the conference.
+2. List cases pending in this or any other district, along with the cause number and
+judicial district, that are related to this case.
+3. If another case is pending in this or any other district, can and should this case be
+consolidated with that case?
+4. Briefly describe what this case is about.
+5. What is Plaintiff’s allegation of federal jurisdiction, or, if this case was removed,
+what is Defendant’s allegation of federal jurisdiction?
+6. Does Defendant (or Plaintiff if this case was removed) agree or disagree with this
+allegation?
+7. Does either party anticipate the need to add additional parties?
+8. If so, list any additional parties and when they can be added.
+9. List any anticipated interventions.
+10. Are there any issues in this case that may raise class allegations or class action
+issues?
+17 Updated: May 2025
+Discovery
+11. The conference required by Rule 26(f) was held on _____________________________,
+at . Counsel / Parties who participated in the conference:
+for Plaintiff(s) ,
+for Defendant(s) .
+12. Describe the proposed discovery plan agreed upon at the Conference. Include the
+following:
+A. What changes should be made in the timing, form, or requirement for
+disclosures under Rule 26(a);
+B. When and to whom Plaintiff anticipates it may send interrogatories;
+C. When and to whom Defendant anticipates it may send interrogatories;
+D. Of whom and by what date Plaintiff anticipates taking oral depositions;
+E. Of whom and by what date Defendant anticipates taking oral depositions;
+F. When Plaintiff (or the party with the burden of proof on an issue) will be able
+to designate experts and provide the reports required by Rule 26(a)(2)(B), and
+when the opposing party will be able to designate responsive experts and
+provide their reports;
+G. List expert depositions Plaintiff (or the party with the burden of proof on an
+issue) anticipates taking and their anticipated completion date. See Fed. R.
+Civ. P. 26(a)(2)(B).
+H. List expert depositions the opposing party anticipates taking and their
+anticipated completion date. See Rule 26(a)(2)(B).
+13. If the parties do not agree on any portion of the discovery plan, describe the separate
+views and proposals of each party.
+14. Specify the discovery beyond initial disclosures that has been undertaken to date.
+15. State the date the planned discovery can reasonably be completed.
+Settlement and Trial Alternatives
+16. Describe the possibilities of settlement or alternative dispute resolution that were
+discussed at the Rule 26(f) meeting.
+17. Describe what each party has done or agreed to do to bring about a prompt
+resolution.
+18. From the attorneys’ discussions with their respective clients, state the alternative
+dispute resolution techniques that are reasonably suitable and state when such a
+technique may be effectively used in this case.
+19. The parties may jointly consent to a Magistrate Judge conducting any and all
+proceedings in any jury or nonjury civil matter, including hearing a jury or nonjury
+trial, and ordering the entry of judgment in the case. Will the parties consent to a
+Magistrate Judge conducting all proceedings in this case, including trial and
+disposition of the case?
+18 Updated: May 2025
+20. State whether a jury demand has been made and if it was made on time.
+21. In the event of a trial, how many hours will it take to try this case?
+Additional Conference Items
+22. Counsel are charged with knowledge of the Local Rules of the United States District
+Court for the Southern District of Texas, which are available at:
+http://www.txs.uscourts.gov/sites/txs/files/2018%20Local%20Rules.pdf.
+Have all counsel reviewed those local rules prior to completion of this Report?
+Counsel are also charged with knowledge of the Honorable Marina Garcia
+Marmolejo’s Court Procedures in Civil Cases, which are available at:
+https://www.txs.uscourts.gov/sites/txs/files/Civ_MGM_July2017.pdf
+Have all counsel reviewed those rules prior to completion of this Report?
+23. If there are any motions pending before the Court at this time, list them.
+24. Can any of these motions be ruled upon at the Initial Pretrial and Scheduling
+Conference?
+25. Are there any other matters peculiar to this case, including discovery, that deserve
+special attention from the Court at the Initial Pretrial and Scheduling Conference?
+26. List the names, Southern District of Texas bar numbers, addresses, and telephone
+numbers of all counsel. All counsel appearing for any hearing or identified as counsel
+of record on a pleading must either be licensed to practice in the Southern District
+of Texas or must file a motion to appear pro hac vice.
+27. Proposed Dates for Scheduling Order. Please review the pretrial schedule listed
+below for this case. The schedule is intended to give the parties guidance in: (1)
+formulating answers to the other parts of this Questionnaire and (2) scheduling the
+events preceding the trial. The Scheduling Order that will be issued following the
+Scheduling Conference will necessarily be more specific and detailed and will contain
+additional matters and discovery limitations. The parties must confer with each
+other and attempt to reach an agreement on proposed dates for the events
+listed below. The parties shall enter their proposed dates in the template
+below and include it in their joint report. As indicated below by asterisks, some
+dates and events are “inflexible” because of limited judicial resources in the Court’s
+calendar.
+19 Updated: May 2025
+PRETRIAL EVENTS
+PARTIES’ PROPOSED DATES
+Deadline for Joinder of All
+Parties
+Deadline to Serve Initial
+Written Discovery1
+Deadlines to Designate
+Expert Witnesses2
+Plaintiff(s):
+Defendant(s):
+Deadline to Amend the
+Pleadings (with consent of all
+parties or leave of Court)
+Plaintiff(s):
+Defendant(s):
+Deadline for Parties to
+Conduct Mediation3
+Deadline to Complete All
+Discovery, including
+depositions of expert
+witnesses4 This deadline
+shall be no more than
+seven (7) months after the
+Initial Pretrial and
+Scheduling Conference.
+Deadline to File Motions to
+Exclude or Limit Expert
+Testimony5
+1 This deadline applies to serving a first set of interrogatories, requests for production, and other
+written discovery, but does not limit the parties from serving further requests prior to the discovery deadline.
+2 The parties shall disclose the name, address, and vita of any expert witness, and shall serve the
+report required by Fed. R. Civ. P. 26(a)(2) by these deadlines. The parties must file their lists of proposed
+expert witnesses with the Court by the designation deadline, but should NOT file reports or other discovery
+materials.
+3 The parties are ordered to participate in mediation by the specified deadline. If the parties wish to
+engage in some other form of alternative dispute resolution, they may file a motion with the Court seeking
+leave to do so.
+4 A party must serve its written discovery requests in sufficient time for the responding party to serve
+its responses before this deadline. See Paragraph 7 of the Court’s Order for Conference and Disclosure of
+Interested Parties.
+5 Motions must be filed by the later of (1) 30 days from receipt of the written report of the expert’s
+opinions or (2) 30 days from the expert’s deposition. Notwithstanding the foregoing, such motions must be filed
+no later than the dispositive motions dead line, below. The failure to strictly comply with this deadline will
+constitute a waiver of any objection that could have been made pursuant to Federal Rule of Evidence 702.
+20 Updated: May 2025
+Deadline to File Dispositive
+Motions. This Deadline
+shall be no less than 30
+days after the Deadline to
+File Motions to Exclude or
+Limit Expert Testimony
+TRACK A — If No Dispositive Motions are Filed:
+Deadline to File Joint Pretrial
+Order, Motions in Limine, and
+Proposed Jury Instructions
+(or proposed findings of fact
+and conclusions of law). To be
+set 30 days after the
+Deadline to File
+Dispositive Motions.
+TRACK B — If Dispositive Motions are Filed:
+Deadline to File Joint Pretrial
+Order, Motions in Limine, and
+Proposed Jury Instructions
+(or proposed findings of fact
+and conclusions of law). To be
+set 120 days after the
+Deadline to File
+Dispositive Motions.
+21 Updated: May 2025
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF TEXAS
+LAREDO DIVISION
+[PARTY NAME] §
+§
+VS. § CIVIL ACTION NO. 5:__-CV-____
+§
+[PARTY NAME] §
+JOINT PRETRIAL ORDER
+1. Appearance of Counsel. List each party, its counsel, and counsel’s address and telephone
+number in separate paragraphs.
+2. Statement of the Case. Give a brief statement of the case, one that the Judge could read to
+the jury panel for an introduction of the facts and parties; include names, dates, and places.
+3. Jurisdiction. Briefly specify the jurisdiction of the subject matter and the parties. If there is
+an unresolved jurisdictional question, state it.
+4. Motions. List pending motions.
+5. Contention of the Parties. State concisely in separate paragraphs each party’s claims.
+6. Admission of Fact. List all facts that require no proof.
+7. Contested Issues of Fact. List all material facts in bona fide controversy.
+8. Agreed Propositions of Law. List the legal propositions that are not in dispute.
+9. Contested Propositions of Law . State briefly the unresolved questions of law, with
+authorities to support each.
+10. Exhibits.
+A. Each party will attach two lists of all exhibits expected to be offered and will make
+the exhibits available for examination by opposing counsel. All documentary exhibits
+must be exchanged before trial, except for rebuttal exhibits or those whose use cannot
+be anticipated.
+B. A party requiring authentication of an exhibit must notify the offering counsel in
+writing within five days after the exhibit is listed and made available; failure to object
+in writing in advance of the trial concedes authenticity.
+1) Within reason, other objections to admissibility of exhibits must be made at
+least three business days before trial with copies of the disputed exhibit and
+authority.
+2) Parties must mark their exhibits to include the date and case number on each.
+3) At the trial, the first step will be the offer and receipt in evidence of exhibits.
+22 Updated: May 2025
+11. Witnesses.
+A. On a separate form, each party will attach four lists with the names and addresses of
+witnesses who may be called with a brief statement of the nature of their testimony.
+B. Include: If other witnesses to be called at the trial become known, their names,
+addresses, and subject of their testimony will be reported to opposing counsel in
+writing as soon as they are known; this does not apply to rebuttal or impeachment
+witnesses.
+12. Settlements. State that all settlement efforts have been exhausted, and the case will have to
+be tried.
+13. Trial. State estimated length of trial and logistical problems, including availability of
+witnesses, out-of-state people, bulky exhibits, and documentation.
+14. Attachments. Each party must file as a separate document (captioned, signed by counsel,
+and with service certified) these required attachments in duplicate.
+A. For a jury trial:
+(1) Proposed questions for the voir dire examination.
+(2) Proposed charge, including instructions, definitions, and special interrogatories,
+with authority.
+B. For a non- jury trial:
+(1) Proposed findings of fact with agreed and contested ones separated.
+(2) Conclusions of law with authority.
+____________________________________ Date: ________________________
+United States District Judge
+Approved by:
+____________________________________ Date:________________________
+Attorney-in-Charge, Plaintiff
+____________________________________ Date:___________________________
+Attorney-in-Charge, Defendant
+23 Updated: May 2025
+UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF TEXAS
+VERSUS - - - - - - - - - - - - - - -
+CIVIL ACTION NO.
+EXHIBIT LIST
+JUDGE MARINA GARCIA MARMOLEJO
+CASE MANAGER: ANGIE TREVIÑO
+LIST OF
+Q PLAINTIFF Q DEFENDANT
+PROCEEDING: DATE (S):
+NO.
+DESCRIPTION
+OBJ ADM NOT
+ADM
+DATE
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+24 Updated: May 2025
+UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF TEXAS
+VERSUS - - - - - - - - - - - - - - -
+CIVIL ACTION NO.
+WITNESS LIST
+JUDGE MARINA GARCIA MARMOLEJO
+CASE MANAGER: ANGIE TREVIÑO
+LIST OF
+Q PLAINTIFF Q DEFENDANT
+PROCEEDING: DATE (S):
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+25 Updated: May 2025
+UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF TEXAS
+Motion and Order for Admission Pro Hac Vice
+Division Case Number
+vs.
+*I understand that the Court requires strict compliance with the Local Rules for the Southern District of Texas and the
+Court Procedures for District Judge Garcia Marmolejo, which are applicable to cases assigned to Judge Garcia
+Marmolejo. The rules are available by visiting the Court’s website.
+The state bar reports that the applicant’s status is:
+Dated:
+Clerk’s signature:
+This lawyer is admitted pro hac vice.
+Dated:
+__________________________
+Marina Garcia Marmolejo
+United States District Judge
+Lawyer’s Name
+Firm Street
+City & Zip Code
+Telephone & Email
+Licensed: State & Number
+Federal Bar & Number
+Name of party applicant seeks to
+appear for:
+Has applicant been sanctioned by any bar association or court? Yes No
+On a separate sheet for each sanction, please supply the full particulars.
+Dated:
+Signed*:
+Order Granting Motion for Admission Pro Hac Vice

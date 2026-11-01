@@ -1,0 +1,36 @@
+RISKS ASSOCIATED WITH THE USE OF
+AI TOOLS TO GENERATE DOCUMENTS FOR
+FILING WITH THE COURT
+Please be aware that AI tools may generate text that appears authoritative but is incorrect,
+incomplete, outdated, or inapplicable to the facts or law of a particular case. As a result, AI may
+provide unreliable legal advice. AI tools may also generate fabricated or non-existent content,
+including "hallucinated" case citations, quotations, statutes, rules, docket entries, or procedural
+requirements.
+More specifically, AI-Generated materials may:
+• misstate or omit controlling authority, including binding precedent or applicable rules;
+• provide inaccurate citations, incorrect quotations, or citations to cases that do not exist;
+• confuse jurisdictions, courts, or procedural rules, including rules that do not apply in the
+Central District of California;
+• mischaracterize the record, the relief requested, deadlines, or the effect of an order;
+• include unsupported factual assertions, improper evidentiary statements, or conclusory
+allegations;
+• produce inconsistent statements across sections of the same document; and
+• create formatting or content that does not comply with applicable rules or Court
+requirements.
+Therefore, before filing any document prepared with the assistance of an AI tool, the filer should
+conduct a careful, line-by-line review to confirm that the document is accurate, complete, and
+well-founded. At a minimum, the filer should confirm all of the following:
+• that every cited case, statute, rule, and quotation exists and is accurately quoted and
+properly cited;
+• that the cited authority applies in the Central District of California and to the specific
+procedural posture and facts of the case.
+• that all factual statements are true, supported by the record, and consistent with any
+declarations or exhibits;
+• that the relief requested is authorized and clearly stated; and
+• that the document complies with applicable federal and local rules, Court orders and
+filing requirements.
+Please note that the filing of documents that contain inaccurate citations, fabricated authorities,
+misstatements of law, or unsupported factual assertions may result in adverse consequences,
+including: the imposition of sanctions, monetary or otherwise; denial of the requested relief; or
+any other consequence that the Court deems appropriate under the circumstances.
+a. .

@@ -1,0 +1,377 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+ATLANTA AND GAINESVILLE DIVISIONS
+INSTRUCTIONS FOR CASES ASSIGNED TO
+THE HONORABLE STEVE C. JONES
+This matter has been assigned to the Honorable Steve C. Jones. The purpose of this
+order is to inform the parties and their counsel of the Court’s policies, practice, and
+procedure. Pro se litigants shall also govern themselves in accordance with these
+instructions. This order, in combination with the Northern District’s Local Rules
+and the Federal Rules of Procedure, shall govern this case. Any previous
+instructional order is hereby superseded.
+2
+Revised August 2026
+Table of Contents
+I. General Matters .......................................................................................................................... 3
+II. Case Administration .................................................................................................................. 3
+A. Contacting chambers ........................................................................................................... 3
+B. Courtesy copies .................................................................................................................... 3
+C. Admission of counsel pro hac vice ...................................................................................... 4
+D. Withdrawal or substitution of counsel ............................................................................. 4
+E. Pro se litigants ....................................................................................................................... 4
+F. Disclosure of the use of artificial intelligence ...................................................5
+III. Case Management ................................................................................................................... 5
+A. Motions for temporary restraining order or preliminary injunction............................ 5
+B. Extensions of time ................................................................................................................ 6
+C. Page limit extensions ........................................................................................................... 6
+D. Objections to Magistrate Reports and Recommendations ............................................. 6
+E. Discovery disputes and objections to discovery ............................................................. 7
+F. Motions to seal ..................................................................................................................... 7
+G. Electronic filing of exhibits and attachments ................................................................... 8
+H. Brief titles .............................................................................................................................. 9
+I. Motions for summary judgment ........................................................................................... 9
+J. Requests for oral argument on motions ............................................................................... 9
+K. Proposed orders ................................................................................................................. 10
+IV. Trial Matters ........................................................................................................................... 10
+A. Deposition objections...............................................................................10
+B. Motions in limine ............................................................................................................... 10
+C. Pretrial conference ............................................................................................................. 10
+D. Presentation of evidence ................................................................................................... 11
+E. Exhibits ................................................................................................................................ 11
+F. Jury trials ............................................................................................................................. 11
+a. Voir dire ........................................................................................................................... 11
+b. Exhibits ............................................................................................................................ 12
+c. Requests to charge ......................................................................................................... 12
+G. Specific Instructions for Criminal Cases ......................................................................... 13
+3
+Revised August 2026
+I. GENERAL MATTERS
+Attorneys and pro se litigants appearing in this court in civil litigation must
+observe three sets of rules:
+1. The Federal Rules of Civil Procedure. These rules are available at
+https://www.uscourts.gov/rules-policies/current-rules-practice-
+procedure.
+2. The local rules of this District Court and Instructions Regarding Pretrial
+Proceedings. The local rules of this Court are available for downloading at
+https://www.gand.uscourts.gov/court-info/local-rules-and-orders/local-
+rules. Various forms and the Court’s pretrial instruction package are availa-
+ble at https://www.gand.uscourts.gov/.
+3. The rules and practices of the district judge, and magistrate judge if
+appropriate, assigned to your case, including this standing order.
+II. CASE ADMINISTRATION
+A. Contacting chambers
+Courtroom Deputy Clerk Pamela Wright is your principal point of contact
+on matters relating to this case. Neither the parties, nor their counsel, should
+discuss the merits of the case with Ms. Wright or any of the Court’s law clerks .
+Ms. Wright’s contact information is as follows:
+Ms. Pamela Wright
+Courtroom Deputy Clerk
+1967 United States Courthouse
+75 Ted Turner Drive, SW
+Atlanta, Georgia 30303-3309
+pamela_wright@gand.uscourts.gov
+404-215-1284
+B. Courtesy copies
+Except for emergency motions filed pursuant to Local Rule 7.2(B), the
+delivery of a hard copy of a document, in addition to the electronically filed copy,
+4
+Revised August 2026
+is not necessary, as the Court prefers to rely on its electronic access to court filings.
+The Court may, however, request courtesy copies of motions with voluminous
+exhibits.
+Courtesy copies of such motions should be hand -delivered to chambers in
+Room 1967 on the 19th floor of the Richard B. Russell Federal Building or
+submitted via regular mail to the attention of the Courtroom Deputy Clerk at the
+above-provided address. The courtesy copies provided shall be stamped filed with
+the CM/ECF (Case Management/Electronic Case Filing) header.
+C. Admission of counsel pro hac vice
+In the event that lead counsel has been admitted pro hac vice, local counsel is
+required to be familiar with the case and may be called upon to attend hearings or
+participate in conferences on behalf of the lead counsel.
+All counsel, including counsel admitted pro hac vice, must register with and
+participate in the Court’s electronic filing system, CM/ECF. NDGa Standing
+Order 04-01.
+D. Withdrawal or substitution of counsel
+It is counsel’s responsibility to keep the Court informed of any change of
+status. Counsel should comply with Local Rule 83.1, NDGa, when substituting or
+withdrawing as counsel. Attorneys who fail to comply with this Local Rule will
+not be permitted to withdraw from the case until compliance is achieved.
+E. Pro se litigants
+Parties proceeding pro se (without an attorney) are ADVISED that they
+must comply with the Federal Rules of Civil Procedure (“Fed. R. Civ. P.”), as well
+as the Local Rules of the United States District Court for the Northern District of
+Georgia (“LR, NDGa”). Pro se parties may obtain certain basic materials and hand-
+outs from the Office of the Clerk of Court located on the 22nd Floor of the United
+States Courthouse, 75 Ted Turner Drive, S.W., Atlanta, Georgia. Many documents
+are also available on the Court’s website at www.gand.uscourts.gov. Pro se
+litigants also may utilize the Eleventh Circuit’s law library located in the Elbert P.
+Tuttle U.S. Court of Appeals Building at 56 Forsyth Street, N.W., Atlanta, Georgia
+30303.
+5
+Revised August 2026
+F. Disclosure of use of artificial intelligence (AI)
+All counsel and pro se parties must disclose the use of artificial intelligence (AI)
+in any capacity to prepare documents submitted to the Court. If AI was used in any
+way to prepare a filing or submission to the Court or chambers, counsel and/or pro
+se parties are REQUIRED to sign and file a Disclosure of Use of Artificial Intelligence
+stating, as follows:
+“This document was generated with the assistance of [identify A I tool name]. I
+hereby certify under penalty of perjury that, despite reliance on an A I tool, I have
+independently reviewed this document to confirm accuracy, legitimacy, and use of
+good and applicable law, pursuant to Rule 11 of the Federal Rules of Civil
+Procedure.”
+Counsel and pro se parties are cautioned that mistake, lack of technical
+expertise, and time constraints are typically not recognized by the Court as a good
+faith excuse for submission of documents that either violate Rule 11 or this disclosure
+rule. In particular, arguments in briefs to the Court which are supported by A I-
+generated caselaw (i.e., cases that do not actually exist) are not acceptable.
+Counsel and pro se parties shall not input, upload, or otherwise expose any
+information subject to a protective order into any artificial intelligence program, tool
+or application.
+Failure to comply with this rule may result in appropriate sanctions, up to and
+including dismissal or entry of default.
+III. CASE MANAGEMENT
+A. Motions for temporary restraining order or preliminary
+injunction
+Any request for a temporary restraining order (“TRO”) or for preliminary
+injunctive relief must be made by a separate motion . A request for a TRO or
+preliminary injunction found only in the complaint will not be considered. After
+filing an appropriate motion, the movant must contact Ms. Wright to request
+expedited consideration.
+Any motion for TRO or preliminary injunction which requests injunctive or
+equitable relief should be accompanied by a proposed order.
+6
+Revised August 2026
+B. Extensions of time
+Parties are reminded that in this jurisdiction, extensions of deadlines may
+not be obtained by stipulation—the Parties must file a joint motion. Parties should
+also not assume that a joint motion will be granted.
+Motions for extension, whether joint, unopposed, or designated as consent,
+will not be granted as a matter of course.
+The Court expects parties seeking an extension to submit motions as early as
+possible and to avoid last-minute requests for extensions. Parties seeking an
+extension should explain with specificity the unanticipated or unforeseen
+circumstances necessitating the extension and should set forth a timetable for the
+completion of the tasks for which the extension is sought. Parties should indicate
+whether opposing counsel consents to the extension. A proposed order should also
+be provided.
+C. Page limit extensions
+Parties seeking an extension of the page limit must do so at least five (5)
+days in advance of their filing deadline and should explain with specificity the
+reasons necessitating the extension. If a party files a motion to extend the page
+limit at the same time his or her brief is due, the extension request will be denied
+absent a compelling and unanticipated reason for violating the Rule.
+D. Objections to Magistrate Reports and Recommendations
+Absent prior permission of the Court, objections to magistrate report and
+recommendations and opposing party responses are limited in length to
+twenty-five (25) pages. Said objections and responses shall also comply with the
+formatting requirements of Local Rule 5.1, NDGa.
+7
+Revised August 2026
+E. Discovery disputes and objections to discovery
+Prior to filing a motion to compel discovery, motion to quash, or motion for
+protective order and only after conferring with opposing counsel in a good faith
+effort to resolve the discovery dispute by agreement, an attorney (or pro se litigant)
+must contact Ms. Wright and notify her that there is a discovery dispute.
+Ms. Wright will then schedule a conference call or videoconference in which the
+Court will attempt to resolve the matter, without the necessity of a formal motion.
+This conference call or videoconference will be taken down by a duly appointed
+court reporter.
+A party shall not include in its response to a discovery request a “Preamble”
+or a “General Objections” section stating that the party objects to the discovery
+request “to the extent that” it violates some general discovery rule, e.g., the
+attorney-client privilege, the work product doctrine, or the prohibition against
+discovery requests that are vague, ambiguous, overly broad, or unduly
+burdensome. Instead, each individual discovery request must be met with specific
+objections which apply to each request. Any general objections shall be
+disregarded by the Court.
+F. Motions to seal
+As a general matter, this Court will seal only those items enumerated in the
+Court’s Standing Order 04-02 regarding sensitive information and public access to
+electronic case files. If a party has very good cause to request sealing of material
+marked or identified as “CONFIDENTIAL,” 1 said party, after notification to the
+opposing party, may file a motion to seal in accordance with the Court’s
+Procedures for Electronic Filing Documents Under Seal, located in Section II(J) of
+Appendix H to the Local Rules of the Northern District of Georgia.2 After entry on
+1 As further clarification, the Court notes that a mere reference or discussion of
+confidential information does not warrant the entire document and all attachments to be
+filed under seal. Instead, the Court will seal (or allow parties to file in a redacted format)
+only very specific portions of documents that contain or refer to confidential information.
+2 The Procedures for Electronic Filing Documents Under Seal only apply to attorneys. All
+pro se parties must manually file a motion to seal at the Clerk’s Office. The material
+8
+Revised August 2026
+the docket, the Court will review the material in camera and decide whether to
+grant or deny the motion to seal.
+G. Electronic filing of exhibits and attachments
+Parties should make every effort to label all electronically uploaded exhibits
+and attachments according to their content to assist the Court in making its ruling.
+For example, documents should be uploaded with file names such as “Ex. A: Smith
+Deposition,” “Ex. B: Employment Contract,” and “Ex. C: Jones Letter,” rather than
+letter or number identifiers only.
+Individual exhibits should be uploaded as separate attachments with file
+names labeled accordingly. Parties should not upload voluminous attachments
+that contain multiple exhibits. For example, a motion for summary judgment
+should not be accompanied by one large attachment that contains all exhibits being
+proffered in support of that motion. Instead, a party should upload the motion as
+the main document, with the brief, statement of material facts, and supporting
+exhibits all attached separately and labeled with files names as directed above. 3
+Should a party’s attachments prove too difficult to navigate, the Court may require
+the party to refile the motion, brief, and corresponding attachments.
+When a party proffers deposition testimony in support of or in opposition
+to a motion, the party shall submit excerpts of the specific pages referenced and
+any surrounding pages necessary to provide context for cited passages in a text-
+searchable PDF format. 4 The party should not attach to the brief a copy of the
+entire deposition transcript unless the entire transcript is less than thirty (30)
+pages. All excerpts from one person’s deposition shall be submitted as one
+attachment. The entire deposition transcript is to be filed separately under a notice
+of filing original deposition transcript.
+subject to the seal request should be attached as an exhibit to the motion. The Clerk will
+enter the motion on the docket under a provisional seal, without public viewing access.
+3 Further, while the Court does not require parties to include a table of contents,
+identifying exhibit pages, or exhibit stamps on documents, the Court advises parties that
+such additions likely will assist the Court in reviewing submitted materials.
+4 The Court advises parties that scanned copies of documents are unlikely to conform
+with this requirement.
+9
+Revised August 2026
+H. Brief titles
+Briefs should be titled on CM/ECF as follows: The initial brief of a movant
+should be titled “Brief in Support of [state the motion].” The brief of the
+responding party should be titled “[name of respondent]’s Response
+in Opposition to [state the motion].” The reply of the moving party should be titled
+“Reply in Support of [state the motion].” Though surreplies should not be filed in
+the normal course, if the Court authorizes a surreply, it should be titled “[name of
+party filing the surreply]’s Surreply to [name of motion].”
+I. Motions for summary judgment
+All citations to the record evidence should be contained in each party’s brief,
+not just in the party’s statement of undisputed (or disputed) facts. The party shall
+include in the brief, immediately following the evidentiary reference, a citation
+indicating (1) the paragraph, page, and/or transcript line numbers (if applicable)
+where the referenced evidence can be found and (2) the paragraph number(s) of
+the statement of undisputed (or disputed) facts where the fact stated can be found.
+If a party fails to cite to specific paragraphs, pages, and/or line numbers, the Court
+may require it to refile its motion, brief, and exhibits.
+In addition to following the form instructions set out in Local Rule 56.1(B),
+NDGa, a party responding to a statement of material facts shall copy into its
+response document the numbered statement to which it is responding and provide
+its response to that statement immediately following. Each party shall file these
+documents in a text-searchable PDF format. 5 Statements of material fact that do
+not conform with these instructions will be returned to counsel for revision.
+J. Requests for oral argument on motions
+In accordance with Local Rule 7.1(E), motions are usually decided without
+oral argument, but the Court will consider requests for hearing. If oral argument
+is requested, the party or parties should specify the particular reasons argument
+may be helpful to the Court and what issues will be the focus of the proposed
+argument.
+5 See supra n.4.
+10
+Revised August 2026
+K. Proposed orders
+The filing party shall include a proposed order granting the motion for
+all consent, unopposed, or joint motions.
+IV. TRIAL MATTERS6
+A. Deposition objections
+Any objections to depositions and to any questions or answers in the
+depositions shall be filed in writing no later than twenty-one (21) calendar days
+before the date of trial. Objections not perfected in this manner will be deemed
+waived or abandoned. All depositions shall be reviewed by counsel of record in an
+effort to narrow the deposition designations and to resolve the objections amongst
+themselves. In addition, all extraneous and unnecessary matter, including non -
+essential colloquy of counsel, shall be deleted.
+B. Motions in limine
+Motions in limine shall be filed with the Clerk no later than fourteen (14)
+calendar days before the date of trial. Responses to motions in limine shall be filed
+with the Clerk no later than seven (7) calendar days before the date of trial.
+C. Pretrial conference
+The Court will conduct a pretrial conference in all cases (civil and criminal)
+noticed for trial. For civil cases, only the attorneys (and not the parties) are
+required to appear. For criminal cases, the Defendant is required to appear. Pro se
+litigants are also required to appear at pretrial conferences and govern themselves
+in accordance with these instructions.
+The purpose of the conference is to simplify the issues to be tried and to rule
+on evidentiary objections raised in the pretrial order (for civil cases).
+At the pretrial conference (civil cases), counsel (or the pro se litigant) will be
+required to identify the specific witnesses that will be called in the case-in-chief.
+The Court may require counsel (or the pro se litigant) to bring trial exhibits
+6 At the time a case is noticed for trial or at the request of a party or counsel, the Court will
+issue a trial outline/overview, which will provide additional procedural information.
+11
+Revised August 2026
+to the pretrial conference in order to determine objections to said exhibits.
+D. Presentation of evidence
+Attorneys and pro se litigants shall request permission to approach prior to
+approaching a witness or the bench.
+E. Exhibits
+Counsel (or the pro se litigant) shall separately and sequentially number each
+of their exhibits. Exhibits shall not be labeled or grouped as categories, for
+example, “hospital records” or “photographs.”
+F. Jury trials
+When the jury is in the courtroom, it is the Court’s and the litigants’
+responsibility to use the jury’s time efficiently. If matters need to be taken up
+outside the presence of the jury, they should be raised during breaks or before the
+start of the trial day. It is each party’s responsibility to have enough witnesses on
+hand for each day’s proceedings.
+a. Voir dire
+Proposed voir dire questions shall be filed with the Clerk no later than seven
+(7) calendar days before the date of trial, if not previously filed as a part of the
+pretrial order. The Court will review the submissions and notify the parties of the
+approved questions at or prior to the pretrial conference.
+During voir dire, the Court will ask certain qualifying questions and request
+the jurors to verbally respond to a printed juror questionnaire (containing general
+questions regarding their residence, occupation, education, prior jury service, and
+spouse, if applicable). The Court will then permit the attorneys to ask approved
+voir dire questions for a period of thirty (30) minutes per side, per panel of
+potential jurors.
+All challenges for cause will be heard at the close of the questioning of all
+jurors.
+There will be a fifteen (15) minute break at the conclusion of juror
+12
+Revised August 2026
+questioning in order to allow the attorneys time to review their notes prior to
+striking the jury.
+In all criminal cases, twelve jurors will be selected, along with two alternates
+who will not deliberate unless replacing another juror. If the attorneys desire
+additional alternates, they shall notify the Court at the beginning of trial. The
+Court will entertain arguments to this regard.
+In all civil cases, eight jurors will be selected to deliberate for cases expected
+to last one week or less. The Court will empanel additional jurors for cases
+expected to last more than one week. The number of jurors to empanel will be
+determined after receiving input from the parties. No alternates will be empaneled
+for civil cases.
+b. Exhibits
+Arrangements with the Courtroom Deputy Clerk for the use of
+demonstrative exhibits or other visual aids should be made sufficiently in advance
+so that they may be set up while court is not in session.
+Exhibits must be examined and marked before trial in compliance with
+Local Rule 16.4, NDGa. The parties should confer with the Courtroom Deputy
+Clerk prior to the start of trial to determine how the Court will receive a copy of
+the exhibits for use by the Judge on the bench during proceedings. Ordinarily, the
+Court requests notebooks of exhibits to be provided on the first day of trial.
+c. Requests to charge
+Requests to charge shall be filed with the Clerk of Court no later than seven
+(7) calendar days before the date of trial. An editable, electronic version of the
+proposed charges (in Microsoft Word) shall be emailed to Ms. Wright on the same
+day that the proposed charge is filed with the Clerk.
+These proposed jury charges shall be a single, unified set of proposed jury
+instructions. The parties should first list all requested charges that are agreed
+upon. After the agreed -upon instructions, the parties should list their requested
+instructions to which opposing counsel objects. The parties should indicate (1)
+who is proposing the instruction, (2) the legal basis for the instruction, and (3) the
+basis for the other party’s opposition to the instruction.
+13
+Revised August 2026
+Counsel must use the latest edition of the Eleventh Circuit’s Pattern Jury
+Instructions, if applicable. If there is no appropriate Eleventh Circuit charge,
+counsel should use instructions from the latest edition of O’Malley’s Federal Jury
+Practice and Instructions . If state law applies, counsel shall present the appropriate
+pattern instruction from the applicable state. Counsel should be sure to include all
+substantive law issues and should not assume that the Court has its own charge
+on the substantive law.
+G. Specific Instructions for Criminal Cases
+All sentencing memoranda shall be filed at least forty-eight (48) hours prior
+to the scheduled sentencing date.
+IT IS SO ORDERED this _____ day of August, 2026.
+HONORABLE STEVE C. JONES
+UNITED STATES DISTRICT JUDGE
+28th

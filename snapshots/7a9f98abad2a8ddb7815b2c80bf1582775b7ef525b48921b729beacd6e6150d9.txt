@@ -1,0 +1,33 @@
+UNITED STATES COURT OF INTERNATIONAL TRADE
+THE HONORABLE JENNIFER CHOE-GROVES
+STANDING ORDER ON THE USE OF ARTIFICIAL INTELLIGENCE
+The Court is cognizant of the increasing use of generative artificial intelligence (“AI”) by
+counsel and pro se litigants in preparation of litigation. Though AI tools can provide a benefit,
+their use raises certain concerns for the Court, including, but not limited to, the reliability of
+information presented, transparency of how submissions and evidence were created, and
+protection of confidential or business proprietary information. Federal Rule of Civil Procedure
+11 imposes upon parties an obligation to ensure that information submitted to the Court is
+factually accurate and does not misrepresent the state of the law. Fed. R. Civ. P. 11. The Rules
+of the Court of International Trade also require counsel and parties to take special care to protect
+sensitive and non-public information. See USCIT R. 5(g); 73.2(c)(2); 81(h). The use of AI in
+the creation of a submission does not alleviate counsel or parties of these obligations. Because
+generative AI challenges the Court’s ability to monitor the veracity of submissions and to protect
+against the disclosure of confidential or business proprietary information, it is hereby
+ORDERED that any submission in a case assigned to Judge Choe-Groves that contains
+text drafted with the assistance of a generative AI program on the basis of natural language
+prompts must be accompanied by:
+(1) A disclosure notice that identifies the program used, the manner in which it was
+used, and the specific portions of text that have been drafted;
+(2) A certification that counsel or the party has reviewed the included text and legal
+research for factual and legal accuracy; and
+Page 2
+(3) A certification that the use of such AI program has not resulted in the
+unauthorized disclosure of any confidential or business proprietary information;
+and it is further
+ORDERED that following the filing of such notice, any party may file with the Court
+any motion provided for by statute or the Rules of the Court of International Trade seeking any
+appropriate relief.
+/s/ Jennifer Choe-Groves
+Jennifer Choe-Groves, Judge
+Dated: July 3, 2025
+New York, New York

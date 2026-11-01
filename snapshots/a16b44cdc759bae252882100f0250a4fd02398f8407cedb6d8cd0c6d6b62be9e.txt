@@ -1,0 +1,681 @@
+Modified 09/01/2026
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+ATLANTA DIVISION
+GUIDELINES TO PARTIES AND COUNSEL IN CIVIL CASES PROCEEDING
+BEFORE THE HONORABLE TIFFANY R. JOHNSON
+This case has been assigned to Judge Tiffany R. Johnson. These Guidelines
+inform the parties and their counsel of the Court’s policies, procedures, and practices
+and are designed to promote the just, speedy, and economical disposition of cases.
+These Guidelines, in combination with the Local Rules of this Court and the Federal
+Rules of Civil Procedure, shall govern this case. Parties should be aware that a filing
+or submission may be rejected or denied for failure to comply with these Guidelines.
+Within seven (7) days of entry of these Guidelines in this case, lead counsel for
+each party and any pro se litigants are required to sign and file a Certificate of
+Compliance in a format consistent with the attached Certificate of Compliance.
+______________________________
+TIFFANY R. JOHNSON
+United States District Judge
+TABLE OF CONTENTS
+1. GENERAL MATTERS ...................................................................................................... 1
+2. CASE ADMINISTRATION ................................................................................................. 1
+A. Contacting Chambers .......................................................................................... 1
+B. Transcripts .......................................................................................................... 2
+C. Courtesy Copies of Documents ........................................................................... 2
+D. Attorneys ............................................................................................................. 2
+i. Admission of Counsel Pro Hac Vice .......................................................... 2
+ii. Leaves of Absence .................................................................................... 2
+iii. Withdrawal or Substitution of Counsel ................................................. 2
+iv. Corporate Representation ....................................................................... 3
+v. Proposed Orders ....................................................................................... 3
+E. Pro Se Parties ...................................................................................................... 3
+3. PRETRIAL CASE MANAGEMENT .................................................................................... 5
+A. Disclosure of Use of Artificial Intelligence......................................................... 5
+B. Temporary Restraining Orders or Preliminary Injunctive Relief .................... 6
+C. Extensions of Time .............................................................................................. 6
+D. Page Limits for Objections to R&Rs and Responses to Objections ................... 7
+E. Page Limit Extensions ........................................................................................ 7
+F. Legal Citations .................................................................................................... 7
+G. Conferences with the Court ................................................................................ 8
+H. Joint Preliminary Report and Discovery Plan ................................................... 8
+I. Discovery ............................................................................................................. 8
+i. Discovery Responses: Boilerplate and General Objections ..................... 9
+ii. Interrogatories ......................................................................................... 9
+iii. Requests for Production or Inspection ................................................. 10
+iv. Requests for Admission ......................................................................... 10
+v. Depositions ............................................................................................. 11
+vi. Discovery Disputes ................................................................................ 12
+vii. Confidentiality Agreements, Protective Orders & Motions to Seal ... 13
+J. Motions Practice ................................................................................................ 14
+i. Electronic Filing of Exhibits and Attachments ...................................... 14
+ii. Brief Nomenclature ................................................................................ 15
+iii. Amended Complaints and Pending Motions ........................................ 15
+iv. Motions for Summary Judgment .......................................................... 15
+v. Statements of Material Facts and Responses ....................................... 15
+vi. Requests for Oral Argument on Motions .............................................. 16
+4. TRIALS ..................................................................................................................... 16
+A. Pretrial Conference ........................................................................................... 16
+B. Proposed Findings of Fact and Conclusions of Law ........................................ 17
+C. Jury Trial .......................................................................................................... 17
+D. Voir Dire ............................................................................................................ 17
+E. Courtroom Communications ............................................................................. 18
+F. Exhibits ............................................................................................................. 19
+G. Jury Charges ..................................................................................................... 19
+H. Courtroom Technology ...................................................................................... 20
+CERTIFICATE OF COMPLIANCE ............................................................................ Appendix
+1
+1. GENERAL MATTERS
+Attorneys and pro se parties appearing before this Court in civil litigation must
+observe three (3) sets of rules:
+A. The Federal Rules of Civil Procedure. These rules are available at
+https://www.uscourts.gov/forms-rules/current-rules-practice-
+procedure/federal-rules-civil-procedure.
+B. The Civil Local Rules of this Court (NDGA Local Rules). The Local Rules are
+available at https://www.gand.uscourts.gov/court-info/local-rules-and-
+orders/local-rules. Various forms and the Court’s pretrial instruction package
+are available at https://www.gand.uscourts.gov/commonly-used-forms.
+C. The rules and practices of the District Judge , and Magistrate Judge if
+applicable, assigned to your case.
+2. CASE ADMINISTRATION
+A. Contacting Chambers
+Uzma Wiggins, Judge Johnson’s Courtroom Deputy, is your principal point of
+contact on matters related to your case. Communications with the Courtroom Deputy
+should be via email ( TRJ_CRD@gand.uscourts.gov) or in writing, addressed as
+follows:
+Chambers of Judge Tiffany R. Johnson
+ATTN: Uzma Wiggins, Courtroom Deputy
+2142 United States Courthouse
+75 Ted Turner Drive, SW
+Atlanta, GA 30303-3309
+Neither the parties nor their counsel should discuss the merits of the case
+with any member of Judge Johnson’s chambers. The parties and their counsel should
+also refrain from sending communications that seek information relating to pending
+motions, such as asking when a motion will be ruled on. The Court will consider
+matters as they are filed in the normal course.
+2
+B. Transcripts
+Communications regarding transcripts should be directed to the Official Court
+Reporter who transcribed the proceeding . If any party desires a daily copy or rough
+draft copy of a proceeding, that party s hall contact chambers at least two (2) weeks
+before the proceeding.
+C. Courtesy Copies of Documents
+Courtesy copies of filings should not be sent to chambers unless requested by
+the Court. If the Court requests courtesy copies from the parties, paper copies should
+be hand -delivered to chambers in Room 2142 on the 21st floor of the Richard B.
+Russell Federal Building . Paper copies should be printed from the CM/ECF docket
+with the blue header and should be single-sided.
+D. Attorneys
+i. Admission of Counsel Pro Hac Vice
+If lead counsel has been admitted pro hac vice, local counsel is required to be
+familiar with the case and may be called upon to attend hearings or participate in
+conferences on behalf of lead counsel.
+All counsel—including counsel admitted pro hac vice —shall register and
+participate in the Court’s CM/ECF filing system. Pro se parties are not part of the
+Court’s electronic filing system and should be served directly.
+ii. Leaves of Absence
+Requests or notices of leaves of absence shall comply with Local Rule 83.1 and
+shall be electronically filed. Mailed or hand-delivered copies to chambers will not be
+considered. Counsel are encouraged to review their calendars and submit as early as
+possible any requests or notices of leaves of absence.
+iii. Withdrawal or Substitution of Counsel
+It is counsel’s responsibility to keep the Court informed of any change in his or
+her status representing a party . Withdrawal is not automatic and requires Court
+approval. Counsel shall comply with Local Rule 83.1 when substituting or
+withdrawing as counsel. Counsel who fail to comply with Local Rule 83.1 will not be
+3
+permitted to withdraw from the case until compliance is achieved. Additionally,
+depending on the status of the case and the reasons for withdrawal, counsel may not
+be permitted to withdraw.
+iv. Corporate Representation
+Corporate entities must be represented in court by an attorney. A corporate
+officer may not represent the corporation unless that officer is also licensed to practice
+law in the state of Georgia. Local Rule 83.1 states:
+[A corporation or organization] may only be represented by
+an attorney, who must sign all pleadings and papers
+submitted to the C ourt; a corporate officer may not
+represent the client unless that officer is admitted to the
+bar of this Court as a regular member or has been admitted
+pro hac vice in the case; and failure to comply with this rule
+could result in a default judgment against the client[.]
+Failure to comply with this rule will result in dismissal of a corporation’s complaint
+or a default judgment against the corporation.
+v. Proposed Orders
+For all consent, unopposed, or joint motions, the filing party shall include as
+an exhibit to the motion a proposed order granting the motion.
+E. Pro Se Parties
+Parties proceeding pro se (without an attorney) are ADVISED that they must
+comply with the Federal Rules of Civil Procedure (FED. R. CIV. P.) as well as the Local
+Rules of this Court. Pro se parties may obtain certain basic materials and hand-outs
+from the Office of the Clerk of Court located on the 22nd Floor of the Richard B.
+Russell Federal Building. Many documents are also available on the Court’s website
+at www.gand.uscourts.gov. Pro se parties may also utilize the Eleventh Circuit’s law
+library located in the Elbert P. Tuttle U.S. Court of Appeals Building at 56 Forsyth
+Street, N.W., Atlanta, Georgia 30303.
+Counsel and pro se parties are prohibited from engaging in ex parte
+communications with the Court or the Court’s staff. “ Ex parte communications” are
+any form of contact with the Court outside the presence of the opposing party or
+4
+opposing party’s counsel. This includes, but is not limited to, telephone calls, written
+correspondence, or in-person contact, by one party or party’s counsel. If counsel or a
+pro se party seeks court action, the appropriate procedure is to put the request in
+writing, in the form of a motion, file the motion with the Clerk’s office, and serve the
+opposing party or party’s counsel. See FED. R. CIV. P. 5; Local Rules 5.1 and 5.2; see
+also Local Rule 7.4. (“Communications to judges seeking a ruling or order, including
+an extension of time, shall be by motion and not by letter. A letter seeking such action
+ordinarily will not be treated as a motion. Counsel [and pro se parties] shall not
+provide the Court with copies of correspondence among themselves relating to
+matters in dispute.”).
+The Clerk of Court and the U.S. Marshals Service will not serve documents
+filed by either party, unless expressly directed to do so by the Court. The Court will
+only direct the Clerk or the U.S. Marshals Service to serve documents in the following
+instances: (1) in the event a plaintiff is granted leave to proceed in forma pauperis
+(without prepayment of fees), the Court will direct the Clerk to prepare (and deliver to
+the U.S. Marshals Service , if necessary) a service package containing the case
+initiating document(s) or (2) in exceptional circumstances under the Court’s
+discretion. The National Association of Professional Process Servers provides a
+search engine for locating process servers across the nation at its website
+(www.napps.org).
+A pro se party is REQUIRED to provide the Clerk with an original of any further
+pleadings or other papers filed with the Court after the complaint. Under FED. R. CIV.
+P. 5, a pro se party who is not participating in the Court’s CM/ECF filing system is
+further REQUIRED to SERVE upon the opposing parties or counsel for the opposing
+parties, by mail or by hand delivery, a copy of every additional pleading or other paper,
+unless the parties agree to an alternative method of service.
+Each pleading or paper described in FED. R. CIV. P. 5, including pleadings,
+papers related to discovery required to be served, motions, notices , and similar
+papers, shall include a certificate stating the date on which an accurate copy of that
+pleading or document was mailed or hand-delivered to the opposing parties or counsel
+5
+for the opposing parties . The Court will disregard any papers submitted that have
+not been properly filed with the Clerk, or that do not include a certificate of service.
+Pro se parties are also ADVISED that, under Local Rule 7, “PLEADINGS
+ALLOWED; FORM OF MOTIONS,” if the deadline for a response to a motion passes
+without a response being filed, the motion is treated as unopposed. Under Local Rule
+56.1, failing to file a response to a motion for summary judgment or contest the
+movant’s statement of material facts will be taken as an admission of those facts.
+A pro se party is further REQUIRED to keep the Court advised of their current
+address at all times during the pendency of the lawsuit. Local Rule 83.1D(3) provides
+that counsel and pro se parties have, in all cases, a duty to notify the Clerk’s Office
+by letter of any change in address and/or telephone number. Per this rule, “ [i]f a
+failure to provide notice of any such change causes delay or adversely affects the
+management of a case, the Court may impose an appropriate sanction .” A pro se
+party is encouraged to provide the opposing party or counsel for the opposing party
+with an email address for purposes of communicating regarding the case and serving
+copies of pleadings filed and served via regular mail. If a pro se party provides an
+email address, the opposing party or counsel for the opposing party shall serve copies
+of all pleadings via email and regular mail. Pro se parties are ADVISED, however,
+that the Court serves documents via paper only and not via email.
+3. PRETRIAL CASE MANAGEMENT
+A. Disclosure of Use of Artificial Intelligence
+Counsel and pro se parties must disclose the use of artificial intelligence (“AI”)
+to prepare documents filed and submitted to the Court. If AI was used in any way to
+prepare a filing or submission to the Court or chambers, counsel and pro se parties
+are REQUIRED to sign and file a Disclosure of Use of Artificial Intelligence stating,
+as follows:
+“This document was generated with the assistance of [identify AI tool name]. I
+hereby certify under penalty of perjury that, despite reliance on an AI tool, I have
+independently reviewed this document to confirm accuracy, legitimacy, and use of
+6
+good and applicable law, pursuant to Rule 11 of the Federal Rules of Civil Procedure.”
+Counsel and pro se parties are cautioned that mistake, lack of technical
+expertise, and time constraints are typically not recognized by the Court as a good
+faith excuse for submission of documents that either violate Rule 11 or this disclosure
+rule. In particular, arguments in brie fs to the Court that are supported by AI -
+generated caselaw (i.e., cases that do not actually exist) are not acceptable. Failure
+to comply with this disclosure rule may result in appropriate sanctions, up to and
+including dismissal and/or default judgment.
+B. Temporary Restraining Orders or Preliminary Injunctive Relief
+The Court will not entertain granting a temporary restraining order or
+preliminary injunctive relief absent a properly supported motion with attached
+evidence pursuant to FED. R. CIV. P. 65. See Local Rule 7.1A(1). If a party requests
+such relief only in their complaint or other pleadings but fails to file a separate motion
+seeking the same, that request will not be considered until the merits of the case are
+addressed.
+C. Extensions of Time
+The Court, along with each party , is responsible for processing cases toward
+prompt and just resolutions. To that end, the Court seeks to set reasonable but firm
+deadlines. Motions for extensions of time, whether designated as consent, unopposed,
+or joint, will not be granted as a matter of course. A party seeking an extension of
+time must file a motion before the expiration of the deadline and should explain with
+specificity the unanticipated or unforeseen circumstances necessitating the
+extension. The party should also set forth a timetable for the completion of the tasks
+for which the extension is sought. The parties may not stipulat e to an extension of
+time—they must file a motion. If the motion is opposed, the filing party must indicate
+the opposition in their motion.
+For motions seeking an extension of the discovery period, in addition to
+explaining with specificity the unanticipated or unforeseen circumstances
+necessitating the extension, the motion should include: (1) the original (and, if
+7
+applicable, current) date from which the extension is being sought; (2) the number of
+previous requests for extensions, if any; (3) whether these previous requests were
+granted or denied; (4) whether the opposing party consents and, if not, the reasons
+given by the opposing party for refusing to consent; (5) what discovery has been taken
+as of the date of the motion; (6) the reason additional time is needed ; and (7) a
+timetable for completing the remaining needed discovery. A consent, unopposed, or
+joint motion to extend the discovery period should be clearly designated as such.
+A motion to extend the discovery period must be filed prior to the expiration of the
+existing discovery period. The Court will not enforce the private agreements between
+the parties and/or their counsel to conduct discovery beyond the conclusion of the
+discovery period. The Court also will not allow evidence at trial that was requested
+and not revealed during the discovery period.
+D. Page Limits for Objections to R&Rs and Responses to Objections
+Objections to a Magistrate Judge’s Report and Recommendation (“R&R”) and
+responses to objections shall be limited to fifteen (15) pages, absent prior approval
+from the Court.
+E. Page Limit Extensions
+Parties seeking an extension of the page limit must do so at least five (5) days
+prior to their filing deadline and should explain with specificity the reasons
+necessitating the extension. The parties may not stipulate to additional pages—they
+must file a motion. If a party files a motion to extend the page limit at the same time
+the party’s brief is due, the extension request will be denied. Filings that exceed the
+page limit may be denied or rejected with instructions to resubmit a compliant filing.
+F. Legal Citations
+Legal citations should be in Bluebook format (i.e., citations should appear in
+the text of a brief immediately following the propositions they support, and not in
+footnotes or endnotes). The Court may reject a party’s filing and order the party to
+resubmit the filing if it does not contain proper Bluebook formatting.
+8
+G. Conferences with the Court
+Scheduling, discovery, pretrial, and settlement conferences promote the
+speedy, just, and efficient resolution of cases. Therefore, the Court encourages the
+parties to request a conference with the Court when the parties believe that a
+conference will be helpful, and the parties should have specific goals and an agenda
+for the conference. Conferences may be requested by contacting the Courtroom
+Deputy via email.
+H. Joint Preliminary Report and Discovery Plan
+If a party files a pre-answer Rule 12 motion (including motions to dismiss a
+counterclaim) or a motion to compel arbitration, the parties’ discovery obligations and
+obligations under Local Rule 16 are stayed until an order on the motion is entered by
+the Court.
+Local Rule 16.1 provides that, prior to filing the Joint Preliminary Report and
+Discovery Plan, the parties are required to confer in an effort to settle the case,
+discuss discovery, limit issues, and discuss other matters addressed in the Joint
+Preliminary Report and Discovery Plan. See Local Rule 16.1. The Court encourages
+the parties to conduct this conference in-person.
+In certain cases, the Court may schedule a Rule 16 conference with the parties.
+Whether a conference will be scheduled generally will be determined after the Court
+reviews the Joint Preliminary Report and Discovery Plan filed by the parties. The
+Court will typically schedule a conference if any party requests it.
+I. Discovery
+Initial disclosures should be as complete as possible based upon information
+reasonably available. Responses may not be reserved for later supplementation. In
+addition to the requirements of FED. R. CIV. P. 26(a)(1)(A), if a party is aware of video
+or audio footage capturing the subject of the parties’ dispute (typically, body camera
+footage, surveillance or closed-circuit footage, or cell phone video), the video or audio
+footage must be produced with a party’s initial disclosures or within fourteen (14)
+days of the party’s discovery of such video or audio footage.
+9
+i. Discovery Responses: Boilerplate and General Objections
+FED. R. CIV. P. 33(b)(4) and 34(b)(2)(B) prohibit boilerplate and general
+objections in response to discovery requests. Parties should not carelessly invoke the
+usual litany of rote objections, i.e. , attorney-client privilege, work -product doctrine,
+overly broad/unduly burdensome, irrelevant, not reasonably calculated to lead to the
+discovery of admissible evidence.
+A party shall not include in his response to a discovery request a “Preamble”
+or a “General Objections” section stating that the party objects to the discovery
+request “to the extent that” it violates some rule pertaining to discovery, e.g. , the
+attorney-client privilege, the work -product doctrine, the requirement that discovery
+requests be reasonably calculated to lead to the discovery of admissible evidence, and
+the prohibition against discovery requests that are vague, ambiguous, overly broad,
+or unduly burdensome. Instead, each individual discovery request must be met with
+every specific objection thereto—but only those objections that actually apply to that
+particular request. Otherwise, it is impossible for the Court or the party upon whom
+the discovery response is served to know exactly what objections have been asserted
+to each individual request. All such general objections shall be disregarded by the
+Court.
+Finally, a party who objects to a discovery request but then responds to the
+request must indicate whether the response is complete, i.e. , whether additional
+information or documents would have been provided but for the objection(s). F ED. R.
+CIV. P. 34(b)(2)(C). For example, in response to an interrogatory, a party is not
+permitted to raise objections and then state, “Subject to these objections and without
+waiving them, the response is as follows . . .” unless the party expressly indicates
+whether additional information would have been included in the response but for the
+objection(s).
+ii. Interrogatories
+Interrogatories should be limited to requesting objective facts, such as the
+identification of persons or documents, dates, places, transactions, and amounts.
+Argumentative interrogatories, attempts to cross -examine, and multiple repetitive
+10
+interrogatories are objectionable.
+When in doubt about the meaning of an interrogatory, the responding party is
+to give the interrogatory a reasonable interpretation (which may be specified in the
+response) and answer it so as to provide, rather than deny, information.
+Generally, the responding party is required to produce information only in the
+form in which it is maintained or is available. If an answer is made by reference to a
+document, the responding party shall attach it or identify it and make it available for
+inspection. Generalized cross-references, such as to a deposition transcript, are not
+acceptable answers.
+iii. Requests for Production or Inspection
+Absent prior approval from the Court, the parties are limited to twenty-five
+(25) requests for production . To the extent possible, requests should specify with
+particularity the title and description of documents or records requested. Information
+needed for specification can often be obtained by informal discovery, deposition s, or
+interrogatories, if necessary. The certification requirement of F ED. R. CIV. P. 26(g)
+applies.
+All responsive documents should be Bates-numbered or labeled with a unique
+identifier on each page. Documents should be produced either (1) with labels
+corresponding to the categories in the specific requests to which they respond, or (2) in
+a format where it is clear which document is responsive to each particular request.
+Opening a warehouse for inspection by the requesting party, burying the responsive
+documents in a mass of materials, and similar procedures do not meet the good faith
+requirements of the rules.
+iv. Requests for Admission
+Requests for admission are an economical and efficient means of narrowing
+issues and making a record of informal exchanges of information, stipulations, and
+matters subject to judicial notice. Absent prior approval from the Court, the parties
+are limited to twenty-five (25) requests for admissions. Each request should be brief,
+clear, simple, addressed to a single point and stated in neutral, nonargumentative
+11
+words. Requests ordinarily should deal with only objective facts. They may be
+combined with interrogatories to ask for the factual basis of a claim or a denial.
+Counsel’s or a pro se party’s signature certifies compliance with FED. R. CIV. P. 26(g).
+v. Depositions
+Barring extraordinary circumstances, counsel and pro se parties should be
+consulted, and the convenience of counsel, witnesses, and the parties accommodated,
+before a deposition is noticed. When counsel or a pro se party enters into stipulations
+at the beginning of a deposition, the terms of the stipulation should be fully stated on
+the record of the deposition. Questions should be brief, clear, and simple. A deposition
+should not be used to harass or intimidate a witness. Under FED. R. CIV. P. 30(c)(2),
+objections to the manner of taking the deposition, to the evidence, or to the conduct
+of a party shall be noted on the record, but the evidence objected to shall be taken
+subject to the objection.
+In the absence of a good faith claim of privilege, instructions not to answer a
+question during a deposition are rarely justified and may lead to sanctions under FED.
+R. CIV. P. 37. Speaking objections and other tactics for coaching a witness during the
+deposition are prohibited . If counsel or a pro se party believes that a motion to
+terminate or limit the examination under F ED. R. CIV. P. 30(d) would be warranted
+or that counsel or a pro se party is obstructing the deposition to the extent that
+sanctions or another deposition will be requested, the parties should promptly contact
+the Courtroom Deputy to schedule a conference call with the Court to attempt to
+resolve the problem. The Court will endeavor to address the problem as quickly as
+possible once the issue is raised. The Court prefers handling such situations with a
+conference call rather than a later motion. FED. R. CIV. P. 26(b)(4) should be consulted
+regarding expert disclosures. Experts who are prospective witnesses are normally
+produced for deposition by the opposing party as a matter of course.
+The parties are expected to observe the limitations on depositions specified in
+FED. R. CIV. P. 26(b) and 30 and, in particular, to avoid unnecessary depositions.
+12
+vi. Discovery Disputes
+The parties shall not file discovery motions (including motions to compel,
+motions for protective orders, and motions for sanctions) absent prior approval from
+the Court. These disputes are often resolved in a conference with the Court . In the
+event a discovery dispute arises, the parties must first meet and confer in-person to
+attempt to resolve the dispute. Counsel and pro se parties are required to confer in
+good faith before bringing a discovery dispute to the Court. See FED. R. CIV. P. 26(c)
+and 37(a)(1); Local Rule 37.1A. The duty to confer is NOT satisfied by sending a
+written communication or conducting a telephone conference UNLESS repeated
+attempts to confer in -person are unsuccessful due to the conduct of the opposing
+party.
+If the dispute cannot be resolved, the parties must file a joint “ Notice of
+Discovery Dispute” via the Court’s CM/ECF filing system. The parties must also notify
+the Courtroom Deputy via email that the notice of discovery dispute was filed. The
+parties should not include any substantive arguments regarding the discovery dispute
+in their email communication to the Courtroom Deputy. No motions to compel or to
+impose discovery sanctions shall be filed absent express leave from the Court. In the
+consolidated submission, the parties should outline their respective positions on each
+of the discovery items in dispute. If there are four (4) or less issues, the consolidated
+submission should not exceed five (5) pages. If there are five (5) to ten (10) issues, the
+submission should not exceed ten ( 10) pages. If there are more than ten ( 10) issues,
+the s ubmission should not exceed twelve ( 12) pages. The s ubmission should be
+formatted in a logical order, i.e., identify each issue in dispute followed by a discussion
+from each of the parties setting forth an explanation of their respective positions on
+the issue. For example:
+I. Identify Discovery Issue #1
+A. Party A’s Position
+B. Party B’s Response
+The parties are required to attach as an exhibit to the consolidated submission
+an excerpt of the relevant discovery requests , including only the language of the
+13
+specific requests and, potentially, the responses that are the subject of the dispute.
+The parties should not attach an entire copy of their interrogatories , requests for
+production of documents, or requests for admission. No other exhibits , including
+email correspondence between the parties, are allowed absent prior approval from
+the Court. The Court will determine whether the dispute can be resolved on the papers
+or whether a conference is necessary and will notify the parties accordingly. All
+discovery conferences will be recorded by a C ourt Reporter. If the dispute cannot be
+resolved during the conference with the Court, the Court will direct further
+proceedings.
+vii. Confidentiality Agreements, Protective Orders, and Motions to Seal
+The Court avoids the excess use of protective orders that allow counsel to
+designate documents, tangible things, and information as “Confidential” and/or
+“Confidential—For Attorney’s Eyes Only.”
+While the Court recognizes the legitimacy of such orders in some cases, the
+Court’s experience is that such orders are used—and abused—more often than truly
+necessary. The Court is aware that the parties will , at times , agree to designate
+documents as “confidential.” The Court, however, will not approve consent protective
+orders that conflict with the Court’s view on the sealing of materials. As a guide to
+the parties , the Court notes that documents, tangible things, and information
+ordinarily are not truly confidential unless they constitute either (1) a “trade secret,”
+as defined by Section 1(4) of the Uniform Trade Secrets Act, or for cases applying
+Georgia law, O.C.G.A. § 10-1-761(4); (2) personal identifying information, such as a
+Social Security number; or (3) personal health information protected by the Health
+Insurance Portability and Accountability Act. Parties should also be aware that the
+Court is not hesitant to sanction counsel and/or parties for abusing a protective order
+by too readily designating documents, tangible things, and/or information as
+“Confidential” and/or “Confidential—For Attorney’s Eyes Only.”
+If the parties find that a confidentiality agreement or protective order is
+necessary, the parties must follow the practice for filing and sealing documents as
+described in the Court’s Procedure for Electronic Filing Under Seal in Civil Cases,
+14
+and must include this provision in any proposed agreement or protective order
+submitted for the Court’s consideration:
+Any documents (including briefs), tangible things, or
+information designated as Confidential that are submitted
+to the Court in support of , or in opposition to , a motion or
+introduced at a hearing or during trial may retain their
+protected confidential status only by compliance with the
+Court’s Procedures for Electronic Filing Under Seal in Civil
+Cases.
+For documents filed other than during a hearing or trial, as a general matter,
+the Court will seal only those items enumerated in the Court’s Standing Order 04-02
+regarding sensitive information and public access to electronic case files. Absent
+extraordinary circumstances making prior consultation impractical or inappropriate,
+the party seeking to file the documents under seal shall first consult with the party
+who designated the document as confidential to determine if some measure less
+restrictive than filing the document under seal may serve to provide adequate
+protection. As further clarification, the Court notes that a mer e reference or
+discussion of confidential information does not warrant sealing of the entire
+document. Instead, the Court is only interested in sealing (or filing in a redacted
+format) very specific portions of documents that contain or refer to confidential
+information. The parties should refrain from sealing an entire document when only
+certain informat ion is confidential. Additionally, the Court normally will not seal
+documents used in open court at a hearing or trial absent extraordinary
+circumstances.
+J. Motions Practice
+i. Electronic Filing of Exhibits and Attachments
+Parties are directed to label all electronically -uploaded exhibits and
+attachments according to their content to assist the Court in navigating the docket
+to locate record evidence. For example, documents should be uploaded and identified
+on the docket as “Ex. 1 – Smith Deposition” rather than “Ex. 1.” If a party is filing
+more than twenty -five (25) exhibits, the party should file a summary chart listing
+those exhibits according to their content descriptor and the CM/ECF docket number
+15
+containing the exhibit. This chart may be filed after the brief and exhibits are filed.
+ii. Brief Nomenclature
+Briefs should be titled on CM/ECF as follows: The initial brief of a movant
+should be titled “Brief in Support of [state the motion].” The brief of the responding
+party should be titled “Response in Opposition to [state the motion].” The reply of the
+moving party should be titled “Reply in Support of [state the motion].” Though
+surreplies are not permitted absent leave from the Court, if the Court authorizes a
+surreply, it should be titled “Surreply to [state the motion].”
+iii. Amended Complaints and Pending Motions
+If, in response to a motion to dismiss, a plaintiff files an amended complaint
+pursuant to FED. R. CIV. P. 15(a)(1), the Court will deny as moot any pending Rule 12
+motion or request for preliminary injunctive relief.
+iv. Motions for Summary Judgment
+When filing summary judgment briefs, all citations to the record evidence shall
+be contained in each party’s brief, not just in the party’s statement of undisputed (or
+disputed) material facts. If possible, citations to the record evidence in a brief should
+include the CM/ECF docket number . Deposition transcripts should not be attached
+to summary judgment briefs. Instead, before filing a brief in support of , or in
+opposition to, a motion for summary judgment, the party must file on the docket the
+complete transcript of each deposition referenced in the brief. Filing the deposition
+transcripts before the briefs will allow the parties to cite to the docket number in the
+briefs. The party should include in the brief, immediately following the deposition
+reference, a citation indicating the page and line numbers of the transcript where the
+referenced testimony can be found. Parties are encouraged to quote testimony from
+depositions and are cautioned not to mischaracterize deposition testimony.
+v. Statements of Material Facts and Responses
+Absent prior approval from the Court, statements of material facts are limited
+to fifty (50) facts. Subparts are not permitted.
+In addition to following the form instructions set out in Local Rule 56.1(B), a
+16
+party responding to a statement of material facts shall copy into its response the
+numbered statement to which it is responding and provide its response to that
+statement immediately following. A party that chooses to reply to a response shall
+copy into its reply its original numbered statement of material fact and the opposing
+party’s response, then provide its reply to that statement immediately following.
+Each party shall file its documents in a text-searchable PDF format.
+vi. Requests for Oral Argument on Motions
+In accordance with Local Rule 7.1(E), motions are usually decided without oral
+argument, but the Court will consider any request for hearing. If oral argument is
+requested, the party or parties should specify the particular reasons oral argument
+may be helpful to the Court and what issues will be the focus of the proposed oral
+argument. Moreover, the Court shall grant a request for oral argument on a contested
+substantive motion if the request states that a lawyer who is less than five (5) years
+out of law school will conduct the oral argument, it being the Court’s belief that new
+lawyers need more opportunities for Court appearances than they usually receive.
+4. TRIALS
+A. Pretrial Conference
+The Court will conduct a pretrial conference prior to trial. The purpose of the
+pretrial conference is to simplify the issues to be tried and to rule on evidentiary
+objections raised in the pretrial order. See Local Rule 16.4. Parties should bring to
+the pretrial conference a copy of the proposed pretrial order and attachments thereto,
+as well as any outstanding motions.
+Unless otherwise directed, all motions in limine shall be filed at least fourteen
+(14) days before the pretrial conference. Briefs in opposition to motions in limine shall
+be filed at least seven (7) days before the pretrial conference.
+Counsel for the plaintiff shall initiate, and all parties shall participate in, a
+meeting no later than ten (10) days before the pretrial conference to: (a) discuss
+settlement; and (b) stipulate to as many facts and issues as possible.
+In accordance with Local Rule 26.2C, Daubert motions shall be filed no later
+17
+than the date the proposed pretrial order is submitted. Briefs in opposition to Daubert
+motions shall be filed within fourteen (14) days following the filing of the Daubert
+motions, and reply briefs shall be filed seven (7) days thereafter. The Court will often
+schedule a Daubert hearing to occur at the pretrial conference. Accordingly, the
+parties should be prepared to present oral argument regarding any Daubert motions,
+and expert witnesses that are the subject of a Daubert motion should be prepared to
+appear and testify at the pretrial conference.
+B. Proposed Findings of Fact and Conclusions of Law
+When counsel is required to submit proposed findings of fact and conclusions
+of law, see Local Rule 16.4B(25), in addition to electronically filing the document ,
+counsel should provide a Word version of the filing to the Courtroom Deputy via
+email.
+C. Jury Trial
+The Court usually is in session from 8 :30 a.m. until 5:00 p.m. There will be
+breaks in the morning and afternoon as well as a lunch break. When the jury is in
+the courtroom, it is the Court’s and the parties ’ responsibility to use the jury’s time
+efficiently. If matters need to be taken up outside the presence of the jury, they should
+be raised during breaks or before the start of the trial day. It is each party’s
+responsibility to have enough witnesses on hand for each day’s proceedings.
+D. Voir Dire
+Proposed voir dire questions shall be filed with the pretrial order as provided
+in Local Rule 16.4(B). During voir dire, the jurors will verbally respond to a printed
+juror questionnaire (containing general questions regarding their residence,
+occupation, education, recreational activities, prior jury service , and children, if
+applicable). The Court will then permit the attorneys to ask voir dire questions—as
+previously approved by the Court. All challenges for cause will be heard at the close
+of the questioning of all jurors. There will be a fifteen (15) minute break at the
+conclusion of juror questioning to give all parties time to review their notes prior to
+striking members of the jury. The number of jurors empanel ed will be determined
+18
+after receiving input from the parties regarding the length of trial and any other
+relevant considerations.
+E. Courtroom Communications
+i. Presentation
+To assist the Court Reporter, all communications to the Court should be made
+standing before a microphone from a position at counsel table or from the lectern.
+Only one (1) attorney per party may object to the testimony of a witness being
+questioned by an opposing party. The objection must be made by the attorney who
+has conducted or is to conduct the examination of the witness. Examination of a
+witness should be limited to questions addressed to the witness.
+Counsel and parties should refrain from making disparaging remarks or
+displaying ill will toward other counsel and parties and from causing or encouraging
+any ill feeling among counsel and parties . Counsel and parties are to refrain from
+making gestures, facial expressions, or audible comments as manifestations of
+approval or disapproval of testimony, argument, or rulings by the Court. Counsel ,
+parties, and witnesses are to refrain from making extraneous statements, comments,
+or remarks during examinations.
+ii. Sidebar
+Offers or requests for stipulations should be made privately, not within the
+hearing of the jury. Counsel and parties should refrain from putting any matter
+before the jury in the form of a question that counsel and parties know or expect will
+be subject to an objection that is likely to be sustained. Such matters should be taken
+up with the Court outside the presence of the jury. Counsel and parties should not
+ordinarily make motions in the presence of the jury. Such matters may be raised at
+the first recess or at a sidebar conference. A motion for mistrial must be made
+immediately, but the Court may require argument at the next recess or excuse the
+jury. The Court expects five (5) to six (6) hours of testimony per day in jury trials and
+will not allow sidebar conferences or lengthy hearings outside the presence of the jury
+to disrupt the orderly presentation of evidence.
+19
+iii. Objections
+When making an objection, counsel and parties shall state only the legal basis
+of the objections (e.g., “leading” or “hearsay”) and should not elaborate, argue, or refer
+to other evidence unless asked to do so by the Court . Counsel and parties are
+prohibited from addressing comments or questions to each other. All arguments,
+objections, and motions should be addressed to the Court.
+F. Exhibits
+Exhibits and witness lists must be provided to all parties at least th irty (30)
+days before the start of trial. See FED. R. CIV. P. 26(a)(3). The parties should use AO
+Form 187 for their exhibit and witness lists, which can be found at
+https://www.uscourts.gov/sites/default/files/ao187.pdf. Exhibits must be examined
+and marked before trial in compliance with Local Rule 16.4. The parties should confer
+with the Courtroom Deputy prior to the start of trial to determine how the Court will
+receive a copy of the exhibits for use by Judge Johnson on the bench during
+proceedings. Ordinarily, the Court requests notebooks of exhibits to be provided on
+the first day of trial.
+All papers intended for Judge Johnson should be handed to the Courtroom
+Deputy, who will pass them to the Judge Johnson. Counsel and parties are not
+required to obtain permission from the Court to approach a witness in order to show
+the witness an exhibit or other document.
+G. Jury Charges
+The parties must file a unified set of proposed jury instructions three (3) days
+after the pretrial conference with the Court . The parties should also send a Word
+version of the unified proposed jury instructions to the Courtroom Deputy via email.
+Where an instruction is not agreed upon, the parties should indicate who is proposing
+the instruction, the legal basis for the instruction, and the legal basis for the opposing
+party’s opposition to the instruction. The parties must request leave from the C ourt
+to file supplemental jury charges. Ordinarily, the Court will charge the jury before
+closing arguments. The jury will be provided with a written copy of the jury charges.
+20
+H. Courtroom Technology
+A court order is required to bring boxes of exhibits, projectors, laptops —
+virtually anything necessary for use at trial—into the courthouse. The parties should
+file a motion detailing the equipment they wish to bring into the courtroom and the
+individuals requesting permission to bring the equipment . This should be done not
+less than three (3) business days prior to the proceeding to allow for proper
+notification to the U .S. Marshals Service. Generally, while attorneys and support
+staff may request such permission, parties will not be granted access to personal
+electronics in the courthouse.
+The courtroom has various electronic equipment for use by the parties at trial.
+For more information on the equipment, or to schedule an opportunity to test the
+equipment, please contact the Courtroom Deputy. It is the parties’ responsibility to
+make sure they know how to use the equipment available, to have the necessary
+accessories to connect their equipment, and to ensure that their equipment will
+interface with the Court’s technology. Trial will not be delayed for technical
+difficulties or equipment failure.
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+ATLANTA DIVISION
+,
+:
+:
+: CIVIL ACTION NO.
+Plaintiff[s], : 1:______-cv-______-TRJ
+:
+v. :
+:
+,
+:
+:
+:
+Defendant[s]. :
+CERTIFICATE OF COMPLIANCE
+I hereby certify that I have read the Guidelines to Parties and Counsel in Civil
+Cases Proceeding Before the Honorable Tiffa ny R. Johnson, and I will comply with
+its provisions during the pendency of this litigation.
+_____________________________
+[Signature of lead counsel
+or pro se party]

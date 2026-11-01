@@ -1,0 +1,760 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF OHIO
+WESTERN DIVISION, AT DAYTON
+STANDING ORDER GOVERNING CIVIL CASES
+Effective as of December 18, 2023
+Notice to counsel: New Requirement for Joint Proposed Final Pretrial
+Conference Orders Effective as of December 18, 2023
+Notice to counsel: New AI Provision Effective as of August 27, 2025
+Hon. Michael J. Newman
+United States District Judge
+Walter H. Rice Federal Building & U.S. Courthouse
+200 West Second Street, Room 505
+Dayton, Ohio 45402
+newman_chambers@ohsd.uscourts.gov
+Courtroom Deputy/Judicial Assistant:
+Claire McDowell
+(937) 512-1640
+claire_mcdowell@ohsd.uscourts.gov
+Court Reporter:
+Julie Hohenstein
+(937) 512-1639
+julie_hohenstein@ohsd.uscourts.gov
+i
+TABLE OF CONTENTS
+I. GENERAL PROVISIONS ...................................................................................................... 3
+a. Local Rules ............................................................................................................ 3
+b. Conflicting General Orders ................................................................................. 3
+II. PRETRIAL PROCEDURES ................................................................................................... 3
+a. Preliminary Pretrial Conference ......................................................................... 3
+b. Rule 26(f) Conference and Report....................................................................... 4
+c. Scheduling Order .................................................................................................. 6
+III. MAGISTRATE JUDGE PRACTICE .................................................................................... 6
+a. Assignment............................................................................................................. 6
+b. Reference ............................................................................................................... 6
+c. Consent................................................................................................................... 7
+IV. DISCOVERY ............................................................................................................................ 7
+a. The Discovery Deadline ........................................................................................ 7
+b. Discovery Disputes and Associated Motion Practice ......................................... 8
+c. Depositions in Lieu of Trial Testimony ............................................................... 8
+d. Protective Orders Governing Confidential Information in Discovery ............ 8
+e. Inadvertent Disclosure.......................................................................................... 9
+V. MOTION PRACTICE ............................................................................................................. 9
+a. Memoranda in Support ........................................................................................ 9
+b. Motion Filing Deadlines ....................................................................................... 9
+c. Evidence in Support ............................................................................................ 10
+d. Page Limitations and Formatting...................................................................... 12
+e. Impact on Court Discovery ................................................................................ 12
+f. Hearings and Oral Argument ............................................................................ 13
+g. Courtesy Copies .................................................................................................. 13
+VI. ARTIFICIAL INTELLIGENCE (“AI”) PROVISION....................................................... 13
+VII. MEDIATION .......................................................................................................................... 14
+VIII. TRIAL, ASSOCIATED CONFERENCES AND DEADLINES ........................................ 14
+a. Final Pretrial Conference ................................................................................... 14
+ii
+b. Joint Proposed Final Pretrial Order ................................................................. 14
+c. Exhibits ................................................................................................................ 16
+d. Jury Instructions ................................................................................................. 17
+e. Motions in Limine ............................................................................................... 18
+f. Daubert Motions .................................................................................................. 19
+g. Depositions ........................................................................................................... 19
+h. Trial Briefs ........................................................................................................... 20
+i. Courtroom Practice ............................................................................................ 20
+IX. APPENDICES ......................................................................................................................... 23
+3
+I. GENERAL PROVISIONS
+a. Local Rules
+The Local Civil Rules of the United States District Court for the Southern
+District of Ohio, including the Introductory Statement on Civility, shall be strictly
+adhered to by all parties and counsel appearing before the undersigned and will be
+strictly enforced by the Court. The Court reserves the right to sanction counsel who
+violate the Local Rules or Civility Statement.
+b. Conflicting General Orders
+This Standing Order replaces Dayton General Order No. 12 -01 for all civil cases
+assigned to the undersigned. On or after the effective date of this Standing Order,
+all counsel of record are charged with knowledge of the procedures and
+requirements contained herein.
+II. PRETRIAL PROCEDURES
+a. Preliminary Pretrial Conference
+The assigned magistrate judge will generally set a pretrial scheduling conference to
+occur by telephone within 45 days after all parties have appeared in an action.
+i. Participation
+All pro se parties must participate in the preliminary pretrial conference.
+Parties represented by counsel need only appear at the preliminary pretrial
+conference through their “trial attorney” (defined in S.D. Ohio Civ. R.
+4
+83.4(a)).1 Co-counsel for any party may also participate in the preliminary
+pretrial conference, but a party’s “trial attorney” is required to participate.
+ii. Subject Matter
+During the preliminary pretrial conference, the assigned magistrate judge
+will discuss the contents of the Rule 26(f) report , including the dates and
+deadlines proposed by the parties; the parties’ discovery plan; the need for
+issuance of a protective order governing the exchange of confidential
+information; the status of settlement negotiations ; and whether the parties
+seek to engage in mediation or other alternative dispute resolution (“ADR”)
+mechanism.
+b. Rule 26(f) Conference and Report
+Prior to the preliminary pretrial conference, the parties shall confer as required by
+Fed. R. Civ. P. 26(f) and jointly prepare a Rule 26(f) report for filing.
+i. Trial Date
+Trial in a civil case will generally not be set to commence any sooner than
+5 months after the dispositive motion deadline.
+1 “Unless otherwise ordered, in all actions filed in, transferred to, or removed to this Court, all parties other
+than pro se parties must be represented at all times by a ‘trial attorney’ who is a permanent member in good
+standing of the bar of this Court. Each filing made on behalf of such parties shall identify and be signed by
+the trial attorney. The trial attorney shall attend all hearings, conferences, and the trial itself unless excused
+by the Court from doing so. Admission pro hac vice does not entitle an attorney to appear as a party’s trial
+attorney, but the Court may, in its discretion and upon motion that shows good cause, permit an attorney
+who has been so admitted to act as a trial attorney.” S.D. Ohio Civ. R. 83.4(a).
+5
+ii. Discovery Plan
+In formulating a discovery plan, the parties shall c onsider the need for a
+protective order governing the exchange and use of confidential information
+during the discovery phase of the case.
+iii. Filing
+The Rule 26(f) report of the parties shall be filed at least 7 days prior to the
+date of the pretrial scheduling conference.
+iv. Binding Nature of the Rule 26(f) report
+In the absence of objection by any party, the Court will generally adopt in a
+Scheduling Order the following deadlines jointly proposed by the parties in
+the Rule 26(f) report : a mending the pleadings ; adding/joining additional
+parties; filing motions directed to the pleadings (i.e., motions to dismiss or
+for judgment on the pleadings) ; disclosing lay and expert witnesses;
+completing discovery; and filing dispositive motions. Unless otherwise
+stated in the Court’s Scheduling Order, the dates jointly proposed by the
+parties in the Rule 26(f) report shall govern the action and the parties are
+bound by the discovery plan and other agreements set forth in the Rule 26(f)
+report.
+v. Form
+A form Rule 26(f) report is attached in Appendix A to this Standing Order.
+6
+c. Scheduling Order
+A Scheduling Order will promptly issue after the preliminary pretrial
+conference and shall, upon issuance, govern the case. No d eadline set in
+the Scheduling Order shall be extended, amended, or continued in the
+absence of a Court Order issued upon good cause shown. In other words,
+even if all parties agree, a Court Order is nevertheless required to extend,
+amend, or continue any deadline set in the Scheduling Order. To seek
+amendment of deadlines, counsel or pro se litigants must file a motion to
+amend and comply with all provisions of the Local Rules. See S.D. Ohio
+Civ. R. 7.2 and 7.3.
+III. MAGISTRATE JUDGE PRACTICE
+a. Assignment
+All civil cases, upon filing, are assigned by the Clerk to a district judge and a
+magistrate judge.
+b. Reference
+All civil cases assigned to the undersigned, upon filing, are hereby referred by this
+Standing Order to a magistrate judge pursuant to 28 U.S.C. §§ 636(b)(1)(A), (B),
+and (C) and § 636(b)(3). Unless otherwise ordered ,2 the magistrate judge is
+authorized to perform any and all functions authorized for full -time United States
+2 Certain categories of cases are referred to the United States magistrate judge to perform any and all
+functions authorized for full -time magistrate judges by statute. See Dayton General Order, No. 22- 01
+(S.D. Ohio Jan. 28, 2022). These cases include, inter alia, IRS summonses, government loans, Miller Act
+cases, pro se cases, post-conviction relief matters, Social Security disability appeals, and all post-judgment
+proceedings in aid of execution. Id. In addition, other cases may be referred for full disposition upon the
+unanimous consent of the parties. See 28 U.S.C.§ 636(c); see also infra § III(c).
+7
+magistrate judges by statute except that, unless specifically ordered, the following
+motions are not referred, regardless of when they may be filed: (1) motions for
+temporary restraining order or preliminary injunction; (2) motions to dismiss, for
+judgment on the pleadings, or for summary judgment ; (3) m otions for class
+certification; (4) motions in limine; and (5) motions for default judgment.
+c. Consent
+A United States magistrate judge of this court is available to conduct all
+proceedings in a civil action (including a jury or nonjury trial) and to order the entry
+of a final judgment (a judgment that may then be appealed directly to the United
+States Court of Appeals for the Sixth Circuit). A magistrate judge may exercise
+this authority only if all parties voluntarily consent. You may consent to have your
+case referred to a magistrate judge, or you may withhold your consent without
+adverse substantive consequences. Pro se litigants and counsel may consent at any
+time during the litigation so long as trial has not yet begun.
+If all parties consent to the jurisdiction of the magistrate judge, they shall so advise
+the Clerk of Court by signing and jointly submitting to the Clerk Form AO 85 ,
+which is attached to this Standing Order at Appendix B.
+IV. DISCOVERY
+a. The Discovery Deadline
+No discovery from any source shall be requested or received, or any depositions
+occur, after the discovery deadline. All discovery must be completed, not just
+requested, by the discovery deadline. For such discovery to occur, the requesting
+8
+party must seek leave of court to amend the discovery deadline for that limited
+purpose. The Court may disregard -- on summary judgment, at trial, or otherwise
+-- any information or documents obtained, received, or produced after the discovery
+deadline.
+b. Discovery Disputes and Associated Motion Practice
+The parties may jointly request an informal discovery dispute conference with the
+assigned magistrate judge only after exhausting all extrajudicial means3 to resolve
+the dispute. See S.D. Ohio Civ. R. 37.1. In the absence of extraordinary
+circumstances, no discovery motion -- such as a motion to compel or a motion for
+a protective order (except for a joint motion for entry of a proposed protective
+order) -- shall be filed in a case assigned to the undersigne d until the parties have
+participated in an informal discovery dispute conference as set forth in S.D. Ohio
+Civ. R. 37.1.
+c. Depositions in Lieu of Trial Testimony
+After the discovery deadline, a party may take a deposition for use at trial in lieu of
+live testimony only if leave of court is granted.
+d. Protective Orders Governing Confidential Information in Discovery
+Where the parties believe that a protective order is needed to govern the exchange
+and use of confidential information during the discovery phase of the case , the
+parties shall confer to negotiate the terms of such an order for the Court’s approval.
+3 The undersigned interprets the phrase “all extrajudicial means” to require both telephonic and written
+communication between the parties.
+9
+To obtain Court approval, the parties shall jointly file a motion for the entry a joint
+protective order and attach the joint proposed protective order thereto. In addition,
+the parties shall email the joint proposed protective order to the undersigned’s
+chambers and the chambers of the assigned magistrate judge. In negotiating the
+terms of the protective order, the parties shall be familiar with Sixth Circuit case
+law, including Shane Group, Inc. v. Blue Cross Blue Shield of Mich., 825 F.3d 299
+(6th Cir. 2016). Form protective orders are available on the Court’s website.
+e. Inadvertent Disclosure
+Pursuant to Evidence Rule 502(d), an inadvertent disclosure of a communication or
+information covered by the attorney- client privilege or work- product protection
+made in connection with this litigation shall not constitute a waiver of that privilege
+or protection in this or any other federal or state proceeding.
+V. MOTION PRACTICE
+a. Memoranda in Support
+Memoranda in support of a motion shall be appended directly to the motion and
+shall not be filed separately on the Court’s CM/ECF docketing system.
+b. Motion Filing Deadlines
+Motions filed under Fed. R. Civ. P. 12 and 56 before the undersigned shall be
+briefed in the following manner: Plaintiff’s memorandum in opposition is due
+within 21 days of the filing of the motion to dismiss; the movant’s reply
+memorandum is due within 14 days of the filing of the opposition memorandum.
+All other motion, unless otherwise ordered, shall follow the same timeline.
+10
+c. Evidence in Support
+The Court prefers that, to the extent practicable, all evidence used in support of a
+motion shall be filed on the Court’s CM /ECF system before the motion is filed.
+Citations to evidence shall reference the case -specific document number and
+PageID number ( e.g., Doc. No. 50 at PageID 123) where th e evidence cited is
+located within the record.
+i. Depositions
+Deposition transcripts referred to or relied upon in support of or in
+opposition to a motion shall be filed with the Court. When filing deposition
+transcripts, the parties shall file the full transcript in a condensed format.
+All deposition transcripts filed with the Clerk must include a signature page
+and statement of changes in form or substance made by the witness pursuant
+to Fed. R. Civ. P. 30(e) and the certificate described in Fed. R. Civ. P. 30(f).
+ii. Confidential Information as Evidence
+Except where impractical to do so, a party seeking to support a motion with
+information deemed “confidential” or otherwise protected by the terms of a
+protective order must, sufficiently in advance of date upon which the party
+seeks to file such information with the Court, confer with the party or parties
+designating the information confidential or otherwise protected by the terms
+of a protective order to determine whether it is appropriate to file a motion
+for leave to file that information under seal.
+11
+iii. Filing Evidence Under Seal
+Leave of court is required before a party may file evidence on the Court’s
+docket under seal. This includes information deemed “confidential” or
+otherwise protected by the terms of a protective order. When moving for
+leave to file information under seal, the moving party shall be familiar with
+the standards set by the Sixth Circuit, including Shane Group. The Court
+anticipates that motions for leave to file documents under seal will be
+accompanied by: (1) a memorandum explaining, with legal citations, why
+the proposed seal is no broader than necessary; and (2) an affidavit
+demonstrating compliance with Shane Group and its progeny.
+Any Order d enying a m otion to s eal or denying a m otion for c ontinued
+sealing will be stayed for a period of 14 days after entry of the Order during
+which an appropriate appeal from the Order may be filed or during which
+all or part of the material filed under seal may be withdrawn before it
+becomes a part of the public record. If an appeal is filed, the subject Order
+will remain stayed until the appeal is determined and, if the Order is
+affirmed, in whole or in part, the Order will remain stayed for an additional
+14 days after the entry of the appellate ruling during which all or part of the
+material filed under seal may be withdrawn before it becomes a part of the
+public record.
+iv. The Same Evidence Should be Filed Once
+To the extent practicable, the parties sh ould refrain from filing the same
+evidence multiple times on the Court’s docket. For example , if the
+12
+transcript of a deposition is filed as Document #20 on the docket in support
+of a motion to compel, that same deposition should not be separately filed
+again to support a later -filed motion for summary judgment; instead, the
+party should simply cite Doc. 20 and the appropriate PageID in the motion
+for summary judgment. Similarly, if defendant cites a contract governing
+the relationship between the parties and files such contract as an exhibit in
+support of a motion for summary judgment, plaintiff should not again file
+the same contract as an exhibit to the memorandum in opposition; instead,
+plaintiff should simply cite to the contract filed by defendant.
+d. Page Limitations and Formatting
+While the Court prefers that memoranda not exceed the 20-page limitation set forth
+in S.D. Ohio Civ. R. 7.2(a)(4), leave of court is not required to file a memorandum
+exceeding that page limitation. However, parties filing memoranda exceeding 20
+pages in length shall comply with all other requirements of S.D. Ohio Civ. R.
+7.2(a)(4).
+All briefs and memoranda shall comport with the following specifications: (1) one-
+inch margins on all sides; (2) main body of the text in 12-point, Times New Roman
+font; (3) footnote text in at least10-point font in the same typeface as the main body
+of the text; and (4) citations in the main body of the text, not footnotes.
+e. Impact on Court Discovery
+Unless otherwise expressly ordered by the Court, discovery is not stayed, extended,
+continued, or tolled by the filing of a ny motion or while any dispositive motion
+13
+remains pending on the docket awaiting decision . For example: the filing of a
+motion for judgment on the pleadings or the pendency of a motion to dismiss does
+not stay or toll the discovery deadline pending a decision on the motion.
+f. Hearings and Oral Argument
+Unless required by law or otherwise ordered by the Court, all motions will be
+decided on the parties’ written submissions filed in accordance with S.D. Ohio Civ.
+R. 7.2. The parties may request oral argument or a hearing on any motion by
+following the procedure set forth in S.D. Ohio Civ. R. 7.1(b).
+g. Courtesy Copies
+Unless requested by the Court, the parties need not provide the Court with courtesy
+copies of any motion or memorandum.
+VI. ARTIFICIAL INTELLIGENCE (“AI”) PROVISION
+No attorney for a party, or a pro se party, may use Artificial Intelligence (“AI”) in
+the preparation of any filing submitted to the Court. Parties and their counsel who
+violate this AI ban may face sanctions including, inter alia , striking the pleading
+from the record, the imposition of economic sanctions or contempt, and dismissal
+of the lawsuit. The Court does not intend this AI ban to apply to information
+gathered from legal search engines, such as Westlaw or LexisNexis, Internet search
+engines, such as Google or Bing, or Microsoft Suite products or the equivalent,
+such as Word. All parties and their counsel have a duty to immediately inform the
+Court if they discover the use of AI in any document filed in their case or an
+opponent’s case. The purpose of this provision is not to prevent parties from using
+14
+AI tools, such as legal search engines or Microsoft Suite products but, rather, to
+prevent counsel and pro se parties from citing false, misleading and/or hallucinated
+cases and law.
+VII. MEDIATION
+Mediations are conducted by the Dayton m agistrate judge not otherwise assigned
+to the case. To schedule a mediation, counsel should contact Judge Newman’s
+Courtroom Deputy directly, not the magistrate judge’s chambers.
+VIII. TRIAL, ASSOCIATED CONFERENCES AND DEADLINES
+a. Final Pretrial Conference
+The date for the final pretrial conference will generally be set forth in the
+Scheduling Order issued at the outset of the case and will typically occur
+approximately 14 days or more prior to trial. The trial attorney and all co-counsel
+who intend to participate at trial shall attend the final pretrial conference. The Court
+reserves the right to bar from trial all counsel who fail to attend the final pretrial
+conference in person.
+b. Joint Proposed Final Pretrial Order
+No later than 7 days before the final pretrial conference, the parties shall file a joint
+proposed final pretrial order using the form attached hereto in Appendix C. A copy
+of the joint proposed final pretrial order shall also be emailed to the undersigned’s
+chambers.
+i. Procedures for Preparing the Joint Proposed Final Pretrial Order
+15
+During the parties’ preparation of the j oint proposed final pretrial order,
+counsel shall discuss and agree to the maximum number of trial days it will
+take to submit the case to the jury or, in bench trials, to the Court . In the
+event the Court has bifurcated any claims or issues, counsel shall discuss
+and agree to the maximum number of trial days it will take to submit each
+bifurcated stage of the case to the jury or, in bench trials, to the Court .
+Absent extraordinary circumstances or a showing of substantial prejudice,
+trial will not last longer than the maximum number of days agreed to by the
+parties in the Joint Final Pretrial Order.
+Unless otherwise ordered by the Court or agreed to by the parties, the
+following procedure applies to the parties’ preparation of the joint proposed
+final pretrial order:
+1. Plaintiff shall prepare and deliver to each defendant a first draft
+of the joint proposed final pretrial order no later than 14 days prior
+to the filing deadline (without the information which is within the
+knowledge of defendants, such as lists of witnesses, exhibits, etc.);
+2. Defendant must add all information necessary to complete a
+second draft of the joint proposed final pretrial order, clearly
+delineating the text which has been changed or added, and deliver
+the second draft to plaintiff(s) no later than 7 days prior to the filing
+deadline;
+3. Following delivery of the second draft of the joint proposed final
+pretrial order, the parties shall confer and, thereafter, file and submit
+the joint proposed final pretrial order to the Court as set forth above.
+ii. Sanctions
+Failure to timely file the joint proposed final pretrial order as required may
+result in the continuance of the final pretrial conference and trial. Further,
+16
+the failure to timely file the joint proposed final pretrial order may result in
+the issuance of sanctions, including the dismissal of a case for failure to
+prosecute.
+iii. Entry of the Final Pretrial Order
+Following the final pretrial conference, the Court will promptly enter the
+final pretrial order with any changes thereto on the Court’s docket.
+c. Exhibits
+Exhibits shall be marked with sequential numerals as follows: joint exhibits shall
+be designated by its sequential number, e.g., JX1, JX2. Plaintiff’s exhibits shall be
+designated PX followed by its sequential number, e.g., PX 1, PX2. D efendant’s
+exhibits shall be designated DX followed by its alphabetically sequential letter e.g.,
+DXA, DXB. In cases involving multiple plaintiffs and/or defendants, questions
+regarding how to properly mark exhibits will be discussed during the final pretrial
+conference
+i. Exchange Between the Parties
+Unless otherwise ordered, all exhibits shall be marked and copies of such
+delivered to all other parties no later than 3 business days before the final
+pretrial conference.
+ii. Court Copies
+A hard copy of all exhibits shall be provided to the undersigned’s
+Courtroom Deputy at least 3 business days prior to trial. To the extent
+17
+possible, an electronic copy of all exhibits shall also be provided to the
+Court. If the parties are unable to provide the Court with electronic copies,
+2 additional hard copies must be given to the undersigned’s Courtroom
+Deputy at the time set forth above.
+iii. Demonstratives
+Sketches, models, diagrams, videos, PowerPoints, or any other
+demonstrative exhibit that will be used at trial for any purpose must be
+exhibited to all other parties no later than the final pretrial conference.
+iv. Display of Exhibits at Trial
+Unless admitted into evidence, no exhibit can be displayed to the jury
+without Court approval.
+v. Admission into Evidence
+The admissibility of all exhibits referred to during trial and offered by the
+parties, other than those examined by the jury, will be ruled upon by the
+Court, at the latest, prior to that party's resting. Either side may offer any
+marked exhibit, regardless of which party marked it. There is no
+requirement that counsel object to any exhibit at the final pretrial
+conference.
+d. Jury Instructions
+Proposed jury instructions and verdict forms must be filed 7 days or more before
+the final pretrial conference. In addition, a Word version of each parties’ proposed
+jury instructions shall be emailed to chambers at
+18
+newman_chambers@ohsd.uscourts.gov. As filed, they shall be formatted so that
+each instruction can be printed on a separate 8.5" x 11" sheet of paper identified as
+“Plaintiff(s) (Defendant(s)) Requested Instruction No. __.” Each instruction must
+contain a citation of authority upon which counsel relies.
+i. Citation to Authority
+The Court uses as sources for its instructions O’Malley, Grenig, and Lee’s
+FEDERAL JURY PRACTICE AND INSTRUCTIONS; OHIO JURY INSTRUCTIONS;
+the Sixth Circuit Pattern Jury Instructions; Pattern Instructions from other
+circuit courts; and instructions given in prior cases of a similar nature.
+ii. Agreed Statement of the Case
+The parties are required to confer and submit an agreed statement of the
+case to the undersigned’s c hambers via email
+(newman_chambers@ohsd.uscourts.gov) 7 days or more before trial.
+e. Motions in Limine
+Unless otherwise ordered, all motions in limine, directed to the presentation
+of evidence at trial, must be filed not later than 14 days prior to the final
+pretrial conference. Memoranda in opposition to motions in limine shall be
+filed no later than 7 days prior to the final pretrial conference. The failure
+to file a motion in limine does not waive any argument regarding the
+admissibility of evidence at trial.
+19
+f. Daubert Motions
+The parties are encouraged to file Daubert motions simultaneously to their
+motions for summary judgment. If so filed, the opposing party will have 21
+days to respond. No replies are permitted without leave of Court.
+Any motion in limine addressed to the admissibility of expert testimony
+under Daubert, if not included in a previously filed motion for summary
+judgment, must be filed at least 30 days before the Final Pretrial
+Conference. Responses to such motions must be filed no later than 23 days
+before the Final Pretrial Conference. No replies are permitted without leave
+of Court.
+g. Depositions
+Counsel will specify in the joint proposed final pretrial order those portions of any
+deposition which will be read or played at trial in lieu of live testimony. The
+deposition itself must be filed with the Clerk not later than the date of the final
+pretrial conference. Opposing counsel will note objections to any portion of the
+deposition in advance of the trial, and the Court will rule on the objections either
+prior to the commencement of the trial or, at the latest, prior to the reading or
+playing of the deposition in open court.
+Video presentations must include a method for cutting off either sound or the entire
+picture from the jury in situations where the Court must rule on objections to
+testimony. In addition to the video record itself, a typewritten transcript must be
+20
+provided to the Court and opposing counsel as an aid in following the videotape
+presentation and in ruling upon any objections.
+Any deposition to be used solely for impeachment must be filed with the Clerk
+prior to the final pretrial conference.
+h. Trial Briefs
+Trial briefs, if desired by counsel or ordered by the Court, must be filed and served
+7 days or more before trial. All briefs shall comply with S. D. Ohio Civ. R. 5.1,
+with citations and references conforming to S. D. Ohio Civ. R. 7.2(b) and the style
+requirements for memoranda set forth in this General Order. Counsel should use
+their trial briefs to instruct the Court in advance of trial in any area of law upon
+which counsel will rely at trial. Therefore, the briefs should contain arguments,
+with citations to legal authority, in support of any evidentiary or other legal
+questions which may reasonably be anticipated to arise at trial.
+i. Courtroom Practice
+Conduct of counsel during the trial of cases will be governed by the following:
+i. Counsel Tables
+The plaintiff in all civil cases, and the United States Government in criminal
+cases, will occupy the counsel table nearest the jury. Defendants in both
+civil and criminal cases will occupy the counsel table furthest from the jury.
+ii. Court Sessions
+Trials will usually start at 9:00 a.m. The morning session will continue until
+approximately noon. There will be a morning recess of approximately 15
+21
+minutes at an approximately 10:30 a.m. The afternoon session will start
+one hour after the end of the morning session unless otherwise announced.
+The afternoon session will usually end at approximately 4:30 p.m. A recess
+of 15 minutes will occur at approximately 3 p.m. It is expected that the
+parties and all counsel will be available at least 15 -20 minutes prior to the
+beginning of the morning and afternoon sessions.
+iii. Voir Dire
+For voir dire , the Court will generally ask initial questions of the entire
+panel first and will then allow counsel for the parties to ask follow -up
+questions.4 Following questioning, the Court will entertain “ for cause”
+challenges and peremptory challenges. The parties shall each have 3
+peremptory challenges and may request additional peremptory challenges
+during the final pretrial conference.
+iv. Size of the Jury
+The Court will seat a jury of 8 in civil cases with a requirement of unanimity,
+unless otherwise ordered in the final pretrial order.
+v. Courtroom Demeanor
+Counsel should consult with Judge Newman at the final pretrial conference
+regarding the judge’s preference as to requesting permission to approach a
+witness.
+4 For a list of sample questions, see infra Appendix D.
+22
+Presenting Exhibits to Witnesses . Since all evidence will have
+been previously deposited with the Courtroom Deputy, counsel
+should request the Courtroom Deputy to hand specific documents to
+the witness. Documents intended for impeachment purposes which
+are not admitted into evidence will be handed to the Courtroom
+Deputy for suitable marking and then handed to the witness.
+Comments by Counsel. Counsel should address any comments to
+the Court and not to opposing counsel.
+Objections. Counsel shall not make speaking objections and are
+not to argue objections in the hearing of the jury.
+vi. Jury Charge Conference
+The Court will hold a conference with counsel, in c hambers and on the
+record, prior to the final argument in jury cases for the following purposes
+(1) counsel may be heard on proposed jury charges presented by either side
+and/or on the tentative charges submitted by the Court (counsels’ attention
+is directed to Fed. R. Civ. P. 51); and (2) the Court will determine the length
+of the summations to the jury.
+IT IS SO ORDERED.
+December 14, 2023 s/Michael J. Newman
+Hon. Michael J. Newman
+United States District Judge
+23
+IX. APPENDICES
+The following forms are available for the parties to use throughout the course of litigation:
+1. Appendix A: Fed. R. Civ. P. 26(f) Order
+2. Appendix B: Form AO85 for Unanimous Consent to Magistrate Judge
+Jurisdiction
+3. Appendix C: Joint Proposed Final Pretrial Order
+4. Appendix D: Sample Voir Dire Questions
+24
+Appendix A
+25
+26
+Appendix B
+27
+District of
+AO 85 (Rev. 02/17) Notice, Consent, and Reference of a Civil Action to a Magistrate Judge
+UNITED STATES DISTRICT COURT
+for the
+)
+Plaintiff
+v.
+)
+) Civil Action No.
+)
+Defendant )
+NOTICE, CONSENT, AND REFERENCE OF A CIVIL ACTION TO A MAGISTRATE JUDGE
+Notice of a magistrate judge’s availability . A United States magistrate judge of this court is available to conduct all
+proceedings in this civil action (including a jury or nonjury trial) and to order the entry of a final judgment. The judgment may
+then be appealed directly to the United States court of appeals like any other judgment of this court. A magistrate judge may
+exercise this authority only if all parties voluntarily consent.
+You may consent to have your case referred to a magistrate judge, or you may withhold your consent without adverse substantive
+consequences. The name of any party withholding consent will not be revealed to any judge who may otherwise be involved
+with your case.
+Consent to a magistrate judge’s authority. The following parties consent to have a United States magistrate judge conduct
+all proceedings in this case including trial, the entry of final judgment, and all post-trial proceedings.
+Printed names of parties and attorneys Signatures of parties or attorneys Dates
+Reference Order
+IT IS ORDERED: This case is referred to a United States magistrate judge to conduct all proceedings and order the
+entry of a final judgment in accordance with 28 U.S.C. § 636(c) and Fed. R. Civ. P. 73.
+Date:
+District Judge’s signature
+Printed name and title
+Note: Return this form to the clerk of court only if you are consenting to the exercise of jurisdiction by a United States
+Reset
+28
+magistrate judge. Do not return this form to a judge.
+Print
+Save As...
+29
+Appendix C
+30
+j. IN THE UNITED STATES DISTRICT
+COURT FOR THE SOUTHERN DISTRICT
+OF OHIO WESTERN DIVISION AT
+DAYTON
+Plaintiff(s)
+vs. Case Number:
+District Judge Michael J. Newman
+Defendant(s).
+k. FINAL PRETRIAL ORDER
+(A proposed final pretrial order following this form must be jointly prepared and filed not later than the
+date set forth in the Preliminary Pretrial Conference Order.)
+This action came before the Court at a final pretrial conference held on
+at a.m./p.m., pursuant to Rule 16, Federal Rules of Civil Procedure.
+I. APPEARANCES:
+For Plaintiff(s):
+For Defendant(s):
+II. NATURE OF ACTION AND JURISDICTION:
+A. This is an action for
+B. The jurisdiction of the Court is invoked under Title United States Code,
+Section .
+C. The subject matter jurisdiction of the Court (is) (is not) disputed. [If disputed,
+state by which party and on what basis.]
+III. TRIAL INFORMATION:
+A. The parties’ agree that the maximum number trial days is .
+B. Trial to has been set for .
+31
+IV. AGREED STATEMENTS AND LISTS:
+A. General Nature of the Claims of the Parties:
+(1) PLAINTIFF CLAIMS: (suggested type of simple language)
+“Plaintiff asserts in Count 1 a right of recovery for defendants’ negligence as follows:
+“Plaintiff asserts in Count 2 a right of recovery for defendants’ wanton and willful misconduct as follows:
+“Plaintiff asserts in Count 3 a right to punitive damages and attorney fees for the following reasons:
+(2) DEFENDANT CLAIMS: (suggested type of simple language)
+Defendant denies liability as asserted in Counts for the following reasons:
+Defendant as an affirmative defense asserts:
+(3) ALL OTHER PARTIES’ CLAIMS:
+B. Uncontroverted Facts
+Suggested Language:
+“The following facts are established by admissions in the pleadings or by stipulations of counsel (set
+forth and number uncontroverted or uncontested facts.)
+C. Issues of Fact and Law
+Suggested Language:
+(1) “CONTESTED ISSUES OF FACT: The contested issues of fact remaining for decision are:
+(list)”
+(2) “CONTESTED ISSUES OF LAW: The contested issues of law in addition to those implicit in
+the foregoing issues of fact, are: (set forth)
+OR: There are no special issues of law reserved other than those implicit in the foregoing issues of fact.”
+If the parties are unable to agree on what the contes ted issues of fact or law are, their respective contentions as
+to what the issues are shall be set forth separately and clearly labeled.
+D. Witnesses
+Suggested Language:
+(1) “Plaintiff will call or will have available for testimony at trial those witnesses listed in
+Appendix A hereof.”
+(2) “Defendant will call or will have available for testimony at trial those Witnesses listed on
+Appendix B hereof.”
+32
+(3) will call or will have available for testimony at trial those witnessed listed on
+Appendix C hereof.”
+(4) “The parties reserve the right to call rebuttal witnesses whose testimony could not reasonably
+be anticipated without prior notice to opposing counsel.”
+l. INSTRUCTIONS:
+(1) A brief one or two sentence synopsis of the witnesses’ testimony must be given -- i.e., “Will
+testify to pain and suffering,” “Will testify to lost profits, etc.”
+(2) Leave to call additional witnesses may be granted by the Court in unusual situations on motion
+with names, addresses, and an offer of proof of such witness’ testimony within twenty-four hours
+after the need to call such witness becomes known.
+(3) The witnesses need not be called in the order listed, but the witnesses to be called on the
+succeeding day shall be disclosed to opposing counsel not later than the end of trial each day,
+unless otherwise ordered.
+E. Expert Witnesses
+Suggested Language:
+“Parties are limited to the following number of expert witnesses, including treating physicians,
+whose names have been disclosed and reports furnished to the other side: Plaintiff (a)
+Defendant(s)
+F. Exhibits
+The parties will offer as exhibits those items listed herein and numbered with Arabic numerals as
+follows:
+(1) Joint Exhibits -- Appendix D (marked “JX ”)
+(2) Plaintiff Exhibits Appendix E (marked “PX ”)
+(3) Defendant Exhibits Appendix F (marked “DX ”)
+(4) Third-Party Exhibits -- appendix G (use Arabic numerals prefixed by initial
+of party.
+m. INSTRUCTIONS:
+The above exhibits will be deposited with the Court’s Deputy Clerk not later than 4:00 p.m. on the
+third working day prior to trial.
+G. Depositions
+Suggested Language:
+“Testimony of the following witnesses will be offered by deposition (read or videorecorded)”; OR “No
+testimony will be offered by deposition”
+33
+H. Discovery
+Suggested Language:
+“Discovery has been completed” OR
+“The following provisions have been made for discovery.”
+I. Pending Motions
+Suggested Language:
+“The following motions are pending at this time” OR “There are no
+pending motions at this time.”
+J. Miscellaneous orders
+INSTRUCTIONS: Set forth any orders not properly includable elsewhere.
+V. MODIFICATION
+Suggested Language:
+“This final pretrial order may be modified at the trial of this action, or prior thereto, to prevent manifest
+injustice. Such modification may be made by application of counsel, or on motion of the Court.”
+VI. SETTLEMENT EFFORTS
+Suggested Language:
+“The parties have made a good faith effort to negotiate a settlement,” or otherwise describe the status
+of settlement negotiations.
+VII. TRIAL TO A JURY
+PROPOSED INSTRUCTIONS ---
+Suggested Language:
+“The parties have submitted proposed jury instructions as required by Judge Michael J. Newman’s Standing Order
+Governing Civil Cases.”
+Counsel for Plaintiff(s):
+Counsel for Defendant(s):
+Approved following Final Pretrial Conference:
+Hon. Michael J. Newman United
+States District Judge
+34
+Appendix D
+35
+VOIR DIRE QUESTIONS BY THE COURT
+The Court will first conduct a preliminary examination, typically using questions such as the following. After the
+Court has finished its examination of the jury panel, counsel may elect to supplement the Court’s examination with
+questions that do not repeat, in substance, any question the Court already has put to the panel.
+1. I am now going to read the names of the parties and the witnesses that you may be hearing
+fromin this case. Please listen to the list carefully as I will be asking you whether you know any
+of these people.
+First, as I just told you, the Plaintiff is represented by . Seated at the counsel table with
+is .
+At the next table is the Defendant in this case . He [or she] is represented by
+of .
+The Plaintiff may call the following persons as witnesses:
+The Defendant in this case may call the following persons as witnesses:
+Is any panel member related by blood or marriage to any of the individuals that I have just named?
+Are you personally acquainted with these persons, or do you have any knowledge of them, directly or indirectly,
+through your social, business, or professional lives?
+2. Has any panel member ever heard of or been involved with any of the following entities or
+persons: [List any businesses or non-witness entities that will be important in this case.] Are any
+of these names familiar to any panel member?
+3. OUTLINE THE COUNTS IN THE COMPLAINT
+Does any panel member have prior knowledge or information about the allegation(s) made against the Defendant(s),
+which I have just explained to you? This includes knowledge gained from personal contacts or from the media.
+Follow-up Questions for Any Affirmative Responses:
+i. From what source did you hear about this case (newspaper, TV, radio, conversation
+with others)?
+ii. How many times did you hear or read about it?
+iii. Do you remember specifically what you heard or read?
+iv. Did what you heard or read cause you to have any feeling concerning the merits of
+the parties’ claims?
+v. Did what you heard or read cause you to have a favorable or an unfavorable
+impression concerning the parties?
+vi. Do you today have any impression or even tentative opinion as to the probable outcome
+of this case?
+4. Does any panel member have any personal interest of any kind in this case, or in the Defendant(s)?
+1
+5. If any panel member has served as a juror in the federal or state court -- either
+in a civil orcriminal case -- and regardless of the outcome of such case(s),
+would your prior experience have any effect or influence on your ability to
+serve as a fair and impartial juror in this case?
+6. Does any panel member have any feeling -- thought -- inclination -- premonition -- prejudice
+-- religious belief or persuasion -- or bias -- which might influence or interfere with your
+full and impartial consideration and which might influence you either in favor of or against
+either the Plaintiff or Defendant?
+7. Is there any reason in your mind why you cannot hear and consider the
+evidence and render a fair and impartial verdict?
+8. Can you take the law as the Court instructs you, without any reservation
+whatsoever, and apply the facts to the Court’s instructions on the law? If
+you cannot do this, please hold up your hand.
+9. Do you recognize and accept the proposition that jurors are the sole judge
+of the facts and the Court is the sole judge of the law? If you cannot do
+this, please hold up your hand.
+10. Has any panel member formed or expressed any opinion as
+to the liability of the Defendant(s)?
+11. Does any panel member have:
+a. Any transportation problem? For example, does anyone have
+difficulty getting to or from the courthouse?
+b. Any medical or disability problems, such as difficulty hearing,
+walking or seeing? Does any other medical problem exist which
+could affect your service on the jury?
+12. The Court and counsel estimate this trial will last days. Does any
+panel member have any immediate family or personal reason or situation
+which persuades you that you cannot serve asa juror during this period
+and give your undivided attention to this case?
+Finally, can any of you think of any matter that you should call to the Court’s attention that may have
+some bearing on your qualifications as a juror, or that -- even to the slightest degree -- may prevent
+your rendering a fair and impartial verdict based solely upon the evidence and my instructions as to the
+law?

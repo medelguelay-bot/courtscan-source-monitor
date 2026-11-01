@@ -1,0 +1,52 @@
+UNITED STATES COURT OF INTERNATIONAL TRADE
+THE HONORABLE STEPHEN ALEXANDER VADEN, JUDGE
+ORDER ON ARTIFICIAL INTELLIGENCE
+Pai·ties must conform to many rules when they file briefs in a case before the Court
+of International Trade. For instance, briefs must state with particularity the grounds for
+seeking a desired orde1· and make "the legal argument necessary to support it." USCIT Rule
+7(b)(l)(B). They must follow certain requirements of form, including those that govern the
+use of captions, exhibits, and paragraphing. USCIT Rule 7(b)(2); USCIT Rule 10. However,
+perhaps the most important of these rules are those that concern confidential or business
+proprietary information . The Court has taken special care to ensure that bringing a claim
+will not result in the disclosure of sensitive non-public information owned by any party
+before it. Accordingly, the Court requires that briefs containing confidential or business
+proprietary information "must identify that information by enclosing it in b1·ackets," that
+parties must file a non-confidential version of such a brief and redact the bracket ed
+information, and that recipients of the confidential brief may not disclose its contents to any
+party not authorized to receive such information. USCIT Rule 5(g). In pa1·ticular, an
+attorney may only receive confidential or business proprietary information if he 01· she has
+filed a Business Proprietary Information Certification and received an order from the Court
+granting access to such information . USCIT Rule 73.2(c)(2).
+Generative artificial intelligence programs that supply natural language answe1·s to
+user prompts, such as ChatGPT or Google Bard, create novel risks to the security of
+confidential information. Users having "conversations" with these programs may includ e
+Page 2
+confidential information in their prompts, which in turn may result in the corporate owner
+of the program retaining access to the confidential information. Although the owners of
+generative artificial intelligence programs may make representations that they do not
+retain information supplied by users, their programs "learn" from every user conversation
+and cannot distinguish which conversations may contain confidential information. In
+recognition of this risk, corporations have prohibited their employees from using generative
+artificial intelligence programs. See, e.g., Samsung Bans Staff's AI Use After Spotting
+ChatGPT Data Leah, Bloomberg, https://www.bloomberg.com/news/articles/2023 -05-
+02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak (last visited June
+8, 2023).
+Because generative artificial intelligence programs challenge the Court's ability to
+protect confidential and business proprietary information from access by unauthorized
+parties, it is hereby:
+ORDERED that any submission in a case assigned to Judge Vaden that contains
+text drafted with the assistance of a generative artificial intelligence program on the basis
+of natural language prompts, including but not limited to ChatGPT and Google Bard, must
+be accompanied by:
+(1) A disclosure notice that identifies the program used and the specific portions of
+text that have been so drafted;
+(2) A certification that the use of such program has not resulted in the disclosure of
+any confidential or business proprietary information to any unauthorized party;
+and it is further
+Page 3
+ORDERED that, following the filing of such notice, any party may file with the Court
+any motion provided for by statute or the Rules of the Court of International Trade seeking
+any relief the party believes the facts disclosed warrant.
+SO ORDERED.
+Dated: k 8', 20Z.3
+New Y&k.New York

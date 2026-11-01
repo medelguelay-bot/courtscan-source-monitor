@@ -1,0 +1,184 @@
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+ORLANDO DIVISION
+STANDING ORDER REQUIRING DISCLOSURE
+OF THE USE OF ARTIFICIAL INTELLIGENCE
+This Order requires that every filing must contain a certification whether artificial
+intelligence was used in the preparation of the filing.
+I. Purpose
+The Middle District of Florida is one of the busiest United States District Courts in the
+nation. Artificial intelligence is, at times, obviously used in filings submitted to this
+Court. While there is no rule that prohibits the use of artificial intelligence, whether a
+filer is a licensed attorney or represents himself or herself, it is imperative that every
+filer understand the risks and potential consequences associated with the use of
+artificial intelligence. Among other things, the use of artificial intelligence can result in
+the generation of a filing that relies on cases that do not exist, or that could not
+reasonably be considered supportive of the argument. The Federal Rules of Civil
+Procedure govern the filings in this case, and Rule 11 states that
+[b]y presenting to the court a pleading, written motion, or other paper —whether by
+signing, filing, submitting, or later advocating it—an attorney or unrepresented party
+certifies that to the best of the person’s knowledge, information, and belief, formed after
+an inquiry reasonable under the circumstances:
+(1) it is not being presented for any improper purpose, such as to harass,
+cause unnecessary delay, or needlessly increase the cost of litigation;
+(2) the claims, defenses, and other legal contentions are warranted by existing law or
+by a nonfrivolous argument for extending, modifying, or reversing existing law or for
+establishing new law;
+Case 6:24-cv-01987-AGM-RMN Document 193 Filed 05/27/26 Page 1 of 7 PageID 3751
+2
+(3) the factual contentions have evidentiary support or, if specifically so
+identified, will likely have evidentiary support after a reasonable
+opportunity for further investigation or discovery; and
+(4) the denials of factual contentions are warranted on the evidence or,
+if specifically so identified, are reasonably based on belief or a lack of
+information.
+Rule 11, Fed. R. Civ. P. (emphasis added). Unfortunately, the use of artificial
+intelligence can easily lead to submission of filings without the required consideration
+of whether “the claims, defenses, and other legal contentions are warranted by existing
+law or by a nonfrivolous argument for extending, modifying, or reversing existing law
+or for establishing new law.” When this happens, the cost is asymmetric. That is, the
+filing was easy to prepare, but forces the taxpayers to incur a real cost by directing the
+Court’s finite resources to consider a filing that is not supported by existing law. If
+those resources are expended only to arrive at the conclusion that a cited case does not
+exist—or could not reasonably be said to stand for the cited proposition— then
+whether the filer is pro se or a licensed attorney, sanctions may be entered against the
+filer under Rule 11. Those sanctions may include an efficient sanction meant to exceed
+the cost of conducting the necessary legal research. To facilitate every filer’s
+inescapable recognition of his or her obligations under Rule 11, and because the Federal
+Rules of Civil Procedure are to be construed in a manner to “secure the just, speedy,
+and inexpensive determination of every action and proceeding,” Rule 1, Fed. R. Civ.
+P., any filing in this case may be stricken if it fails to be accompanied by an affirmative
+representation to the Court about the use of artificial intelligence.
+Case 6:24-cv-01987-AGM-RMN Document 193 Filed 05/27/26 Page 2 of 7 PageID 3752
+3
+II. Failure to Include Certification
+Any filing that does not contain one of the two permissible certifications below,
+verbatim, may be stricken. If the filing is a motion, complaint, or petition, the n the
+relief requested may be denied without prejudice.
+III. Doubts to be Resolved in Favor of Disclosure
+If a filer is unsure whether anything used in the preparation of the filing might be
+considered “artificial intelligence,” the filer should select the certification language for
+when artificial intelligence was used. The certification disclosing the use of artificial
+intelligence includes a section where the filer must explain what artificial intelligence
+was used, and after that explanation the filer may note any uncertainty about whether
+what was used qualifies as “artificial intelligence.” Every doubt about whether
+something is “artificial intelligence” should be resolved in favor of disclosure that
+artificial intelligence was used.
+IV. Verbatim Disclosure Required
+The acceptable certification language is below. No other form of certification is
+permitted. Although the law recognizes substantial compliance in some contexts, here
+only strict compliance will be recognized because it is an inefficient use of the Court’s
+finite resources to analyze what latent significance there may be in “substantially
+compliant” certifications.
+V. Use of Traditional Legal Research or Traditional Search Engines
+For avoidance of doubt, the traditional use of Westlaw or LexisNexis for legal research
+(together, “Traditional Legal Research”) or the use of a search engine like Google,
+Case 6:24-cv-01987-AGM-RMN Document 193 Filed 05/27/26 Page 3 of 7 PageID 3753
+4
+Brave, DuckDuckGo, Yahoo, or Bing for other research (together, “Traditional Search
+Engines”), is not considered use of artificial intelligence that must be disclosed for the
+purposes of this Standing Order. If (1) the filer used either Traditional Legal Research
+or a Traditional Search Engine but (2) no other form of artificial intelligence was used,
+then it is acceptable to select and use the Certification Under Penalty of Perjury That
+Artificial Intelligence Was Not Used in the Preparation of This Filing . See Section
+VI.A.
+VI. Contents of Certification
+A. If Artificial Intelligence Was Not Used
+If artificial intelligence was not used in the preparation of the filing (or if the only
+artificial intelligence used was Traditional Legal Research or a Traditional Search
+Engine), then the certification must state, verbatim:
+Certification Under Penalty of Perjury That Artificial Intelligence
+Was Not Used in the Preparation of This Filing
+I have reviewed the Standing Order Requiring Disclosure of the use of
+artificial intelligence. After diligent inquiry and under penalty of perjury,
+I certify that artificial intelligence was not utilized in the preparation of
+this filing in any way. I understand that, whether I represent myself or I
+am an attorney representing a client, I have an affirmative obligation to
+read each case cited in this filing. If I fail to do so and a case upon which
+I rely does not exist or does not reasonably stand for the cited
+proposition, I understand that the Court may treat this as a violation of
+Rule 11 of the Federal Rules of Civil Procedure. I have reviewed Rule
+11 of the Federal Rules of Civil Procedure and I understand that this rule
+applies equally to counsel and unrepresented parties, and I am familiar
+with the sanctions available for violations of Rule 11. If this certification
+is made by counsel, I further understand that citation to a case that either
+does not exist or does not reasonably stand for the cited proposition may
+be treated as a violation of my oath of candor toward the tribunal and a
+basis on which my admission to practice in the Middle District of Florida
+could be revoked or suspended. Further, whether I represent myself or
+Case 6:24-cv-01987-AGM-RMN Document 193 Filed 05/27/26 Page 4 of 7 PageID 3754
+5
+I am an attorney representing a client, I understand that by making this
+certification under penalty of perjury I could be referred for criminal
+prosecution if the statements I make here are false.
+B. If Artificial Intelligence Was Used
+If any form of artificial intelligence (other than Traditional Legal Research or a
+Traditional Search Engine) was used in preparation of the filing, then the certification
+must state, verbatim:
+Certification Under Penalty of Perjury That Artificial Intelligence
+Was Used in the Preparation of This Filing
+I have reviewed the Standing Order Requiring Disclosure of the use of
+artificial intelligence. Artificial intelligence was used in the preparation
+of this filing in the following way: [insert description ]. However, under
+penalty of perjury, I certify that before filing, I personally reviewed Rule
+11 of the Federal Rules of Civil Procedure and I personally read every
+case. I understand that if a case upon which I rely does not exist or does
+not reasonably stand for the cited proposition, the Court may treat this
+as a violation of Rule 11 of the Federal Rules of Civil Procedure. I have
+reviewed Rule 11 of the Federal Rules of Civil Procedure and I
+understand that this rule applies equally to counsel and unrepresented
+parties, that as the person signing this filing I am the person who will be
+held responsible for its contents even if it was prepared by someone else,
+and I am familiar with the sanctions available for violations of Rule 11.
+If this certification is made by counsel, I further understand that citation
+to a case that either does not exist or does not reasonably stand for the
+cited proposition may be treated as a violation of my oath of candor
+toward the tribunal and a basis on which my admission to practice in the
+Middle District of Florida could be revoked or suspended. Further,
+whether I represent myself or I am an attorney representing a client, I
+understand that by making this certification under penalty of perjury I
+could be referred for criminal prosecution if the statements I make here
+are false.
+VII. Ultimate Responsibility for Truth of Certification
+The ultimate responsibility for the truth of the certification lies with the person who
+signs the filing. Consequently, the person who signs the filing should take whatever
+Case 6:24-cv-01987-AGM-RMN Document 193 Filed 05/27/26 Page 5 of 7 PageID 3755
+6
+steps are necessary to be certain that the certification is true. I f a filing contains
+reference to a case that does not exist or does not reasonably stand for the cited
+proposition, it will be no defense that the document was drafted by someone other
+than the person who signed the filing.
+VIII. Requirements for Motions Filed Prior to Entry of This Standing Order/Safe
+Harbor/Certification of Compliance With Rule 11
+If documents were filed in this case prior to the entry of this Standing Order, Rule 11
+applied to those filings. The purpose of this section is to, with respect to every
+document filed prior to the entry of this Standing Order, (1) confirm compliance with
+Rule 11 and (2) grant a limited safe harbor to counsel and pro se parties who filed
+documents prior to this Standing Order that may not have complied with Rule 11. To
+that end, if, in an abundance of caution, counsel or a pro se litigant wishes to withdraw
+a filing within the next ten days, withdrawal of the filing will be permitted pursuant to
+this section. Leave to re-file the withdrawn filing may be requested with reference to
+this section. If, on consideration of Rule 11, this Standing Order, and the filings made
+in this case, the filer is confident that either (1) artificial intelligence was not used, or
+(2) artificial intelligence was used but every cited authority was personally reviewed by
+the filer, then the following certification should be filed no later than ten days from the
+date this Standing Order is entered on the docket:
+Certification of Compliance With Rule 11
+I certify that I have reviewed the Standing Order Requiring Disclosure
+of the Use of Artificial Intelligence. With regard to docket entries [insert
+docket numbers], by my signature below I confirm under penalty of perjury
+that either (1) artificial intelligence was not used in the preparation of the
+Case 6:24-cv-01987-AGM-RMN Document 193 Filed 05/27/26 Page 6 of 7 PageID 3756
+7
+filing or, (2) if artificial intelligence was used, every cited authority was
+personally reviewed by the filer in advance of the filing.
+IX. Failure to Timely Certify Under Section VIII or Withdraw Filing
+Filings may be stricken without prejudice if, within ten days of the date this Standing
+Order is entered, (1) no Certification of Compliance With Rule 11 appears on the
+docket with reference to that filing and (2) the filing was not timely withdrawn pursuant
+to this Standing Order.
+DONE and ORDERED in Chambers in Orlando, Florida on May 27, 2026.
+Copies to:
+Counsel of Record
+Unrepresented Parties
+Case 6:24-cv-01987-AGM-RMN Document 193 Filed 05/27/26 Page 7 of 7 PageID 3757

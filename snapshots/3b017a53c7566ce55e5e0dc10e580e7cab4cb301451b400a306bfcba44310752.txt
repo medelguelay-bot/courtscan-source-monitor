@@ -1,0 +1,683 @@
+1
+Revised March 2026
+MEMORANDUM
+TO: Counsel and Parties in Civil Cases
+FROM: Judge John L. Kane
+RE: Pretrial and Trial Pr ocedures – CIVIL CASES
+______________________________________________________________________________
+TABLE OF CONTENTS
+I. PURPOSE ................................................................................................................... .............. 3
+II. GENERAL PROCEDURES .................................................................................................... 3
+A. Applicable Rules .................................................................................................................. 3
+B. Federal Rules of Civil Procedure ......................................................................................... 3
+C. Communications with Chambers ......................................................................................... 3
+D. Magistrate Judges ......................................................................................................... ....... 4
+E. Settlements ............................................................................................................... ............ 4
+III. SCHEDULING AND DISCOVERY CONFERENCE .......................................................... 4
+IV. MOTIONS .............................................................................................................................. 5
+A. Duty to Confer in Advance of Motion ................................................................................. 5
+B. Certification Regarding the Use of Ge nerative Artificial Intelligence (GenAI) .................. 5
+C. Format for Motions ........................................................................................................ ...... 6
+D. Index of Attached Exhibits ................................................................................................ .. 6
+E. Incorporation by Reference ................................................................................................ .. 6
+F. Deadlines ................................................................................................................. ............. 7
+G. Untimely or Noncomplying Motions, Ob jections, Responses, or Replies .......................... 7
+H. Motions for Extensions of Time .......................................................................................... 7
+I. Motions to Continue ....................................................................................................... ....... 7
+J. Motions for Default Judgment .............................................................................................. 7
+K. Motions for Temporary Restraining Orders ........................................................................ 8
+L. Motions for Protective Orders and Motions to Restrict ....................................................... 8
+M. Motions to Dismiss ........................................................................................................ ..... 8
+N. Motions for Summary Judgment or Partial Summary Judgment ........................................ 8
+2
+O. Motions to Exclude Expert Testimony .............................................................................. 11
+P. Awards of Reasonable Expenses and Attorney Fees ......................................................... 11
+Q. Proposed Orders ................................................................................................................. 11
+R. Oral Argument on Motions ................................................................................................ 1 2
+S. Timing of Motions .............................................................................................................. 12
+V. IN-COURT PROCEEDINGS ................................................................................................ 12
+A. Courtroom Protocol ........................................................................................................ ... 12
+B. Record of Proceedings ..................................................................................................... .. 12
+C. Exhibits .................................................................................................................. ............ 13
+D. Timelines and Other Demonstrative Aids ......................................................................... 14
+E. Witnesses ............................................................................................................................ 14
+F. Use of Deposition Testimony ............................................................................................. 15
+G. Special Equipment (Audio/Video) ..................................................................................... 15
+H. Time Limits................................................................................................................ ........ 16
+VI. PRETRIAL PROCEEDINGS .............................................................................................. 16
+A. Pretrial Order and Conference ........................................................................................... 1 6
+B. Motions in Limine .............................................................................................................. 17
+C. Jury Instructions and Verdict Forms .................................................................................. 17
+D. Trial Briefs .............................................................................................................. ........... 18
+E. Final Trial Preparation Conference .................................................................................... 18
+F. Pretrial Deadlines ........................................................................................................ ....... 18
+VII. JURY TRIALS .................................................................................................................... 19
+3
+I. PURPOSE
+The purpose of these practice standards is to facilitate “the just, speedy, and inexpensive
+determination of every action and proceeding,” as mandated by Federal Rule of Civil
+Procedure 1.
+II. GENERAL PROCEDURES
+A. Applicable Rules
+Those appearing in the District Cour t in civil cases must know and follow:
+1) The Federal Rules of Civil Procedure;
+2) The Federal Rules of Evidence;
+3) The Local Rules of Practice of the United States District Court for the District of
+Colorado;
+4) The Electronic Case Filing Procedures (Civil Cases); and
+5) These Practice Standards.
+The Local Rules of Practice and Electronic Case Filing Procedures are available on the
+District of Colorado website at www.cod.uscourts.gov and from the Clerk’s Office. These
+practice standards and my forms are located under my tab on the District of Colorado website at
+http://www.cod.uscourts.gov/JudicialOfficers/SeniorArticleIIIJudges/HonJohnLKane.aspx
+[hereinafter “my website”].
+B. Federal Rules of Civil Procedure
+Please consider the Federal Rules of Civil Procedure as if they are sitting on a three-
+legged stool consisting of 1) Notice Pleadings; 2) Liberal Discovery, and 3) the Pretrial Order.
+Without all three, the system collapses.
+C. Communications with Chambers
+1. Chambers staff cannot give legal advice or grant oral requests over the telephone. Please do
+not ask to speak directly with law clerks about pending matters unless previously authorized
+or invited to do so. If after fully and carefully reading these Practice Standards and the Local
+Rules of Practice, you still have a question about procedure, you may contact my chambers at
+303-844-6118 or Kane_Chambers@cod.uscourts.gov.
+2. Ex parte communications: Unless specifically authorized for scheduling or other purposes,
+neither counsel nor pro se litigants may communicate about a case by letter, email, or
+telephone to the court. All communications must be made in the form of a motion, brief,
+notice, or status report, and must be served on all opposing counsel and any pro se parties.
+4
+3. For information about courtroom technology, trial preparation, submission of trial exhibits,
+and courtroom protocol, please contact the Court Operations Supervisor, Nick Richards, at
+nicholas_richards@cod.uscourts.gov.
+D. Magistrate Judges
+If at any point during the pendency of a case the parties would like referral to a
+magistrate judge for mediation or settlement purposes, they need only notify my chambers, and
+the case will be referred for that purpose.
+E. Settlements
+The parties should provide prompt notice (the same or next business day) of any
+settlement or partial settlement specifying the claim or defense settled, the parties affected, and
+the claims defenses, and parties which remain in controversy, as well as the time and date
+previously set for hearing or trial. Previously set conferences or deadlines (including trial) will
+not be vacated without the filing of dismissal papers, unless otherwise ordered.
+III. SCHEDULING AND DISCOVERY CONFERENCE
+1. Once responsive pleadings have been filed and a ny initial motions to dismiss have been ruled
+on, the court will set a scheduling conference pursuant to Federal Rule of Civil Procedure 16
+and D.C.COLO.LCivR 16.1 and 16.2.
+2. Unless otherwise ordered, no formal discovery shall be undertaken by the parties until they
+meet and attempt to agree on the stipulated Scheduling and Discovery Order. See Fed. R.
+Civ. P. 26(f). This Rule 26(f) meeting shall be held at least 21 days before the proposed
+Scheduling and Discovery Order is due to be submitted. The parties shall exchange the
+disclosures required by Federal Rule of Civil Procedure 26(a)(1) at or within 14 days of their
+Rule 26(f) meeting. The parties are not to file any disclosure statements with the court.
+3. The stipulated Scheduling and Discovery Order shall be submitted for my approval no later
+than five days before the Scheduling Conference or as otherwise ordered. It is the
+responsibility of the plaintiff’s counsel to schedule meetings and then file and submit the
+proposed Order. If the parties agree, the plaintiff may delegate the filing responsibility to the
+defendant. The Scheduling and Discovery Order shall be in the form specified on my website
+and shall include the signatures of counsel and pro se litigants. Please note that the stipulated
+Scheduling and Discovery Order template on my website in some instances requires more or
+different information than that required by D.C.COLO.LCivR 16.2. The proposed
+Scheduling and Discovery Order should be filed in CM/ECF and submitted electronically in
+editable Word format to my chambers at Kane_Chambers@cod.uscourts.gov.
+4. As provided in the Local Rules, counsel and pro se parties should try in good faith to agree
+upon the matters addressed in their proposed Scheduling and Discovery O
+rder. If there are
+5
+any areas of disagreement, the parties should make a brief statement in the proposed Order
+concerning the basis for disagreement. In suggesting deadlines for discovery, counsel must
+be prepared to justify each request at the Scheduling Conference, being mindful of their
+obligations under Federal Rule of Civil Procedure 1. The parties should expect that I will
+discuss these and any other issues affecting the management of the case at the Scheduling
+Conference and that I may modify their proposed Order.
+5. At the Scheduling Conference, I want to learn what the case is about in counsel’s own words,
+I want to learn what the costs of litigation will be and what steps the parties are taking to
+reduce costs. I want the parties’ best estimate of when in the course of pretrial it makes sense
+to discuss settlement and whether a magistrate judge can assist in that endeavor or whether a
+private mediator will be selected. I want to learn if experts will be retained, the subject area
+of expertise and the proposed methodology to be used by each such expert.
+IV. MOTIONS
+A. Duty to Confer in Advance of Motion
+I require complete complia nce with D.C.COLO.LCivR 7.1(a), which imposes a duty to
+confer in advance of filing a motion. Before filing any motion, status report, statement, or other
+paper that includes a request for relief, the filing party shall have conferred or made a reasonable,
+good-faith effort to confer with opposing counsel to resolve the issue in full or in part. Parties are
+encouraged to discuss and agree upon collateral matters such as proposed briefing schedules,
+requests for hearing, sub-issues to which they may be able to stipulate, and other matters that can
+be resolved through the extension of mutual courtesies or other demonstrations of civility.
+Filings shall include a statement describing counsel’s efforts in this regard and the
+matters on which agreement was reached. Certification that a telephone call or email was
+directed to opposing counsel fewer than 24 hours before the paper was intended to be filed and
+“no response” was received is per se NOT a good-faith effort.
+Unopposed motions shall be designated as required by D.C.COLO.LCivR 7.1(c).
+B. Certification Regarding the Use of Ge nerative Artificial Intelligence (GenAI)
+In every filing with the Court which is prepared—in whole or in part—using GenAI
+(such as ChatGPT, Harvey.AI, Google Bard, etc.), the preparer of the filing shall include a
+certification identifying the portion of the filing that was prepared with the use of GenAI and
+affirming that any language drafted by GenAI (even if later edited by a human being) was
+personally reviewed by the filer or another human being for accuracy using print reporters or
+traditional legal databases and attesting that the legal citations are to actual existing cases or cited
+authority. To the extent GenAI is used in the preparation of a filing, Federal Rule of Civil
+Procedure 11 remains applicable, as does 28 U.S.C. § 1927.
+6
+C. Format for Motions
+1. Motions and all supporting arguments should be contained in a single document. Motions
+with separately filed briefs or memoranda are strongly discouraged.
+2. It is not possible to predetermine the length of a good brief. Accordingly, I do not adhere to
+any prescribed page limits for briefs. Counsel are expected to exercise good judgment.
+Consider, however, that the longer it takes to make a point, the less likely it is to be
+understood, and I will disregard string citations and repetitive arguments. Any case, statute,
+or article cited in a brief as authority is accepted as certified by counsel’s signature that such
+has been read and known not to have been overruled, modified, or amended. Furthermore,
+counsel should bear in mind that sarcastic, rude, or ungrammatical briefs are not persuasive
+and often counterproductive.
+3. I prefer the body of the text and the footnotes to be in Times New Roman 12-point font. The
+page numbers of motions and briefs should correspond with those given by CM/ECF, i.e., the
+numbering should start with “1” and continue uninterrupted throughout the document.
+4. Responses and replies shall identify by title and CM/ECF docket number the pleading or
+motion to which they relate.
+D. Index of Attached Exhibits
+1. Each filing with one or more exhibits should contain an index of the exhibit(s) that accompany
+the filing as the final page of the filing (i.e., after the Certificate of Service). Then, each exhibit
+should be attached to the actual filing in CM/ECF. This includes any declaration in support of the
+filing, even if the declaration has its own attachments. In the case of such declarations, the
+declaration should be a single exhibit to the filing in CM/ECF and each of the attachments to the
+declaration should be its own exhibit to the filing. For example, the Exhibit List on the last page
+of the filing would state:
+Ex. 1: Decl. of _____, dated ___
+Ex. 2: Att. 1 to Decl. of _____, Email from ___ to ___, dated ___
+Ex. 3: Att. 2 to Decl. of _____, . . . .
+2. Restricted exhibits may necessarily be filed as separate entries in CM/ECF.
+3. If a document has already been filed in the docket, the previous entry should be cited and
+the document should not be re-filed unless there is a compelling reason for doing so.
+E. Incorporation by Reference
+I do not allow the incorporation of motions or arguments by reference. I permit only the
+adoption by reference of a statement in a pleading as contemplated by Federal Rule of Civil
+Procedure 10(c) and documents specifically identified as pleadings in Rule 7(a).
+7
+F. Deadlines
+See D.C.COLO.LCivR 7.1 and D.C.COLO.LCivR 56.1 for applicable time limits for
+filing response and reply briefs. The computation of time is controlled by Federal Rule of Civil
+Procedure 6.
+G. Untimely or Noncomplying Motion s, Objections, Responses, or Replies
+1. Pursuant to D.C.COLO.LCivR 7.1(d), a motion shall not be included in a response or reply to
+the original motion. All requests for the court to take any action, make any type of ruling, or
+provide any type of relief must be contained in a separate, written motion. This paragraph
+applies as well to requests for attorney fees or other sanctions.
+2. No surreply or supplemental briefs shall be filed without leave of the court.
+3. Motions that are untimely, noncomplying, or filed without a certification pursuant to
+D.C.COLO.LCivR 7.1(a) may be denied without prejudice or stricken sua sponte. Untimely
+or noncomplying objections, responses, or replies may be stricken or ignored.
+H. Motions for Extensions of Time
+Motions for extension of time require a showing of good cause, which must be
+established with particularity. Any motion for extension of time shall be filed as far in advance
+of the deadline as possible, and no later than one business day before the date the filing would
+otherwise be due.
+I. Motions to Continue
+Motions to continue (including motions to vaca te or reset) hearings and trials will be
+determined pursuant to D.C.COLO.LCivR 6.1 and 7.1; these Practice Standards; and Rogers v.
+Andrus Transportation Services, 502 F.3d 1147, 1151 (10th Cir. 2007). Motions to continue
+should be made without delay at the earliest possible opportunity. Stipulations for continuance
+are not effective unless and until approved by the court.
+J. Motions for Default Judgment
+1. For default judgment to enter, the Clerk of the Court must first enter default against the
+defaulting party. If the Clerk has not entered the party’s default, the party seeking default
+judgment must move for the entry of default under Federal Rule of Civil Procedure 55(a).
+The motion for default must establish valid service on the particular party in accordance with
+Federal Rule of Civil Procedure 4.
+2. Once default has entered, a mo tion for default judgment may be filed under Federal Rule of
+Civil Procedure 55(b). The motion shall indicate whether a hearing is required, and a
+proposed form of judgment should be attached, reciting the language requested to be
+included in the body of the judgment.
+8
+K. Motions for Temporary Restraining Orders
+1. Conferral. To minimize delays, I strongly encourage counsel to confer, in advance, with the
+opposing party’s counsel (or, if not yet represented, with the party itself).
+2. Ex Parte Motions. As a general rule, ex parte motions for issuance of temporary restraining
+orders will be granted only upon strict compliance with Federal Rule of Civil Procedure
+65(b) and (c). In appropriate circumstances, I may deny the motion, set a hearing, or issue an
+order to show cause to the party to be enjoined.
+L. Motions for Protective Or ders and Motions to Restrict
+Absent good cause, the parties shall use my form Stipulated Protective Order regarding
+the treatment of confidential information exchanged in discovery. Note that this form Order
+requires the parties and their counsel to obtain affidavits from recipients before disclosing
+confidential information to others and imposes additional requirements before confidential
+information may be filed as restricted. These provisions or their equivalent must be included in
+any proposed protective order submitted for my approval. Any motion to restrict or otherwise
+seal the contents of a filing must comply with the requirements set forth in my form Protective
+Order. The form Order is available on my website. Please be aware that restricted filings are
+disfavored except in the limited circumstances authorized by law.
+M. Motions to Dismiss
+1. Motions filed pursuant to Federal Rule of Civil Procedure 12(b) are discouraged if the defect
+is correctable by an amended pleading. Counsel should confer before the filing of the motion
+if the deficiency is correctable by amendment and should exercise their best efforts to
+stipulate to appropriate amendments. For Rule 12(b) motions, the following format should be
+used:
+2. For each claim for relief that the movant seeks to have dismissed, clearly enumerate each
+element the movant contends must be alleged but was not.
+3. If the respondent contends that a sufficient factual allegation has been made in the complaint
+for a particular element, the respondent should identify the page and paragraph containing the
+required factual allegation.
+4. If matters outside the pleadings are submitted in support of or in opposition to a Rule 12(b)
+motion, the party should discuss whether the 12(b) motion should be converted to a summary
+judgment motion.
+N. Motions for Summary Judgment or Partial Summary Judgment
+Motions seeking relief pursuant to Federa l Rule of Civil Procedure 56 are governed by
+D.C.COLO.LCivR 56.1. Deadlines will be strictly applied. Upon receipt of a Motion for
+9
+Summary Judgment filed in accordance with these instructions, I generally adhere to the briefing
+schedule set forth in D.C.COLO.LCiv.R 56.1 (i.e., 21 days for a response, 14 days for a reply)
+but may order a shorter or longer briefing schedule as I deem appropriate. In every case, unless
+otherwise ordered, the movant need not seek permission to file a reply brief.
+Any party submitting a motion for summary judgment should be familiar with Professor
+Arthur R. Miller’s article The Pretrial Rush to Judgment: Are the “Litigation Explosion,”
+“Liability Crisis,” and Efficiency Clichés Eroding our Day in Court and Jury Trial
+Commitments?, 78 N.Y.U. L. Rev. 982, 1132 (June 2003).
+All summary judgment briefing submitted by the parties must comply with the following
+requirements:
+1. In a section of the motion styled “Statement of Undisputed Material Facts,” the movant shall
+set forth in simple, declarative sentences, separately numbered and paragraphed, each
+material fact that the movant believes is not in dispute and that supports the movant’s claim
+that the movant is entitled to judgment as a matter of law.
+2. Each separately numbered and paragraphed fact must be accompanied by a specific reference
+to evidence in the record that establishes that fact. General references to pleadings,
+depositions, or documents are insufficient if the document is over one page in length. A
+“specific reference” means:
+a. In the case of papers filed with the court, the title of the paper, the date on which it
+was filed or served, and a specific paragraph or page and line number; or, if the paper
+is attached to the motion, the paragraph or page and line number;
+b. In the case of interrogatories or requests for admission (the pertinent parts of which
+must be filed with the motion), the number of the interrogatory or request;
+c. In the case of depositions or other documents bearing line numbers (pertinent parts of
+which must be filed with the motion), the specific page and line(s) establishing the
+fact;
+d. In the case of affidavits submitted in support of the motion, the specific paragraph
+number establishing the fact; and
+e. In the case of other evidence not numbered by paragraph, line, or page, a reference
+that points to the fact without requiring review of the entire document. The effort at
+specificity may be made by highlighting, manual underscoring, or pagination supplied
+by the movant.
+3. Only if the nature of the material fact does not permit a specific reference (e.g., “The contract
+contains no provision for termination.”) is a general reference sufficient.
+4. Any party opposing the motion for summary judgment shall in a section of the response
+10
+styled “Response to Statement of Undisputed Material Facts,” admit or deny the asserted
+material facts set forth by the movant. The admissions or denials shall be made in paragraphs
+numbered to correspond to the movant’s paragraph numbering. Any denial shall be
+accompanied by a brief factual explanation of the reason(s) for the denial and a specific
+reference to evidence in the record supporting the denial. Formulaic explanations repeatedly
+incanted are distracting and unpersuasive and are therefore discouraged. Stipulating to facts
+not reasonably in dispute strengthens credibility and is encouraged.
+5. If the nonmovant believes there are additional disputed material questions of fact not
+adequately addressed in its “Response to Statement of Undisputed Material Facts” (e.g.,
+disputed facts concerning an affirmative defense), the nonmoving party shall, in a separate
+section of its brief styled “Statement of Additional Facts,” set forth in simple, declarative
+sentences, separately numbered and paragraphed, each additional material disputed fact that
+it believes undercuts the movant’s claim of entitlement to judgment as a matter of law. Each
+separately numbered and paragraphed fact shall be accompanied by a specific reference to
+evidence in the record that establishes the fact or demonstrates it is disputed.
+6. In its reply brief (if any) the movant shall:
+a. In a separate section styled “Reply Concerning Undisputed Material Facts,” set forth
+any factual reply it cares to make to the nonmovant’s “Response to Statement of
+Undisputed Facts.” This reply shall be made in separate paragraphs numbered
+according to the original motion and the opposing party’s response and shall be
+supported by specific references to evidence of record.
+b. In a separate section styled “Response Concerning Additional Facts,” admit or deny
+any of the asserted material facts set forth by the nonmovant in its “Statement of
+Additional Material Facts.” The admissions or denials shall be made in paragraphs
+numbered to correspond to the nonmovant’s paragraph numbering. Any denial shall
+be accompanied by a brief factual explanation of the reason(s) for the denial and a
+specific reference to evidence in the record supporting the denial.
+7. The sole purpose of these procedures is to establish facts and determine whether any of them
+are in dispute. Legal argument is not permitted here and should be reserved for separate
+portions of the briefs. If a party believes an undisputed fact is immaterial, for example, the
+fact should be admitted and the party’s belief regarding its lack of materiality should be
+expressed in the portion of its brief devoted to legal argument. If, on the other hand, a party
+believes the asserted fact is simply not supported by the referenced evidence, this factual
+argument should be included in the party’s response to the allegedly undisputed fact.
+8. Absent leave of the court, which will only be granted in exceptional circumstances, a party
+may only file one motion for summary judgment.
+9. Failure to follow these procedures may result in an order striking the motion or brief.
+11
+O. Motions to Exclude Expert Testimony
+A party objecting to the admissibility of opinion testimony by an expert witness shall file
+a written motion seeking its exclusion. The failure of an opponent to file such a motion,
+however, does not relieve the proponent of its burden to show that the proffered testimony is
+admissible at trial. The deadline for filing motions objecting to any testimony of an expert
+witness based on the requirements of Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S.
+579 (1993), Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999), and their progeny will be after
+the Pretrial Conference. However, in many cases, it may be prudent to file such motions before
+or at the time motions for summary judgment are filed. Any expert motion not specifically
+identified in the Pretrial Order and filed by the deadline will be deemed waived, unless otherwise
+ordered.
+All motions filed under Federal Rule of Evidence 702 shall include the expert witness’s
+report as an exhibit, and shall identify with specificity each opinion the moving party seeks to
+exclude. The motion shall also identify the specific ground(s) on which each opinion is
+challenged, e.g., relevancy, sufficiency of facts and data, or methodology.
+Upon the filing of a motion, I may, in my discretion, set a hearing to determine whether
+the challenged opinions are admissible. The setting of such hearing does not obviate the need for
+opposing counsel to respond to such motion. If such a hearing is ordered, the expert witness
+whose testimony or opinion is proffered shall be present at the hearing.
+P. Awards of Reasonable Expenses and Attorney Fees
+If I award reasonable expenses and/or attorney fees in connection with a motion or other
+action, I generally use the following procedure. First, the party receiving the award shall confer
+with the paying party in an attempt to reach an agreement on the amount of the award. If the
+parties are able to reach an agreement, they shall jointly submit a notice setting out the agreed
+upon amount of the award and briefly summarizing why that amount is believed to be
+reasonable. If the parties cannot reach agreement, the receiving party shall file a statement
+itemizing the expenses it incurred with an affidavit attesting to the reasonableness of any
+attorney fees sought. See D.C.COLO.LCivR 54.3. In its response to that statement, the paying
+party shall propose the amount of expenses it contends were reasonably incurred. Whichever
+party’s proposal is furthest from the ultimate amount of reasonable expenses I award will bear
+the expenses that the other party incurred in litigating the amount of the award. In other words, if
+I award an amount closer to the receiving party’s proposal, that party will be entitled to the
+additional amount it expended in filing its Statement of Expenses. And, if I award an amount
+closer to the paying party’s proposal, that party will be able to deduct the expenses it incurred in
+responding to the Statement of Expenses from the amount awarded to the receiving party.
+Q. Proposed Orders
+All proposed orders should be emailed to Kane_Chambers@cod.uscourts.gov in editable
+Word format. The email message should identify the case name and number in the subject line
+and refer to the underlying motion by CM/ECF document number.
+12
+R. Oral Argument on Motions
+While oral argument and/or evidentiary hearings on motions may be requested by a party,
+they will be scheduled at my sole discretion. Pro forma or generic requests failing to describe
+reasons for oral argument or an evidentiary hearing will not be considered.
+S. Timing of Motions
+Motions filed after 4 p.m. on the last business day of the week will be ruled on no sooner
+than the next business day.
+V. IN-COURT PROCEEDINGS
+A. Courtroom Protocol
+1. Courtroom Decorum. Creating a courtroom where all litigants, witnesses, and counsel feel
+welcome and respected is of utmost importance to this Court. Courtesy and civility to and
+from one and all is expected. All parties should observe the following courtroom decorum:
+a. Stand when the Judge enters or leaves the courtroom, when addressing the Court, and
+when the jury enters or leaves the courtroom;
+b. Stand at the lectern when speaking, and communicate clearly and distinctly;
+c. Request permission to approach the bench; and
+d. Refer to all other persons by their surnames, prefaced by the individual’s title (e.g.,
+Dr., Agent, Officer, Mr. or Ms., etc.).
+It will not normally be necessary for counsel to approach a witness on the stand. The
+courtroom deputy, upon request of counsel, will hand a witness an exhibit.
+2. Oaths. Please note and advise all persons appe aring with you in court, including co-counsel,
+paralegals, clients, witnesses, and spectators that oath taking is treated formally in my
+courtroom. The courtroom deputy is directed to administer an oath to a jury or witness
+ONLY when all other activity in the courtroom has ceased. Attorneys are directed to observe
+the administration of the oath and to stop all other activity.
+3. Cell phones. Cellphones must be placed in “s ilent mode” or “off” in the courtroom.
+B. Record of Proceedings
+1. The official record of all trials and proceedings will be taken by a court reporter. Before any
+courtroom proceeding, please provide the court reporter with your business card or other
+means of contacting you, as well as a glossary of unusual or technical terminology, difficult-
+to-spell names, and/or acronyms. Requests for realtime or daily or hourly copy should be
+communicated to the reporter as soon as practicable, no later than two weeks before the
+proceeding.
+13
+2. Transcripts of any court proceeding can be ordered directly from the court reporter sitting at
+the particular hearing. If you do not remember the reporter’s name, consult the Minute Entry
+for that proceeding. Court reporters’ contact information can be found at www.cod.uscourts.
+gov/AbouttheDistrict/ContactUs.aspx#report.
+C. Exhibits
+1. When to File Exhibit List. For motions hear ings, exhibit lists shall be filed via CM/ECF
+two business days before the hearing. For trials, parties shall file their final unified exhibit
+list via CM/ECF and email an editable Word version to Kane_Chambers@cod.uscourts.gov
+no later than seven days before the Final Trial Preparation Conference.
+2. Format of Exhibit List. Parties must use th e form Exhibit List available on my website,
+indicating which exhibits are stipulated and which are not and the basis for any objections.
+Counsel shall stipulate to the admissibility of exhibits to the maximum extent possible. A
+failure to stipulate to authenticity of any particular exhibit must set forth specific reasons for
+the objection.
+3. Marking Exhibits. Each party must pre-mark all e xhibits that will be used or identified in a
+hearing or trial. Each exhibit shall be marked with its number under the unified system.
+Exhibits not pre-marked or exchanged before a hearing or trial may not be admitted. The
+plaintiff’s exhibits should be marked with numbers starting at 1. The defendant’s exhibits
+should be marked with numbers starting with where the plaintiff’s proposed exhibits leave
+off. It matters not whether the exhibit is offered by the plaintiff or defendant; the point is to
+avoid duplication and confusion. There is no need for a party to seek to admit exhibits
+offered by another party and admitted by the court. Once an exhibit is marked, that number
+will be permanent and no new additional number(s) should be used to mark it. Each
+document exhibit shall be paginated, including any attachments thereto.
+4. Paper Exhibits. Paper copies of exhibits shall be submitted in 3-ring binders, which shall be
+labeled with the following information: (i) caption, (ii) nature of proceeding, (iii) scheduled
+date and time, and (iv) “original” or “copy.” Paper exhibits, including the set of original
+exhibits, shall bear extended tabs showing the number of the exhibit. If exhibits are not
+bound and labeled properly, the hearing or trial may be delayed or continued until they are.
+5. Number of Sets of Exhibits.
+a. Original Exhibits: At the start of every tr ial or evidentiary hearing, the parties shall
+submit a set of original exhibits (labeled as “original”) to my courtroom deputy. The
+“original” set will be for the witness stand and will be the only set that goes to the jury
+room during deliberations in a jury trial.
+b. Copies of Exhibits: In addition to the origin al exhibit binder(s), the parties shall provide
+copies of exhibits to the court as follows:
+i. In addition to the original set of exhibits, each party should provide three separate
+14
+sets of the exhibits. These copies shall be submitted in the same format as the
+original exhibits. One set is for opposing counsel, the others are for the court.1
+ii. The parties shall also submit their exhibits on a flash drive for the court reporter.
+If an exhibit cannot be presented in digital form on a flash drive, the party shall
+contact the court reporter to discuss an alternate format.
+D. Timelines and Other Demonstrative Aids
+1. In cases in which a sequence of events is relevant or helpful to deciding any issue presented,
+the parties shall prepare a stipulated demonstrative that sets out the timeline of these events.
+If any element of this timeline is disputed, the demonstrative should so indicate.
+2. The parties are also encouraged to submit similar demonstrative aids for reference during the
+course of their presentations if such would assist the court or the jury.
+3. The parties should provide three total copies of any demonstrative aid, unless it is
+prohibitively expensive or difficult to make copies of a particular demonstrative aid.
+Demonstrative aids will not be provided to the jury during its deliberations, unless otherwise
+ordered.
+E. Witnesses
+1. When to File Witness List. For motions hear ings, witness lists should be filed via CM/ECF
+two business days before the hearing. For trials, the parties shall file their final witness lists
+via CM/ECF no later than seven days before the Final Trial Preparation Conference.
+2. Format of Witness List. The parties should use the form Witness List available on my
+website. It should list the witnesses to be called by each party in its case in chief and set forth
+the best estimate of the time required for that witness for direct examination. It should also
+include potential rebuttal witnesses. This witness list is counsel’s representation, upon which
+opposing counsel may rely, that the witnesses listed will be present and available for
+testimony. The witness list should note any testimony that is expected to occur via video
+teleconferencing, but such testimony will not be permitted, unless a related motion is made
+and granted. The witness list must include witnesses whose testimony is to be presented by
+way of deposition.
+3. Witness Sequestration. Upon motion, witnesses will be sequestered until a particular
+witness’s testimony is complete. Each party may retain one advisory witness throughout the
+trial. If an expert witness’s testimony is based in part on observations at trial, the need for the
+witness’s presence must be disclosed not later than the Final Trial Preparation Conference.
+1 For trials, one court copy of the parties’ proposed exhibits shall be delivered to my chambers, and a
+copy to opposing counsel, no later than seven days before the Final Trial Preparation Conference. The
+original set and additional copy of the final exhibits may be brought to the courtroom the first morning of
+the trial, along with exhibits needing to be replaced in the copies already provided based on rulings from
+the Final Trial Preparation Conference.
+15
+F. Use of Deposition Testimony
+1. The use of depositions in court proceedings is governed by Federal Rule of Civil Procedure
+32, together with this practice standard.
+2. At the beginning of a hearing or trial, a party shall deliver to the courtroom deputy
+the original transcripts of all depositions the party intends to or may use, whether for
+impeachment or otherwise.
+3. For depositions to be used at a hearing, counsel shall exchange with each other their
+designations of anticipated deposition and videotape deposition testimony at least seven
+days before the hearing. Objections shall be filed at least two business days before the
+hearing. If objections are made, the offering party should provide the court with a notebook
+containing the deposition transcripts with tabs that identify the relevant testimony at least
+two business days before the hearing.
+4. If the parties intend to offer deposition testimony in lieu of a live witness at trial, counsel
+shall exchange with each other their designations of anticipated deposition and video
+deposition testimony. Pursuant to Federal Rule of Civil Procedure 26(a)(3)(B), these
+disclosures must be made at least 30 days before trial. After the original exchange,
+counsel shall notify opposing counsel of any counter-designated deposition testimony,
+exchange objections to all designated testimony, and make a good-faith attempt to resolve
+such objections. Objections to any portion of a proposed deposition, including a videotaped
+deposition, shall be filed before the Final Trial Preparation Conference. Any objectionable
+portion of the deposition shall be identified with specificity, e.g., by page and line. The
+parties shall also submit the transcript(s) of the designated deposition testimony to my
+chambers at Kane_Chambers@cod.uscourts.gov before the Final Trial Preparation
+Conference. In the transcript(s), plaintiff’s designations should be highlighted in yellow,
+defendant’s designations should be highlighted in blue, and testimony that is the subject of
+an objection should be highlighted in red. I will make every effort to resolve objections at the
+Final Trial Preparation Conference to speed things along and to facilitate any necessary
+redaction.
+5. For jury trials, parties shall provide a person to read the deposition answers.
+6. For bench trials, depositions will not usually be read in open court. Instead, I will read them
+before trial in chambers in any requested sequence. The offering party shall provide the
+relevant deposition transcript as an exhibit with its designated portions highlighted. If both
+parties seek to use portions of the same deposition transcript, they shall confer beforehand
+and the exhibit provided shall contain the plaintiff’s portions highlighted in yellow and the
+defendant’s in blue.
+G. Special Equipment (Audio/Video)
+The court has audio-visual a nd other special equipment that may be used by the parties.
+16
+Notify the Court Operations Supervisor, Nick Richards, at nicholas_richards@cod.uscourts.gov no
+later than 14 days before a hearing or trial regarding use of such equipment or any request to
+bring your own equipment through security for use in the courtroom. You may schedule a time with
+Mr. Richards to visit the courtroom and run through your technology needs.
+H. Time Limits
+Unless specified in an order setting a matter for hearing, there are no time limits imposed.
+Brevity is encouraged.
+VI. PRETRIAL PROCEEDINGS
+A. Pretrial Order and Conference
+1. Preparation for Pretrial Conference.
+a. When the ca
+se is at issue, meaning discovery is completed and all motions that might
+dispose of the case have been decided, counsel will be directed to call in to set a date for
+the Pretrial Conference.
+b. At least 14 days before the scheduled date of the Pretrial Conference, counsel shall
+meet and confer to jointly develop the contents of the proposed Pretrial Order. It is the
+responsibility of plaintiff’s counsel to schedule meetings and then file and submit the
+jointly proposed Pretrial Order. If the parties agree, plaintiff may delegate responsibility
+for filing and submission to defendant.
+c. Unless otherwise ordered, the parties shall submit their proposed Pretrial Order for the
+court’s approval no later than seven days before the date of the Pretrial Conference.
+The proposed Pretrial Order should be filed in CM/ECF and submitted electronically in
+editable Word format to my chambers at Kane Chambers@cod.uscourts.gov .
+2. Form of Proposed Pretrial Order.
+The parties should use the form for Pretrial Orders
+available on my website. The Pretrial Order will include, among other information:
+a. a list of witnesses to be called;
+b. a list of the exhibits to be offered;
+c. important deadlines for filings; and
+d. a list of as many stipulations as the parties can achieve.
+3. Attendance at Pretrial Conference. As requi red by Federal Rule of Civil Procedure 16, at
+least one of the attorneys who will conduct the trial for each of the parties, as well as any
+unrepresented parties, must attend the Pretrial Conference.
+4. Enforceability of Pretrial Orders. I consider Pretrial Orders of utmost importance. The
+17
+Pretrial Order will supersede the pleadings and control the subsequent course of the case and
+the trial.
+B. Motions in Limine
+Motions in limine are discouraged when the motion is evidence driven and cannot be
+resolved until evidence is presented at trial.
+C. Jury Instructions and Verdict Forms
+1. I place great emphasis on the preparation of narrative instructions that clearly and accurately
+inform the jurors of the law that applies in a given case. Jury instructions and verdict forms
+will be submitted to the court, argued, revised, and approved before trial begins. This
+practice allows counsel to refer to the instructions in their opening statements, presentation of
+testimony and exhibits, and closing arguments. In my experience, the repeated use of the
+instructions results in more efficient trials and informed decision-making by the jury. Please
+refer to the published articles I have written that are available on my website: Riding Jury
+Instructions to Victory and Judging Credibility.
+2. The parties will jointly submit proposed jury instructions and verdict forms. The parties shall
+consult and base their instructions on the “Sample Jury Instructions-Civil” on my website.
+The jury instructions shall identify the source of the instruction and supporting authority,
+e.g., “Judge Kane’s Sample Instruction 2” or “§ 103, Fed. Jury Practice, O’Malley, Grenig,
+and Lee (5th ed.).” While the instructions should be tailored to the facts and circumstances of
+the particular case, parties should, where appropriate, consult the most current editions of the
+Federal Jury Practice and Instructions and the Colorado Jury Instructions for guidance on
+instructions relating to substantive legal claims. Please refrain from using legalese where
+commonly used words are available (e.g., not “prior” or “subsequent” but “before” and
+“after”). And please use the names of the parties rather than “plaintiff” and “defendant.”
+3. To the maximum extent possible, the parties shall agree on one stipulated set of proposed
+jury instructions. The filed Jury Instructions shall include all of the parties’ stipulated,
+proposed, and counter-proposed instructions in a single, page-numbered document. Do not
+submit jury instructions individually or as separate Word files. Each instruction should
+be numbered (e.g., “Stipulated” or “Government’s [Defendant’s] Proposed” Instruction No.
+1) for purposes of making a record at the Final Trial Preparation Conference. A party’s
+written objection to a proposed instruction should immediately follow the objected to
+instruction and accompanied by that party’s counter-proposed instruction, if any. A counter-
+proposed instruction should be a redlined version of the opposing party’s proposed
+instruction. For examples on how to submit the jury instructions, see Case Nos. 16-cr-00111-
+JLK, Doc. 81, and 16-cv-02327-JLK, Doc. 148. The parties are expected to work together to
+craft the instructions and should exchange proposals and attempt to work through objections
+well before the submission due date.
+4. The parties shall submit their instructions and verdict forms via CM/ECF and email them in
+an editable Word format to Kane Chambers@cod.uscourts.gov .
+18
+5. Stipulated Facts: All stipulations of fact should be formatted as a jury instruction and will be
+read as any other instruction.
+D. Trial Briefs
+Trial briefs identifying issues and legal authority with which you wish me to be familiar
+before trial may be helpful, as may timelines or glossaries of names, technical terms,
+abbreviations, or acronyms. Trial briefs must be submitted no later than seven days before the
+Final Trial Preparation Conference.
+E. Final Trial Preparation Conference
+1. A Final Trial Preparation Conference will be held approximately three to ten days before
+trial. Counsel who will try the case and a representative for each party must attend.
+2. The Pretrial Order should be reviewed by counsel before this final conference because it will
+control the course of the conference and the trial. If proposed amendments to the Pretrial
+Order are believed to be necessary, counsel must file a motion requesting such amendments
+no later than seven days before the Final Trial Preparation Conference.
+3. The parties should be prepared to argue any pending motion in limine or other evidentiary
+objections at the Final Trial Preparation Conference.
+4. The jury instructions and verdict form will be reviewed and counsel will be offered the
+opportunity to make their record on any objections.
+5. Timelines, glossaries, or similar demonstrative aids need not be filed in CM/ECF but shall be
+provided to the court and opposing counsel at the Final Trial Preparation Conference.
+6. One court copy of the parties’ proposed exhibits shall be delivered to my chambers, and one
+copy should be provided to opposing counsel, no later than seven days before the Final
+Trial Preparation Conference. The original set and additional copy of the final exhibits
+may be brought to the courtroom the first morning of the trial, along with exhibits needing to
+be replaced in the copies already provided to the court and opposing counsel based on rulings
+from the Final Trial Preparation Conference.
+F. Pretrial Deadlines
+At the appropriate time, the parties will be directed to contact chambers to set the pretrial
+and trial dates. The court will then issue an order confirming the trial and Final Trial Preparation
+Conference dates and specifying deadlines for the tasks to be completed before the Final Trial
+Preparation Conference. Those deadlines are roughly:
+1) Expert Motions will be due 30 days after the Pretrial Conference.
+2) Motions in Limine will be due 60 days after the Pretrial Conference.
+19
+3) The parties’ proposed Jury Instructions and Verdict Forms will be due 90 days after
+the Pretrial Conference.
+4) The deadline for any objections to deposition designations will be seven days before
+the Final Trial Preparation Conference.
+5) The deadline to file Witness and Exhibit Lists and to deliver a copy of the exhibits
+to the court will be seven days before the Final Trial Preparation Conference.
+VII. JURY TRIALS
+1. Optional Exhibit Notebooks for Individual Jurors. There is equipment available in the
+courtroom for parties to present exhibits to the jury and the court. However, if the parties so
+choose, counsel may provide each juror with a notebook containing copies of the parties’ key
+exhibits to reference in the courtroom during the trial. (Only the original set of exhibits will
+be available in the jury room during deliberations.)
+a. If used, counsel should confer and provide one individual juror notebook for each
+juror that includes selected exhibits of each party.
+b. Individual juror exhibit notebooks should include only those exhibits previously
+admitted by stipulation or admitted at the Final Trial Preparation Conference. If
+additional key exhibits are admitted during the trial, the parties may provide the
+courtroom deputy with copies of these additional admitted exhibits to be placed in the
+individual juror exhibit notebooks.
+2. Trial Schedule. Counsel will be present to deliver the exhibits and go over any last-minute
+items with the courtroom deputy at 8:30 a.m. on the first day of trial. The normal trial day
+begins at 9:00 a.m. and continues until 4:30 p.m. Lunch recess normally is from 12:00 to
+1:15 p.m. We may continue beyond 4:30 p.m., but jurors have a right to rely on their being
+excused for the day no later than 5:00 p.m. For the convenience of everyone, additional
+recesses are scheduled for 10:15 to 10:30 a.m. and 3:15 to 3:30 p.m. If a recess is needed at
+any other time, make a request, and it will be granted.
+3. Voir Dire. I will conduct a voir dire examination. Counsel will have 30 minutes per side to
+conduct supplemental voir dire. I do not require counsel to submit voir dire questions in
+advance, but if they choose to do so, they should be submitted at least two business days
+before the Final Trial Preparation Conference. No questions concerning jury
+nullification or agreement or disagreement with any applicable law contained in the
+instructions or to be offered will be permitted.
+4. Note-taking and Questions. Jurors will be perm itted to take notes during the trial and to
+submit questions for the court or for counsel in writing. Copies of juror questions will be
+provided to counsel and a record made outside the presence of the jury before an answer is
+given.
+20
+5. Jury Instructions. I will use the Statement of the Case or Preliminary Instruction during voir
+dire and will read all but the closing instructions to the jury after they are sworn in. After
+being sworn in, each individual juror will also receive a notebook of instructions, which
+(unless otherwise ordered) will be compiled by my staff and may include the forms of
+verdict. Counsel are encouraged to use the instructions in opening statements and in
+presenting their case. In addition to any record created at the Final Trial Preparation
+Conference or other supplemental jury instruction conference(s), counsel will be provided the
+opportunity to make a record of objections before final arguments and after the close of
+evidence.

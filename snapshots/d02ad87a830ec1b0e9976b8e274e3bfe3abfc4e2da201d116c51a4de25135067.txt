@@ -1,0 +1,1163 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF CALIFORNIA
+,
+Plaintiff(s),
+v.
+,
+Defendants(s).
+Case No.
+STANDING ORDER FOR CIVIL
+CASES ASSIGNED TO JUDGE
+STANLEY BLUMENFELD, JR.
+[Updated 1/6/26]
+READ THIS ORDER CAREFULLY BECAUSE IT CONTROLS THIS CASE
+AND DIFFERS IN PART FROM THE LOCAL RULES. FAILURE TO
+COMPLY MAY RESULT IN SANCTIONS.
+Counsel for the plaintiff must immediately serve this order on all parties,
+including any new parties to the action. If this case was removed from state court, the
+defendant that removed the case must serve this order on all other parties. A
+hyperlinked table of contents appears below.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+2
+1. C OUNSEL
+a. Civility . All counsel must immediately review and comply with the
+Court’s Civility and Professionalism Guidelines, available at
+www.cacd.uscourts.gov/attorneys/admissions/civility-and-
+professionalism-guidelines. Failure to do so may result in sanctions.
+b. Presence of Lead Counsel . Only one attorney for a party may be
+designated as lead counsel—and the designation must appear on the
+docket if a party has more than one attorney. Lead counsel must attend
+all proceedings other than motion hearings. For motion hearings, lead
+counsel is encouraged to permit junior lawyers to participate. Only one
+counsel may be designated to argue a motion absent Court approval.
+c. Self-Represented Parties (a /k/a “Pro Se” Litigants). Parties
+representing themselves (pro se litigants) are required to comply with all
+Local Rules, including Local Rule 16 (“Pretrial Conferences; Scheduling;
+Management”). In this order, the term “counsel” includes pro se
+litigants. Only individuals may represent themselves and only in their
+TABLE OF CONTENTS
+1. Counsel 9 . Ex Parte Applications
+2. Communications with Chambers 10. Continuances
+3. Pleadings 1 1 . Class Actions
+4. Discovery 1 2 . ERISA Cases (Benefit Claims)
+5. Filing Requirements 1 3 . Bankruptcy Appeals
+6. General Motion Requirements 14. Consent to Magistrate Judge
+7. Specific Motion Requirements 15. Sanctions for Failing to Comply
+8. Hearings
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+3
+individual capacities. A corporation or other entity must be represented
+by counsel, and if counsel seeks to withdraw, counsel must advise the
+entity of the dire consequences of failing to obtain substitute counsel
+before seeking withdrawal—i.e., a plaintiff entity’s case will be
+dismissed or a defendant entity will default. See Local Rule 83-2.3.4.
+d. Duty to Notify of Settlement . Counsel must advise the Court
+immediately if (1) the case or any pending matter has been resolved or
+(2) a motion is pending and the parties are engaged in serious
+negotiations that appear likely to resolve the case or the pending motion
+(as discussed in more detail in § 8(f), infra). Failure to provide timely
+notice of settlement may result in sanctions. The filing of a settlement
+notice does not excuse counsel from appearing at any scheduled hearing
+or conference that has not been vacated.
+e. No “Notices of Unavailability.” A “Notice of Unavailability” has no
+legal effect and should not be filed.
+d. Substitution or Withdrawal of Counsel. Any attorney seeking to
+substitute in as counsel must certify that the substitution will not delay
+the prosecution of the case. See L.R. 83-2.3.5. If unable to so certify,
+counsel must file a motion or stipulation showing good cause for the
+delay and that substitution serves the interests of justice. Counsel
+remains responsible for representation until the Court approves the
+withdrawal or substitution.
+2. C OMMUNICATIONS WITH CHAMBERS
+Counsel shall not contact the courtroom deputy clerk (CRD) to inquire about
+(1) the status of a pending matter or (2) court procedure addressed in the Local Rules
+and the Court’s standing orders. Any appropriate inquiry directed to the CRD must be
+by email only, copied to all parties. Email requests for relief that should be filed on
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+4
+the docket—e.g., a request for a remote appearance or continuance—will generally be
+ignored and will not excuse noncompliance with any applicable rule or order.
+3. P LEADINGS
+a. Service of the Summons and Complaint . The plaintiff(s) shall
+promptly obtain the summons and serve the summons and complaint in
+accordance with Fed. R. Civ. P. 4 and file the proofs of service pursuant
+to Fed. R. Civ. P. 4(l). Any defendant, including any “Doe” or
+fictitiously named defendant, not served within 90 days after the case is
+filed shall be dismissed pursuant to Fed. R. Civ. P. 4(m).
+b. Removed Actions. Any answer filed in state court must be refiled in this
+Court as a supplement to the Notice of Removal. Any motion pending in
+state court at the time of removal must be re-noticed in accordance with
+Local Rule 7. If a removed action includes a “form pleading” (i.e., a
+check-the-box pleading), the party that filed the form pleading must file a
+pleading in this court that complies with the federal rules within 30 days
+of the filing of the removal notice. See Fed. R. Civ. P. 7, 7.1, 8, 9, 10,
+and 11. An amended complaint filed within 30 days after removal to
+replace a form complaint pursuant to this instruction shall be deemed an
+amended complaint with “the court’s leave” pursuant to Rule 15(a)(2).
+c. Status of Fictitiously Named Defendants.
+i. The plaintiff should identify and serve any fictitiously named
+defendants before the date of the mandatory scheduling conference
+(MSC) held pursuant to Fed. R. Civ. P. 16(b).
+ii. All Doe defendants remaining 60 days after the MSC (or on the
+date set forth in the scheduling order, if applicable) are dismissed
+by operation of this Order without further notice unless the
+plaintiff requests and justifies the need for additional time in the
+joint report for the MSC and the Court grants an extension.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+5
+iii. Before moving to substitute a de fendant for a Doe defendant, the
+plaintiff must seek the consent of counsel for all defendants,
+including counsel for a represented Doe defendant. If denied
+consent, the plaintiff must file a regularly noticed motion. In
+diversity cases, the plaintiff’s motion must address whether the
+addition of the newly named party destroys diversity jurisdiction.
+See 28 U.S.C. § 1447(c), (e).
+4. D ISCOVERY
+a. Magistrate Judge Referral . All discovery matters are referred to the
+assigned magistrate judge. All discovery documents must include the
+words “DISCOVERY MATTER” in the caption to ensure proper routing.
+Do not deliver chambers copies of these documents to Judge Blumenfeld.
+The decision of the magistrate judge shall be final, subject to limited
+review requiring a showing that the decision is clearly erroneous or
+contrary to law. Any party may file and serve a motion for review within
+14 days of either (i) service of a written ruling or (ii) an oral ruling that
+expressly will not be followed by a written ruling. The motion must
+specify which portions of the ruling are clearly erroneous or contrary to
+law, supported by points and authorities. Counsel shall deliver a
+conformed copy of the moving papers and responses to the magistrate
+judge’s clerk at the time of filing.
+b. Discovery Protective Orders . Proposed protective orders for discovery
+must be submitted to the assigned magistrate judge. Such orders should
+not purport to allow, without further order of Judge Blumenfeld, the
+filing under seal of pleadings or documents filed in connection with a
+dispositive motion, a class certification motion, or trial before Judge
+Blumenfeld. The existence of a protective order does not alone justify
+the filing of pleadings or other documents under seal, in whole or in part.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+6
+c. Prompt Commencement of Discovery. The Court encourages the
+parties to begin discovery early and expects written discovery to be
+served promptly after the parties have conferred as required under Fed.
+R. Civ. P. 26(f). A protective order, when necessary, shall be agreed
+upon within one week of the Rule 26(f) conference.
+d. Juvenile Records. In cases that will require access to juvenile records,
+the parties shall identify the necessary records and file all requests for
+such records with the appropriate state court by no later than the MSC. If
+the parties fail to do so, the Court is unlikely to grant a continuance based
+on delay in the process for obtaining juvenile records.
+5. FILING REQUIREMENTS
+a. Text Searchability . All documents—including pleadings, motions, and
+exhibits—submitted to the Court must be text-searchable (i.e., “OCR’d”).
+b. Documents with Declarations, Exhibits, and Other Attachments.
+Except for filings in support of summary judgment motions (see MSJ
+Standing Order), if a filed document has declarations, exhibits, or other
+attachments, each attachment must be filed as a separately docketed
+attachment to the main docket entry with a description of the attachment
+(e.g., Dkt. 29-1 Smith Declaration, 29-2 Ex. 1 - License Agreement, 29-3
+Request for Judicial Notice). The Court may decline to consider
+documents not filed in accordance with this order.
+c. Artificial Intelligence. Any party who uses generative artificial
+intelligence (such as ChatGPT, Harvey, CoCounsel, or Google Bard) to
+generate any portion of a brief, pleading, or other filing must attach to the
+filing a separate declaration disclosing the use of artificial intelligence
+and certifying that the filer has reviewed the source material and verified
+that the artificially generated content is accurate and complies with the
+filer’s Rule 11 obligations.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+7
+d. Proposed Orders . Each party filing a motion or seeking the
+determination of any matter shall serve and lodge a proposed order
+setting forth the relief or action sought and a brief statement of the
+rationale for the decision with appropriate citations.
+i. Templates. Use the “Proposed Order” or the “CMO Continuance
+Order” template—whichever is applicable—found on the “Orders
+and Additional Documents” tab on Judge Blumenfeld’s webpage.
+Failure to do so may result in the striking of the request. Proposed
+orders should not contain: (1) attorney names, addresses, etc. on
+the caption page; (2) a footer with the document name or other
+information; or (3) a watermark or designation of the firm name.
+Proposed orders should be formatted in the same fashion as
+motions. See § 6(c)(iv), infra.
+ii. Email. Consistent with Local Rule 5-4.4.2, the Court strictly
+requires that a Microsoft Word copy of a proposed order, along
+with a PDF copy of the electronically filed main document, be e-
+mailed to the chambers e-mail address. The Court will not
+consider a stipulation, ex parte application, or other request for
+relief until a compliant proposed order is received by email. A
+filing may be stricken for failure to timely comply.
+e. Chambers Copies . Chambers copies (paper copies that are sent to
+chambers upon electronic filing of the document) are required for the
+following documents only: (1) motion papers (motions, oppositions,
+replies, and related documents1), including motions in limine; (2) ex parte
+applications for temporary restraining orders; and (3) pretrial documents
+(memoranda of fact and law, witness and exhibit lists, pretrial conference
+1 A motion to dismiss should include a copy of the challenged pleading.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+8
+statement, jury instructions, verdict forms, etc.). Chambers copies must
+comply with the rules below.
+i. Timeliness and location. Deliver chambers copies promptly to
+Judge Blumenfeld’s mailbox outside the Clerk’s Office on the
+fourth floor of the First Street Courthouse. Applicable documents
+will not be considered until chambers copies are submitted.
+ii. Format. Chambers copies should be copies of the filed
+document—i.e., they should have the docket information on the
+top of each page. Filings that include highlighting, color
+photographs, “redlining,” or the like should be printed in color.
+Short filings should be fastened by a staple or binder clip in the top
+left corner. Larger filings should be delivered in a three-ring
+binder. Binders must have both a cover sheet and a spine label that
+includes the case name, case number, and a description of the
+contents.
+iii. Exhibits. Separate all exhibits by a tab divider on the right or
+bottom of the document. If the evidence exceeds 50 pages, the
+chambers copy must: (1) include a table of contents; and (2) be in
+a tabbed three-ring binder with each exhibit separated by a tab
+divider on the right or the bottom.
+f. Notices of Deficiency . When a filing fails to comply with court rules,
+the Clerk’s Office may issue a notice of deficiency, which typically states
+that no action is required unless the Court directs otherwise. The parties
+should not treat the deficient filing as having been stricken unless the
+Court separately orders it stricken. A deficiency notice by itself does not
+relieve any party of its obligations with respect to a filing (e.g., timely
+filing an opposition or appearing at a noticed hearing).
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+9
+6. G ENERAL MOTION REQUIREMENTS
+a. “Meet and Confer” Requirement . Local Rule 7-3 requires counsel to
+conduct a prefiling conference at least seven days before a motion is
+filed2 “to discuss thoroughly . . . the substance of the contemplated
+motion and any potential resolution” and to include with each motion “a
+declaration . . . that sets forth at a minimum the date(s) the conference
+took place and the position of each party with respect to each disputed
+issue that will be the subject of the motion.”
+i. Scope. This requireme nt applies in all cases, including those with
+pro se litigants, and extends to all issues. If the parties are unable
+to fully resolve the dispute, they shall attempt to narrow the scope
+of the contested issues. Parties must meet and confer in person or
+by videoconference; email correspondence is insufficient. A
+motion not supported by the certification below may be stricken or
+summarily denied.
+ii. Certification. The moving party shall include a signed certification
+as part of the declaration required by Local Rule 7-3 as follows:
+“I certify that the parties met in person or by videoconference,
+thoroughly discussed each and every issue raised in the
+motion, and attempted in good faith to resolve the motion in
+whole or in part.”
+If a nonmoving party refuses to participate in good faith, the
+moving party shall explain the refusal in detail.
+iii. Sanctions. Failure by any party to comply in good faith with the
+meet-and-confer requirement shall result in an order to show cause
+2 In the event that the Court sets an expedited deadline that does not allow the parties
+to meet at least seven days before the motion is filed, the parties shall meet and confer
+as soon as practicable; they are not excused from compliance with Local Rule 7-3.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+10
+re sanctions—including, as appropriate, striking or denying the
+motion, deeming the motion unopposed, and/or awarding monetary
+sanctions.
+b. Time for Filing and Hearing Motions. This Court hears civil motions
+on Fridays at 8:30 a.m.
+i. Holidays. If Friday is a cour t holiday, select another Friday.
+Opposition or reply papers due on a Friday holiday may be filed
+the following Monday.
+ii. Closed Dates. Hearing dates ar e closed at least four weeks in
+advance, and closed hearing dates are noted on Judge
+Blumenfeld’s webpage. A motion filed on a closed hearing date
+will be stricken or continued at the Court’s discretion. A party that
+waits too long and files a motion to be heard on a date that turns
+out to be unavailable risks having the motion stricken and not
+considered at all.
+iii. Non-Opposition. Failure to timely oppose a motion will likely
+result in the motion being granted after the opposition would have
+been due. See Local Rule 7-12 (failure to timely file “may be
+deemed consent to the granting . . . of the motion”).
+iv. Resolution. If the parties reso lve the issue(s) presented in a
+motion, by settlement or otherwise, the Court must be notified
+immediately to avoid unnecessary judicial work.
+c. Length, Footnotes, and Format of Motion Papers
+i. Length. Unless otherwise e xpressly permitted, no supporting or
+opposing memorandum shall exceed 7,000 words (or 25 pages,
+double spaced, if handwritten), and no reply memorandum shall
+exceed 4,000 words (or 15 pages, double spaced, if handwritten)—
+excluding only indices and exhibits. Counsel shall certify
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+11
+compliance with the word count pursuant to Local Rule 11-6.2.
+Good cause to extend these limitations will rarely be found. A
+memorandum that exceeds the allowable length may be stricken.
+ii. Footnotes. Use no more than ei ght footnotes in any supporting or
+opposing brief, and no more than five footnotes in any reply.
+Citations that support a statement in the main text should be
+included in the main text, not in footnotes.
+iv. Format. Use only 14-point Times New Roman font, including for
+footnotes. Footnotes shall be separated by 12-point spacing.
+v. Reply Briefs. The purpose of a reply brief is to respond succinctly
+to the arguments in the opposition. A reply brief should not repeat
+the background or legal standard contained in the motion and
+should not repeat arguments except to the extent necessary to
+respond to the opposition.
+d. Citations to Authority. Any argument or statement of law not
+supported by legal authority may be deemed waived or forfeited to the
+extent allowed by law. The parties should comply with Bluebook
+formatting and the citation requirements below.
+i. Pin Cites. Case c itations must identify both the case cited and the
+specific page referenced.
+ii. String Cites. Parties should not use string cites without a good
+reason. When using string cites, a party should include a
+parenthetical explanation for each cited case.
+iii. Legal Databases. When citing to unpublished materials in legal
+databases, cite to Westlaw (not Lexis) whenever possible.
+However, parties that do not have access to Westlaw will not be
+penalized for citing to other sources.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+12
+iv. U.S. Statutes. Statutory referen ces should identify with specificity
+the sections and subsections referenced. Citations should be to the
+relevant official statutory code (e.g., the U.S. Code) and should not
+merely reference the popular name of an act.
+v. Treatises, Manuals, and the Like. Citations to treatises, manuals,
+and other materials should include the volume, section, and
+relevant pages. Attach copies if these materials are not accessible
+on Westlaw, especially for historical materials (e.g., older
+legislative history).
+7. S PECIFIC MOTION REQUIREMENTS
+a. Motions Pursuant to Rule 12 . Most motions to dismiss or strike,
+especially motions raising alleged defects in a complaint, answer, or
+counterclaim that could be corrected by amendment, can be avoided if
+the parties confer in good faith as required by Local Rule 7-3. In general,
+the Court will provide leave to amend upon granting a motion to dismiss
+unless it is clear the complaint is not correctible. See Rosenberg Bros. &
+Co. v. Arnold, 283 F.2d 406, 406 (9th Cir. 1960) (requiring “extreme
+liberality” in favor of amendments). A good-faith meet-and-confer may
+avoid this costly and inefficient process. If the plaintiff, counterclaimant,
+or crossclaimant believes its pleading can be strengthened by adding facts
+that would help it survive a pleading challenge, the better course is to
+amend before the parties devote resources to briefing a motion. The
+Court expects the parties to thoroughly discuss any proposed
+amendments during their meet-and-confer and to agree to amendment if
+doing so will avoid the need for serial motions. Otherwise, if the Ninth
+Circuit’s “extreme liberality” standard applies to a meritoriously filed
+motion, the Court may summarily grant leave to amend. If the Court
+grants a motion to dismiss with leave to amend, the plaintiff must file an
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+13
+amended complaint within seven days, unless otherwise specified.
+Failure to timely file an amended complaint will result in dismissal with
+prejudice.
+b. Motions to Amend Pleadings . A motion to amend the pleadings must
+describe and state the effect of the proposed amendment and be
+accompanied by a “redlined” version of the proposed amended pleading
+indicating all additions and deletions to the prior version of the pleading.
+Before the motion is filed, the redlined version must be delivered to
+opposing counsel at least two hours in advance of the Local Rule 7-3
+conference; and if the plaintiff later changes the delivered version,
+counsel will be required to meet again about the revised pleading. In
+addition to the requirements of the Local Rules, all amended pleadings
+must be serially numbered to differentiate each amendment (i.e., “First
+Amended Complaint,” “Second Amended Complaint” . . .).
+c. Motions for Summary Judgment . Please refer to Judge Blumenfeld’s
+Standing Order re Motions for Summary Judgment found on the Orders
+and Additional Documents tab on Judge Blumenfeld’s webpage at
+https://apps.cacd.uscourts.gov/Jps/honorable-stanley-blumenfeld-jr.
+d. PLRA Exhaustion Motions. The issue of exhaustion under the Prison
+Litigation Reform Act (PLRA) must be raised at the beginning of the
+litigation. Albino v. Baca, 747 F.3d 1162, 1170 (9th Cir. 2014). A party
+seeking to obtain a judicial determination of any material fact dispute
+precluding summary judgment on exhaustion must file a request for a
+hearing within 14 days of the filing of the order denying summary
+judgment. The failure to file a timely request may be construed as a
+waiver or forfeiture of the exhaustion issue.
+e. Motions for Default Judgment. Unless the Court orders otherwise,
+motions for default judgment shall be filed within 14 days after the later
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+14
+of (1) entry of default against the last remaining defendant or
+(2) resolution of all claims against all defendants who have not defaulted.
+The motion must include a showing of both subject-matter and personal
+jurisdiction. See In re Tuli, 172 F.3d 707, 712 (9th Cir. 1999). A
+plaintiff who moves for default judgment and wishes to seek attorney’s
+fees and costs must include in the motion a properly supported request
+for attorney’s fees and costs together with the motion for default
+judgment. Failure to do so will result in the striking of any subsequent
+motion for attorney’s fees and costs absent a showing of good cause. The
+Court may vacate the hearing on a motion for default judgment if no
+opposition is timely filed, and the notice of motion should so state.
+Unless the Court orders otherwise, the movant must appear at the motion
+hearing prepared to argue the motion and respond to any tentative
+opinion even in the absence of an opposition.
+f. Motions for Attorney’s Fees. A motion for attorney’s fees must be
+supported by documentation of the billed hours for which the movant
+seeks to recover fees. The movant shall additionally provide by email to
+the CRD an Excel spreadsheet documenting the hours for which the
+movant seeks recovery, using the format in the following example:
+Date Name Position Task Category Hours Rate Amount
+3/2/23 John
+Smith
+Associate Researched choice
+of law for motion to
+dismiss
+MTD 0.7 $300 $210.00
+3/5/23 Jane
+Doe
+Partner Spoke with client
+about medical
+history
+CC 0.2 $500 $100.00
+3/5/23 Jerry
+Roe
+Paralegal Assembled case
+folder
+ADM 0.1 $150 $15.00
+If the parties use abbreviations in th e category column (as in the example
+provided), they shall include a legend identifying the meaning of each
+abbreviation.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+15
+g. Applications to Seal . If the Court has previously granted leave to seal a
+particular exhibit, the parties need not file a new application to file that
+exhibit under seal in connection with a new filing. The parties may
+simply file the exhibit under seal together with a statement that the Court
+has already permitted sealing of the exhibit, with a citation to the relevant
+order.
+h. Reports and Recommendations. Objections to a magistrate judge’s
+report and recommendation, as well as responses to objections, shall be
+limited to 10 pages absent leave of court.
+8. MOTION HEARINGS
+a. Remote Appearances. Remote appearances are not permitted absent
+good cause shown in a declaration concurrently filed with the moving
+papers or the opposition. Absent a concurrent filing, a party requesting to
+appear remotely must submit a declaration establishing that the party is
+unable to appear in person due to an unanticipated and unavoidable
+emergency and that the request was made promptly upon learning of the
+emergency. Instructions for remote appearance can be found on Judge
+Blumenfeld’s webpage. Counsel appearing remotely are responsible for
+ensuring that their equipment and the internet connection in the location
+from which they will be participating are reliable and adequate for
+uninterrupted video participation.
+b. Submission without Argument . The Court may take a motion off
+calendar if it concludes the decision will not benefit from oral argument.
+c. Time. If oral argument is permitted, the parties will have a total of 20
+minutes, divided equally between the sides, unless the Court states
+otherwise. If the Court believes that the matter warrants less or more
+time, it will advise counsel at the hearing.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+16
+d. Tentatives . The Court often issues written tentative rulings and makes
+them available on Judge Blumenfeld’s webpage the afternoon before the
+hearing by 6:00 p.m. The purpose of the tentative ruling is to focus the
+discussion at the hearing. No party shall file any written response to the
+tentative ruling without leave of court. A tentative ruling does not
+represent the final decision of the Court, and the parties are strictly
+prohibited from filing it as an exhibit or otherwise in any case.
+e. Oral Argument . If a tentative has issued, the parties should be prepared
+to explain why the analysis is correct or incorrect. The Court often tests
+its reasoning by asking questions and expects counsel to respond directly
+and candidly.
+f. Settlement. Counsel must notify the Court at least two weeks before the
+scheduled hearing if the parties are conducting settlement discussions
+that may render the motion moot and must notify the Court immediately
+if a settlement is reached. A belated settlement notice wastes scarce
+judicial resources and will subject the offending parties to sanctions—
+and it may also result in the release of the tentative ruling.
+g. Evidentiary Hearings. If the parties seek an evidentiary hearing on any
+matter, they shall (1) notify the Court at the time of filing that they intend
+to present evidence and (2) provide an estimate of the time required. No
+later than seven days before the hearing, the parties shall file joint
+witness and exhibit lists—including a list of challenged exhibits—that
+comply with the requirements in the Court’s Civil Pretrial and Trial
+Order. Failure to timely request an evidentiary hearing or to file the
+required materials will be deemed a waiver of any right to an evidentiary
+hearing.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+17
+9. EX PARTE APPLICATIONS
+A party seeking ex parte relief, includi ng a temporary restraining order, must
+comply fully with Local Rule 7-19.3
+a. Notice . The applicant must (1) notify the other party (or parties) that
+opposing papers are to be filed no later than 48 hours following service
+or by 3:00 p.m. on the first court day after the service, whichever is later,
+and (2) advise the Court in a declaration whether any party opposes the
+application.
+b. Submission . The application will not be considered until a chambers
+copy has been provided. Once the application is submitted for decision,
+the Court will rule on the papers unless it elects to set a hearing. Do not
+contact chambers about the status.
+c. No Tolling of Obligation . An application or stipulation does not serve
+to toll, or relieve a party of, an underlying obligation (e.g., a soon-to-
+expire deadline). Parties should not assume that an unopposed ex parte
+application or stipulation will be granted; and a last-minute application or
+stipulation that is denied may result in a party’s defaulting on the
+underlying obligation.
+10. C ONTINUANCES
+The Court grants continuances of pret rial and trial deadlines only on a timely
+showing of good cause. The Court applies the same standard of good cause to all
+extension requests—whether opposed, unopposed, or jointly requested.
+a. Good Cause . Good cause requires a specific, detailed, and non-
+conclusory showing of diligence from the outset of the case, describing:
+(1) all relevant work previously done (including when each item was
+completed), (2) all relevant work that remains to be done, (3) why the
+3 A party seeks ex parte relief when proceeding without a noticed motion, even if the
+filing is improperly styled as a motion.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+18
+remaining work could not previously have been done (including efforts
+made to complete each remaining item), and (4) why the amount of time
+requested is needed to complete the remaining work.
+b. Diligence. The Case Management Order (CMO) that the parties will
+receive following the MSC contains an attachment with information that
+must be submitted in table form to show diligence. Diligence generally
+will not be found when a party delays serving or pursuing written
+discovery, engages in strategic staging of discovery or other tasks, or opts
+for in-person depositions that prevent completion within the existing
+deadline. The parties should plan to complete discovery far enough in
+advance of the discovery deadline to allow for both the filing of a
+discovery motion if necessary and the completion of any court-ordered
+discovery. Moreover, a desire to engage in settlement discussions does
+not constitute good cause to extend existing deadlines. The parties are
+strongly encouraged to agree to exchange initial disclosures promptly and
+to actively commence discovery before the MSC.
+c. Proposed Order . The parties must complete and submit the CMO
+Extension Order Template found at the “Orders & Additional
+Documents” tab on Judge Blumenfeld’s webpage. Please follow the
+highlighted directions at the end of the document. File the proposed
+order and submit an electronic Word copy to Judge Blumenfeld’s
+chambers email.
+d. Denied with Prejudice. Denial of an extension request, including
+summary denial, is with prejudice. The parties should therefore present
+all available information showing that the outstanding discovery or other
+litigation tasks cannot be completed within the existing deadlines despite
+all reasonable diligence from the outset of the case. A party is not
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+19
+permitted to resubmit a denied extension request with additional
+information that was previously available.
+* * *
+Failure to comply with the procedural requirements above—including the use
+and proper completion of the table in the MSC Order attachment and the CMO
+Extension template—may result in the extension request being stricken or
+summarily denied. An improper resubmission of a denied extension request
+may result in sanctions.
+11. C LASS ACTIONS
+The parties in a putative class action are to act diligently and begin discovery
+immediately, so that the motion for class certification can be filed expeditiously. A
+motion for class certification must be filed no later than 120 days from the date
+initially set for the scheduling conference unless the Court orders otherwise.
+12. ERISA CASES (BENEFIT CLAIMS)
+The parties may receive an MSC Order as a matter of course. Because the
+ordinary pretrial and trial schedule does not apply to ERISA cases that will be decided
+on the administrative record, the parties need only submit a joint status report
+identifying any special issues that should be considered, as described in § 3(d) of the
+MSC Order. The parties should proceed with the preparation of the administrative
+record and briefing without delay upon service of the complaint. If necessary, the
+Court will hear motions to determine the standard of review, whether discovery will
+be permitted, and the scope of the administrative record. Counsel are discouraged
+from filing motions for summary judgment or partial summary judgment for a merits
+determination. See Kearney v. Standard Insurance Co., 175 F.3d 1084, 1095 (9th Cir.
+1999) (en banc) (noting the difference in procedures between Rule 56 and Rule 52).
+A court trial, ordinarily limited to oral argument on the administrative record, will be
+scheduled within six months from the filing of the original complaint, unless good
+cause for additional time is shown in the status report. If the Court concludes that the
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+20
+decision would not benefit from oral argument, the matter may be submitted for
+decision on the papers.
+13. B ANKRUPTCY APPEALS
+Counsel must comply with the Notice Regarding Appeal from Bankruptcy
+Court issued at the time the appeal is filed in the district court. The matter is deemed
+under submission on the filing of the appellant’s reply brief. The Court considers
+bankruptcy appeals on the papers and usually does not set these matters for hearing.
+14. C ONSENT TO MAGISTRATE JUDGE
+The parties may consent to have a magistrate judge preside over the entire case,
+including trial. The parties may choose any magistrate judge on the Voluntary
+Consent List found on the Central District website. If the parties consent, they should
+contact the courtroom deputy of the selected magistrate judge to confirm his or her
+availability and, upon confirmation, promptly file a “Notice of Lodging of Consent”
+along with Form CV-11D (Statement of Consent to Proceed Before a United States
+Magistrate Judge, found at http://www.cacd.uscourts.gov/court-procedures/forms)
+attached thereto. If the magistrate judge to whom the parties have consented becomes
+unavailable after the case has been referred, the parties shall meet and confer in good
+faith to select another magistrate judge on the Voluntary Consent List to preside over
+the case.
+15. S ANCTIONS FOR FAILURE TO COMPLY
+If, without satisfactory explanation, counsel fail to file the required joint Rule
+26(f) report or the required pretrial documents, fail to appear at any scheduled
+proceeding, or otherwise fail to comply with judicial orders or rules, the Court shall
+take any action it deems appropriate, including: (1) dismissal of the case for failure to
+prosecute, if the failure occurs on the part of the plaintiff; (2) striking the answer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+21
+resulting in default if such failure occurs on the part of the defendant; (3) imposing
+monetary sanctions against the offending party and counsel, and/or (4) where
+applicable, revoking the pro hac vice status of attorneys so admitted.
+Date: January 14, 2026 ___________________________
+Stanley Blumenfeld, Jr.
+United States District Judge

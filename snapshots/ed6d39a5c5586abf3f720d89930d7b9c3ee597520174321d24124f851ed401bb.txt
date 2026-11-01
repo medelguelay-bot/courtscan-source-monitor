@@ -1,0 +1,76 @@
+1
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF TEXAS
+DEL RIO DIVISION
+In re: The use of artificial intelligence in
+the preparation of filings in the Court of
+U.S. District Judge Ernest Gonzalez
+§
+§
+§
+§
+§
+§
+§
+§
+STANDING ORDER CONCERNING THE USE OF ARTIFICIAL
+INTELLIGENCE IN THE PREPARATION OF FILINGS
+BEFORE U.S. DISTRICT JUDGE ERNEST GONZALEZ
+In this Court, and in courts across the United States, the use of artificial intelligence (“AI”)
+in the preparation of filings has grown increasingly frequent . A similar trend has arisen in parties
+urging unsupported legal contentions, many of which appear to be the result of AI misuse.1 Given
+the Court’s and other courts’ recent experiences, it is necessary to remind all parties that appear
+before the Court—represented or appearing pro se, in criminal cases and civil cases —of their
+obligations under Federal Rule of Civil Procedure 11 and the Texas Disciplinary Rules of
+Professional Conduct. See Western District of Texas Local Rule AT-7.
+Rule 11 and the applicable standards of professional conduct require that all legal
+contentions in documents filed with a court be warranted by existing law. And while the Court
+recognizes that AI can be a beneficial tool, “[t]o ethically use generative AI in the practice of law
+. . . a lawyer must ensure that the legal propositions and authority generated are trustworthy.”
+Fletcher v. Experian Info. Sols., Inc., 168 F.4th 231, 235 (5th Cir. 2026).2
+1 Damien Charlotin, a French lawyer, maintains a database of AI use in the courts of 31 countries. Damien
+Charlotin, AI Hallucination Cases , https://www.damiencharlotin.com/hallucinations. As of this order, he
+reports at least 1,148 cases of hallucinations in the United States Courts since June 2023. Id.
+2 See also A.B.A STANDING COMM. ON ETHICS & PRO. RESP., FORMAL OPINION 512 (July 29, 2024),
+https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-
+opinions/aba-formal-opinion-512.pdf.
+FILED
+DEPUTY
+CLERK, U.S. DISTRICT COURT
+WESTERN DISTRICT OF TEXAS
+BY: ________________________________
+June 25, 2026
+David Cano
+2
+Pursuant to the Court’s inherent supervisory authority over the conduct of parties appearing
+before it, and in light of the Court’s responsibility to uphold the integrity of the judicial process,
+the Court may impose sanctions for a party’s filing of document s that violate these principles .
+Sanctions may include fines, non-monetary directives such as completing education programs,
+reporting to disciplinary boards, and other appropriate measures. The fact that AI is used in or
+generated the offending document will not excuse or absolve ethical indiscretions.
+Parties are further reminded of Section 11(a) of the Court’s Standing Order in Criminal
+Cases, which provides:
+If counsel utilizes generative artificial intelligence to draft or assist in drafting a
+pleading, counsel must include with the pleading a “Certificate of Generative
+Artificial Intelligence Usage,” an example of which is appended to this Standing
+Order as Appendix C. The certificate must disclose the use of generative artificial
+intelligence and certify that counsel has independently verified the accuracy of any
+portion of the document drafted or assisted by the tool. Counsel must further certify
+that the use of generative artificial intelligence has not resulted in the disclosure of
+confidential or privileged information to an unauthorized party.
+The Court hereby extends the certification requirements of Section 11(a) to parties appearing
+before the Court in all cases, including civil cases. An example of such certificate is appended to
+this Order as Appendix A.
+IT IS SO ORDERED.
+SIGNED, this 25 day of June, 2026.
+__________________________________________
+ERNEST GONZALEZ
+UNITED STATES DISTRICT JUDGE
+3
+APPENDIX A
+CERTIFICATE OF GENERATIVE ARTIFICIAL INTELLIGENCE USAGE
+This document was generated with the assistance of [ Name of Program ], a generative
+artificial intelligence tool. I hereby certify that I have independently verified the accuracy of the
+legal and factual assertions contained in this document. I further certify that the use of generative
+artificial intelligence has not resulted in the disclosure of any confidential or privileged information
+to any unauthorized party.

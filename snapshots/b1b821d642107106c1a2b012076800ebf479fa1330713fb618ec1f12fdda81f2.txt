@@ -1,0 +1,25 @@
+UNITED STATES COURT OF INTERNATIONAL TRADE
+THE HONORABLE CLAIRE R. KELLY, JUDGE
+ORDER ON ARTIFICIAL INTELLIGENCE
+Generative artificial intelligence programs that supply natural language
+answers to user prompts, such as ChatGPT or Google Bard, create novel risks to the
+security of confidential information. Because generative artificial intelligence
+programs challenge the Court's ability to protect confidential and business
+proprietary information from access by unauthorized parties, it is hereby:
+ORDERED that any submission in a case assigned to Judge Kelly that
+contains text drafted with the assistance of a generative artificial intelligence
+program on the basis of natural language prompts, including but not limited to
+ChatGPT and Google Bard, must be accompanied by:
+(1) A disclosure notice that identifies the program used and the specific
+portion of text that have been so drafted;
+(2) A certification that the use of such program has not resulted in the
+disclosure of any confidential or business proprietary information to any
+unauthorized party; and it is further
+ORDERED that, following the filing of such notice, any party may file with
+the Court any motion provided for by statute or the Rules of the Court of International
+Trade seeking any relief the party believes the facts disclosed warrant.
+SO ORDERED.
+/s/ Claire R. Kelly
+Claire R. Kelly, Judge
+Dated: July 24, 2025
+New York, New York

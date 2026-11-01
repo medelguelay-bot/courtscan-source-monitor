@@ -1,0 +1,1196 @@
+CRIMINAL
+LOCAL RULES OF PRACTICE
+UNITED STATES DISTRICT COURT
+DISTRICT OF SOUTH DAKOTA
+i
+10/20/2025
+Table of Contents
+District Judges ................................................................................................ iv
+Magistrate Judges ............................................................................................ v
+Clerk ................................................................................................................ v
+DIVISIONS OF DISTRICT OF SOUTH DAKOTA ................................................. 1
+LOCAL RULE NUMBERING .............................................................................. 1
+LR 1.1 GENERAL PROVISIONS ........................................................................ 2
+A. Citation Form ..................................................................................... 2
+B. Scope ................................................................................................. 2
+C. Modification of Local Rules by Presiding Judge. .................................. 2
+D. Speedy Trials ..................................................................................... 2
+E. Assignment of Related Cases .............................................................. 2
+LR 3.1 COMPLAINTS ........................................................................................ 2
+A. Presentation ....................................................................................... 2
+B. Emergencies ...................................................................................... 3
+LR 5.1 DETENTION ORDERS ........................................................................... 3
+A. Review ............................................................................................... 3
+B. Appeals .............................................................................................. 3
+LR 6.1 CONTACT WITH GRAND JURORS ......................................................... 3
+A. Contact by Defendants or Witnesses .................................................. 3
+B. Contact by Lawyers for the Government ............................................. 3
+LR 10.1 ARRAIGNMENT AND WAIVER OF PERSONAL APPEARANCE ............... 3
+LR 11.1 PLEAS ................................................................................................. 4
+A. Plea Agreement .................................................................................. 4
+B. Petition to Plead ................................................................................. 4
+LR 12.1 PRETRIAL MOTIONS AND REQUESTS ................................................ 4
+LR 12.2 ARTIFICIAL INTELLIGENCE ................................................................ 4
+LR 12.4 DISCLOSURE STATEMENT ................................................................. 4
+LR 16.1 DISCOVERY ........................................................................................ 5
+A. Stipulation for Entry of Discovery Order ............................................. 5
+B. Certification Required. ....................................................................... 5
+C. Expert Witness Disclosure Deadline..................................................5
+LR 17.1 SUBPOENAS AND WRITS .................................................................... 5
+A. Subpoenas to be served by the United States Marshals Service .......... 5
+B. Private Service of Process Not Authorized by CJA ............................... 6
+C. Deadline for Application for Writ of Habeas Corpus Ad Testificandum 6
+D. Confidentiality ................................................................................... 6
+LR 24.1 JURY SELECTION IN MULTI-DEFENDANT CASES .............................. 6
+LR 24.2 RESTRICTIONS ON PHOTOGRAPHING OR INTERVIEWING JURORS .. 6
+A. Photographing Jurors ........................................................................ 6
+B. Interviewing Jurors. ........................................................................... 7
+LR 26.1 WITNESS LIST .................................................................................7
+ii
+10/20/2025
+LR 28.1 INTERPRETERS .................................................................................. 7
+A. Responsibility for Obtaining ............................................................... 7
+B. Certified Telephone Interpreters ......................................................... 7
+LR 30.1 JURY DELIBERATIONS ....................................................................... 8
+A. Availability During Deliberations ........................................................ 8
+B. Notification ........................................................................................ 8
+C. Proceedings ........................................................................................ 8
+LR 32.1 SENTENCING ...................................................................................... 8
+A. Sentencing Motions ............................................................................ 8
+B. Confidential Sentencing Documents ................................................... 8
+C. Procedure. ......................................................................................... 9
+LR 41.1 SEARCH AND SEIZURE .................................................................... 10
+A. Presentation ..................................................................................... 10
+B. Lawyer for Government .................................................................... 10
+C. Emergencies .................................................................................... 10
+D. Initial Sealing of Search Warrant Documents ................................... 10
+LR 44.1 ATTORNEYS ...................................................................................... 10
+A. Bar of the Court ............................................................................... 10
+B. Eligibility ......................................................................................... 11
+C. Procedure for Admission .................................................................. 11
+D. Oath of Admission ............................................................................ 12
+E. Appearance of Attorney Pro Hac Vice ................................................ 12
+F. Attorneys for the United States and Federal Public Defende.............. 12
+G. Attorney Discipline ........................................................................... 14
+H. Reinstatement of Disbarred and Suspended Attorneys ..................... 15
+I. Law Students ................................................................................... 15
+LR 47.1 MOTIONS .......................................................................................... 17
+A. Discovery Motion.............................................................................. 17
+B. Motions to Seal ................................................................................ 17
+C. Required Written Brief...................................................................... 17
+LR 49.1 SERVING AND FILING DOCUMENTS INCLUDING HIGHLY SENSITIVE
+DOCUMENTS .................................................................................... 18
+A. What constitutes filing/official record................................................ 18
+B. What constitutes an electronic signature. ......................................... 18
+C. Duty to protect login and password. .................................................. 18
+D. Documents requiring the signature of more than one party. .............. 19
+E. Restricted Hyperlinks. ....................................................................... 19
+F. Filing Documents outside of CM/ECF. .............................................. 19
+LR 49.1.1 PRIVACY PROTECTION FOR FILINGS MADE WITH THE COURT .... 21
+LR 57.1 RELEASE OF INFORMATION BY COURTHOUSE PERSONNEL IN
+CRIMINAL CASES ............................................................................. 22
+LR 57.2 AVAILABILITY OF ELECTRONIC RECORDINGS ................................. 22
+LR 57.3 EXHIBITS.......................................................................................... 22
+iii
+10/20/2025
+A. Marking of Exhibits .......................................................................... 22
+B. Electronically Filing Documentary Exhibits ...................................... 22
+C. Physical Exhibits.............................................................................. 23
+D. Exhibits Necessary for Appeal .......................................................... 23
+LR 57.4 WITHDRAWAL AND SUBSTITUTION OF COUNSEL ........................... 24
+A. In General ........................................................................................ 24
+B. Withdrawal With Substitution .......................................................... 24
+C. Withdrawal Without Substitution ..................................................... 24
+LR 57.5 RECORDING AND CELLULAR DEVICES ........................................... 24
+LR 57.6 IDENTIFICATION............................................................................... 25
+A. Caption ............................................................................................ 25
+B. Signature Block ............................................................................... 25
+LR 57.7 TRIAL APPEARANCE ......................................................................... 26
+LR 57.8 PAYMENTS PRIOR TO ENTRY OF JUDGMENT .................................. 26
+LR 57.9 FORM OF PAPERS ............................................................................ 26
+LR 57.10 ACCESS TO CRIMINAL DOCUMENTS ............................................. 26
+A. Purpose. .......................................................................................... 26
+B. Sealed or Restricted Documents. ...................................................... 26
+C. Access to Sealed or Restricted Documents. ....................................... 27
+D. Serving Restricted or Sealed Documents........................................... 28
+LR 57.11 MAGISTRATE JUDGE DUTIES ........................................................ 28
+A. General Designation. ........................................................................ 28
+B. Specific Designation. ........................................................................ 29
+LR 57.12 COURT SECURITY OFFICER DUTIES .............................................. 29
+LR 57.13 FORMER LAW CLERKS ................................................................... 29
+LR 58.1 SCHEDULE OF FINES .................................................................... 29
+iv
+10/20/2025
+UNITED STATES DISTRICT COURT
+DISTRICT OF SOUTH DAKOTA
+District Judges:
+Roberto A. Lange
+Chief Judge
+400 South Phillips Avenue, Room 202
+Sioux Falls, SD 57104
+605-330-6670
+Charles B. Kornmann
+United States District Judge
+102 Fourth Avenue, SE, Room 408
+Aberdeen, SD 57401
+605-377-2600
+Lawrence L. Piersol
+United States District Judge
+400 South Phillips Avenue, Room 315
+Sioux Falls, SD 57104
+605-330-6640
+Karen E. Schreier
+United States District Judge
+400 South Phillips Avenue, Room 233
+Sioux Falls, SD 57104
+605-330-6670
+Eric C. Schulte
+United States District Judge
+225 S. Pierre Street, Room 413
+Pierre, SD 57501
+605-945-4610
+Camela C. Theeler
+United States District Judge
+Andrew W. Bogue Federal Building and United States Courthouse
+515 Ninth Street, Room 318
+Rapid City, SD 57701
+605-399-6050
+v
+10/20/2025
+Magistrate Judges:
+Veronica L. Duffy
+United States Magistrate Judge
+400 South Phillips Avenue, Room 119
+Sioux Falls, SD 57104
+605-330-6650
+Mark A. Moreno
+United States Magistrate Judge
+225 S. Pierre Street, Room 419
+Pierre, SD 57501
+605-945-4620
+Daneta Wollmann
+United States Magistrate Judge
+Andrew W. Bogue Federal Building and United States Courthouse
+515 Ninth Street, Room 244
+Rapid City, SD 57701
+605-399-6030
+Clerk:
+Matthew w. Thelen
+Clerk of Court
+400 South Phillips Avenue, Room 128
+Sioux Falls, SD 57104
+605-330-6600
+605-330-6601 (fax)
+Divisional Office at Rapid City:
+Andrew W. Bogue Federal Building and United States Courthouse
+515 Ninth Street, Room 302
+Rapid City, SD 57701
+605-399-6000
+605-399-6001 (fax)
+Divisional Office at Pierre:
+225 S. Pierre Street, Room 405
+Pierre, SD 57501
+605-945-4600
+605-945-4601 (fax)
+1
+10/20/2025
+DIVISIONS OF DISTRICT OF SOUTH DAKOTA
+The State of South Dakota constitutes one judicial district divided into four
+divisions for purposes of case assignment (28 U.S.C. ' 122).
+(1) The NORTHERN DIVISION comprises the counties of Brown, Campbell,
+Clark, Codington, Corson, Day, Deuel, Edmunds, Grant, Hamlin, McPherson,
+Marshall, Roberts, Spink, and Walworth.
+The place of holding court is Aberdeen.
+( 2 ) T h e SOUTHERN DIVISION comprises the counties of Aurora, Beadle,
+Bon Homme, Brookings, Brule, Charles Mix, Clay, Davison, Douglas, Hanson,
+Hutchinson, Kingsbury, Lake, Lincoln, McCook, Miner, Minnehaha, Moody,
+Sanborn, Turner, Union, and Yankton.
+The place of holding court is Sioux Falls.
+(3) The CENTRAL DIVISION comprises the counties of Buffalo, Dewey,
+Faulk, Gregory, Haakon, Hand, Hughes, Hyde, Jerauld, Jones, Lyman, Mellette,
+Potter, Stanley, Sully, Todd, Tripp, and Ziebach.
+The place of holding court is Pierre.
+(4) The WESTERN DIVISION comprises the counties of Bennett, Butte,
+Custer, Fall River, Harding, Jackson, Lawrence, Meade, Oglala Lakota,
+Pennington, and Perkins.
+The place of holding court is Rapid City.
+LOCAL RULE NUMBERING
+These local rules have been numbered consistently with the Federal Rules of
+Criminal Procedure and the conventions of the United States Judicial
+Conference=s Local Rule Project. Generally, the number of each of the local rules
+is dictated by the number of the corresponding rule in the Federal Rules of
+Criminal Procedure.
+2
+10/20/2025
+LR 1.1 GENERAL PROVISIONS
+A. Citation Form. The local criminal rules are to be cited as AD.S.D. Crim.
+LR ___.@
+B. Scope. The local criminal rules govern all criminal proceedings in the District
+of South Dakota to the extent they are not inconsistent with any statute or
+law of the United States or any rule or order of the Supreme Court of the
+United States.
+C. Modification of Local Rules by Presiding Judge. The local rules are subject
+to modification in any case at the discretion of the presiding judge.
+D. Speedy Trials . The court’s Speedy Trial Plan governs the scheduling of
+criminal trials. This plan may be found on the court’s web site at
+www.sdd.uscourts.gov.
+E. Assignment of Related Cases.
+1. When a pending indictment or information is superseded by an
+indictment or information charging one or more of the defendants
+charged in the pending indictment or information and charging one or
+more of the offenses charged in the original indictment or information
+growing out of one or more occurrences that gave rise to the original
+charge, the superseding indictment or information will be assigned to the
+same judge to whom the first case is assigned.
+2. When two or more indictments or criminal informations are filed against
+the same person or persons, corporation, or corporations, charging like
+offenses or violations of the same statute, each of such cases will be
+assigned to the judge to whom the first of such cases is assigned.
+3. When an indictment or information is pending against a defendant, all
+subsequent indictments or informations against the same defendant that
+may be returned or filed will be assigned to the same judge. This section
+does not extend beyond defendants with pending cases.
+LR 3.1 COMPLAINTS
+A. Presentation. Complaints ordinarily should be presented to a magistrate
+judge for review and execution, but a complaint may be presented to a district
+judge if no magistrate judge is available. If no federal judge is reasonably
+available, a complaint may be presented to a state judicial officer.
+3
+10/20/2025
+Copies of the complaint and supporting affidavits should be delivered to the
+judge for his or her private review before a request is made for the judge to
+sign the complaint. In an emergency, the judge may waive this requirement.
+B. Emergencies . In an emergency, a magistrate judge may be contacted away
+from the courthouse, including at his or her home, for purposes of
+considering a proposed complaint. If no magistrate judge is available, a
+district judge may be contacted away from the courthouse, including at his
+or her home, for purposes of considering a proposed complaint.
+LR 5.1 DETENTION ORDERS
+A. Review . After a detention order is issued, a party may request reconsidera-
+tion of the order based on new evidence or may appeal the order to a district
+judge. A party requesting review of a detention order must state in the caption
+whether the request is one for reconsideration or is an appeal to a district
+judge.
+B. Appeals . A party appealing a detention order must file a written motion
+containing a statement of the grounds for the appeal and a statement that a
+transcript of the detention hearing has been ordered.
+LR 6.1 CONTACT WITH GRAND JURORS
+A. Contact by Defendants or Witnesses . Except upon leave of court, no actual
+or potential defendant or witness, and no lawyer or other person acting on
+his or her behalf, may contact, interview, examine, or question any grand
+juror or potential grand juror concerning the juror=s actual or potential grand
+jury service.
+B. Contact by Lawyers for the Government . Except upon leave of court, no
+lawyer for the government or other person acting on his or her behalf may
+contact, interview, examine, or question any grand juror or potential grand
+juror concerning the juror=s actual or potential grand jury service, except that
+contacts may be made on the record during grand jury proceedings and as
+necessary in connection with the administration of the grand jury.
+LR 10.1 ARRAIGNMENT AND WAIVER
+OF PERSONAL APPEARANCE
+Defendants are encouraged to file a written waiver of personal appearance in lieu
+of personally appearing at arraignments on superseding indictments and
+superseding informations that do not add new counts or different charges.
+4
+10/20/2025
+LR 11.1 PLEAS
+A. Plea Agreement . If a defendant is pleading guilty pursuant to a plea
+agreement with the government, a written plea agreement and a factual basis
+statement must be filed. A plea agreement supplement must also be filed and
+must identify any agreements that the defendant has with the government
+regarding cooperation or state that the defendant has no cooperation
+agreements with the government. The plea agreement supplement will be
+sealed in all cases to protect the safety of all federal defendants regardless of
+their cooperation with the government, and the integrity of any ongoing
+investigations or related prosecutions. The defendant, defendant =s attorney
+and government attorney must sign the plea agreement, factual basis
+statement and supplement.
+B. Petition to Plead . The lawyer for the defendant may file a written petition to
+plead with a factual basis statement, which must be signed by both the
+defendant and defendant=s counsel.
+LR 12.1 PRETRIAL MOTIONS AND REQUESTS
+Scheduling and Case Management Order will set deadlines for motions, notices,
+and requests.
+Requests for discovery or for 404(b) evidence should be filed as requests and not
+motions.
+LR 12.2 ARTIFICIAL INTELLIGENCE
+Attorneys and pro se parties are responsible for personally reviewing and
+confirming the accuracy of their legal filings – including quotations, citations,
+paraphrased assertions, legal analysis, and drafting– regardless of whether
+artificial intelligence assisted in the creation of any portion of that filing. Failure
+to comply with this requirement may trigger sanctions in the discretion of the
+presiding judge.
+LR 12.4 DISCLOSURE STATEMENT
+Every organizational defendant in a criminal case must file either a Corporate
+Disclosure Statement (disclosure statement) or a Certificate that Fed. R. Crim.
+P. 12.4 is not applicable (certificate of non-applicability). Information provided
+under this local rule may be used by the judge assigned to a case to determine
+whether recusal is necessary or appropriate.
+5
+10/20/2025
+LR 16.1 DISCOVERY
+A. Stipulation for Entry of Discovery Order. Within 14 days of an initial
+appearance, the Government and defense counsel must complete and
+file a joint stipulation for discovery, which can be found on the court’s
+website. The Government is responsible for the timely electronic filing of the
+joint stipulation. The discovery order restricts dissemination of discovery
+materials and precludes defense counsel from giving discovery materials to
+the defendant without the court’s express permission.
+B. Certification Required. A party filing a motion concerning a discovery
+dispute must file a separate certification describing the good faith efforts of
+the parties to resolve the dispute.
+C. Expert Witness Disclosure Deadline.
+1. The government and the defendant shall disclose to each other no later
+than twenty-one (21) calendar days before the start of trial the name of
+any person retained to testify as an expert witness in the case-in-chief
+and provide a written disclosure containing:
+a. A complete statement of all opinions that the party will elicit from
+the expert witness in the case-in-chief;
+b. The bases and reasons for them;
+c. The witness’s qualifications, including a list of all publications
+authored in the previous 10 years; and
+d. A list of all other cases in which during the previous 4 years, the
+witness has testified as an expert at trial or by deposition.
+2. Any rebuttal expert to refute testimony from a disclosed expert shall be
+identified with the same written disclosure provided no later than seven
+(7) calendar days before trial.
+LR 17.1 SUBPOENAS AND WRITS
+A. Subpoenas to be served by the United States Marshals Service . A
+defendant unable to pay must file an ex parte motion at least 14 calendar
+days before a hearing or trial for a subpoena to be served within the district
+by the United States Marshals Service. A defendant unable to pay must file
+an ex parte motion at least 21 calendar days before a hearing or trial for a
+subpoena to be served outside the district by the United States Marshals
+6
+10/20/2025
+Service. All ex parte motions must be filed with an attached, prepared AO 89
+or AO 89B and must include a physical address for service. The form should
+include the date and time it is reasonably anticipated the witness will be
+called to testify. Ex parte documents are not part of the public records of the
+court.
+B. Private Service of Process Not Authorized by CJA . Unless prior approval
+is obtained from a judge, a lawyer appointed under the Criminal Justice Act
+may not use private process servers or investigators to serve subpoenas for
+criminal hearings or trials but must use the United States Marshals Service
+for such service. If a private process server is used without prior approval,
+service is valid but reimbursement under the Criminal Justice Act is subject
+to court approval.
+C. Deadline for Application for Writ of Habeas Corpus Ad Testificandum .
+An application for a writ of habeas corpus ad testificandum to be served by
+the United States Marshals Service within the district must be filed at least
+14 calendar days before the hearing or trial at which the witness is to testify,
+and an application for a writ of habeas corpus ad testificandum to be served
+by the United States Marshals Service outside of the district must be filed at
+least 21 calendar days before the hearing or trial at which the witness is to
+testify. All applications must be filed with an attached proposed writ.
+D. Confidentiality . All subpoenas and writs of habeas corpus ad testificandum
+obtained ex parte are confidential. This confidentiality requirement applies to
+everyone, including court personnel, the United States Marshals Service, and
+anyone assisting the United States Marshals Service with service of process.
+LR 24.1 JURY SELECTION IN MULTI-DEFENDANT CASES
+In multi-defendant cases, a request by a defendant for additional peremptory
+challenges must be made in writing at least 14 calendar days before jury
+selection.
+LR 24.2 RESTRICTIONS ON PHOTOGRAPHING OR
+INTERVIEWING JURORS
+A. Photographing Jurors. To protect the integrity and independence of
+jurors, no person may photograph or attempt to photograph any juror,
+grand or petit, without the express approval of the individual juror or the
+express approval of the presiding judge. This restriction also protects grand
+jury witnesses. No one other than a juror may photograph or otherwise
+record his or her motor vehicle or motor vehicle license. Leaflets or other
+7
+10/20/2025
+juror information pamphlets may not be given to a juror or placed in any
+place where a juror might reasonably be expected to obtain the printed
+matter. Such action may constitute an unlawful attempt to influence,
+intimidate, or impede a juror or witness, in violation of 18 U.S.C. § 1503 and
+18 U.S.C. § 1510.
+B. Interviewing Jurors. No one may contact any juror before or during the
+juror =s service on a case. The parties, their lawyers and anybody acting on
+their behalf must seek and obtain permission from the district judge who
+tried the case before contacting a juror after the juror served on the case.
+LR 26.1 WITNESS LIST
+Each party must file a sealed witness list by noon on the last business day
+before a scheduled trial. It must include the town/city and state of each
+witness.
+LR 28.1 INTERPRETERS
+A. Responsibility for Obtaining . When interpreters are required for proceed-
+ings instituted by the United States, the clerk of court will locate certified or
+otherwise qualified interpreters for court proceedings. However, the U.S.
+attorney=s office is responsible for locating, contracting, and paying
+interpreters for government witnesses. For most other purposes, a party
+requiring the services of an interpreter must obtain his or her own
+interpreting services. If the defendant is indigent, prior court approval to hire
+an interpreter is required as specified in the Guide to Judiciary Policy and 18
+U.S.C. ' 3006A(e). If counsel for either party believes that interpreter services
+for court proceedings are needed for more than an hour, counsel must notify
+the clerk of court as soon as possible.
+If participants in federal court proceedings are deaf, hearing impaired or have
+communication disabilities, the court will provide sign language interpreters.
+B. Certified Telephone Interpreters. In criminal cases, the court may use cer-
+tified interpreters supplied by the Telephone Interpreting Program sponsored
+by the Administrative Office of the United States Courts for hearings that do
+not exceed an hour. Any objection to the use of such an interpreter must be
+made before the commencement of the proceeding being interpreted.
+8
+10/20/2025
+LR 30.1 JURY DELIBERATIONS
+A. Availability During Deliberations . Until a verdict is reached, and the jury
+is discharged, the lawyers and the defendant must be readily available to the
+court. When the jury begins to deliberate, the lawyers must advise the court
+of where they can be located in the courthouse, or if they intend to leave the
+courthouse, of a telephone number where they can be reached without delay.
+A pro se defendant will be treated as counsel for purposes of this rule.
+B. Notification . If the jury has a question, or if some other issue arises during
+jury deliberations, and the court determines the issue merits a conference
+with the parties, the court will attempt to notify the lawyers. Defense counsel
+is responsible for communicating any such notification to the defendant.
+C. Proceedings . The nature of the proceedings concerning an issue arising dur-
+ing jury deliberations will be determined by the judge. Where the jury has a
+substantive question, the judge will do the following:
+1. Advise the lawyers of the jury =s question;
+2. Ask the lawyers for suggestions on how to respond to the question;
+3. Formulate a response, as warranted;
+4. Allow the parties to make a record on the proposed response; and
+5. Communicate the response to the jury in an appropriate manner.
+LR 32.1 SENTENCING
+A. Sentencing Motions. Unless otherwise permitted by the court, any request
+that the court depart or vary from the advisory United States Sentencing
+Guidelines range, either upward or downward, must be asserted in a written
+motion stating with particularity the basis for the requested departure or
+variance. A motion for departure or variance may be joined with a party's
+sentencing memorandum.
+B. Confidential Sentencing Documents. Whether filed by the U.S. Probation
+Office or by the parties, documents relating to the sentencing process are
+confidential and must not be distributed beyond the court and counsel
+unless otherwise ordered by the court. Pretrial services reports and related
+documents are also subject to these restrictions. Counsel or an employee of
+9
+10/20/2025
+counsel must review confidential pretrial services and sentencing documents
+with their clients but may not provide copies to their clients. Clients may not
+review these documents unless counsel or an employee of counsel is present
+to ensure that the documents are not copied, photographed, retained, or
+removed. These documents include, but are not limited to, presentence,
+supplemental or predisposition reports; objections to such reports;
+addendums to such reports; letters of support; victim impact statements;
+evaluations; written allocution statements; and Rule 35 or U.S.S.G. 5K1.1
+motions and materials.
+C. Procedure. After a guilty plea has been accepted or a guilty verdict is
+received, a sentencing date will be set. Unless otherwise ordered, the
+following deadlines apply:
+1. The Probation Office must file the draft presentence report in CM/ECF
+using the Draft Presentence Report event no later than 35 days before
+sentencing.
+2. After the draft presentence report is filed, the parties will have 14 days
+to file and serve objections. Objections must be filed by counsel in
+CM/ECF using the Objections to Presentence Report event. If counsel
+has no objections, counsel must so indicate by using the Notice of No
+Objections to Presentence Report event.
+3. The Probation Office must file the final presentencing report in CM/ECF
+using the Final Presentence Report event no later than 7 days before
+sentencing using the Final Presentence Report event. An addendum
+setting forth any unresolved objections, the grounds for those objections,
+and the probation officer’s response must be filed in CM/ECF on the
+same date using the Addendum to Final Presentence Report event.
+4. Counsel must file all letters of support in CM/ECF using the Sealed
+Letter(s) of Support event no later than 28 days after the Draft
+Presentence Report is filed.
+5. All other sentencing documents must be filed no later than 7 days before
+sentencing as follows.
+a. Motions for departure or variance or sentencing memoranda must be
+filed by counsel in CM/ECF using the appropriate events under
+Other Filings/Sealed Plea & Sentencing Related Documents.
+10
+10/20/2025
+b. The filer must manually serve a copy of sealed sentencing documents
+on those case participants entitled to notice under the federal and
+local rules per the CM/ECF User Manual and Administrative
+Procedures. None of these documents should be submitted directly
+to the Probation Office or the Court.
+LR 41.1 SEARCH AND SEIZURE
+A. Presentation . A search warrant application ordinarily should be presented
+to a magistrate judge, but it may be presented to a district judge if no
+magistrate judge is reasonably available. If no federal magistrate or district
+judge is reasonably available, a search warrant may be presented to a state
+judicial officer.
+Copies of the application, the proposed search warrant, and any supporting
+affidavits must be delivered to the judge for his or her private review before a
+request is made for the judge to sign the warrant. In an emergency situation,
+the judge may waive this requirement.
+B. Lawyer for Government . Ordinarily, a law enforcement officer presenting a
+search warrant application to a judge should be accompanied by a lawyer for
+the government. If justified by unusual circumstances, a judge may entertain
+a search warrant application from an officer who is not accompanied by a
+lawyer for the government.
+C. Emergencies . In an emergency situation, a magistrate judge may be contact-
+ed away from the courthouse, including at his or her home, for purposes of
+entertaining a search warrant application. If no magistrate judge is
+reasonably available, a district judge may be contacted away from the
+courthouse, including at his or her home, for purposes of entertaining a
+search warrant application.
+D. Initial Sealing of Search Warrant Documents . When a search warrant is
+issued, a case is opened. The case is sealed until the warrant is returned; at
+which time the case is unsealed unless otherwise ordered by the court.
+LR 44.1 ATTORNEYS
+A. Bar of the Court. The bar of this court consists of those attorneys admitted
+to practice before this court.
+11
+10/20/2025
+B. Eligibility. Any person of good moral character who is an active member of
+the State Bar of South Dakota is eligible for admission to the bar of this court
+as hereinafter provided.
+C. Procedure for Admission. An attorney who is eligible to practice law as
+provided in section B of this rule may apply for admission to the bar of this
+court. The application sequence is as follows:
+1. The applicant must complete an application for admission.
+2. The applicant must consent to an inquiry concerning the applicant =s
+fitness and qualifications for admission. Submission of a completed
+application is consent and waiver of privacy regarding inquiry into the
+applicant’s fitness and qualifications.
+3. The clerk of court will make any inquiry that may be deemed necessary
+to obtain information concerning an applicant=s fitness and qualifications
+to practice law.
+4. At least two active judges in this district must approve the application
+before an applicant may be admitted. In the absence of two active district
+judges, a senior judge may be the second approving judge.
+5. The clerk of court will report to a district judge in the division in which
+an application for admission is pending the approval or disapproval of
+the active judges.
+6. When an application is approved or disapproved, the applicant will be
+notified.
+7. An applicant approved for admission will be contacted by the court to
+schedule the applicant=s admission ceremony.
+8. Within six months of being approved for admission, an applicant must
+appear for an admission ceremony with a member of this bar who will
+vouch for applicant =s legal qualifications, integrity, and good moral
+character. Upon oral motion of a member of the bar, taking the prescribed
+oath of admission, signing an oath of admission, and paying the required
+fee, the applicant will be admitted to the bar of this court. Upon
+admission, the clerk of court will issue a certificate of admission to the
+new bar member.
+12
+10/20/2025
+D. Oath of Admission. The following oath/affirmation will be administered to
+an applicant for admission to the bar of this court:
+I solemnly affirm that I will support and defend the Constitution of
+the United States, that I will represent my clients conscientiously and
+ethically, and that I will conduct myself uprightly and according to
+law in proceedings in this court.
+E. Appearance of Attorney Pro Hac Vice. An attorney who is not a member of
+the bar of this court, but who is a member in good standing of the bar of
+another United States district court, may, upon motion and approval by the
+court, participate in the conduct of a particular case. Such motion may be
+allowed only if the applicant associates with a member in good standing of
+the bar of this court as local counsel. Any prior or pending disciplinary
+actions or actions resulting in sanctions against the attorney seeking
+admission pro hac vice must be disclosed in the motion.
+Local counsel must sign and file all documents and must continue in the
+case unless another attorney admitted to practice in this court is substituted.
+Local counsel must be present during all court proceedings (which include
+telephone or video conference hearings) in connection with the case, unless
+otherwise ordered, and must have full authority to act for and on behalf of
+the client in all matters, including pretrial conferences, trial, and any other
+hearings.
+F. Attorneys for the United States and Federal Public Defender.
+1. Resident Attorneys.
+a. Regular Admission. Except as provided elsewhere by this rule, an
+attorney who resides within this district and represents the United
+States government or any agency or instrumentality thereof or the
+Federal Public Defender=s Office must be admitted to the State Bar of
+South Dakota before the attorney is permitted to practice before this
+court.
+b. Provisional Admission. An attorney who is a member of the bar of
+another United States district court and has not yet been admitted
+to the State Bar of South Dakota, but either is a:
+(1) resident assistant United States attorney;
+13
+10/20/2025
+(2) resident attorney representing agencies of the United States
+government; or
+(3) resident assistant federal public defender
+has 12 months from the date of the attorney’s oath of office for the position
+in South Dakota to be admitted to the state bar of South Dakota. During this
+period, the attorney may be admitted provisionally to practice before this
+court.
+If an attorney is on a term fellowship with the United States or Federal Public
+Defender, that attorney may be admitted provisionally to practice before this
+court for the period of that fellowship.
+The procedure for provisional admission follows the procedure for admission
+outlined in Section C of this rule, except that resident attorneys provisionally
+admitted will not pay the required fee until they are admitted to the State
+Bar of South Dakota, at which time the clerk of court will issue a certificate
+of admission to the attorney.
+2. Nonresident Attorneys.
+The following nonresident attorneys may be admitted on the attorney’s
+motion, without payment of fees, to practice in this court during the pendency
+of the attorney’s employment, appointment, or designation if the attorney is
+a member in good standing of the high est bar of any state or the District of
+Columbia. An application for admission is not required.
+a. An attorney designated as ASpecial Assistant United States
+Attorney @ by the United States Attorney for the District of South
+Dakota;
+b. An attorney appointed by the Attorney General of the United States
+or employed by a federal agency with independent litigation authority
+to represent the interest of the United States government;
+c. An attorney hired by the Federal Public Defender =s Office for the
+District of South Dakota; or
+d. An attorney employed by the Federal Public Defender =s Office for the
+District of North Dakota.
+14
+10/20/2025
+A judge advocate of the armed forces of the United States representing
+the United States government in proceedings supervised by judges of this
+court is not subject to this rule.
+G. Attorney Discipline.
+1. Automatic Suspension. Any member of the bar of this court who has
+been suspended or disbarred from the Supreme Court of the State of
+South Dakota or who has been convicted of any criminal offense in any
+United States District Court will, upon appropriate notice from the clerk
+of court, be suspended from practice before this court.
+2. Discipline by this Court.
+a. This court, independent of action taken by the Supreme Court of the
+State of South Dakota, may disbar or suspend a member of the bar
+of this court from practice for a definite time, or reprimand for good
+cause shown, after opportunity has been afforded such member to
+be heard.
+b. An application for the disbarment or discipline of a member of the
+bar of this court will be made to or before the chief judge of this
+court unless otherwise ordered by the chief judge. At least two
+district judges of this court will sit at the hearing of such application
+unless the attorney against whom the disbarment or disciplinary
+proceeding is brought states in writing or in open court the
+member=s willingness to proceed before one district judge.
+c. If an investigation is necessary, the chief judge, with the approval of
+a majority of the district judges, will appoint a member of the bar
+(hereinafter referred to as Ainvestigator@) to investigate charges
+against any member of this bar. If, as a result of the investigation,
+the investigator will be of the opinion that there has been a breach
+of professional ethics by a member of this bar, the investigator, as
+an officer of the court having special responsibilities for the
+administration of justice, will file and prosecute a petition requesting
+that the alleged offender be subjected to appropriate discipline,
+including disbarment, suspension, or reprimand. The investigator
+will be paid from the pro hac vice fund.
+3. Disciplinary Record. The clerk of court keeps a separate attorney
+discipline docket. Orders of disbarment, suspension and public
+15
+10/20/2025
+reprimand are a matter of public record. All other documents, hearings
+and records required under the provisions of this Rule will not be publicly
+disclosed or made available for use in any other proceeding, except upon
+order of this court.
+H. Reinstatement of Disbarred and Suspended Attorneys.
+1. An attorney who has been disbarred or suspended in this court may
+petition for reinstatement at any time. Upon the filing of such petition
+with the clerk of court, the chief judge may appoint an investigator and
+may enter an order setting a date for the hearing on said petition on
+providing at least 21 calendar days’ notice. An attorney may be reinstated
+without a hearing upon a unanimous vote of all district judges who desire
+to participate in such determinations.
+Any investigator appointed will investigate the facts alleged in the petition
+for reinstatement and will present to the court, in affidavit form or
+otherwise, any facts in support of or against the granting of said petition.
+Two district judges of this court will sit at the hearing on said petition,
+and the order denying or granting reinstatement will be made in writing
+by said judges.
+2. An attorney who has been disbarred or suspended by the Supreme Court
+of the State of South Dakota and thereafter reinstated by that court to
+practice in the state courts will not be permitted to practice in this court,
+notwithstanding such reinstatement, until a petition for reinstatement
+as prescribed in section 1 above, incorporating a certified copy of the
+order of reinstatement by the Supreme Court of the State of South
+Dakota, has been filed in this court and reinstatement ordered after a
+hearing as above provided. The hearing may be waived by the attorney
+with the consent of the court.
+I. Law Students.
+1. Student Practice. Any law student acting under a supervising attorney
+will be allowed to make an appearance and participate in proceedings in
+this court pursuant to these rules.
+2. Eligibility. To be eligible to appear and participate, a law student must:
+a. Be a student in good standing in a law school approved by the
+American Bar Association.
+16
+10/20/2025
+b. Have completed legal studies amounting to four semesters or the
+equivalent if the law school is on some basis other than a semester
+basis.
+c. File with the Clerk of court:
+(1) A certificate by the dean of the law school that he or she is of
+good moral character and meets the requirements of rule 44.1
+I.2 and is qualified to serve as a legal intern. The certificate
+should be in a form prescribed by the court.
+(2) A certificate by the law student stating that he or she has read
+and agrees to abide by the rules of the court, and all applicable
+codes of professional responsibility and other relevant federal
+practice rules. The certificate should be in a form prescribed by
+the court.
+(3) A notice of appearance must be filed in each case in which he
+or she is participating or appearing as a law student. The
+notice must be signed by a supervising attorney who is a
+member of the bar or this court.
+d. Be introduced to the court in which he or she is appearing by an
+attorney who is a member of the bar of this court.
+3. Certificate of Admission. Upon the completion and filing of the
+certificates required by these rules, the clerk of court will issue a
+certificate of admission to the law student in a form prescribed by the
+court. This certificate expires contemporaneously with the expiration
+date of the dean =s certificate unless it is sooner withdrawn. Any law
+student=s certificate of admission may be terminated at any time by the
+court without notice or hearing and without any showing of cause.
+4. Restrictions. No law student admitted under these rules will:
+a. Request or receive any compensation or remuneration of any kind
+from the client. This will not prevent the supervising attorney, law
+school, public defender, or the government from paying
+compensation to the law student, nor will it prevent any agency from
+making such charges for its services as it may otherwise properly
+require.
+17
+10/20/2025
+b. Appear in court without the presence of the supervising attorney.
+c. File any documents or papers with the court that he or she has
+prepared which have not been read, approved, and signed by the
+supervising attorney.
+5. Supervising Attorneys. Any person acting as a supervising attorney
+under this rule must be a member of the bar of this court and must:
+a. Assume personal professional responsibility for the conduct of the
+law student being supervised.
+b. Sign all pleadings and other papers prepared by the law student.
+c. Advise the court of the law student=s participation, always be present
+with the student in court and be prepared to supplement oral or
+written work of the student as requested by the court or as
+necessary to ensure proper representation of the client.
+d. Be available for consultation with the client.
+LR 47.1 MOTIONS
+A. Discovery Motions . Before filing a discovery motion, the certification
+required under D.S.D. Crim. LR 16.1 must be met.
+B. Motions to Seal. Any motion seeking the sealing of pleadings, motions,
+exhibits, or other documents to be filed in the court record must include (1)
+proposed reasons supported by specific factual representations to justify the
+sealing, and (2) an explanation why alternatives to sealing would not provide
+sufficient protection. A motion to seal and the documents to which the motion
+refers must be filed consistent with the CM/ECF User Manual and
+Administrative Procedures found at www.sdd.uscourts.gov.
+C. Required Written Brief. With every motion raising a question of law, except
+oral motions made during a hearing or trial, the movant must serve and file
+a brief containing the movant =s legal arguments, the authorities in support
+thereof, and the Federal Rule of Criminal Procedure on which the movant
+relies. Motions in limine and supporting arguments and authorities may be
+filed as one document. On or before 7 calendar days after service of a motion
+and brief, unless otherwise specifically ordered by the court, all opposing
+18
+10/20/2025
+parties must serve and file a responsive brief containing opposing legal
+arguments and authorities in support thereof. The movant may file a reply
+brief within 4 calendar days after service of the responsive brief.
+1. Page Limitation on Briefs. Briefs must not exceed 25 pages excluding
+table of contents and/or authorities, certificate of service, if applicable,
+and attachments unless prior approval has been obtained from the court.
+2. Attachments. A party will submit as exhibits or attachments only those
+excerpts of the referenced document that are directly germane to the
+matter under consideration by the court. Excerpted material should be
+clearly and prominently identified as such. Highlighting or underlining
+relevant portions is encouraged. Parties who file excerpts of documents
+as exhibits or attachments under this rule do so without prejudice to their
+right to timely file additional excerpts. Responding parties may file
+additional excerpts that they believe are directly germane. The court may
+require parties to file additional excerpts or the complete document.
+LR 49.1 SERVING AND FILING DOCUMENTS INCLUDING HIGHLY
+SENSITIVE DOCUMENTS
+A. What constitutes filing/official record. Electronic transmission of a
+document to the Electronic Filing System together with the transmission of
+a Notice of Electronic Filing from the court constitutes filing of the document
+for all purposes of the local rules of this court and the Federal Rules of Civil
+Procedure and constitutes entry of the document on the docket kept by the
+clerk of court under Fed. R. Civ. P. 58 and 79. When a document has been
+filed electronically, the official record is the electronic document as stored by
+the court and is deemed filed at the date and time stated on the Notice of
+Electronic Filing from the court. The party filing the document is bound by
+the document as filed.
+B. What constitutes an electronic signature. In addition to the requirements
+contained in Rule 49(b)(4) of the Federal Rules of Criminal Procedure, the
+name of the filing user under whose login and password the documents are
+submitted must be preceded by a “/s/” and typed in the space where the
+signature would otherwise appear unless a facsimile of the filing user’s
+signature appears in the signature block.
+C. Duty to protect login and password. No filing user or other person may
+knowingly permit a filing user’s login and password to be used by someone
+other than an authorized agent of the filing user. If they learn that their
+password has been compromised, they must immediately notify the clerk.
+19
+10/20/2025
+Attorneys may be subject to sanctions for failure to comply with this
+provision.
+D. Documents requiring the signature of more than one party. Documents
+requiring signatures of more than one party may be electronically filed either
+by (a) submitting a scanned document containing all necessary signatures;
+or (b) in any other manner approved by the court. When filing documents
+that require signatures from other parties, it is not permissible to insert a
+“/s/” for another person s signature.
+E. Restricted Hyperlinks. Because a website address within a court filing
+becomes a hyperlink to the internet location upon filing in the CM/ECF
+system, counsel must redact from any filed documents any website address
+that directs the court to a website that contains pornography or personal
+identifiers. After filing the redacted document, counsel must provide an
+unredacted version to the clerk of court for filing under seal.
+F. Filing Documents outside of CM/ECF. Highly sensitive documents
+may be filed outside of the court’s Electronic Filing System.
+1. Highly Sensitive Documents . A Highly Sensitive Document (HSD) is a
+document or other material that contains sensitive, but unclassified,
+information that warrants exceptional handling and storage procedures to
+prevent significant consequences that could result if such information
+were obtained or disclosed in an unauthorized way. Although frequently
+related to law enforcement materials, especially sensitive information in a
+civil case could also qualify for HSD treatment.
+a. Examples of HSDs: Examples include ex parte sealed filings
+relating to: national security investigations, cyber investigations,
+and especially sensitive public corruption investigations; and
+documents containing a highly exploitable trade secret, financial
+information, or computer source code belonging to a private entity,
+the disclosure of which could have significant national or
+international repercussions.
+b. Exclusions: Most materials currently filed under seal do not meet
+the definition of an HSD and do not merit the heightened
+protections afforded to HSDs. The form or nature of the document,
+by itself, does not determine whether HSD treatment is warranted.
+Instead, the focus is on the severity of the consequences for the
+parties or the public should the document be accessed without
+20
+10/20/2025
+authorization. Most presentence reports, pretrial release reports,
+pleadings related to cooperation in criminal cases, social security
+records, administrative immigration records, applications for
+search warrants, interception of wire, oral, or electronic
+communications under 18 U.S.C. § 2518, and applications for pen
+registers, trap, and trace devices would not meet the HSD
+definition.
+Any dispute as to whether a document is an HSD will be resolved
+by the presiding judge or, when no presiding judge is
+assigned, the Chief Judge.
+2. Motion Required. A represented or pro se party must file a motion to treat
+a document as an HSD and a proposed order in the same manner as a
+motion to file under seal pursuant to D.S.D. Civ. LR 7.1 A and Crim. LR
+47.1 B. The motion and proposed order must state the duration of the HSD
+designation or whether the HSD designation should be permanent. The
+motion must explain why the proposed document constitutes an HSD
+under paragraph F.1 or why it should otherwise be filed without revealing
+the highly sensitive information contained within the HSD.
+a. The filing party must deliver to the clerk’s office where the
+presiding judge is chambered two paper copies of the motion and
+HSD sought be filed along with a certificate of service. These
+documents must be submitted in a sealed envelope marked
+“HIGHLY SENSITIVE DOCUMENT” and marked with the
+applicable case number, attorney’s name, street address,
+telephone number, and email address. Upon receipt, the clerk’s
+office will make an informational docket entry that a motion to
+treat a document as an HSD has been filed.
+b. Unless being submitted as an ex parte filing, the filing party must
+serve the proposed HSD on the other parties by any manner
+specified in Criminal Rule 49(a), except for service via the court’s
+Electronic Filing System.
+c. If the court grants the motion, an informational entry will be made
+on the case docket indicating that the HSD has been filed with the
+Court. The clerk’s office will maintain the HSD in a secure paper
+filing system or a secure standalone computer system that is not
+connected to any network.
+21
+10/20/2025
+3. Service of HSD Orders. The clerk’s office will serve paper copies of
+the order on the parties via mail.
+LR 49.1.1 PRIVACY PROTECTION FOR FILINGS MADE WITH THE COURT
+A. Pursuant to the E-Government Act of 2002, parties must refrain from
+including, or must partially redact where inclusion is necessary, the following
+personal data identifiers from all pleadings and documents filed, including
+exhibits thereto, unless otherwise ordered by the court:
+1. Social Security numbers. Only the last four digits of that number should
+be used.
+2. Name of an individual known to be a minor. Only the initials of the
+minor should be used.
+3. Dates of birth. Only the year should be used.
+4. Financial account numbers. Only the last four digits of these numbers
+should be used.
+5. Home addresses. Only the city and state should be used.
+B. After filing a document redacted consistent with Fed. R. Crim. P.49.1, a party
+may submit for filing under seal an unredacted copy of the document. Any
+such filings must contain a cover sheet stating the following: ADocument filed
+under seal pursuant to the E-Government Act.@
+C. The responsibility for redacting personal identifiers rests solely with counsel
+and the parties. The clerk of court will not review each filing for compliance
+with this rule.
+D. Personal Data Identifiers in Charging Documents
+1. The clerk of court will file indictments under seal to prevent public
+disclosure of the identity of the foreperson of the grand jury. The attorney
+for the government must provide the clerk=s office with a redacted version
+of the indictment in which the name of the foreperson is omitted. If the
+indictment includes personal data identifiers, the attorney for the
+government must also provide the clerk=s office with a redacted version of
+the indictment that omits both personal data identifiers and the name of
+22
+10/20/2025
+the foreperson. The clerk =s office will file a redacted version of the
+indictment in addition to the sealed original.
+2. Personal data identifiers may be included in informations and complaints
+if necessary, to comply with the requirements of federal law. If personal
+data identifiers are included, the attorney for the government must provide
+the clerk=s office with a redacted version of the information or complaint
+along with the original. The original will be filed under seal to prevent
+public disclosure of the personal data identifiers.
+3. In all other instances charging documents will be filed under seal only
+upon motion of the government and order of the court.
+LR 57.1 RELEASE OF INFORMATION BY COURTHOUSE
+PERSONNEL IN CRIMINAL CASES
+All courthouse personnel, including marshals, deputy marshals, deputy court
+clerks, court security officers, interpreters, and court reporters, are prohibited
+from disclosing to any person, without authorization by the court, information
+relating to a pending criminal case that is not part of the public records of the
+court including ex parte documents. Specifically forbidden is the divulgence of
+information concerning arguments and hearings held in chambers, at side bars
+or otherwise outside the presence of the public.
+LR 57.2 AVAILABILITY OF ELECTRONIC RECORDINGS
+If a proceeding has been recorded electronically and the electronic recording
+constitutes the official record, the clerk of court will arrange, upon the request of
+any party, to have a transcript prepared from the electronic recording. The
+requesting party will be responsible for any costs associated with producing a
+transcript in accordance with the directives of the Administrative Office of the
+United States Courts. Recordings will not be released to parties or the public.
+LR 57.3 EXHIBITS
+A. Marking of Exhibits. Exhibits in criminal trials and hearings must be
+marked in accordance with instructions from the court.
+B. Electronically Filing Documentary Exhibits.
+1. By the Clerk. At the conclusion of a trial or other court proceeding, the
+Clerk of Court will electronically file all documentary exhibits offered
+23
+10/20/2025
+and/or received in CM/ECF. The exhibits electronically filed by the Clerk
+will be restricted to court users and case participants. After filing, the
+Clerk will return documentary exhibits to the offering party.
+2. By the Parties. The parties will have twenty-one (21) days to review their
+returned documentary exhibits to determine whether redactions are
+required pursuant to D.S.D. Crim. LR 49.1.1.
+a. Redactions required. If redactions are required, the offering party
+must electronically file all of its documentary exhibits, including
+redacted exhibits and exhibits that do not require redaction in
+CM/ECF. This requirement does not apply to exhibits that were
+sealed when offered and/or received.
+b. Redactions not required. If no redactions are required, the Clerk
+will remove the restrictions and enter a Notice of Unrestricting
+Trial/Hearing Exhibits in CM/ECF.
+c. Sealing. If a party moves to seal documentary exhibits after a
+hearing or trial has concluded and the motion is granted, the
+movant is responsible for refiling public exhibits.
+C. Physical Exhibits. Physical exhibits, including recordings, will be returned
+to the offering party at the conclusion of a trial or other proceeding for
+retention and preservation. This includes all physical exhibits submitted to
+the clerk even those not used at trial or in a hearing.
+1. Duty to Retain . When physical exhibits are returned, they must be
+retained by the offering party, who will maintain and document the chain
+of custody, and make the exhibits available to the court, if necessary,
+and to other parties for use in preparing an appeal.
+2. Duty to Preserve. Returned physical exhibits must be preserved in an
+unaltered condition until at least 120 calendar days after the resolution of
+any appeal to allow for the filing of a writ of certiorari under Rule 13 of the
+Rules of the Supreme Court of the United States. Before such exhibits may
+be destroyed, the custodial party must seek and obtain a court order
+authorizing destruction.
+D. Exhibits Necessary for Appeal. Consistent with the Eighth Circuit’s local
+rule on exhibits, the offering party is responsible for ensuring any non-public
+24
+10/20/2025
+exhibits or physical exhibits necessary for an appeal are submitted to the
+appellate court.
+LR 57.4 WITHDRAWAL AND SUBSTITUTION OF COUNSEL
+A. In General. An attorney of record in a case may be permitted to withdraw
+from representation as counsel of record only by order of the court, or as
+otherwise provided herein. This does not apply to situations where withdrawal
+results in continued representation by the same firm or organization.
+B. Withdrawal With Substitution. Leave of court is not required where a notice
+of withdrawal is accompanied by a substitution of counsel, provided that said
+substitution takes place 30 or more days in advance of trial, the substitution
+contains a certificate by substituted counsel, and the substitution will not
+delay the trial or other progress of the case. The notice of withdrawal and
+substitution must set forth the name and address of the substituted and
+withdrawing counsel. Withdrawal under this section will be effective upon
+filing a notice of withdrawal and substitution. Notice of withdrawal must be
+provided to the client by the withdrawing attorney.
+C. Withdrawal Without Substitution. Withdrawal without substitution may be
+granted only upon motion, for good cause shown. Notice of the motion must
+be provided to the client by the withdrawing attorney.
+LR 57.5 RECORDING AND CELLULAR DEVICES
+Except by permission of the presiding judge, no person will photograph,
+videotape, televise, broadcast, or record, or cause to be photographed, videotaped,
+televised, broadcast, or recorded any courtroom proceeding, including
+proceedings of the grand jury. No person will take any photographic, videotape,
+television, or sound recording equipment into (1) any courtroom except upon the
+express permission of the presiding judge, or (2) any jury room, or (3) any corridor
+on the floor on which a courtroom or jury room is located. This paragraph does
+not apply to (1) the official court reporter who may use a voice-recording device
+in connection with his or her official duties, or (2) the use of electronic means for
+the presentation of evidence or the perpetuation of the record as authorized by
+the court.
+Cellular phones and electronic devices may be brought into courthouses in the
+United States District Court for South Dakota unless the presiding judge places
+restrictions on these devices. All cellular and electronic devices must be turned
+off in the courtroom and any corridor on the floor on which a courtroom or jury
+25
+10/20/2025
+room is located unless specifically authorized by order of the court. Cellular and
+electronic devices are devices capable of communicating, transmitting, receiving,
+or recording messages, images, sounds, data, or other information by any means,
+including but not limited to, a computer tablet, cell phone, or Bluetooth device.
+Individuals who bring such devices into courtrooms may be asked by court
+security personnel to demonstrate that the device is turned off. Members of the
+Bar and employees of members of the Bar are exempt from this provision.
+Use of any camera or sound recording devices in a courtroom or any corridor on
+the floor on which a courtroom or jury room is located is prohibited unless
+specifically authorized by order of the court.
+However, an electronic device that is essential to a person’s health or welfare
+(such as an insulin pump) may remain on in the courtroom.
+News media personnel who possess recording devices will be allowed entry into a
+court facility, provided the news media personnel are escorted through the
+building by a representative of the tenant agency being visited. If no tenant
+representative is available, entry with the recording devices will be denied. In
+courthouses where jury and grand jury facilities are located contiguous to public
+access corridors, news media personnel will not be allowed to possess recording
+devices on the floors housing the jury and grand jury facilities during jury
+deliberations or grand jury sessions.
+Photographic, videotape, television, and sound recording devices are permitted in
+courtrooms and in adjacent corridors for naturalization ceremonies, investitures,
+attorney admissions, and other ceremonial functions unless specifically
+prohibited by the court.
+LR 57.6 IDENTIFICATION
+A. Caption. A pleading or other paper presented for filing must begin with the
+caption of the case, the title of the document, and the name of the party filing
+the document. All papers presented after the charging document must bear
+the file number assigned to the case.
+B. Signature Block. All papers must be signed and include the typed or printed
+name, address, telephone number, and email address of the signer beneath
+the signature. This information must not appear as a header or footer on each
+page of the document, or as part of the caption of the case.
+26
+10/20/2025
+LR 57.7 TRIAL APPEARANCE
+Absent extraordinary circumstances, every defendant in a criminal case may wear
+civilian clothing during a trial. Civilian clothing should be provided to the United
+States Marshal Service each morning of trial by the defendant’s attorney. The
+United States Marshal Service will take appropriate measures to ensure jurors do
+not observe the defendant in shackles in or out of the courtroom.
+LR 57.8 PAYMENTS PRIOR TO ENTRY OF JUDGMENT
+The Clerk of Court may accept special penalty assessment, restitution and fine
+payments prior to entry of a judgment and commitment in criminal cases.
+Restitution funds should be held in the deposit fund until further order of the
+court.
+LR 57.9 FORM OF PAPERS
+A. In General. All documents must be on 82 x 11-inch paper. The text must be
+double-spaced, but quotations more than two lines long must be indented
+and single-spaced. Headings and footnotes must be single-spaced. Margins
+must be at least one inch on all four sides. Fonts must be at least 12-point.
+Papers not in the required form may not be filed without leave of the court.
+Exhibits attached to documents must, if feasible, be similarly typewritten,
+printed, or otherwise reproduced in clear, legible, and permanent form.
+B. Redactions. If it is necessary to redact documents produced pursuant to
+discovery and/or filed with the court, redactions must be made in black,
+making it clear that information was removed.
+LR 57.10 ACCESS TO CRIMINAL DOCUMENTS
+A. Purpose. In order to protect the safety of federal defendants and the integrity
+of ongoing investigations and related prosecutions, access to certain
+criminal documents and transcripts is restricted.
+B. Sealed or Restricted Documents. The court’s intent is to make it impossible
+to determine from examining the record whether a defendant or other witness
+did or did not cooperate with the government. To implement this intent, the
+following documents are sealed or otherwise restricted:
+27
+10/20/2025
+1. Plea Agreement Supplements. Every plea agreement will include a sealed
+supplement that either identifies any agreements the defendant has with
+the government regarding cooperation or states that there is no
+cooperation.
+2. Sentencing Memorandums and Motions for Departure/Variance.
+3. Restricted Change of Plea or Sentencing Transcripts. Every transcript
+of a change of plea or sentencing hearing will contain a confidential
+section or reference thereto so that cooperation or the lack thereof may
+be discussed. If a transcript is prepared, the court reporter or
+transcriptionist will prepare two versions: a restricted transcript and a
+public transcript.
+a. The restricted transcript will include the confidential section.
+Only the Government and counsel for the defendant will have
+access to restricted transcripts.
+b. The public transcript will include the following reference:
+Pursuant to D.S.D. Crim. LR 57.10, portions of all change of
+plea and sentencing transcripts are restricted.
+C. Access to Sealed or Restricted Documents.
+1. Attorneys and others. Federal court officers or employees (including
+probation officers and federal public defender staff), retained counsel,
+appointed CJA panel attorneys, and any other person in an attorney-client
+relationship with a defendant may, consistent with this rule, review any
+sealed or restricted portions of the file with their client, but may not
+provide copies.
+2. Inmates. When an inmate requests copies of sealed or restricted
+documents from his/her criminal file, copies will be forwarded to the
+warden of the appropriate institution, along with a copy of this rule.
+Inmates may review their documents in an area designated by the warden.
+Sealed or restricted documents may not be retained by the inmate, nor
+reviewed in the presence of another inmate.
+3. Post Sentencing Non-Custodial Defendants. Any defendant whose case
+is concluded and is not in custody must obtain a court order to receive
+copies of restricted documents.
+28
+10/20/2025
+D. Serving Restricted or Sealed Documents. If the Clerk of Court or a party
+need to serve sealed or restricted documents on an inmate, they must follow
+the procedure outlined in Section C.2 of this rule.
+LR 57.11 MAGISTRATE JUDGE DUTIES
+A. General Designation. In every criminal case, the court designates the
+magistrate judge assigned to the case to perform the following duties
+authorized by 28 U.S.C. § 636:
+1. Hear and determine any pretrial matter pending before the court, except a
+motion to dismiss or quash an indictment or information by the defendant,
+or to suppress evidence in a criminal case;
+2. Conduct hearings, including evidentiary hearings, and submit to the
+district judge proposed findings and recommendation for the disposition
+of:
+(a) dispositive pretrial matters such as to dismiss or quash an
+indictment or information by the defendant, or to suppress
+evidence in a criminal case;
+(b) applications for posttrial relief made by individuals convicted
+of criminal offenses.
+3. In accordance with 18 U.S.C. § 3401, with respect to misdemeanors
+committed within the district:
+(a) try a defendant accused of, and sentence a defendant convicted
+of, a petty offense (Infractions, Class C misdemeanors, and
+Class B misdemeanors); and
+(b) with the defendant’s consent, try a defendant accused of, and
+sentence a defendant convicted of non-petty offenses (Class A)
+misdemeanors.
+4. Conduct hearings to modify, revoke, or terminate supervised release,
+including evidentiary hearings, and submit to the district judge proposed
+findings of fact and recommendations for such modification, revocation,
+or termination by the district judge.
+5. Serve as a special master upon consent of the parties in civil cases.
+29
+10/20/2025
+6. Preside over allocution and change of plea proceedings in felony criminal
+cases upon consent of the parties and submit to the district judge
+proposed recommendations for de novo review.
+B. Specific Designation. The district judge assigned to a case may specifically
+designate a magistrate judge to perform any of the duties authorized by 28
+U.S.C. § 636(b). In performing the designated duties, the magistrate judge
+must conform to the Local Rules and the instructions of the district judge.
+LR 57.12 COURT SECURITY OFFICER DUTIES
+When a petit jury has been selected but before deliberations begin, court security
+officers shall, upon request, escort jurors outside the building provided they
+remain on courthouse property.
+When a petit jury is sequestered to begin deliberations, court security officers
+shall collect and secure all cellphones and other electronic devices belonging to
+jurors until such time as the jury has reached a verdict, at which time such
+devices shall be returned to their owners.
+LR 57.13 FORMER LAW CLERKS
+An attorney who is a former law clerk to a judge of this Court is prohibited from
+acting as counsel of record in a case assigned to that judge or otherwise
+appearing before that judge (a) at any time in any case that was assigned to that
+judge during the former clerk’s tenure with the judge, and (b) in any case for a
+period of one year following the termination of the law clerk’s services.
+LR 58.1 SCHEDULE OF FINES
+Pursuant to Fed. R. Crim. P. 58(d)(1), the court has, by standing order, fixed sums
+which may be accepted in lieu of appearances in cases of petty offenses, as de-
+fined in 18 U.S.C. ' 19. All schedules presently in effect are adopted.

@@ -1,0 +1,88 @@
+1
+Artificial Intelligence (AI)—as that term has been used for the last few years—is a powerful tool. It
+presents opportunities for innovation, growth, and increased access to justice, and we should
+learn to leverage it responsibly.
+In recent months, much of the conversation about Generative AI (GenAI) has focused on
+hallucinations: instances when a GenAI tool invents quotes and legal authority. These incidents
+are serious and deserve attention. But when the narrative begins and ends with hallucinations, it
+limits the kind of thoughtful exploration that’s essential for responsible innovation. It also risks
+distracting us from other, equally important issues raised by AI’s growing role in law and society.
+With this document, the Court provides guidance to the parties practicing before it. The guidance
+is focused on the issue of “hallucinations, ” but also seeks to move the conversation beyond that.
+The goal is to encourage open dialogue about AI, foster grace and collaboration, and promote
+continued learning and growth as we navigate this evolving landscape together.
+To that end, the Court shares the following:
+I. Responsible AI use could strengthen our systems . The use of certain AI tools may
+reduce the cost of legal work, increase work-life balance, equip attorneys to take on more
+pro bono cases, help courts better serve the public, and narrow the access-to-justice-
+gap. Thus, there is value in boldly exploring AI capabilities.
+II. Hallucinations are new, but inaccuracies are not . Hallucinations in court submissions
+are a serious matter. But all inaccurate statements made to a tribunal, regardless of how
+they were generated, are a serious matter. Cutting and pasting from a template without
+verifying the content, for example, could similarly result in inaccurate statements.
+III. The same rules apply. The source of error may change with technology, but the same
+rules apply. Cite checking is still critical. Verification is still necessary. Accuracy, candor,
+integrity, and competence are all still cornerstones of our professional responsibility.
+IV. We all need a little grace. This is a demanding profession. The pressures of modern
+practice—long hours, increasing demands, and for some, shrinking resources—stretch
+many to the brink of their limits. As we adapt to new technologies, we should offer each
+other a measure of grace. There is an important distinction between the reckless use of
+AI, and ordinary human error in the face of change. This is not a call to set aside
+accountability. It is a reminder that learning curves are real, and a culture that balances
+2
+accountability with grace will strengthen our profession and better serve the public we are
+all here to help.
+V. When an opponent’s filing contains a hallucination. When an attorney encounters a
+hallucination in an opponent’s court-filed document, they should exercise their own
+judgment in determining the appropriate response. However, the Court suggests the
+following framework when the hallucination is in a motion or other document pending
+before this Court:
+(1) Confer
+The purpose of the conferral is to (a) confirm the error is a hallucination; (b) discuss
+how the party responsible for the hallucination (“Drafter”) can correct or withdraw it
+without further harm; and (c) explore whether further remedial measures are
+appropriate, and if so, attempt to agree on them.
+(2) Inform the Court
+To avoid perpetuating inaccuracies, the parties should inform the Court of the issue.
+Thus, after conferral, the parties may send a joint email to:
+BraswellChambers@cod.uscourts.gov, advising the Court of the issue, agreed-upon
+resolution, and continuing disagreements, if any.
+(3) Escalate, if necessary
+If the Drafter is unresponsive or refuses to engage in good faith, the matter may need
+to be escalated by filing a formal Notice that alerts the Court to the issue.
+VI. This Court ’s considerations when addressing hallucinations . When conferral does not
+resolve the matter, or when the Court’s involvement otherwise becomes necessary, the
+Court will consider the specific facts and circumstances before it to determine an
+appropriate course of action. This may include but is not limited to:
+ Whether the Drafter promptly engaged in good faith with the attorney that alerted
+them to the issue.
+ Whether the Drafter took responsibility.
+ Whether the Drafter took immediate steps to mitigate any resulting harm.
+ Whether the Drafter follows an AI Use Policy that demonstrates responsible
+practices.
+ Whether the Drafter took reasonable steps to verify accuracy before filing the
+document.
+ Whether the Drafter is a pro.se party, which may impact the Court’s assessment of
+“reasonable steps to verify accuracy. ”
+3
+ The nature and extent of the hallucination(s), which may indicate whether the use
+of AI was reckless.
+ Whether the hallucination(s) caused meaningful prejudice or harm to anyone.
+ Whether the hallucination(s) resulted in a significant waste of judicial resources.
+VII. Hallucinations are only one part of the conversation . Hallucinations have captured our
+attention, but they are far from the greatest AI-related challenge. The legal profession, and
+society more broadly, will have to confront deeper and more complex questions: how to
+safeguard privacy in an era of pervasive data collection, how to detect and prevent (or at
+least interrupt) bias, how to protect against misinformation/deepfakes/fabricated
+evidence, how to ensure humans retain meaningful control and autonomy over decisions
+that affect our lives, how to prepare the next generation of lawyers and judges for this new
+environment, and much more. Beyond those immediate concerns lie even larger
+questions about alignment, safety, and the long-term trajectory of increasingly powerful
+AI systems. Those issues warrant thoughtful engagement and remind us that
+hallucinations, while important, are only one part of a much larger conversation about the
+responsible integration of AI into law and society.
+VIII. Closing Remarks. This document is not an order and does not establish new rules or
+requirements. Nothing should be interpreted to modify or supersede any applicable law,
+rule, professional obligation, or order issued by another judge. Rather, it reflects one
+judge’s view that accountability can coexist with grace, and that we all benefit from the
+continued exploration of AI’s risks and benefits.

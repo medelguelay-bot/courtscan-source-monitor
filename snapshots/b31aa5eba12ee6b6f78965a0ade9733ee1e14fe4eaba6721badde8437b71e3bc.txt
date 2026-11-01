@@ -1,0 +1,238 @@
+A Uniform Federal Rule Would Curb Gen AI Missteps In Court
+By Mark Behrens and Jacob Bennett (December 16, 2025)
+Editor's note: Law360 welcomes opinionated commentary and debate
+in our Expert Analysis section. To submit op-eds or rebuttals, or to
+speak to an editor about submissions, please
+email expertanalysis@law360.com.
+In his 2023 Year-End Report on the Federal Judiciary, Chief Justice
+John Roberts expressed optimism that artificial intelligence has the
+"welcome potential to smooth out any mismatch between available
+resources and urgent needs in our court system."[1]
+AI can help lawyers practice more efficiently, such as by gathering
+and summarizing information or creating initial drafts of documents.
+And AI tools are already being used in self-represented litigations,
+and have allowed pro se litigants — some of the most disadvantaged
+users of the civil justice system — to win cases.[2]
+Justice Roberts noted, however, that the "use of [generative] AI
+requires caution,"[3] because the emerging technology is prone to
+making mistakes — one of generative AI's "shortcoming[s] [is]
+known as hallucination."[4]
+As an IBM article explains, "AI hallucination is a phenomenon where
+... a large language model" — a computer program that generates new information based
+upon texts or other media it has analyzed — "perceives patterns that are nonexistent, ...
+creating outputs that are nonsensical or altogether inaccurate."[5]
+For instance, AI can generate fictitious cases and attribute fictitious language to real
+cases.[6] Programs such as ChatGPT, Anthropic's Claude and Google's Gemini are all
+powered by large language models and thus capable of hallucinating.[7]
+French lawyer and researcher Damien Charlotin has identified over 670 cases where
+generative AI produced hallucinated content, mostly in the U.S.[8] The New York
+Times reported in November that Charlotin used to find "three or four examples in a month.
+Now he often receives that many in a day."[9]
+The same article said that Los Angeles-based lawyer Robert Freund, who also tracks legal AI
+misuse globally, "has publicly flagged more than four dozen examples this year."[10]
+Courts are beginning to take notice. In September, Chief U.S. District Judge Sheryl Lipman
+of the U.S. District Court for the Western District of Tennessee wrote in Mid-America
+Apartment Communities Inc. v. Philipson that "[t]he increased use by lawyers and non -
+lawyers of artificial intelligence to draft legal documents has resulted in a scourge of
+fictitious case citations in court documents in recent years."[11]
+Similarly, in an October ruling in U.S. v. McGee, U.S. District Court Judge Terry Moorer Jr. of
+the U.S. District Court for the Southern District of Alabama described the problem of fake
+AI-generated case citations as an "epidemic [that] continues unabated."[12]
+Mark Behrens
+Jacob Bennett
+Rules Suggestion 25-CV-S
+The Guardian reported in November that courts as far away as Australia have complained
+that judges must now serve as "human filters" for an "unsustainable" surge in AI-generated
+content.[13]
+Thus far, the burden of policing AI hallucination has mostly fallen on individual courts, which
+have adopted a patchwork of rules and standing orders.[14] These provisions fall into five
+broad categories:
+• At one end of the spectrum, the U.S. Court of Appeals for the Fifth
+Circuit has declined to adopt AI-specific rules, concluding that general prohibitions on
+filing frivolous appeals suffice to deter attorneys' use of hallucinated authorities.[15]
+• Many federal trial courts take a similar hands-off approach, but warn litigants about
+the possibility of hallucination.[16] These warnings put litigants on notice of the risks
+of using generative AI, making it easier for a court to sanction attorneys who rely on
+hallucinated authority.
+• Some courts allow litigants to use generative AI, but require counsel to disclose
+whether generative AI — sometimes referred to as just "AI" — was used in a filing,
+and to certify that any citations have been checked for accuracy.[17] Other courts
+require litigants to identify the specific portions of documents that AI was used to
+generate.[18]
+• Some courts permit the use of AI, but limit the programs litigants may use.[19]
+• Finally, some courts prohibit the use of generative AI.[20]
+Laissez-faire approaches allow missteps to flourish and waste party and court resources
+trying to locate false citations, identify other AI-based errors, and conduct sanctions
+proceedings.[21]
+Conversely, blanket bans on the use of generative AI throw the baby out with the
+bathwater, eliminating the risk of hallucination but depriving litigants of the technology's
+potential benefits. Pro se parties who may depend on AI tools may be disproportion ately
+harmed.
+As New York University School of Law professor Stephen Gillers told Bloomberg Law in
+October, "The judge who bars use of AI under any circumstance is misguided."[22] Instead,
+Gillers said, "[w]hat the judge should say is learn how to use AI, [and] use it carefully."[23]
+There are also problems with approaches taken by courts that have tried to strike a balance
+between innovation and deterrence by adopting certain disclosure requirements and rules
+limiting the applications litigants may use.
+First, requiring a litigant to disclose whether AI was used does not actually prevent
+hallucinations.
+Further, requiring disclosure of the use of AI risks stigmatizing practitioners who make
+responsible use of AI and may chill the use of tools that can be beneficial. That risk is hi gher
+when the disclosure requirement applies to practitioners who use any sort of AI as opposed
+to generative AI specifically.[24]
+Rules Suggestion 25-CV-S
+For these reasons, none of the strategies adopted by courts so far has achieved universal
+acceptance. We propose a rule requiring litigants to certify that they have checked all AI -
+generated citations and other content for accuracy.
+As U.S. District Judge P. Kevin Castel of the U.S. District Court for the Southern District of
+New York said in a 2023 ruling in Mata v. Avianca Inc., "there is nothing inherently improper
+about using a reliable artificial intelligence tool for assistance," but lawyers retain "a
+gatekeeping role ... to ensure the accuracy of their filings."[25]
+The American Bar Association has likewise held that a lawyer's "duty to provide competent
+representation" may require "an appropriate degree of independent verification or review"
+of an AI tool's output.[26]
+We propose an amendment to Rule 11(a) of the Federal Rules of Civil Procedure to require
+the following certification in any document containing citations that is filed with a court:
+I certify that I or an individual under my supervision has reviewed all content in this
+filing created with the assistance of generative artificial intelligence to ensure that
+the authorities cited therein exist, have been accurately cited, and support the
+propositions for which they have been cited. I further acknowledge that the court
+may take corrective action, including imposition of sanctions, if hallucinated content
+is submitted to the court.
+This language would put attorneys on notice as to their obligations and deter blind reliance
+on generative AI, without deterring the use of potentially beneficial tools. The proposed rule
+would also remind judges of the pitfalls of AI and encourage best practices, potentially
+allowing members of the judiciary to avoid embarrassing missteps too.
+The proposed rule fits neatly in the framework of Rule 11(a).[27] Under that rule, lawyers
+are required to sign papers they submit to a court and include several pieces of information
+in their signature blocks. Adding a certification below the attorney's signature line would not
+be burdensome, and it would remind attorneys of their obligation to use AI responsibly
+when submitting a motion or brief.
+Moreover, Rule 11(a) offers a built-in remedy for failure to include the information it
+demands in the form of a requirement that courts strike the offending filing with leave to
+refile. This mandatory — but light and easily resolvable — sanction complements and
+effectuates the proposed rule's purpose of ensuring that attorneys pause to consider
+whether they have used AI responsibly.
+As reported in Bloomberg Law on Dec. 1, U.S. Magistrate Judge Allison Goddard of the U.S.
+District Court for the Southern District of California counsels, "The best approach is to run
+toward technology, not away from it," and that goes for generative AI, as well.[28]
+But running toward technology does not mean running blindly. A rule would help address
+the recent and growing number of missteps by lawyers as a result of the use of generative
+AI in court filings.
+We encourage the federal judiciary's Advisory Committee on Civil Rules to consider the
+proposed rule or a similar federal court rule to replace the current patchwork of orders.
+As U.S. District Judge Marina Garcia Marmolejo of the U.S. District Court for the Southern
+District of Texas said in a November article in Ars Technica, courts have "scant resources to
+Rules Suggestion 25-CV-S
+spare ferreting out erroneous AI citations in the first place, let alone surveying the
+burgeoning caselaw on this subject."[29]
+A uniform federal rule would also provide a model for the states. Our proposed rule would
+provide clarity to the bar, curb AI abuses and relieve judges from time spent policing fake
+AI-generated citations.
+Mark A. Behrens is a partner and co-chair of the public policy practice group at Shook Hardy
+& Bacon LLP.
+Jacob A. Bennett is an associate at the firm.
+The opinions expressed are those of the author(s) and do not necessarily reflect the views
+of their employer, its clients, or Portfolio Media Inc., or any of its or their respective
+affiliates. This article is for general information purposes and is not intended to be and
+should not be taken as legal advice.
+[1] Chief Justice John G. Roberts, Jr., Supreme Court of the United States, 2023 Year End
+Report on the Federal Judiciary, at 5, https://www.supremecourt.gov/publicinfo/year-
+end/2023year-endreport.pdf.
+[2] Jared Perlo & Angela Yang, These People Ditched Lawyers for ChatGPT in Court, NBC
+News.com (Oct.8, 2025), https://www.nbcnews.com/tech/innovation/ai-chatgpt-court-law-
+legal-lawyer-self-represent-pro-se-attorney-rcna230401.
+[3] 2023 Year End Report on the Federal Judiciary, supra, at 5.
+[4] Id. See also, Daniel E. Ho, Hallucinating Law: Legal Mistakes With Large Language
+Models are Pervasive, Stan. Human-Centered A.I. (Jan.11,
+2024), https://hai.stanford.edu/news/hallucinating-law-legal-mistakes-large-language-
+models-are-pervasive (recording hallucination rates between 69% and 88% for law-related
+queries).
+[5] IBM.com, What Are AI Hallucinations?, https://www.ibm.com/think/topics/ai-
+hallucinations; see also Cloudflare.com, What is a Large Language Model
+(LLM)?, https://www.cloudflare.com/learning/ai/what-is-large-language-model/.
+[6] See Mata v. Avianca, Inc., 678 F. Supp. 3d 443 (S.D.N.Y. 2023) (sanctioning attorney
+for submitting brief containing nonexistent cases); Coomer v. Lindell, 2025 WL 1865282
+(D.Colo. July 7, 2025) (sanctioning attorneys in connection with brief containing AI -
+generated misattributions of case law).
+[7] Open AI, https://chatgpt.com/; Anthropic, https://www.anthropic.com/claude;
+Google, https://gemini.google.com/app.
+[8] Damien Charlotin, AI Hallucination
+Cases, https://www.damiencharlotin.com/hallucinations/?q=&sort_by=-date&period_idx=0.
+[9] Evan Gorelick, Vigilante Lawyers Expose the Rising Tide of A.I. Slop in Court Filings, N.Y.
+Times (Nov. 7, 2025), https://www.nytimes.com/2025/11/07/business/lawyers-ai-
+vigilantes.html.
+Rules Suggestion 25-CV-S
+[10] Id.
+[11] Mid-America Apartment Cmties., Inc. v. Philipson, 2025 WL 2625359, at *2 (W.D.
+Tenn. Sept. 11, 2025).
+[12] United States v. McGee, 2025 WL 2888065, at *3 (S.D. Ala. Oct. 10, 2025).
+[13] Tom McIlroy. Judges Have Become Human Filters as AI in Australian Courts Reaches
+Unsustainable Phase, Chief Justice Says, The Guardian (Nov.20,
+2025), https://www.theguardian.com/law/2025/nov/21/judges-have-become-human-
+filters-as-ai-in-australian-courts-reaches-unsustainable-phase-chief-justice-says.
+[14] LexisNexis tracks federal and state court rules on generative AI and collects these
+orders in one location.
+[15] Nate Raymond, Fifth Circuit Scraps Plan to Adopt AI Rule After Lawyers Object, Reuters
+(June 11, 2024), https://www.reuters.com/legal/transactional/5th-circuit-scraps-plans-
+adopt-ai-rule-after-lawyers-object-2024-06-10/; see also Garces v. Hernandez, 2025 WL
+2401001, at *2 (5th Cir. Aug. 19, 2025) (per curiam) ("litigant-users of AI ... must verify
+the accuracy of AI-generated information, mindful that citing authorities that are generated
+by AI may violate appellate rules 32 and 38"), cert. denied, 2025 WL 3131905 (U.S. Nov.
+10, 2025).
+[16] See, e.g., In Re: Use of Generative Artificial Intelligence in Court Filings, Gen. Order
+No.2025-04 (S.D.Tex. May 7, 2025), https://www.txs.uscourts.gov/sites/txs/files/general-
+orders/General_Order_2025-04_Use_of_Generative_AI_in_Court_Filings.pdf; Haikala
+Chambers Initial Order, Hon. Madeline H. Haikala
+(N.D.Ala.), https://www.alnd.uscourts.gov/sites/alnd/files/MHH%20Initial%20Order%20as
+%20of%207-8-24.pdf; Case Procedures, Hon. Iain D. Johnson
+(N.D.Ill.), https://www.ilnd.uscourts.gov/judge_display.php?LastName=Johnston.
+[17] See, e.g., Guidelines to Parties and Counsel in Civil Cases Proceeding Before the Hon.
+Tiffany Johnson, Hon. Tiffany Johnson
+(N.D.Ga.), https://www.gand.uscourts.gov/sites/gand/files/TRJ_CVStandingOrder.pdf;
+Standing Order Re Artificial Intelligence ("AI") in Cases Assigned to Judge Baylson, Hon.
+Michael M. Baylson
+(E.D.Pa.), https://www.paed.uscourts.gov/sites/paed/files/documents/procedures/Standing
+%20Order%20Re%20Artificial%20Intelligence%206.6.pdf.
+[18] See, e.g., Judge Evelyn Padin's General Pretrial and Trial Procedures, Hon. Evelyn
+Padin (D.N.J.), https://www.njd.uscourts.gov/sites/njd/files/EPProcedures.pdf; Judge
+Arteaga's Policies and Procedures, Hon. Jose Raul Arteaga
+(E.D.Pa.), https://www.paed.uscourts.gov/sites/paed/files/documents/procedures/artpol.pdf
+.
+[19] In re Use of Artificial Intelligence, No.3:24-mc-101 (W.D.N.C. June 18, 2024).
+[20] Case Procedures, Hon. Sharon Johnson Coleman
+(N.D.Ill.), https://www.ilnd.uscourts.gov/judge_display.php?LastName=Coleman.
+[21] See generally Jessica R. Gunder, Rule 11 is No Match for Generative AI, 27 Stan. Tech.
+L. Rev. 308 (2024) (arguing against Rule 11-only approach to AI hallucination).
+Rules Suggestion 25-CV-S
+[22] Justin Henry, Judges Admit to Using AI After Made-Up Rulings Called Out, Bloomberg
+L. (Oct. 23, 2025), https://news.bloomberglaw.com/business-and-practice/judges-called-
+out-for-nonfactual-rulings-admit-to-use-of-ai.
+[23] Id.
+[24] Compare Standing Order Re: Artificial Intelligence ("AI") in Cases Assigned to Judge
+Baylson, Hon. Michael M. Baylson (E.D.Pa.) (requiring disclosure when AI "has been used in
+any way") with Judge Evelyn Padin's General Pretrial and Trial Procedures, Hon. Evelyn
+Padin (D.N.J.) (requiring disclosure when a litigant uses "generative artificial intelligence").
+[25] Mata, 678 F.Supp.3d at 448; see also Dan Mangan, Judge Sanctions Lawyers for Brief
+Written by A.I. With Fake Citations, CNBC.com (June 22,
+2023), https://www.cnbc.com/2023/06/22/judge-sanctions-lawyers-whose-ai-written-filing-
+contained-fake-citations.html.
+[26] Am. Bar Ass'n Standing Comm. on Ethics & Prof. Responsibility, Formal Opinion 512,
+Generative Artificial Intelligence Tools, at3-4 (July 29,
+2024), https://www.americanbar.org/content/dam/aba/administrative/professional_respons
+ibility/ethics-opinions/aba-formal-opinion-512.pdf.
+[27] Fed. R. Civ. P. 11(a) reads:
+Signature. Every pleading, written motion, and other paper must be signed by at least one
+attorney of record in the attorney's name—or by a party personally if the party is
+unrepresented. The paper must state the signer's address, e-mail address, and telephone
+number. Unless a rule or statute specifically states otherwise, a pleading need not be
+verified or accompanied by an affidavit. The court must strike an unsigned paper unless the
+omission is promptly corrected after being called to the attorney's or party's attention.
+[28] Alex Ebert, Judges' AI Blunders Spark Debate on Technology Use in Courts,
+BloombergL. (Dec. 1, 2025), https://news.bloomberglaw.com/business-and-
+practice/judges-ai-blunders-spark-debate-on-technology-use-in-courts.
+[29] Ashley Belanger, You Won't Believe The Excuses Lawyers Have After Getting Busted for
+Using AI, Ars Technica (Nov. 11, 2025), https://arstechnica.com/tech-
+policy/2025/11/lawyers-keep-giving-weak-sauce-excuses-for-fake-ai-citations-in-court-
+docs/.
+Rules Suggestion 25-CV-S

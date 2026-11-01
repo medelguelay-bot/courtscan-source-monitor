@@ -1,0 +1,36 @@
+STANDING ORDER REGARDING THE USE OF GENERATIVE ARTIFICIAL
+INTELLIGENCE (“AI”) IN COURT FILINGS
+Judge Nina Y. Wang
+United States District Court
+District of Colorado
+Alfred A. Arraj United States Courthouse
+901 19th Street, Courtroom A-902
+Denver, Colorado 80294-3589
+Email: Wang_Chambers@cod.uscourts.gov
+Telephone: 303.335.2600
+Effective: December 1, 2025
+2
+USE OF GENERATIVE ARTIFICIAL INTELLIGENCE (“AI”) IN COURT FILINGS
+A. Certification Re: Use of Generative Artificial Intelligence (“AI”) for Drafting
+1. Every filing shall contain an AI Certification regarding the use, or non-use,
+of generative AI (such as ChatGPT, Harvey.AI, or Google Gemini) in preparing
+the filing, signed by all individuals who contributed to the drafting of the filing.
+To the extent that generative AI was used in any drafting of the filing, each
+individual must certify that any language drafted by AI (even if later edited by a
+human) was personally reviewed by the filer or another human for accuracy
+and that all legal citations reference actual non- fictitious cases or cited
+authority. The AI Certification does not count against any page limitations. All
+filings remain subject to Federal Rule of Civil Procedure 11, 28 U.S.C. § 1927,
+and applicable ethical rules.
+Examples of acceptable AI Certifications are provided below for illustrative
+purposes only:
+The undersigned counsel certifies/certify that generative artificial
+intelligence was not used to draft this filing.
+or
+The undersigned counsel certifies /certify that generative artificial
+intelligence—specifically, ChatGPT—was used to draft this filing. I/we
+further certify that [Party] was/were advised of and consented to such use.
+All cited authority was manually reviewed by counsel of record.
+2. Filings that do not comply with the AI Certification requirement may be
+stricken without substantive consideration and with leave to re-file a compliant
+document.

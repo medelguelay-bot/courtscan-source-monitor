@@ -1,0 +1,449 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF OHIO
+WESTERN DIVISION, AT DAYTON
+STANDING ORDER GOVERNING CRIMINAL CASES
+Effective as of November 22, 2024
+Notice to Counsel: New Requirements for Motions, Including Motions to
+Suppress
+Notice to counsel: New AI Provision Effective as of August 27, 2025
+Hon. Michael J. Newman
+United States District Judge
+Walter H. Rice Federal Building & U.S. Courthouse
+200 West Second Street, Room 505
+Dayton, Ohio 45402
+newman_chambers@ohsd.uscourts.gov
+Courtroom Deputy/Judicial Assistant:
+Claire McDowell
+(937) 512-1640
+claire_mcdowell@ohsd.uscourts.gov
+Court Reporter:
+Julie Hohenstein
+(937) 512-1639
+julie_hohenstein@ohsd.uscourts.gov
+TABLE OF CONTENTS
+I. GENERAL PROVISIONS ................................................................................................ 1
+II. TRIAL DATE ..................................................................................................................... 1
+III. INITIAL SCHEDULING ORDER .................................................................................. 2
+IV. DISCOVERY AND INSPECTION .................................................................................. 2
+V. MAGISTRATE JUDGE PRACTICE .............................................................................. 3
+VI. MOTIONS .......................................................................................................................... 3
+VII. ARTIFICIAL INTELLIGENCE (“AI”) PROVISION .................................................. 5
+VIII. PLEA NEGOTIATIONS AND PLEA AGREEMENTS ................................................ 6
+IX. EXHIBITS .......................................................................................................................... 6
+X. STIPULATIONS ................................................................................................................ 7
+XI. WITNESSES AT TRIAL .................................................................................................. 8
+XII. STATEMENT OF THE CASE ......................................................................................... 8
+XIII. VOIR DIRE EXAMINATION .......................................................................................... 9
+XIV. CHALLENGES .................................................................................................................. 9
+XV. PREEMPTORY CHALLENGES .................................................................................... 9
+XVI. JURY INSTRUCTIONS ................................................................................................. 10
+XVII. PRESENTENCE INVESTIGATION REPORT ........................................................... 10
+XVIII. SENTENCING ................................................................................................................ 11
+XIX. ARTIFICIAL INTELLIGENCE (“AI”) PROVISION ................................................ 12
+XX. PAGE LIMITATIONS AND FORMATTING ............................................................. 12
+XXI. CONCLUSION ................................................................................................................ 13
+XXII. APPENDICES .................................................................................................................. 14
+VOIR DIRE QUESTIONS BY THE COURT .......................................................................... 16
+I. GENERAL PROVISIONS
+The Local Criminal Rules of the United States District Court for the Southern District of
+Ohio, including the Introductory Statement on Civility , which applies in criminal cases,
+shall be strictly adhered to by all parties and counsel appearing before the undersigned and
+will be strictly enforced by the Court.
+This Standing Order replaces Dayton General Order No. 12 -01 for all c riminal cases
+assigned to the undersigned. On or after the effective date of this Standing Order, all
+counsel of record are charged with knowledge of the procedures and requirements
+contained herein. The Court reserves the right to impose sanctions for violations of the
+Local Rules or Civility Statement.
+II. TRIAL DATE
+Each criminal case will be set for trial on the Monday prior to the expiration of the Speedy
+Trial Act deadline, 18 U.S.C. § 3161, at 9:30 A.M. The final pretrial conference will be
+scheduled on a date and time approximately two weeks before trial. All trial counsel and
+the defendant must appear in person at the final pretrial conference. However, the Court
+retains the ability to schedule a final pretrial conference by telephonic or virtual means
+when warranted.
+The Court appreciates the scheduling challenges confronting attorneys, especially when
+they represent many clients and have trials and other matters pending in both federal and
+state courts. As experienced attorneys well know, the Speedy Trial Act imposes a 70-day
+deadline, with limited exceptions, by which trial of federal criminal defendants must
+commence. 18 U.S.C. §§ 3161(c)-(h). In order to comply with the demands of the Speedy
+Trial Act, the fact that a defendant’s attorney has or may have a trial scheduled to begin in
+2
+state court will not constitute a sufficient basis for requesting a continuance of a trial date
+set by this Court, absent extraordinary circumstances. If a defendant’s trial counsel is
+unavailable for trial in this Court on the date it is scheduled to com mence, he or she must
+ensure that substitute trial counsel will be present and fully prepared to represent the
+defendant on the first day of trial and thereafter, if necessary.
+III. INITIAL SCHEDULING ORDER
+In lieu of holding a preliminary pretrial telephone conference, the Court will issue an initial
+scheduling order after the arraignment, assigning: (1) a discovery deadline pursuant to Fed.
+R. Crim. P. 16.1; (2) a pretrial motion deadline; (3) a status report deadline (approximately
+2 weeks before the trial date); (4) a trial date; and (5) the Speedy Trial Act deadline.1 The
+parties should file a proposed scheduling order listing these five dates, which the Court
+remains free to adopt. As mentioned further below, the Court is amenable to moving these
+deadlines upon the parties’ motion, rather than conducting a telephone conference to
+discuss a continuance. The initial scheduling order shall also include a joint motion, as an
+appendix, for the Court to permit the defendant to change his or her plea, should defendant
+elect to plead guilty. Pursuant to Fed. R. Crim. P. 11, the Court shall not participate in plea
+negotiations and takes no position on whether a defendant changes his or her plea. See
+Fed. R. Crim. P. 11(c)(1).
+IV. DISCOVERY AND INSPECTION
+Defense counsel are directed to contact the Assistant United States Attorney in charge of
+the prosecution of a case to arrange a meeting for the purpose of resolving all discovery
+1 Under Fed. R. Crim. P. 16.1, the parties shall meet and confer no later than 14 days after the arraignment.
+The Court’s scheduling order will correspond with that deadline.
+3
+requests provided for under the Federal Rules of Criminal Procedure, including Rule 16.
+Pursuant to the discovery deadline as imposed in the scheduling order , the government
+shall make the required disclosure of discoverable evidence under the terms and conditions
+of Rule 16.
+The discovery meeting shall be held as promptly as possible. If, at any time during the
+course of these proceedings, any party fails to comply with Rule 16, such failure shall be
+brought to the Court’s attention by a motion to compel discovery. Motions to compel shall
+be filed no later than seven days from the date of a party’s denial of the initial discovery
+request.
+V. MAGISTRATE JUDGE PRACTICE
+All criminal cases assigned to the undersigned, upon filing, are hereby referred by this
+Standing Order to the assigned M agistrate Judge pursuant to 28 U.S.C. §§ 636(b)(1)(A),
+(B), and (C) and § 636(b)(3). The Magistrate Judge is authorized to perform any
+preliminary functions up and until the filing of the information or indictment. The Court
+reserves the right to delegate disposition of pretrial matters to the Magistrate Judge subject
+to any limitations imposed by the Constitution or laws of the United States.
+VI. MOTIONS
+All motions of any kind, by the defendant or by the government, shall be filed no later than
+the deadline set forth in the Court’s initial scheduling order . Each memoranda in
+opposition -- other than a response to a motion to suppress evidence -- shall be filed no
+later than 21 days after the filing of said motion. A reply memoranda shall be filed no later
+than 14 days after the filing of a memorandum in opposition. Upon the filing of any
+4
+motion, the movant shall state whether , and for what reasons , an evidentiary hearing is
+required. If the Court agrees, an evidentiary hearing will be scheduled.
+With the exception of motions to suppress, counsel shall file motions in compliance with
+S.D. Ohio Civ. R. 7.2 and 7.3. See S.D. Ohio Crim. R. 1.2 (Local Civil Rules shall apply
+to criminal actions with exceptions established in Rule 1.3). Counsel for the movant shall
+state whether opposing counsel consents to, or will oppose , the pending motion. If
+opposing counsel does not respond to the request, the motion shall state that such an attempt
+occurred.
+a. Motions to Suppress Evidence
+Each motion to suppress shall be accompanied by a memorandum in support containing a
+statement of each constitutional claim supported by a detailed analysis with citation of
+authorities relied on .2 Each motion to suppress shall state whether the defendants seeks
+oral argument on the motion or an evidentiary hearing. If the defendant seeks an
+evidentiary hearing for the purpose of challenging an affidavit presented in support of a
+search warrant, defense counsel’s memorandum shall address the “substantial preliminary
+showing” required by Franks v. Delaware , 438 U.S. 154, 155- 56 (1978). E.g., United
+States v. Young, 847 F.3d 328, 348 ( 6th Cir. 2017) . The Court reminds counsel for the
+parties, “issues adverted to in a perfunctory manner, unaccompanied by some effort at
+developed argumentation, are deemed waived.” United States v. Robinson, 390 F.3d 853,
+886 (6th Cir. 2004) (cleaned up).
+2 Both the defendant and the Government’s counsel are reminded, “issues adverted to in a perfunctory manner,
+unaccompanied by some effort at developed argumentation, are deemed waived.” United States v. Robinson, 390
+F.3d 853, 886 (6th Cir. 2004) (cleaned up).
+5
+The Government shall file a memorandum in opposition within 21 days after the date the
+motion to suppress is docketed. No further briefing will be permitted absent leave of court.
+b. Motions in limine
+Motions in limine shall be filed before the date of the Final Pretrial Conference. Usually,
+the Court will assign a motion in limine deadline in a scheduling order setting the Trial and
+Final Pretrial Conference Dates. The Court will consider exceptions to this deadline for
+impeachment evidence under Fed. R. Evid. 609.
+c. Motions for continuance
+Any motion for a change of the trial date shall be in writing and should be made at least
+seven days prior to the scheduled trial date. Motions for continuances shall set forth
+those Speedy Trial Act factors listed in 18 U.S.C. § 3161(h)(7)(B) that the movant
+contends support the motion. The Court prefers all requests for continuances be made by
+motion, rather than scheduling phone conferences. The Court remains amenable to
+continuances made by written motion, provided that the parties adhere to the mandates of
+the Sixth Amendment and the Speedy Trial Act.
+VII. ARTIFICIAL INTELLIGENCE (“AI”) PROVISION
+No attorney for a party, or a pro se party, may use Artificial Intelligence (“AI”) in the
+preparation of any filing submitted to the Court. Parties and their counsel who violate this
+AI ban may face sanctions including, inter alia , striking the pleading from the record, the
+imposition of economic sanctions or contempt, and dismissal of the lawsuit . The Court
+does not intend this AI ban to apply to information gathered from legal search engines,
+such as Westlaw or LexisNexis, or Internet search engines, such as Google or Bing. All
+parties and their counsel have a duty to immediately inform the Cour t if they discover the
+6
+use of AI in any document filed in their case. The purpose of this provision is not to prevent
+parties from using AI tools, such as legal search engines or Microsoft Suite products but,
+rather, to prevent counsel and pro se parties from citing false, misleading and/or
+hallucinated cases and law.
+VIII. PLEA NEGOTIATIONS AND PLEA AGREEMENTS
+Plea agreement discussions between the government and defense counsel pursuant to Rule
+11 of the Federal Rules of Criminal Procedure shall commence as soon as practicable. If
+a plea agreement is reached, counsel shall notify the Court by filing a joint motion to
+change plea, asking the Court to permit the defendant to change his or her plea. A sample
+joint motion is attached to this Standing Order as Appendix B . A change of plea hearing
+with the duty United States Magistrate Judge will be scheduled soon thereafter.
+The Court will consider plea agreements reached under Fed. R. Crim. P. 11(c)(1)(C). For
+Rule 11(c)(1)(C) pleas, the Court prefers a specific sentence instead of a sentencing range.
+IX. EXHIBITS
+Exhibit lists
+Unless otherwise ordered, counsel shall submit to the Court’s chambers three typed copies
+of a list of proposed exhibits no later than seven days before the trial date . Exhibit lists
+shall be three-hole punched.
+The exhibit list shall include the proposed exhibit number or letter a nd a substantial
+description of each exhibit. Joint exhibit shall be identified with the designat ion JX
+followed by its sequential number, e.g., JX1, JX2. The government shall identify its
+exhibits with the designation G (for government) followed by its sequential number, e.g.,
+7
+GX1, GX2. Defendant shall identify his or her exhibits with the designation of “D” (for
+Defendant) and its alphabetically sequential letter, e.g., DXA, DXB. In cases involving
+multiple defendants, questions regarding how to properly mark exhibits will be discussed
+during the final pretrial conference.
+Trial exhibits
+Each party intending to offer exhibits will mark the exhibits before trial begins. Seven
+days before trial begins, counsel shall provide the original and two copies of the exhibits
+to the Court and one copy to opposing counsel. The exhibits provided to the Court should
+be three-hole-punched and placed in binders. A copy of the exhibit list should precede the
+exhibits in the binders prepared for the Court.3
+At trial, counsel may not approach a witness to tender an exhibit. Rather, the Courtroom
+Deputy will place each exhibit before each witness. In formulating a question to a witness,
+counsel shall specify the exhibit number or designation involved to ensure a clear record.
+Exhibits introduced for the first time during trial, i.e., exhibits used for impeachment, must
+be distributed to opposing counsel and the Court in the same quantity and format as exhibits
+produced before trial.
+Counsel is responsible for any exhibits expected to be used during trial. At the end of each
+trial session, counsel shall return all original exhibits to the Courtroom Deputy.
+X. STIPULATIONS
+Three copies of any and all stipulations shall be submitted to the Court at least seven days
+before the scheduled trial date.
+3 Counsel, by motion, may request a different method of handling exhibits.
+8
+XI. WITNESSES AT TRIAL
+Witness lists
+The government shall submit to the Court’s chambers two copies of its witness list within
+three business days before the scheduled trial date. The defendant may, and is strongly
+encouraged to, submit his or her two copies of his or her witness list three business days
+before the scheduled trial date. One copy shall be in physical format and the other copy
+shall be emailed in a Microsoft Word document to
+Newman_Chambers@ohsd.uscourts.gov.
+Sequestration of witnesses
+If the parties opt to sequester witnesses, then said witnesses shall not be allowed to view in
+the courtroom gallery during trial, pursuant to Fed. R. Evid. 615. This is subject to the
+exceptions listed in Fed. R. Evid. 615(a)–(d).
+Remote witnesses
+The Court prefers live, in- person testimony from witnesses, so it will not allow parties to
+opt to have witnesses testify via videoconferencing software absent extraordinary
+circumstances.
+XII. STATEMENT OF THE CASE
+An Agreed Joint Statement of the Case shall be submitted to Court approximately seven
+days before trial. The Statement of the Case shall be read to potential jurors by the Court
+prior to voir dire.
+9
+XIII. VOIR DIRE EXAMINATION
+Prospective jurors will be seated in numerical order in the courtroom. The entire panel of
+prospective jurors -- persons seated in the jury box and persons seated in the courtroom
+benches -- will be examined in one continuous examination.
+Each prospective juror will be assigned a “juror number” by the Clerk’s O ffice. Counsel
+will receive a list of the jurors’ names and numbers prior to jury selection. When
+interrogating a juror, counsel shall refer to the juror by number only.
+The Court will conduct a preliminary voir dire examination tailored to the issues in the
+case.4 Defense counsel and the government will then be permitted to ask additional
+questions. During voir dire , counsel shall address their questions to the entire panel.
+Counsel may not question an individual juror unless the answer of a specific juror justifies
+further inquiry.
+XIV. CHALLENGES
+The juror challenge process will occur after questioning and in the Court’s chambers. The
+entire panel, not just prospective jurors seated in the jury box, shall be accepted, challenged
+for cause, or peremptorily challenged in a continuous sequence with reseating prospective
+jurors.
+XV. PREEMPTORY CHALLENGES
+Peremptory challenges in single-defendant cases will be exercised as follows:
+a. United States exercises its first challenge
+b. Defendant exercises his or her first challenge
+4 For a list of preliminary voir dire questions, see infra Appendix A.
+10
+c. United States exercises its second challenge
+d. Defendant exercises his or her second and third challenges
+e. United States exercises its third challenge
+f. Defendant exercises his or her fourth and fifth challenges
+g. United States exercises its fourth challenge
+h. Defendant exercises his or her sixth and seventh challenges
+i. United States exercises its fifth challenge
+j. Defendant exercises his or her eighth and ninth challenges
+k. United States exercises its sixth challenge
+l. Defendant exercises his or her tenth challenge
+Any party that “passes” (i.e., forgoes to exercise a challenge in the order prescribed) has
+thereby “used” their challenge but does not waive any remaining challenges.
+After twelve jurors have been fully qualified, and counsel state that they are satisfied with
+the jury, peremptory challenges as to the alternate juror(s) will then be exercised in the
+same manner.
+XVI. JURY INSTRUCTIONS
+At least seven days before the scheduled trial date, counsel shall file proposed, substantive
+jury instructions that state the governing law with appropriate case citations. The Court
+encourages counsel to use the United States Sixth Circuit Pattern Jury Instructions where
+practical.
+XVII. PRESENTENCE INVESTIGATION REPORT
+The Court will order the Probation Department to conduct and complete a presentence
+investigation report, i.e. , PSI/PSR, consistent with S.D. Ohio Crim. R. 32.1 following a
+11
+defendant’s conviction or entry of a guilty plea. Parties shall submit their objections to
+PSI/PSR to the Probation Department within twenty-one (21) days of receipt. Untimely
+objections will be denied absent a showing of good cause for untimely filing.
+A party must offer more than a bare objection to the initial presentence investigation report.
+The Court will hold an evidentiary hearing on the objections upon a showing of a genuine
+dispute with the facts set forth in the PSI/PSR and will hold oral argument on legal
+objections prior to sentencing. Factual objections must be substantiated by evidence, such
+as an affidavit, capable of calling into question the correctness or reliability of the facts
+alleged in the PSI/ PSR by the Probation Department. Legal objections must identify
+specific alleged errors with the Probation Department’s application of the U.S. Sentencing
+Guidelines to the facts stated in the PSI/PSR.
+Preferably, all information and materials relating to requests for upward departures and
+upward variances (and, likewise, for downward departures , and downward variances )
+should be presented, whenever possible, to the Probation Department during the Pre -
+Sentence Investigation Report (PSR) drafting process so those matters can be made part of
+the PSR. If, for some reason, that is not feasible or possible, such matters shall be presented
+to the Court in a Court filing (under seal, if necessary) no later than TEN DAYS PRIOR
+to the sentencing hearing. If such materials are not presented to the C ourt in a timely
+manner, the Court reserves the right to not consider them. The Court remains willing, in
+most cases, to meet with counsel for both sides prior to the sentencing hearing.
+XVIII. SENTENCING
+Unless ordered otherwise, parties shall submit sentencing memoranda no later than
+SEVEN DAYS PRIOR to the sentencing hearing. Objections to the PSI/ PSR raised for
+12
+the first time in sentencing memoranda , or at the sentencing hearing, shall not be
+considered absent good cause.
+XIX. ARTIFICIAL INTELLIGENCE (“AI”) PROVISION
+No attorney for a party, or a pro se party, may use Artificial Intelligence (“AI”) in
+the preparation of any filing submitted to the Court. Parties and their counsel who
+violate this AI ban may face sanctions including, inter alia , striking the pleading
+from the record, the imposition of economic sanctions or contempt, and dismissal
+of the lawsuit. The Court does not intend this AI ban to apply to information
+gathered from legal search engines, such as Westlaw or LexisNexis, Internet search
+engines, such as Google or Bing, or Microsoft Suite products or the equivalent,
+such as Word. All parties and their counsel have a duty to immediately inform the
+Court if they discover the use of AI in any document filed in their case or an
+opponent’s case. The purpose of this provision is not to prevent parties from using
+AI tools, such as legal search engines or Microsoft Suite products but, rather, to
+prevent counsel and pro se parties from citing false, misleading and/or hallucinated
+cases and law.
+XX. PAGE LIMITATIONS AND FORMATTING
+While the Court prefers that memoranda not exceed the 20-page limitation set forth in S.D.
+Ohio Civ. R. 7.2(a)(3), leave of court is not required to file a memorandum exceeding that
+page limitation. However, parties filing memoranda longer than 20 pages in length shall
+comply with all other requirements of S.D. Ohio Civ. R. 7.2(a)(3).
+All documents, briefs, and memoranda shall comport with the following specifications: (1)
+one-inch margins on all sides; (2) main body of the text in 12- point, Times New Roman
+13
+font; (3) footnote text in at least 10-point font in the same typeface as the main body of the
+text; and (4) citations in the main body of the text, not in footnotes.
+XXI. CONCLUSION
+Unless a motion to continue has been filed or some other events under 18 U.S.C.
+§ 3161(h)(1) through (8) has occurred that would exclude time from the Speedy Trial Act
+deadline, the parties are required to fully comply with the requirements and deadlines
+contained in this Order.
+IT IS SO ORDERED.
+December 14, 2023 s/Michael J. Newman
+Hon. Michael J. Newman
+United States District Judge
+14
+XXII. APPENDICES
+The following forms are available for the parties to use throughout the course of litigation:
+1. Appendix A: Sample Voir Dire Questions
+2. Appendix B: Sample Joint Motion to Permit Defendant to Change Plea
+15
+Appendix A
+16
+VOIR DIRE QUESTIONS BY THE COURT
+The Court will first conduct a preliminary examination, typically using the questions listed below.
+After the Court has finished its examination of the jury panel, counsel may elect to supplement the Court’s
+examination with questions that do not repeat, in substance, any question the Court already has put to the
+panel.
+1. I am now going to read the names of the parties and the witnesses that you may be hearing from
+in this case. Please listen to the list carefully as I will be asking you whether you know any of
+these people.
+First, as I just mentioned, the government is represented by . Seated at the counsel table with
+is .
+At the next table is the Defendant in this case . He [or she] is represented by
+of .
+The United States may call the following persons as witnesses:
+The Defendant may call the following persons as witnesses:
+Is any panel member related by blood or marriage to any of the individuals that I have just named?
+Are you personally acquainted with these persons, or do you have any knowledge of them, directly
+or indirectly, through your social, business, or professional lives?
+2. Has any panel member ever heard of or been involved with any of the following entities or
+persons: [List any businesses or non-witness entities that will be important in this case]? Are any
+of these names familiar to any panel member?
+3. OUTLINE THE OFFENSE PER INDICTMENT OR INFORMATION
+Does any panel member have prior knowledge or information about the crime(s) the defendant(s)
+is/are charged with, which I have just explained to you? This includes knowledge gained from
+personal contacts or from the media.
+Follow-up Questions for Any Affirmative Responses:
+i. From what source did you hear about this case (newspaper, TV, radio, conversation
+with others)?
+ii. How many times did you hear or read about it?
+iii. Do you remember specifically what you heard or read?
+iv. Did what you heard or read cause you to have any feeling concerning the merits of
+the parties’ claims?
+v. Did what you heard or read cause you to have a favorable or an unfavorable
+impression concerning the parties?
+vi. Do you today have any impression or even a tentative opinion about the probable
+17
+outcome of this case?
+4. Does any panel member have any personal interest of any kind in this case, or in the defendant(s)?
+5. If any panel member has served as a juror in the federal or state court -- either in a civil or criminal
+case -- and regardless of the outcome of such case(s), would your prior experience have any effect
+or influence on your ability to serve as a fair and impartial juror in this case?
+6. Does any panel member have any feeling -- thought -- inclination -- premonition -- prejudice --
+religious belief or persuasion -- or bias -- which might influence or interfere with your full and
+impartial consideration and which might influence you either in favor of or against either the
+defendant(s) or the government?
+7. Is there any reason in your mind why you cannot hear and consider the evidence and render a
+fair and impartial verdict?
+8. Can you take the law as the Court instructs, without any reservation whatsoever, and apply the
+Court’s instructions on the law to the facts in this case? If you cannot do this, please hold up your
+hand.
+9. Do you recognize and accept the proposition that jurors are the sole judge of the facts and the
+Court is the sole judge of the law? If you cannot do this, please hold up your hand.
+10. If you are selected as a juror in this case can you extend the presumption of innocence to this
+defendant(s); that is, can you presume the defendant(s) is/are innocent of the charge(s) unless and
+until guilt is established by proof which convinces you beyond a reasonable doubt? If you cannot
+do this, please hold up your hand.
+11. Are you -- or is any member of your immediate family -- a member of a law enforcement agency,
+i.e., municipal police, county sheriff, state highway patrol, or any federal law enforcement agency,
+either at the present time or in the past?
+12. Does any panel member feel bias -- or prejudice -- because the defendant(s) has (have) been charged
+by indictment (information) with a criminal offense(s) against the United States?
+13. Has any panel member formed or expressed any opinion as to the guilt or innocence of the
+defendant(s)?
+14. Does any panel member have:
+a. Any transportation problem? For example, does anyone have difficulty getting to or from
+the courthouse?
+b. Any medical or disability problems, such as difficulty hearing, walking , or seeing? Does
+any other medical problem exist which could affect your service on the jury?
+15. The Court and counsel estimate this trial will last days. Does any panel member have any
+immediate family or personal reason or situation that prevents you from serving as a juror during
+this period and giving your undivided attention to this case?
+16. Finally, can any of you think of any matter that you should call to the Court’s attention that may
+have some bearing on your qualifications as a juror, or that -- even to the slightest degree -- may
+prevent your rendering a fair and impartial verdict based solely upon the evidence and my
+instructions as to the law?
+18
+Appendix B
+19
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF OHIO
+WESTERN DIVISION AT DAYTON
+UNITED STATES OF AMERICA,
+Plaintiff, Case No. 3:
+vs.
+[DEFENDANT], District Judge Michael J. Newman
+Defendant.
+______________________________________________________________________________
+JOINT MOTION FOR DEFENDANT TO CHANGE PLEA
+______________________________________________________________________________
+The parties hereby jointly move this Court to permit the Defendant to change his or her
+plea in the above-captioned case.
+/s/ [Government Attorney Name] /s/ [Defendant Attorney Name]
+[Attorney Name] ([Bar Number])
+Assistant United States Attorney
+[Attorney Name] ([Bar Number])
+[Insert Firm Name]
+200 West Second Street [Insert Address]
+Dayton, OH 45402
+Telephone: [insert phone number]
+Email: [insert email address]
+[Insert City, State Zip Code]
+Telephone: [insert phone number]
+Email: [insert email address]
+Attorney for Plaintiff Attorney for Defendant

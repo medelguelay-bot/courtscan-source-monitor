@@ -1,0 +1,600 @@
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+STANDING ORDER FOR CIVIL CASES BEFORE JUDGE EUMI K. LEE
+(Updated August 31, 2026)
+I. CONFORMITY TO RULES .........................................................................................1
+II. COMMUNICATION WITH THE COURT ...................................................................1
+III. EMERGENCY APPLICATIONS ..................................................................................1
+IV. PRONOUNS AND TITLES ..........................................................................................1
+V. SCHEDULING ..............................................................................................................1
+VI. CASE MANAGEMENT CONFERENCES ..................................................................2
+VII. FILINGS AND CHAMBERS COPIES .........................................................................5
+VIII. MOTIONS AND HEARINGS .......................................................................................7
+IX. SUMMARY JUDGMENT ...........................................................................................10
+X. DISCOVERY .............................................................................................................. 11
+XI. CLASS ACTION SETTLEMENTS ............................................................................12
+XII. REQUESTS FOR MAGISTRATE JUDGE SETTLEMENT CONFERENCES .........13
+XIII. UNREPRESENTED PARTIES ...................................................................................13
+ATTACHMENT A .........................................................................................................................14
+1
+I. CONFORMITY TO RULES
+Parties and counsel shall comply with the Federal Rules of Civil Procedure, the Civil
+Local Rules, and the General Orders of the Northern District of California, except as superseded
+by this Court’s standing orders.
+II. COMMUNICATION WITH THE COURT
+Parties and counsel shall not engage in any ex parte communication with Judge Lee or
+her chambers staff by telephone, facsimile, e-mail, or any other means, unless such contact has
+been authorized in advance. Parties and counsel may contact Judge Lee’s Courtroom Deputy at
+eklcrd@cand.uscourts.gov with inquiries regarding scheduling or other administrative matters.
+All counsel and unrepresented parties shall be included on any e-mail communications with
+Judge Lee’s Courtroom Deputy.
+Judge Lee does not review or respond to letters or letter briefs providing case information
+or seeking relief from the Court, even if the letter is filed on the docket. All requests for the
+Court to take action shall be made either by stipulation and proposed order or by an appropriate
+motion filed pursuant to the Civil Local Rules.
+III. EMERGENCY APPLICATIONS
+Counsel should call and email Judge Lee’s Courtroom Deputy at (408) 535-5330 and
+eklcrd@cand.uscourts.gov to notify her if they submit an application for a temporary restraining
+order, a stipulation that requires a response from the Court within 24 hours, or any other
+emergency request.
+A party moving for emergency relief must demonstrate that it made every reasonable
+effort to notify the opposing party and the opposing party’s counsel, at the earliest possible time,
+of its intent to seek emergency relief. Failure to do so will likely result in denial of the request.
+IV. PRONOUNS AND TITLES
+If they so choose, litigants and lawyers may indicate their pronouns (e.g., she/her, he/him,
+they/their) and honorifics (e.g., Mr., Ms., Mx., Dr.) by adding the information in the name block
+or signature line of the pleadings, by filing a letter on the public docket, or by informing the
+Court at the start of a hearing.
+V. SCHEDULING
+Parties should review Judge Lee’s calendar and scheduling notes on the website
+(https://cand.uscourts.gov/judges/ekl/lee-eumi-k) for the most recent information regarding when
+and where hearings are held and specific date availability.
+Civil motions are heard by reservation only. After reviewing the website, parties and
+counsel shall meet and confer to identify proposed hearing dates that are amenable to all relevant
+2
+parties and counsel. Parties shall jointly contact Judge Lee’s Courtroom Deputy via email at
+eklcrd@cand.uscourts.gov to reserve a hearing date. When reserving a hearing date, parties must
+indicate the number and type(s) of motions to be filed.
+Once a hearing date is reserved, the motion(s) shall be filed within fourteen (14) days
+thereafter. Failure to timely file any motion will result in the expiration of the hearing
+reservation without further notice to the parties, and the moving party must obtain a new
+reservation before filing the motion(s).
+After the Court issues a scheduling order, continuances in civil cases are granted only
+upon a showing of good cause. See Fed. R. Civ. P. 16(b)(4). Any request for a continuance or
+extension of time that requires a court order must be filed not later than three (3) court days prior
+to the deadline that the party wishes to extend. Parties and counsel must demonstrate good
+cause; they may not simply stipulate that good cause has been shown. The caption of any
+request for a continuance or extension shall indicate how many previous extensions have been
+requested (e.g., “First Request for Extension”). The request must state whether the Court has
+granted those extensions and whether the Court has stated that no further extensions will be
+granted.
+VI. CASE MANAGEMENT CONFERENCES
+Unless the Court orders otherwise, case management conferences will be held remotely
+via Zoom. The attorney appearing at a case management conference must have full authority to
+make decisions about any issue that may come up during the conference but need not be lead
+counsel.
+If a defendant files a motion to dismiss that is dispositive of the entire case, the parties
+can stipulate to move the initial case management conference to 21 days after the hearing on
+that motion. Otherwise, the initial case management conference generally will not be moved.
+Parties must prepare and file a joint case management statement fourteen (14) days prior
+to the date of any case management or status conference. The joint case management statement
+shall comply with the “Standing Order for All Judges of the Northern District of California –
+Contents of Joint Case Management Statement” and Civil Local Rule 16-9. In their joint case
+management statement for the initial case management conference, the parties must propose a
+full litigation schedule, including a proposed last day to amend pleadings as well as a deadline to
+complete ADR.
+Target dates and deadlines are set forth below, including ranges to account for the
+complex nature of the case. Proposals that deviate from the timeline set forth below must be
+explained. The Court may vacate a case management conference and issue a scheduling order
+based on the parties’ written submission.
+3
+Case Stage Deadline
+Deadline to Request Leave to
+Amend Pleadings (per Fed. R. Civ.
+P. 15)
+No later than 60 days after the initial case management
+conference
+Deadline to Complete Initial ADR
+Session
+Generally 120 days after the initial case management
+conference
+Further Case Management
+Conference
+Four to eight (4-8) weeks before the close of fact
+discovery
+Close of Fact Discovery Six to eight (6-8) months after the initial case
+management conference
+Close of Expert Discovery No more than four (4) months after the close of fact
+discovery
+Close of Briefing on Summary
+Judgment and Daubert
+motions
+No more than ten (10) weeks after the close of expert
+discovery
+Hearing on Summary Judgment and
+Daubert motions
+Four (4) weeks after the final brief is submitted
+Pretrial Conference At least twelve (12) weeks after the last day to hear
+summary judgment and Daubert motions, and at least
+four (4) weeks before trial begins, with a joint pretrial
+statement due three (3) weeks before the conference
+Trial Twelve to twenty (12-20) months after the initial case
+management conference
+Mid-Discovery Case Management Statement: The Court may set a deadline for the
+filing of a mid-discovery case management statement, not to exceed ten (10) pages, at the
+approximate midpoint of the fact discovery period. The statement should address the status of
+the case and any other matters that warrant the Court’s attention. If any party believes a
+conference is needed, the party shall identify the issue(s) that require the Court’s attention and
+detail the efforts that the parties have made to resolve the issue. Such requests should be made
+on an extremely limited basis after extensive efforts to meet and confer in person or by
+videoconference.
+4
+Further Case Management Conference: The Court will hold a further case
+management conference approximately four to eight (4-8) weeks before the close of fact
+discovery. No later than fourteen (14) days before the further case management conference, the
+parties shall file a joint case management statement, not to exceed ten (10) pages, containing the
+following information:
+• Motions: All prior and pending motions, the status thereof, and any anticipated
+motions. If no briefing schedule has been set for summary judgment, Daubert, class
+certification, and any other motions, the parties shall jointly propose a schedule.
+• Status of Discovery: If discovery has not been completed, the scope of any
+anticipated further discovery, proposed modifications to the discovery plan, and a
+realistic estimate of when discovery will be complete.
+• Settlement and ADR: A description of all ADR efforts to date and whether further
+ADR efforts should be pursued prior to trial.
+• Bifurcation and Separate Trial of Issues: A statement addressing whether bifurcation
+or a separate trial of specific issues is appropriate or desired.
+• Trial: A brief statement describing each party’s readiness for trial, whether the case
+will be tried before a jury or to the Court, and a realistic estimate of the length of the
+trial.
+Close of Fact Discovery: The close of fact discovery is the date by which all discovery
+must be completed, including motions to compel, hearings on discovery motions, and any
+additional discovery resulting from orders on discovery motions. Accordingly, all discovery
+requests shall be served sufficiently in advance of the close of fact discovery to allow the
+discovering party enough time prior to the cut-off date to challenge allegedly deficient responses
+via motion to compel and to receive the necessary responses if the motion is granted. Notice of
+depositions must be given at least 30 days prior to the close of fact discovery.
+Class Certification: In putative class actions, the Court’s general practice is to issue a
+schedule through the class certification hearing. However, in their initial case management
+statement, the parties may propose a full case schedule through trial for the Court’s
+consideration. The parties should also address whether class certification and summary
+judgment motions will be briefed concurrently or consecutively. The Court typically does not
+bifurcate discovery but encourages prioritization of discovery on issues that will best serve the
+parties’ proposed case schedule.
+Daubert and Summary Judgment Motions: Motions challenging the reliability of
+expert testimony pursuant to Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579
+(1993), shall be noticed for hearing no later than the summary judgment hearing deadline. The
+parties must allow at least twelve to sixteen (12-16) weeks between the proposed summary
+judgment hearing date and the proposed final pretrial conference.
+5
+Trial Date: Generally, parties should budget no more than twelve to twenty (12-20)
+months between the initial case management conference and trial. Parties requesting longer
+pretrial periods must be prepared to justify that request at the initial case management
+conference. A trial date typically will be set at the initial case management conference, except
+for class action and patent cases. In such cases, the Court will set a trial date after ruling on class
+certification or claim construction, respectively. Trial dates will not be continued absent a strong
+showing of good cause.
+VII. FILINGS AND CHAMBERS COPIES
+A. Amended Pleadings
+All amended pleadings shall attach as an exhibit a redlined or highlighted document
+showing the changes made to the previously-filed pleading.
+B. Documents Filed on ECF
+When filing documents on ECF, each motion, supporting declaration, and exhibit should
+be filed as a separate text-searchable PDF. A declaration, along with any exhibits, should
+generally be filed as one docket entry, with the declaration as the “Main Document” in ECF, and
+each exhibit filed separately as an “Attachment.” For example, if the motion is Docket No. 20,
+and the supporting declaration is Docket No. 21, Exhibit A would be filed as Docket No. 21-1,
+Exhibit B would be Docket No. 21-2, and so on. When filing motions, declarations, and
+exhibits, the ECF “Description” of each document should include the name of the document.
+Where each party relies on the same exhibit, the later-filing party should cite to the earlier-filed
+exhibit and should not file a duplicate exhibit. If possible, the parties should meet and confer
+prior to filing a motion and submit a joint appendix of evidence.
+C. Chambers Copies
+The moving party is required to deliver two (2) complete chambers copies of the briefing
+on a motion, except for administrative motions, within two (2) court days after briefing
+concludes. Chambers copies for sealing motions are addressed below in Section VII.D.
+Chambers copies should be double-sided and should bear the ECF filing “stamp” (case
+number, docket number, date, and ECF page number) along the top of the page when possible.
+All exhibits shall be clearly delineated with labels along the right side. If the filing includes
+exhibits over two-inches thick, the parties shall place the copies in a binder. Binders should not
+exceed three inches. The copies shall be marked “Chambers Copy” and submitted to the Clerk’s
+Office in an envelope marked with “Judge Lee,” the case number, and “Chambers Copy.”
+For Social Security appeals, the Court requests that the Commissioner submit one
+chambers copy of the administrative record within five court days after electronically filing it.
+The chambers copy should be placed in one or more binders. Each document should be tabbed
+with labels along the right side. The chambers copy should be submitted to the Clerk’s Office
+and labeled with the case number, “Judge Lee,” and “Chambers Copy.”
+6
+D. Sealed Documents
+The Court requires strict compliance with Civil Local Rule 79-5. Public access to court
+records is a fundamental aspect of our democracy and justice system. The filing party must
+make a specific showing as to each statement or document to be sealed. Blanket requests that
+make generic reference to “competitive harm” are almost always insufficient. If a party files a
+request that is significantly overbroad or fails to provide a specific reason for sealing, the Court
+may deny the request in its entirety.
+Each document filed under seal must be highlighted to show the proposed redactions. If
+a party believes it is appropriate to seal an entire document, the filed document should be labeled
+to indicate that sealing is sought in full.
+In addition to complying with Civil Local Rule 79-5, each motion to seal must include a
+chart, in the format set forth below, that includes the following columns: (1) ECF number or
+exhibit number of the document sought to be sealed; (2) description or name of the document
+sought to be sealed; (3) portion(s) of the document to seal; and (4) reason(s) why the document
+should be sealed, including citation to the applicable declaration. Each separate document for
+which sealing is sought shall have its own row in the table.
+ECF No. Document Portion(s) to Seal Reason(s) for Sealing
+252 Plaintiff’s Motion
+for Summary
+Judgment
+Highlighted portions
+at 4:9-12; 10:2-7.
+Contains confidential information
+relating to the parties’ licenses and
+negotiations with third parties, and
+Plaintiff’s internal financial and
+business strategies. See Doe Decl.
+¶¶ 3-7. Public disclosure of this
+information would cause harm to
+Plaintiff. Id.
+In addition, the motion must be accompanied by a proposed order that complies with
+Civil Local Rule 79-5 and is organized in the following format. Proposed orders should be filed
+in PDF format on ECF and sent in Microsoft Word format to eklpo@cand.uscourts.gov.
+ECF No. Document Portion(s) to Seal Granted/Denied
+252 Plaintiff’s Motion
+for Summary
+Judgment
+Highlighted portions
+at 4:9-12; 10:2-7.
+[Leave blank]
+Chambers copies of sealing motions shall include only unredacted documents;
+chambers copies of redacted documents need not and shall not be submitted to the Court.
+7
+Chambers copies of unredacted documents shall clearly indicate with yellow highlighting the
+portions that the party is requesting to seal.
+VIII. MOTIONS AND HEARINGS
+A. Meet and Confer Requirement
+At least seven (7) days before filing any motion, the moving party must meet and confer
+with the opposing party or parties in person or by videoconference. During the conference, the
+moving party shall disclose the bases for its anticipated motion. The purpose of this conference
+is to resolve or narrow disputed issues where possible to reduce motion practice.
+In the notice of motion, counsel for the moving party must certify that this meet-and-
+confer requirement has been satisfied, citing specifically to this section of the Civil Standing
+Order. If the notice of motion does not include such a certification, the Court may strike the
+motion and order the moving party to re-file the motion with a certification once the meet-and-
+confer requirement has been met.
+The meet-and-confer requirement will be excused only under emergency circumstances
+where the moving party cannot reasonably comply. In such cases, the moving party must still
+certify that it has notified all other relevant parties in advance of filing its motion, and must detail
+the efforts made to meet and confer.
+B. Page Limits
+Absent leave of court, the page limits for the following types of motions and proceedings
+shall be 25 pages for the motion or opening brief, 25 pages for the opposition or response brief,
+and fifteen (15) pages for the reply brief: motions brought under Federal Rules of Civil
+Procedure 12, 23, 50, 56, 59, or 65; motions for certification of a collective action under the Fair
+Labor Standards Act; motions brought under California’s anti-SLAPP statute; Social Security
+appeals; and claim construction briefing.
+Absent leave of court, the page limits for all other types of motions and proceedings,
+except for those addressed above or those for which specific page limits are set forth in the Civil
+Local Rules or the Court’s Standing Orders, shall be ten (10) pages for the motion or opening
+brief, ten (10) pages for the opposition or response brief, and five (5) pages for the reply brief.
+Motions subject to these limits include motions for sanctions, motions for attorneys’ fees, motions
+to stay, motions to compel arbitration, and motions to remand.
+If a party files its own motion and joins in another party’s motion, both the party’s own
+motion and the joined motion will count toward the party’s page limits. Where multiple parties
+are represented by the same counsel, all motions filed by those parties are limited to a single
+brief which complies with the page limits set forth above, absent leave of court.
+These page limits are maximums, not minimums. Counsel and parties are encouraged to
+be concise. Excess pages will not be considered by the Court.
+8
+Footnotes shall not be used to cite to legal authorities or evidence. All citations to legal
+authorities or evidence shall be in the body of the brief. Excessive footnotes will be disregarded.
+In general, no more than five (5) footnotes per brief should be necessary.
+All factual and legal bases for a party’s position with respect to a motion must be
+presented in the briefing on that motion. Arguments presented in earlier-filed briefs or
+documents may not be incorporated by reference.
+Requests to enlarge page limits will rarely be granted. Stipulated requests must be filed
+at least three (3) court days prior to filing the underlying motion. If the request is made by
+administrative motion rather than stipulation, the motion must be filed at least five (5) court days
+prior to filing the underlying motion and any opposition must be filed: (a) at least three (3) court
+days before the underlying motion is filed; or (b) within the time allowed by Civil Local Rule 7-
+11, whichever is sooner.
+C. Proposed Orders
+Each motion or stipulation requesting relief from the Court shall be accompanied by a
+proposed order pursuant to Civil Local Rule 7-2(c). Each proposed order shall comply with any
+applicable Civil Local Rule. See, e.g., Civil L.R. 6-3 (proposed orders to change time), 7-11
+(proposed orders for administrative relief), 16-9 (proposed case management orders), 65-1 (proposed
+temporary restraining orders), 72-2 (proposed orders for relief from a non-dispositive Magistrate
+Judge order), 79-5 (proposed orders to seal documents). When any party requests a continuance or
+extension of time, the party must file a proposed order listing, in chart format, all future deadlines
+and the proposed extensions, illustrating how the requested relief would impact the case schedule.
+Proposed orders submitted in connection with motions for injunctive relief should state the specific
+relief sought. A party opposing a motion need not submit a proposed order.
+Each proposed order should be filed in PDF format on ECF. In addition, the moving
+party should submit a Microsoft Word copy of the proposed order to eklpo@cand.uscourts.gov.
+The Court’s signature block should not appear on a standalone page. The subject line of the
+email should include the case number and name, along with the title of the order. The email
+should not be used by litigants for substantive communications.
+D. Briefing Schedules
+The parties may stipulate to and request Court approval of a briefing schedule that differs
+from that set forth in the Civil Local Rules, noting the differences in their stipulation. Generally,
+the briefing schedule for any motion shall allow at least fourteen (14) days between the final
+filing and the hearing date. The briefing schedule for summary judgment, Daubert, and class
+certification motions shall allow at least 28 days between the final filing and the hearing date.
+9
+E. Hearing Attendance and Participation
+Hearings on civil motions will be held in-person. The Court will consider requests to
+appear via Zoom on a case-by-case basis. Joint requests are strongly preferred, and parties are
+required to meet and confer regarding such requests. If a request is granted, it will generally be
+applicable to all parties participating in the hearing as hybrid hearings are discouraged.
+Parties wishing to appear via Zoom shall file an administrative request to appear via
+Zoom and a proposed order at least one (1) week prior to the scheduled hearing date. If all
+parties wish to appear via Zoom, the parties should file a joint administrative request or
+indicate that the request is unopposed. If a request is granted, the parties must follow the
+directions provided on the Court’s website for remote participation
+(https://cand.uscourts.gov/judges/ekl/lee-eumi-k). To ensure the quality of the record, any party
+appearing remotely must have a good connection and must avoid participating from a public
+space or any other environment with background noise that could disrupt the proceedings.
+The Court welcomes and encourages oral argument by less-experienced attorneys on any
+matters before the Court. More experienced counsel for the same party may still offer argument
+for a few minutes at the end of the hearing.
+The Court may provide tentative rulings in advance of a motion hearing. If the Court
+determines that a hearing is not necessary, the hearing will usually be vacated no later than two
+(2) court days before the scheduled hearing date.
+F. Demonstratives and Presentations
+Any demonstratives or audio-visual presentations to be used at a hearing must be
+exchanged with opposing counsel and submitted to the Court at least 48 hours before the hearing.
+If this date falls on a weekend, parties are required to exchange and submit them by Friday at
+5:00 p.m. Parties shall email electronic copies of the demonstratives or presentations to Judge
+Lee’s Courtroom Deputy at eklcrd@cand.uscourts.gov.
+G. Duty of Candor
+All case citations and factual statements must be completely accurate. A citation to a
+case, statute, or other authority is counsel’s representation to the Court that the authority stands
+for the proposition asserted and is good law. A quotation of a case or other authority is counsel’s
+representation that the quoted language is complete and present in the authority cited. Counsel
+must ensure that the use of ellipses or elisions in quotes does not mislead the Court or
+misrepresent the substance of the holding or other authority. Counsel’s representations of facts
+are subject to the same requirements of completeness and accuracy. Misrepresentations of law or
+fact, however subtle, may result in sanctions and a referral to the District’s Standing Committee
+on Professional Conduct.
+10
+H. Use of Generative AI Tools
+Counsel is responsible for providing the Court with complete and accurate
+representations of the record, procedural history, and cited legal authorities. Use of generative
+artificial intelligence tools is not prohibited, but counsel must personally confirm for
+themselves the accuracy of any research conducted by these means, and counsel alone bears
+ethical responsibility for all statements made in filings. Any submission containing AI-
+generated content must include a certification that lead trial counsel has personally verified the
+content’s accuracy. Failure to include this certification or comply with this verification
+requirement will be grounds for sanctions. Counsel is responsible for maintaining records of all
+prompts or inquiries submitted to any generative AI tools in the event those records become
+relevant at any point.
+IX. SUMMARY JUDGMENT
+Each party is limited to filing one (1) motion for summary judgment. Any party wishing
+to exceed this limit must request leave of court. Unless otherwise ordered, the parties must meet
+and confer to determine if they will file cross-motions for summary judgment. The Court will
+schedule a hearing for approximately four (4) weeks after the final brief has been submitted.
+Where the parties submit cross-motions for summary judgment, only the following briefs
+will be allowed: (1) opening brief by the plaintiff side; (2) opening/opposition brief by the
+defense side; (3) opposition/reply brief by the plaintiff side; and (4) reply brief by the defense
+side. The parties may agree to reverse the order, and to have the defense side file its opening
+brief first, without order of the Court. Before the first brief is filed, the parties must submit a
+stipulation and proposed order setting a briefing schedule for the cross-motions. The first two
+briefs are limited to 25 pages; the third brief is limited to twenty (20) pages; and the fourth brief
+is limited to fifteen (15) pages. The fourth brief must be filed at least 28 days before the hearing.
+At least seven (7) days before the opening brief is filed, the parties shall file a concise
+joint status report that identifies: (1) the claims, counterclaims, and defenses that remain to be
+decided; (2) the pleading in which each claim, counterclaim, or defense is asserted; and (3) each
+claim, counterclaim, defense, or issue for which a party will move for summary judgment.
+Moving Separate Statement: Any party moving for summary judgment, partial
+summary judgment, or summary adjudication must include a separate, short and concise
+statement identifying each claim or defense for which the moving party contends there is no
+genuine issue to be tried. In most cases, the statement should not exceed fifteen (15) pages. For
+each claim, defense, or part thereof, the moving separate statement must: (a) identify the
+relevant elements or issues; (b) list the asserted material facts establishing or negating those
+elements or issues; and (c) cite to record evidence demonstrating that the asserted material facts
+are undisputed (e.g., deposition testimony, declaration, or discovery response). Upon filing, the
+moving party shall provide the moving separate statement to all other parties in Microsoft Word
+format for ease of response. The moving separate statement must be organized in the form of a
+chart as shown in Attachment A.
+11
+Responsive Separate Statement: The papers opposing a motion for summary judgment,
+partial summary judgment, or summary adjudication must include a responsive separate
+statement which: (a) incorporates the moving separate statement; (b) indicates whether each of
+the facts listed in the moving separate statement is disputed or undisputed; and (c) identifies any
+additional material facts the party contends will establish a genuine issue to be tried. If the
+opposing party contends that a fact is in dispute, the opposing party must cite to evidence in the
+record establishing the dispute.
+In most cases, the responsive separate statement should add no more than five (5) pages
+to the moving separate statement. The responsive separate statement must be organized in the
+form of a chart as shown in Attachment A.
+Reply Separate Statement: The moving party may file a reply separate statement which
+incorporates and responds to the responsive separate statement in the same manner described
+above. The reply separate statement shall not introduce any new asserted material facts.
+Deemed Admitted Unless Controverted: Each numbered fact in the separate
+statements will be deemed to be admitted, for purposes of the motion only, unless specifically
+controverted by the opposing party, so long as the moving party meets its burden under Federal
+Rule of Civil Procedure 56.
+Attestation: Each separate statement must be signed by counsel or unrepresented party
+who has reviewed the document and attests as follows: I attest that the evidence cited herein
+fairly and accurately supports or disputes the facts as asserted.
+Additional Guidance: The separate statements shall not include argument in support of
+the summary judgment motion and shall not be used to circumvent the page limits that apply to
+summary judgment briefing. Parties should include only those facts that are actually cited in the
+briefs. Facts that are not cited in the summary judgment briefs will not be considered.
+Objections: Objections to evidence shall be contained within the objecting party’s brief.
+X. DISCOVERY
+Discovery in almost all cases will be referred to a magistrate judge. The parties must
+follow the magistrate judge’s procedures. Upon the development of an impasse with respect to
+discovery, the parties must first meet and confer; that is, counsel for each party shall meet and
+confer in person or via videoconference to attempt to resolve their dispute informally. A mere
+exchange of letters, emails, or telephone calls does not satisfy the meet and confer requirement.
+Parties requesting a protective order are encouraged to base any proposed order on the
+model protective orders on the Northern District of California’s website. When filing a
+proposed protective order, at the very beginning of their stipulation or motion, parties must
+indicate whether they have based their proposed order on one of the Northern District’s model
+orders. If they have, they must identify any deviations from the model order by submitting as
+an exhibit a redlined or highlighted comparison of their proposed order and the model order.
+12
+XI. CLASS ACTION SETTLEMENTS
+In connection with motions for approval of class settlements, the parties shall comply
+with the requirements set forth in the Northern District’s Procedural Guidance for Class Action
+Settlements, available at https://cand.uscourts.gov/rules-forms-fees/northern-district-
+guidelines/procedural-guidance-class-action-settlements. In addition, the following shall
+apply.
+A. Preliminary Approval
+The Court conducts a searching inquiry at the preliminary approval stage to avoid the
+costs and pitfalls of proceeding to final approval of a settlement that is unlikely to satisfy Rule
+23(e). Release language should make clear that the class members are releasing claims based
+only on the identical factual predicate. Hesse v. Sprint Corp., 598 F.3d 581, 590 (9th Cir. 2010).
+Each proposed notice should make that clear as well.
+If a proposed notice to class members (or prospective class members) requires a written
+objection as a prerequisite to appearing in court to object to the settlement, the notice must
+specify that this requirement may be excused upon a showing of good cause. The Court will
+require only substantial compliance with the requirements for submitting an objection, and this
+should be made clear in any notice to class members.
+B. Notice and Claims Procedure
+The proposed notices, claims forms, and other documents associated with preliminary
+approval should be sent in Microsoft Word format to eklpo@cand.uscourts.gov. For large
+settlements, the parties are encouraged to include an opt-out form and an objection form.
+Proposed notices must be written in plain language without unnecessary acronyms. The
+parties should consider using the model notices provided by the Federal Judicial Center,
+https://www.fjc.gov/content/301253/illustrative-forms-class-action-notices-introduction, and
+the Notice Project, https://noticeproject.org/templates-downloads. The motion must discuss
+whether notice by email and/or social media, use of online claims and opt-out forms, and a
+website for the settlement are appropriate, and if not, explain why not.
+In a proposed settlement involving the distribution of money to a class, the motion must
+discuss whether unclaimed funds should be redistributed to class members who claimed their
+share, and if not, explain why not. If the settlement requires class members to file claims, as
+opposed to simply receiving checks, the motion must address why that is appropriate.
+C. Final Approval
+In proposing a schedule for final approval of a class settlement, the parties must ensure
+that the motion for attorneys’ fees is filed at least 35 days before the deadline for objecting to the
+settlement. The Court will order parties to re-send notices if the motion for attorneys’ fees is
+filed late. The proposed order granting final approval should list all dates relating to the
+administration of the settlement, including the dates for when the checks distributing the
+13
+settlement fund payments will be mailed to class members. The parties shall file a proposed
+judgment separately from their proposed order granting final approval.
+Within 21 days after the settlement funds have been fully distributed to class members
+(but before distribution to cy pres recipients), class counsel will be required to file a Post-
+Distribution Accounting, as described in the Northern District’s Procedural Guidance for Class
+Action Settlements. In addition to the information contained in the Guidance, the Post-
+Distribution Accounting must discuss any significant or recurring concerns communicated by
+class members to the settlement administrator or counsel since final approval, any other issues in
+settlement administration since final approval, and how any concerns or issues were resolved.
+The Court will typically withhold between 10% and 20% of the attorneys’ fees granted at final
+approval until after the Post-Distribution Accounting has been filed. The proposed order
+granting final approval should specify what percentage class counsel believes it is appropriate to
+withhold. With the Post-Distribution Accounting, class counsel should submit a proposed order
+releasing the remainder of the fees.
+XII. REQUESTS FOR MAGISTRATE JUDGE SETTLEMENT CONFERENCES
+The Court generally does not refer cases for settlement with a magistrate judge unless the
+parties have already completed one of the other processes set forth in ADR Local Rule 3-4 (i.e.,
+Early Neutral Evaluation, Mediation, or Private ADR). Parties who complete one of these
+processes without reaching a settlement may request referral to a magistrate judge at that time. If
+the parties believe their case merits an exception to this rule, they should discuss their views in
+the initial case management statement.
+XIII. UNREPRESENTED PARTIES
+Parties representing themselves may wish to contact the Federal Pro Se Program, a free
+program that offers limited legal services to pro se litigants. The Federal Pro Se Program has an
+office in the San Jose Courthouse in Room 2070 on the 2nd Floor. Parties may make
+appointments by visiting the office or calling (408) 297-1480. Additional information is
+available at https://cand.uscourts.gov/representing-yourself.
+IT IS SO ORDERED.
+Dated: August 31, 2026
+EUMI K. LEE
+United States District Judge
+14
+ATTACHMENT A
+Template for Moving Separate Statement
+Claim or Defense Moving Party’s Undisputed Facts
+& Supporting Evidence
+Opposing Party’s Response &
+Supporting Evidence
+Claim 1: Breach of Contract
+Issue 1. Plaintiff did
+not perform under
+the contract
+Fact 1. Defendant issued a
+homeowner’s insurance policy to
+Plaintiff.
+Jones Decl. ¶¶ 4-5 and Ex. A
+(policy).
+[Left blank for opposing party’s
+response]
+Fact 2. Plaintiff failed to pay
+premiums required by the policy.
+Jones Decl. ¶ 6
+Issue 2. Defendant
+did not breach the
+contract
+Fact 3. The policy expressly
+excludes coverage for loss resulting
+from theft.
+Jones Decl. ¶¶ 9-10 and Ex. A
+(policy).
+Punitive Damages
+Issue 1. Plaintiff
+cannot establish that
+Defendant acted
+with oppression,
+fraud, or malice
+Fact 4. Defendant timely
+investigated Plaintiff’s insurance
+claim.
+Jones Decl. ¶¶ 18-20.
+15
+Template for Responsive Separate Statement
+Claim or Defense Moving Party’s Undisputed Facts
+& Supporting Evidence
+Opposing Party’s Response &
+Supporting Evidence
+Claim 1: Breach of Contract
+Issue 1. Plaintiff did
+not perform under
+the contract
+Fact 1. Defendant issued a
+homeowner’s insurance policy to
+Plaintiff.
+Jones Decl. ¶¶ 4-5 and Ex. A
+(policy).
+Undisputed.
+Fact 2. Plaintiff failed to pay
+premiums required by the policy.
+Jones Decl. ¶ 6
+Disputed. Plaintiff timely paid
+the premiums required by the
+policy. Smith Dep. 22:4-23:19.
+Opposing Party’s Additional Material Facts on this Issue
+Additional Fact 1. Defendant has
+failed to record Plaintiff’s timely
+premium payments on two prior
+occasions.
+Smith Dep. 72:8-14.
+[Left blank for moving party’s
+reply]
+Issue 2. Defendant
+did not breach the
+contract
+Fact 3. The policy expressly
+excludes coverage for loss resulting
+from theft.
+Jones Decl. ¶¶ 9-10 and Ex. A
+(policy).
+Disputed. The policy does not
+exclude coverage for loss
+resulting from theft.
+Jones Decl. Ex. A (policy).
+Punitive Damages
+Issue 1. Plaintiff
+cannot establish that
+Defendant acted
+with oppression,
+fraud, or malice
+Fact 4. Defendant timely
+investigated Plaintiff’s insurance
+claim.
+Jones Decl. ¶¶ 18-20.
+Disputed. Defendant waited
+more than 4 months before
+investigating Plaintiff’s claim.
+Smith Dep. 79:15-80:4.

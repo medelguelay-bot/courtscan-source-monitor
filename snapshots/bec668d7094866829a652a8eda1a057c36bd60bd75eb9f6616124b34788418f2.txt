@@ -1,0 +1,814 @@
+The Honorable Mark A. Kearney
+Judge, United States District Court
+Room 6613, U.S. Courthouse
+601 Market Street
+Philadelphia, PA 19106
+267-299-7680
+Fax: 267-299-5023
+Chambers_of_Judge_Kearney@paed.uscourts.gov
+POLICIES AND PROCEDURES (February 2026)
+The Policies and Procedures (“Policies”) apply to all matters unless varied by Judge
+Kearney’s Order as necessary on a case-by-case basis. The Policies are intended to answer a wide
+variety of questions. To the extent counsel or a party has a question not addressed by these Policies,
+telephone inquiries should be directed as appropriate to Courtroom Deputy Ulrike Bower at 267-
+299-7688 or Ulrike_Bower@paed.uscourts.gov with a copy to
+Chambers_of_Judge_Kearney@paed.uscourts.gov
+TABLE OF CONTENTS
+I. Policies applying in all matters. .......................................................................................... 1
+A. We permit correspondence in limited circumstances. ................................................ 1
+B. Telephone inquiries and conferences as warranted .................................................... 1
+C. No telephone communications from pro se parties ..................................................... 1
+D. No communication with law clerks or interns ............................................................. 2
+E. Electronic Case Filing (“ECF”) under Rule 5.1.2 is required of all counsel ............ 2
+F. Courtesy copies of ECF filings shall be provided only as directed............................ 2
+G. Required scrutiny of proposed sealed or redacted documents .................................. 2
+H. Requirements for website references and artificial intelligence use ......................... 3
+I. We encourage development of trial lawyers ................................................................ 3
+J. Pro hac vice motions ...................................................................................................... 4
+K. Local counsel’s continuing obligations......................................................................... 5
+II. Initial steps in civil matters. ................................................................................................ 6
+A. Rule 16 Conference and Rule 26(f) meeting are substantive obligations. ................ 6
+E. Obligations for threshold motions. ............................................................................... 7
+F. Prompt resolution of matters through ADR and settlement conferences. ............... 8
+G. Motions to amend pleadings. ........................................................................................ 8
+ii
+H. Amending pleadings as a matter of course. ................................................................. 8
+I. Continuances, amendments, and extensions of scheduling. ....................................... 8
+III. Discovery. .............................................................................................................................. 9
+A. Discovery expectations................................................................................................... 9
+B. Resolving discovery or scheduling disputes. ................................................................ 9
+IV. Motion practice for non-discovery or non-scheduling issues in all matters. ................ 11
+A. Proposed orders and motions. .................................................................................... 11
+B. Must recite position of all parties absent a stipulation. ............................................ 11
+C. Briefs/legal memoranda............................................................................................... 11
+D. Post-trial motion procedure. ....................................................................................... 11
+VI. Additional protocol for Rule 56 motions. ........................................................................ 12
+A. Separate statements of material facts. ....................................................................... 12
+B. Memoranda with a table of contents if warranted. .................................................. 12
+C. Appendix. ...................................................................................................................... 12
+D. Courtesy copy provided to Chambers........................................................................ 13
+VII. Final pretrial proceedings. ................................................................................................ 13
+A. Pretrial memoranda..................................................................................................... 13
+B. Motions in limine. ......................................................................................................... 13
+C. Final pretrial conference. ............................................................................................ 14
+VIII. Injunctions. ......................................................................................................................... 14
+IX. Class Action settlement best practices. ............................................................................ 14
+X. Arbitration. ......................................................................................................................... 14
+XI. Trial Procedure. ................................................................................................................. 14
+A. Scheduling. .................................................................................................................... 14
+B. Courtroom technology. ................................................................................................ 15
+C. Cases involving out-of-town parties or witnesses. ..................................................... 15
+D. Jury selection in civil cases. ......................................................................................... 15
+E. Courtroom protocol. .................................................................................................... 15
+F. Note-taking by jurors. ................................................................................................. 16
+G. Trial briefs. ................................................................................................................... 16
+H. Examining witnesses out of sequence. ........................................................................ 16
+iii
+I. Opening statements and summations......................................................................... 16
+J. Examination of witnesses or argument. ..................................................................... 16
+K. Videotaped testimony. ................................................................................................. 16
+L. Preparing, admitting, and delivering admitted trial exhibits to Chambers. .......... 16
+M. Sidebar or evidentiary conference. ............................................................................. 17
+N. Directed verdict motions. ............................................................................................ 17
+O. Proposed jury instructions and verdict forms........................................................... 17
+P. Proposed findings of fact and conclusions of law in non-jury cases........................ 17
+Q. Unavailability of witness.............................................................................................. 18
+R. Objections. .................................................................................................................... 18
+XII. Jury deliberations. ............................................................................................................. 18
+A. Written jury instructions. ........................................................................................... 18
+B. Exhibits in the jury room. ........................................................................................... 18
+C. Availability of counsel during deliberation. .............................................................. 18
+D. Taking the verdict and special verdicts. .................................................................... 18
+E. Polling the jury. ............................................................................................................ 18
+F. Interviewing the jury. .................................................................................................. 19
+XIII. Judge Kearney’s additional procedures in criminal cases. ............................................ 19
+A. Motions practice in criminal cases. ............................................................................ 19
+B. Trial continuances. ....................................................................................................... 19
+C. Pretrial conferences. .................................................................................................... 19
+D. Voir Dire. ...................................................................................................................... 20
+E. Guilty pleas. .................................................................................................................. 20
+F. Sentencing ..................................................................................................................... 21
+1
+I. Policies applying in all matters.
+A. We permit correspondence in limited circumstances.
+We are governed by Fed. R. Civ. P. 7(b) and Fed. R. Crim. P. 47(a). Other than as listed
+below or otherwise directed by Judge Kearney, a request for direction must be made through a
+pleading, motion, application, or similar filing with service upon all parties. Requests for extension
+of time to respond to a pleading or motion or a request for the extension of the dates in a scheduling
+order must be made by motion or stipulation demonstrating good cause which can be reviewed
+and ruled upon. Judge Kearney will not accept letter requests for extensions of time set by the
+Federal or Local Rules or our scheduling Orders.
+Counsel shall not send copies of correspondence among themselves to Judge Kearney.
+Correspondence, not to exceed two pages, may be emailed, faxed , or mailed to Chambers copied
+to all counsel and unrepresented parties only in the following instances:
+1. Counsel are specifically requested by the Court to communicate
+information by letter;
+2. An uncontested request for an extension of sentencing;
+3. A scheduling request based on an unanticipated and irreversible personal
+matter concerning counsel, a party or counsel’s immediate family not warranting public access ;
+or,
+4. A case, or portions of a case, settled.
+This limited correspondence must include a specific and candid description of the situation
+requiring Judge Kearney’s attention and the position of the opposing party. Correspondence may
+be sent by email, fax, or mail to the Chambers’ Philadelphia address above.
+We will not accept unsolicited communications unless pre-approved by Judge Kearney.
+B. Telephone inquiries and conferences as warranted.
+Judge Kearney may hold telephone conferences. Chambers will notify counsel of the date
+and time for the telephone conference.
+C. No telephone communications from pro se parties.
+Telephone and fax communications by a pro se party are prohibited unless approved by
+Judge Kearney beforehand and an ESR/Court Reporter is present. Pro se parties may not appear
+for hearings by telephone unless permitted for good cause, such as incarcerated persons in civil
+cases.
+2
+D. No communication with law clerks or interns.
+Counsel and parties are not permitted to communicate with the Judge’s law clerks or interns
+on substantive or scheduling matters unless specifically directed by the Judge on a particular issue.
+E. Electronic Case Filing (“ECF”) under Rule 5.1.2 is required of all counsel.
+Counsel shall file all papers required to be filed under the Federal or Local Rules of Civil
+and Criminal Procedure electronically through ECF.
+F. Courtesy copies of ECF filings shall be provided only as directed.
+Courtesy copies shall only be provided to Chambers for a filing over thirty-five pages and
+as required under these Policies (e.g. Rule 56 papers) or otherwise requested by Chambers. The
+courtesy copy shall be the ECF document with the ECF notation at the top of each page, unless
+otherwise ordered. All courtesy copies are to be delivered to the Clerk’s Office to the attention of
+Judge Kearney contemporaneous (as best as possible) with filing.
+G. Required scrutiny of proposed sealed or redacted documents.
+Confidentiality Orders. Counsel may not shift the burden of ensuring public access of filed
+documents through a private confidentiality agreement where counsel require all privately
+designated “confidential” or “highly confidential” documents to be filed under seal. Parties are
+expected to redact personal identifiers consistent with Local Rules.
+Judge Kearney will not enter a protective order on confidentiality during discovery unless
+statutorily required but will enforce private confidentiality agreements as a matter of contract law
+for good cause shown.
+Sealed filings . Any party seeking to file documents under seal must comply with the
+Court’s Standing Order when timely filing the motion to seal (under Section IV below) before
+filing the substantive motion (unless impossible due to time exigencies) as narrowly as possible,
+articulate good cause consistent with our Court of Appeals’ precedent, contemporaneously file the
+sealed records under a “Notice of Sealed Documents in support of [requested relief]” by emailing
+to ECF_Documents@paed.uscourts.gov, and contemporaneously email the documents sought
+to be sealed to our Chambers. Counsel must separately analyze the claimed need to preclude public
+3
+access on a line -by-line basis under our Court of Appeals’ analysis in In re Avandia Marketing 1
+and guided by Chief Judge Connolly’s analysis in In re Storag Etzel GmbH.2
+We may schedule in camera hearings to address motions to seal extensive materials where
+trial counsel shall appear and show cause as to each line of material counsel deems precluding
+public access if not done so before requiring a hearing.
+H. Requirements for website references and artificial intelligence use.
+Filings referencing a website shall attach a screenshot of the cited website reference as an
+exhibit.
+Parties and counsel may be subject to sanction should we find false representations
+including artificial intelligence hallucinations under the Rules of Professional Conduct and Rules
+of Civil and Criminal Procedure. See, e.g., Harvey v. Jenson, No. 25-6454, ECF 24 (E.D. Pa. Dec.
+12, 2025); Lifetime Well LLC v. IBSpot.com Inc. , No. 25-5135, 2026 WL 195644 (E.D. Pa. Jan.
+26, 2026); Rosario v. Liberty Mut. Pers. Ins. Co., No. 26-276, 2026 WL 413438 (E.D. Pa. Feb. 13,
+2026). Parties and counsel are on notice to double-check their citations and reliance on artificial
+intelligence in a filing to ensure the arguments and citations to authority say what you represent to
+the Court.
+I. We encourage development of trial lawyers.
+We r ecognize the importance of developing future generations of federal court trial
+lawyers. We encourage trial counsel to assign court presentations to less experienced attorneys
+unless we require lead counsel’s presence (e.g., Rule 16 and settlement conferences). We are aware
+experienced trial counsel may not be directly involved in the day-to-day of the discovery process,
+issues in dispositive motions, or with a particular witness or issue at trial. If warranted, we
+encourage the parties and thoughtful trial counsel to allow well -prepared but less experienced
+attorneys to present their client’s best position where, for example, the less experienced attorney
+1 In re Avandia Mktg., Sales Prac tices & Prods. Liab. Litig. , 924 F.3d 662 (3d Cir. 2019). The
+party seeking to rebut the presumption of public access to a judicial document bears the burden of
+showing “the interest in secrecy outweighs the presumption” and “the material is the kind of
+information that courts will protect and that disclosure will work a clearly defined and serious
+injury to the party seeking disclosure.” Id. at 672 (cleaned up). To meet Avandia’s standard, we
+must be able to articulate “the compelling, countervailing interests to be protected,” make “specific
+findings on the record concerning the effects of disclosure,” and “provide[ ] an opportunity for
+interested third parties to be heard.” Id. at 672–73 (citation omitted). We must be specific in the
+injury to be prevented by sealing, and conduct “careful factfinding and balancing of competing
+interests” before the “strong presumption” of the public’s right to access can be overcome by the
+“secrecy interests of private litigants.” Id. at 673 (citation omitted). A party’s private agreement
+does not govern our obligation of ensuring public access.
+2 No. 19-mc-209, 2020 WL 2949742 (D. Del. Mar. 25, 2020) , adopted except for the First
+Amendment analysis, 2020 WL 2915781 (D. Del. June 3, 2020).
+4
+lived with the facts or drafted or contributed significantly to the briefing. If requested before an
+argument, we may allow more experienced trial counsel to assist the less experienced attorney
+arguing the motion, where appropriate during oral argument.
+There are many different circumstances where it is not appropriate for a less experienced
+attorney to solely present the client’s position, particularly where we require trial counsel’s
+presence. Depending on the attorney-client relationship, strategy on court appearances may be the
+client’s decision and we do not wish to interfere in the client’s decision. We draw no inference
+from a party’s decision not to have a less experienced attorney present the position. Similarly, we
+draw no inference about the importance of a particular position, or the merits of a party’s position,
+from the party’s decision to have (or not to have) a less experienced attorney present the position.
+We only wish to encourage the experienced members of this Court’s Bar and their clients to
+develop their next generation of trial lawyers.
+J. Pro hac vice motions.
+We welcome attorneys with particular expertise in the issues before the Court in a certain
+matter or experience with a client’s matters to represent clients strictly consistent with the Rules
+of Professional Conduct and these Policies. Motions for pro hac vice admission should be made
+as soon as possible. Thoughtful opposition to a motion for pro hac vice must be filed within one
+business day of the filing of the motion.
+The attorney moving for admission of an attorney pro hac vice must:
+1. Be admitted to practice in Pennsylvania and in good standing before this
+Court;
+2. Earlier his/her/their appearance in the matter and confirms his /her/their
+continuing obligations under Section I.K. of our Policies below;
+3. Describe the reasons the client requires this lawyer’s special admission, i.e.,
+what does the applicant offer which cannot be provided by the attorney admitted in our Court;
+4. Recite the positions of all counsel regarding the motion.
+5. Attach the affidavit of the attorney seeking admission pro hac vice swearing
+as to:
+a. Year and jurisdiction of each Bar admission as well as the lawyer’s
+status i.e., active or inactive, in good standing, etc.;
+b. Whether the attorney has ever been suspended from the practice of
+law in any jurisdiction or received a public reprimand by the highest disciplinary authority of any
+Bar in which the attorney has been a member;
+5
+c. Reading and agreeing to be bound by the most recent edition of the
+Pennsylvania Rules of Professional Conduct , this Court’s Local Rules, and these Policies as
+amended; and,
+d. Good faith assurance of fully advising counsel who moved for the
+pro hac vice admission of the current status of the case for which pro hac vice status has been
+granted and of all material developments in the case.
+K. Local counsel’s continuing obligations.
+The admission of counsel pro hac vice does not relieve associate local counsel and the
+attorney moving the admission of responsibility for counsel admitted pro hac vice. Judge Kearney
+requires local counsel sign all filings. While local counsel shall be available by phone and prepared
+to substantively address fact and legal issues for every case, we also require local counsel to be
+present in Court (or on the telephone with leave) for a presentation on patent/ANDA, class,
+collective, qui tam, derivative, multi-party, criminal matters designated as complex or every case
+designated on the Special Case Management track or transferred to our docket from the Multi
+District Litigation Panel. We do not reschedule confirmed and attached trial dates based on
+specially admitted counsel’s conflicts.
+L. Remote conferences.
+We may allow telephonic or video conferences for matters not involving pro se parties who
+are not in custody. We require conferences involving pro se parties not in custody to be held in
+the Courtroom unless excused based on extraordinary grounds such as a courthouse closure.
+Participants in telephonic or video conferences and their agents may not record or
+otherwise create an artificial intelligence summary of off -the-record proceedings consistent with
+our practices in the Courtroom and the Court’s published Protocols for Remote Proceedings
+(https://www.paed.uscourts.gov/sites/paed/files/documents/Protocols%20for%20Remote%20Pro
+ceedings.pdf).
+Counsel may timely request the proceeding be recorded by the Court if available based on
+the timeliness of the request.
+M. Pro se proceedings.
+We require all scheduling conferences and hearings with pro se parties not in custody to
+be held in the Courtroom unless excused by Judge Kearney for extraordinary reasons based on
+Judge Kearney’s schedule
+6
+II. Initial steps in civil matters.
+A. Rule 16 Conference and Rule 26(f) meeting are substantive obligations.
+The initial pretrial conference ( see Fed. R. Civ. P. 16 and Local Rule 16.1) may be
+scheduled shortly after a defendant has entered an appearance. Counsel should expect a substantive
+discussion on the merits of claims and plead ed defenses, discussion of settlement, discovery
+scheduling, and setting a date certain trial.
+B. Rule 26(f) meeting and joint report.
+Judge Kearney relies on counsel ’s good faith compliance in all respects with Rule 26(f).
+Parties should complete the Rule 26(f) meeting as soon as possible. This meeting is a meaningful
+and substantive discussion to address prompt settlement positions, formulate the proposed
+discovery plan, and discuss the parties’ factual and legal positions.
+Pending motions will not excuse the requirements of holding the meeting and submitting
+the plan. Parties who do not comply will have no input at the initial pretrial conference.
+Unless waived for good cause, our scheduling Order will begin discovery and require the
+parties to file a comprehensive joint report of the Rule 26(f) meeting at least one day before the
+initial pretrial conference fully compliant with the “Report of Rule 26(f) Meeting” form provided
+on the District’s web page: www.paed.uscourts.gov/judges-info/district-court-judges/mark-
+kearney.
+C. Additional disclosures in patent non-ANDA cases.
+In patent non-ANDA cases, the comprehensive joint report of the Rule 26(f) meeting shall
+include proposed dates for the exchange, in steps, of required information to plan for a
+Markman hearing as soon as practicable under Fed. R. Civ. P. 1:
+1. Plaintiff shall identify the accused product(s), including accused methods
+and systems, and its damages model, as well as the asserted patent(s) that the accused product(s)
+allegedly infringe(s). Plaintiff shall also produce the file history for each asserted patent;
+2. Defendant shall produce core technical documents related to the accused
+product(s), sufficient to show how the accused product(s) work(s), including but not limited to
+non-publicly available operation manuals, product literature, schematics, and specifications.
+Defendant shall also produce sales figures for the accused product(s);
+3. Plaintiff shall produce an initial claim chart relating each known accused
+product to the asserted claims each such product allegedly infringes;
+4. Defendant shall produce its initial invalidity contentions for each asserted
+claim, as well as the known related invalidating references;
+7
+5. The exchange of final infringement contentions;
+6. Finally supplement, among other items , the identification of all accused
+products and of all invalidity references; and,
+7. Date for Markman hearing and scope of Markman hearing.
+D. Obligations for the Rule 16 conference.
+The initial pretrial conference is a substantive discussion addressing, at a minimum: items
+listed in Fed. R. Civ. P. 16 and Local Rule 16.1(b); completion of self-executing disclosures under
+Fed. R. Civ. P. 26(a); a review of the required stipulated facts; disclosure of insurance coverage
+and deductibles; requests for a Fed. R. Evid. 502(d) Order; status of pending discovery; the
+preservation, production and cost allocation of electronically stored information; status of
+settlement demands and offers and proposed timing of mediation; and, specific facts regarding
+liability, damages and relief sought. Lead counsel must advise Judge Kearney of any conflict in
+scheduling a trial beginning in four months after the Rule 16 Conference and thereafter. Judge
+Kearney will issue a Scheduling Order shortly after the conclusion of the initial pretrial conference.
+Absent compelling grounds provided in writing before the conference, counsel attending
+the initial pretrial conference shall be designated as lead trial counsel. If lead counsel is excused
+in advance of the conference, the attorney appearing must have access to lead counsel’s calendar
+during the proceeding. Lead trial counsel shall be prepared to discuss settlement at the initial
+pretrial conference, including having full authority from clients on settlement. Counsel may not
+claim lack of authority to discuss settlement with opposing counsel and Judge Kearney unless the
+client or carrier representative with full authority is present at the initial pretrial conference.
+E. Obligations for threshold motions.
+Parties seeking to move to dismiss, strike, remand, transfer, substitute parties, and other
+threshold issues shall:
+1. Confirm the movant meaningfully conferred in good faith with the
+represented party (does not apply to pro se parties) subject to the anticipated motion including
+specifically identifying the communications and shared resolution to resolve the issue particularly
+on motions to dismiss based on the perceived inadequacy of the pleading or venue issues which
+can often be readily resolved by an amended pleading or stipulated transfer or remand;
+a. We interpret “meaningfully conferred” to include sharing the movant’s
+arguments in summary fashion as well as citations to caselaw addressing each point expected to
+be included in moving papers;
+2. Be prepared to address the merits of a pending or anticipated threshold
+motions at the initial pretrial conference, even if not fully briefed at that time; and,
+8
+3. We remind incarcerated persons must provide sworn allegations confirming
+they exhausted their internal grievance or administrative remedies before filing suit when
+responding to a challenge for failure to exhaust. See Lauria v. C.O. Lieb, 152 F.3d 549 (3d Cir.
+2025).
+F. Prompt resolution of matters through ADR and settlement conferences.
+To the extent counsel cannot resolve the case before or during the initial pretrial
+conference, Judge Kearney will direct all parties and client representatives with full settlement
+authority to meet as soon as possible for a settlement conference with either a United States
+Magistrate Judge or private mediator. Counsel must comply with all requirements regarding
+meaningful settlement efforts.
+Counsel are reminded meaningful participation in an early alternative dispute resolution
+(“ADR”) effort is strongly encouraged and will be discussed passim, including in the initial pretrial
+conference. Counsel, familiar with the Court’s mediation program and Local Rule 53.3, will have
+explored ADR feasibility, including court -annexed mediation, not only between themselves but
+with their clients as well. As shown, the specific reason for any decision not to participate in a
+form of early ADR shall be specifically detailed in the Rule 26(f) report.
+G. Motions to amend pleadings.
+A motion to amend a pleading shall: identify all parties’ positions on the proposed
+amendments and attach the proposed amended pleading either blacklined or highlighted solely to
+show the change in the pleading.
+H. Amending pleadings as a matter of course.
+A party filing an amended pleading as a matter of course under Fed . R. Civ. P. 15(a)(1)
+must attach as an exhibit a blackline d or highlighted copy of the pleading solely to show the
+changes in the pleading.
+I. Continuances, amendments, and extensions of scheduling.
+Unless there is demonstrated good cause in writing to justify a change, the parties are
+expected to adhere to the schedule contained in Orders setting obligations or, absent an Order, the
+default dates in the Federal or Local Rules . A request for an extension or continuance of the trial
+date will not be granted absent extraordinary circumstances.
+Stipulations. Judge Kearney may approve a timely stipulation for a continuance or
+extension if the continuance or extension upon a showing of good cause and if it does not affect
+the trial date.
+Contested scheduling. If a non-incarcerated party opposes a continuance or extension, the
+movant may move under Section III.B below identifying the basis for the continuance or extension
+and detail the positions of other parties with a proposed order.
+9
+III. Discovery.
+The Federal and Local Rules of Civil Procedure call for voluntary, cooperative discovery
+in a timely manner. In 2010, the Judicial Conference Advisory Committee on Civil Rules
+sponsored a symposium on civil litigation culminating in the 2015 amendment to the Federal Rules
+of Civil Procedure. In his 2015 Year -End Report on the Federal Judiciary, Chief Justice Robe rts
+highlighted these amendments and suggested both judges and practitioners “must take to heart”
+the change to Rule 1: the Civil Rules “should be construed, administered, and employed by the
+court and the parties to secure the just, speedy, and inexpensive determination of every action and
+proceeding.”3 The information required to be disclosed under Fed. R. Civ. P. 26(a) is required to
+be exchanged no later than seven days after the date of the Order scheduling the Rule 16
+conference. The parties and Counsel are expected to act in accordance with both the letter and the
+spirit of the Rules. The parties should be familiar with Guidelines and Best Practices for
+Implementing the 2015 Discovery Amendments Concerning Proportionality (Third Edition)
+published by the Bolch Judicial Institute (formerly the Duke Law Judicial Studies Center)
+https://scholarship.law.duke.edu/bolch/.
+A. Discovery expectations.
+Absent demonstrated good cause in a complex case, the parties should expect discovery to
+be complete after ninety days from the initial Order beginning discovery. If not done already, the
+parties are required to commence core party written discovery upon Order and immediately upon
+receipt of notice of the date of the Rule 16 conference unless stayed by statute or order. Core party
+written discovery includes, among other efforts: document requests; admissions; and
+interrogatories. It does not include third-party discovery or depositions before the initial scheduling
+conference unless specifically ordered for good cause. Counsel will be required to report on the
+progress of core party written discovery at the initial pretrial conference.
+It is expected the parties will reach an agreement on conducting electronic discovery.
+Absent an agreement before the initial pretrial conference, Judge Kearney will apply our Order
+incorporating default standards which should be reviewed at the District’s web page under Judge
+Kearney’s information.
+B. Resolving discovery or scheduling disputes.
+Counsel will proceed in discovery in a cooperative manner consistent with their
+professional obligations including full disclosure. If a discovery dispute cannot be resolved, Judge
+Kearney expects the Local Rule 26.1(f) certification will be substantive, specific, and meaningful
+including describing the opposing party’s position . For example, it is not sufficient to certify
+“counsel can’t reach opposing counsel”; “reasonable efforts have been made but were
+unsuccessful”; “counsel have conferred in good faith”; “counsel repeatedly conferred with
+opposing counsel” or similar generalities. See, e.g., Naviant Mktg. Sols., Inc. v. Larry Tucker, Inc.,
+339 F.3d 180, 186 (3d Cir. 2003); Evans v. Am. Honda Motors Co., Inc., No. 00-2061, 2003 WL
+3 https://www.supremecourt.gov/publicinfo/year-end/2015year-endreport.pdf (emphasis in
+original).
+10
+22844186 at *1–2 (E.D. Pa. Nov. 26, 2003). Failure to include a Local Rule 26.1(f) certification
+or insufficient certification may result in summary denial without substantive consideration.
+1. Limited discovery and all scheduling disputes resolved by short motion.
+Judge Kearney will promptly consider a short motion of three pages or less, double-spaced
+twelve-point font, with an attached proposed order seeking to enforce or excuse timely and full
+compliance with discovery and scheduling obligations under the Federal Rules and Local Rule
+26.1(g), these Policies, and our Orders. The parties may not file a memorandum of law absent
+leave. Judge Kearney may resolve the issue before a response unless opposing counsel advises
+Chambers, by email to Chambers or letter faxed within twenty-four hours of filing, noticing their
+intent to file a response of three pages or less within forty -eight hours of the motion filing. A
+response due on a weekend or federal holiday is due by Noon EST on the next succeeding business
+day. Counsel seeking to file replies or longer motions or responses must move for relief and obtain
+leave to do so before filing. No reply may be filed without leave. The motion does not need to be
+in a numbered paragraph format.
+2. Discovery motion practice.
+A discovery motion unable to be presented in three pages o r less may be presented in a
+motion not exceeding seven pages, double-spaced twelve-point font, along with a proposed order.
+The parties may not file a memorandum of law absent leave. Absent an Order, a response may be
+filed within three days, also limited to seven pages, double -spaced twelve-point font. A response
+due on a weekend or federal holiday is due by Noon EST on the next succeeding business day.
+Counsel seeking to file replie s or longer motio ns or responses must move for relief and obtain
+leave to do so before filing. No reply may be filed without leave. The motion does not need to be
+in a numbered paragraph format.
+3. Discovery motions involving non-party witnesses.
+A party seeking an order compelling discovery compliance from a non-party must attach a
+certificate of service to the discovery motion describing their simultaneous service of the motion
+by email, hand delivery, or fax upon the non -party possibly subject to the motion and, in a cover
+letter, direct the non -party to these Policies on the Court’s website and the obligation to timely
+respond. Non-parties served with motions may respond within three days of service, unless
+otherwise ordered. A response from a n on-party due on a weekend or federal holiday is due by
+Noon EST on the next succeeding business day.
+4. Deposition conduct.
+As in trial, we do not permit speaking objections or coaching the witness. Where warranted,
+Judge Kearney will allow telephone conferences to resolve disputes during depositions where the
+deposition would otherwise have to be adjourned. Stopping or “walking out” of a deposition is
+strongly disfavored, and counsel should not do so before seeking direction from Judge Kearney,
+mindful the parties’ time and expense should not be lost due to a discovery dispute experienced
+counsel in this Court can usually resolve without loss of time or Court direction. Continued issues
+11
+in deposition may require appointment of a Rule 53 Master to attend and direct deposition concerns
+at her normal hourly rates after notice to the parties.
+IV. Motion practice for non-discovery or non-scheduling issues in all matters.
+A. Proposed orders and motions.
+All grounds for relief must be set forth in a single, comprehensive motion, accompanied
+by a proposed order and an attached memorandum. The proposed order should specifically refer
+to the motion, docket filing number, and specific basis for requested relief. The motion is limited
+to five pages of double -spaced twelve-point font and is analogous to a Summary of Argument
+which also details the requested relief. Parties opposing the motion must attach a proposed order
+referring to the motion, docket filing number, and specific basis for denying the requested relief.
+B. Must recite position of all parties absent a stipulation.
+Counsel seeking relief in all matters other than under Rule of Civil Procedure 56 without a
+stipulation of all parties , including challenging the admissibility of expert or fact evidence, shall
+comply with the obligations above in II.B. and provide a meaningful fulsome description of the
+opposition to the requested relief as part of the motion. Failure to meaningfully confer consistent
+with II.E. above and then recite all parties’ positions in the motion may result in summary denial
+of the requested relief.
+C. Briefs/legal memoranda.
+Memoranda filed in support of, or in opposition to, a motion is limited to twenty pages of
+double-spaced twelve-point font. Reply briefs are not required and Judge Kearney may rule before
+filing of reply briefs if warranted. Reply briefs without a proposed order are permitted without
+leave if filed and served within seven days of the date a non -moving party files its Opposition,
+may not exceed ten pages, and must be limited to issues newly raised in the Opposition. Briefs in
+excess of these page limits and sur -reply briefs are not permitted unless leave is granted upon
+motion.
+D. Post-trial motion procedure.
+A party seeking to challenge trial and pretrial rulings through a timely post -trial motion
+must strictly comply with Federal Rules of Civil and Criminal Procedure 59 and 60 and with Local
+Rule 7.1(e) requiring ordering and paying a deposit for the trial tr anscript required by the court
+reporter within fourteen days of filing any post -trial motion unless Judge Kearney excuses this
+requirement for good cause.
+Upon showing good cause based on a need for the transcript to brief the post -trial issues,
+Judge Kearney may allow the movant to file the memorandum not exceeding twenty-five pages in
+support of post-trial relief within thirty days of the receipt of the transcript.
+12
+All memoranda raising more than two legal arguments shall include a Table of Contents
+(but no table of citations) which is not included in the maximum twenty-five pages of memoranda.
+VI. Additional protocol for Rule 56 motions.
+A. Separate statements of material facts.
+Any motion filed under Fed. R. Civ. P. 56 shall include a separately filed Statement of
+Undisputed Material Facts which details, in numbered paragraphs, the material facts the moving
+party contends are undisputed and entitle the movant to judgment as a matter of law. Only those
+facts which bear on dispositive material issues shall be included in the Statement of Undisputed
+Facts. Opposition to a motion for summary judgment shall include a separate filing of a statement
+of material facts, responding to the numbered paragraphs in the movant’s Statement of Undisputed
+Facts, which the respondent contends present genuine issues for trial. The responding party also
+shall set forth, in separate numbered paragraphs, any additional facts which the respondent
+contends preclude summary judgment.
+Statements of material facts in support of or in opposition to a motion for summary
+judgment shall include specific and not general references to the parts of the record supporting
+each of the statements. Each stated fact shall cite the source relied upon, including the page of any
+document or line and page number of any deposition to which reference is made.
+B. Memoranda with a table of contents if warranted.
+Memoranda in support of, or opposing, a Rule 56 motion is limited to twenty-five pages of
+text, double -spaced, twelve -point font attached to the Motion with a Table of Contents (not
+included in the maximum twenty-five pages) if the party raises more than two arguments.
+C. Appendix.
+Upon filing, the movant(s) shall also file a separate appendix of all exhibits or its affidavits
+which may relate to the issues raised in the motion. On all cross-motions under Rule 56, the cross-
+movants must consult before filing to prepare a single joint appendix. All pages of the appendix
+shall be consecutively “Bates stamped” and referenced in the motions and briefs by the Bates
+number assigned each page. For example, “1a, 2a, 3a, etc.” The appendix shall include a table of
+contents. The movant shall ma ke every effort to include all necessary exhibits in the appendix,
+anticipating the respondent’s necessary citations to the fullest good faith extent possible. Should it
+become necessary for the non -moving party to submit affidavits or additional exhibits, however,
+it may do so in a respondent’s appendix filed with its Opposition. Any additions to the movant’s
+appendix shall also be consecutively Bates -stamped, beginning at the page number where the
+movant’s appendix ended, and shall include a table of cont ents. Judge Kearney will not consider
+material not included in the appendix required by this Policy.
+Failure of the movant to follow this procedure in all respects may result in the denial of the
+motion without prejudice to be renewed at trial. Respondent’s failure to comply in all respects may
+result in the Court’s considering the motion as uncontested.
+13
+We remind incarcerated persons they must provide sworn allegations confirming they
+exhausted their internal grievance or administrative remedies before filing suit when responding
+to a challenge for failure to exhaust. See Lauria v. Lieb, 152 F.4th 549 (3d Cir. 2025).
+D. Courtesy copy provided to Chambers.
+The parties shall provide Chambers with one courtesy copy of all Rule 56 submissions by
+overnight mail or hand delivery to the Clerk’s office to the attention of Judge Kearney within one
+business day of filing. Counsel shall provide appendices in a searchable format. The parties shall
+provide copies only of the filed document noted with the ECF document number on each page
+confirming filing of the entire courtesy copy.
+VII. Final pretrial proceedings.
+A. Pretrial memoranda.
+Unless otherwise ordered by Judge Kearney, the parties shall prepare simultaneous pretrial
+memoranda meeting the requirements of Local Rule 16.1(c), and also include:
+1. All stipulations of counsel;
+2. Attached highlighted deposition testimony (including videotaped
+deposition testimony) of admissions or unavailable witnesses which the party intends to offer
+during its case-in-chief. The pretrial statement should include citations to page and line number;
+3. The substance of the testimony of each witness. Identifying a witness as
+offering testimony on liability and/or damages without specifics is insufficient; and,
+4. A schedule with description of all proffered exhibits.
+B. Motions in limine.
+Judge Kearney expects counsel attempted to resolve objections to exhibits and testimony
+before the motions in limine deadlines, leaving only those objections the parties could not resolve.
+To the extent there are unresolved evidentiary issues, counsel should anticipate the Scheduling
+Order will require motions in limine be filed after the contemporaneous exchange of pretrial
+memoranda, with a reply due before the pretrial conference. Counsel seeking to preclude
+admission of specific exhibits based on evidentiary objections shall provide Chambers two copies
+of the contested exhibits (by hand delivery to the Clerk of Court if exceeds ten pages or by email
+if less than ten pages) contemp oraneous with moving in limine on the challenged exhibits.
+Hearings or arguments challenging expert witness competency or necessity, upon request, will be
+scheduled at or before the final pretrial conference. Responses to motions in limine do not need to
+answer each allegation as in state court practice. Oppositions shall be in memoranda form.
+Absent an Order, parties may file up to five motions in limine grouped by evidentiary review
+(e.g. hearsay, expert, privilege, competence, etc.)
+14
+C. Final pretrial conference.
+Sidebar conferences and objections to evidence which should have been anticipated will
+be strongly discouraged at trial. Consequently, one of the goals of the final pretrial conference is
+to resolve all evidentiary issues to avoid delay at trial and to provide counsel with advance notice
+of evidentiary requirements. Counsel should expect rulings on outstanding motions before, at, or
+shortly after, the final pretrial conference. In complex cases, counsel should be prepared to discuss
+presentation of evidence in terms of hours allocated to their case in chief, defense, and rebuttal.
+VIII. Injunctions.
+Judge Kearney attempts to hold a prompt conference with counsel seeking and defending
+requests for temporary restraining orders and preliminary injunctions following an affidavit of
+service, unless extraordinary imminent harm. Judge Kearney usually handles filed motions for
+expedited discovery by conference when scheduling the hearing. Judge Kearney expects a party
+seeking pretrial injunctive relief is prepared to imminently move to a hearing within a month. If
+not ready for an imminent hearing, the party may seek expedited discovery and J udge Kearney
+will then set the pretrial injunction hearing.
+IX. Class Action settlement best practices.
+Parties seeking or objecting to an order settling a case on a class basis under Fed. R. Civ.
+P. 23 should fully address their positions on the best practices for implementing the 2018
+Amendments to Rule 23, including those described at
+https://judicature.duke.edu/articles/guidance-on-new-rule-23-class-action-settlement-
+provisions/ with the executive summary: Guidance on New Rule 23 Class Action Settlement
+Provisions, 102 JUDICATURE, no. 3, Fall/Winter 2018, at 15–21.
+X. Arbitration.
+Judge Kearney may issue Scheduling Orders in arbitration track cases. Judge Kearney may
+retain an arbitration case for trial. The parties are expected to complete all discovery and resolve
+all dispositive motions before the arbitration hearing. Upon demand for trial de novo from an
+arbitration award, Judge Kearney will issue a Scheduling Order setting the date for trial to occur
+within sixty days of the appeal at the earliest date available to the Court. Neither discovery nor
+dispositive motions will be allowed after the arbitration hearing absent compelling cause.
+XI. Trial Procedure.
+A. Scheduling.
+The date for final pretrial memoranda, trial motions, final pretrial conference, and trial will
+be set in the Order following the initial pretrial conference. Once a case is listed for trial, counsel,
+parties, and witnesses are attached to start trial on the date ordered. Counsel must advise Chambers
+of any irreversible personal conflicts arising after the scheduling Order as soon as possible.
+15
+B. Courtroom technology.
+Judge Kearney holds court in Courtroom 6-B, which is not an electronic courtroom. Parties
+are responsible for arranging and providing all electronic technology they wish to bring for trial.
+Any party planning to use such equipment must submit a letter to Chambers, as early as possible
+and copied to all counsel, but no later than one week before trial, identifying the equipment it will
+use at trial. Any equipment counsel wishes to have brought in for trial must be set up and tested
+before jury selection. Parties should contact Courtroom Deputy Ulrike Bower (267-299-7688)
+before trial to arrange a time to set up and test electronic equipment in Courtroom 6 -B and for
+permission to bring in the equipment through courthouse security.
+C. Cases involving out-of-town parties or witnesses.
+Judge Kearney schedules the trial of cases involving out -of-town counsel, parties, or
+witnesses in the same manner as all other cases. Counsel is responsible for the timely scheduling
+of witnesses to maximize the jury’s time.
+D. Jury selection in civil cases.
+After Judge Kearney’s brief introduction to the general nature of the case and standard
+disqualification questions, Judge Kearney will conduct voir dire, with specific approved follow -
+up questions from counsel. Judge Kearney will then entertain cause and hardship strikes.
+Counsel will then exercise peremptory challenges by alternate strikes, plaintiff first, until
+each side has stricken three potential jurors or opts not to use any or all of their strikes.
+After consultation with counsel based on length of trial, Judge Kearney will typically seat
+eight jurors in a civil case.
+E. Courtroom protocol.
+Parties may examine witnesses from the lectern, from counsel table, or within hearing
+distance of the ESR operator or court reporter but not within ten feet of the witnesses. Counsel
+shall seek permission before approaching witnesses, as warranted. In addition, counsel will direct
+all comments to Judge Kearney or to the witness under examination and not to other counsel or to
+the jury.
+Co-counsel and the parties may not talk to each other or distract the presentation of
+evidence or argument. Trial counsel shall instruct persons from their offices attending trial in the
+gallery to not speak in the public courtroom while Judge Kearney or the jury is present as trial
+counsel should be mindful of waiving privileges or of the effect statements overheard by the public
+including witnesses, jurors, or members of their families regarding the adversary process may
+affect the fact-finding process.
+Judge Kearney may require counsel to disclose upcoming witnesses at least one day before
+the anticipated testimony when warranted to ensure efficient presentation of evidence.
+16
+F. Note-taking by jurors.
+Judge Kearney may permit jurors to take notes.
+G. Trial briefs.
+Parties may submit a trial brief only if requested by Judge Kearney.
+H. Examining witnesses out of sequence.
+Judge Kearney will permit counsel to examine his/her own witnesses out of turn for the
+convenience of a witness.
+I. Opening statements and summations.
+In trials before a jury, Judge Kearney limits opening statements to no more than thirty
+minutes and closing jury arguments to no more than one hour per side (including rebuttal for
+Plaintiff) absent leave upon a showing of good cause in a complex matter.
+Judge Kearney often waives opening statements and closing arguments in a non-jury trial.
+J. Examination of witnesses or argument.
+Only one attorney for each side may examine the same witness or address the jury during
+the opening statement or summation.
+Counsel may not confer with a witness once sworn during the balance of their testimony
+except for logistics as to the courtroom and confirming timing of testimony absent Judge
+Kearney’s approval upon a showing a good cause.
+K. Videotaped testimony.
+Videotaped testimony should begin with the witness being sworn. After Judge Kearney
+rules on any objections, counsel must edit the testimony before offering the videotaped testimony
+at trial.
+L. Preparing, admitting, and delivering admitted trial exhibits to Chambers.
+The parties will prepare a joint exhibit book with all exhibits counsel may use at trial based
+on the rulings along with a schedule of exhibits. Unless otherwise agreed by the parties, the exhibits
+will be presented in chronological order with the first document representing the oldest dated
+document. Counsel should provide a copy for the witness which may be provided to the jury during
+deliberations if requested. Unless all exhibits are shown electronically, Counsel must deliver two
+copies of the joint exhibit book for Judge Kearney at voir dire. The cost of producing the exhibit
+book(s) will be equally shared per capita upon all parties, subject to modification if abused.
+17
+Motions to admit exhibits will be considered at the close of a party’s case-in-chief and not
+before. As the evidentiary issues were addressed before or during the final pretrial conference, the
+parties should expect this short motion to be promptly resolved.
+Plaintiff’s counsel shall, unless excused for good cause, email an electronic copy of all
+admitted exhibits to our Chambers email address (or provide on a disc) before the jury returns with
+a verdict. We will not retain hard copies and binders of exhibits and counsel must provide an
+electronic version of the admitted exhibits before the verdict to ensure we preserve exhibits for
+post-trial review.
+M. Sidebar or evidentiary conference.
+Counsel must confer privately to resolve any unanticipated evidentiary issues which may
+arise during trial. If unsuccessful in resolving the issues, counsel should only bring a matter to the
+Courtroom Deputy’s attention at the beginning of the day or during an appropriate break when the
+jury is not present. All evidentiary conferences in the courtroom are on the record.
+N. Directed verdict motions.
+Motions for judgment as a matter of law in jury trials and motions for an involuntary
+dismissal in non-jury trials may be filed but may also be presented orally.
+O. Proposed jury instructions and verdict forms.
+The Scheduling Order will note the date on which the parties shall file proposed jury
+instructions on substantive issues unique to your matter, along with proposed verdict forms or
+special interrogatories to the jury.
+In submitting proposed points for charge, the parties are directed to the Model Civil Jury
+Instructions (available at http://www.ca3.uscourts.gov/model-jury-instructions).Where
+applicable, Judge Kearney will use the Model Instructions to instruct the jury. In submitting points
+for charge based on the Model Instructions, however, the parties should tailor the proposed
+instructions to the specific facts of the case.
+Proposed jury instructions, separately numbered, shall include a table of contents and be
+submitted on a separate sheet of paper, double -spaced, with accurate quotes from, and pinpoint
+citations to cases and pattern jury instructions where appropriate. The parties shall also provide by
+email to Chambers the proposed instructions in Microsoft Word format. All objections to jury
+instructions shall be filed in one written motion.
+P. Proposed findings of fact and conclusions of law in non-jury cases.
+Judge Kearney may require counsel timely file p roposed findings of fact and conclusions
+of law in non -jury cases. Counsel should prepare and pay for prompt transcripts. A schedule for
+the submission of findings/conclusions will be addressed at the conclusion of trial.
+18
+Q. Unavailability of witness.
+If a witness is unavailable at the time of trial, Judge Kearney expects an oral or videotaped
+deposition to be used at trial for that witness, whether the witness is a party, a non -party, or an
+expert. The unavailability of such witness will not be a ground to delay the commencement or
+progress of trial.
+R. Objections.
+Judge Kearney does not permit speaking objections. Objections must be made by reciting
+the appropriate rule number or a one-word basis.
+XII. Jury deliberations.
+A. Written jury instructions.
+If requested by the jury, Judge Kearney will give the jury a copy of the complete written
+jury instructions provided to them in the jury charge.
+B. Exhibits in the jury room.
+After the jury has been instructed and taken to the jury room to begin deliberations, Judge
+Kearney and counsel will confirm the admissible exhibits from the joint exhibit book(s) to be
+presented to the jury for its consideration during deliberations if the jury requests.
+Judge Kearney will forward requested admitted exhibits to the jury regardless of whether
+counsel published the exhibits during trial.
+C. Availability of counsel during deliberation.
+Unless excused by Judge Kearney, trial counsel must remain in the courthouse during jury
+deliberations with their cell phone. Counsel are expected to return to the courtroom within ten
+minutes after receiving a call from the Courtroom Deputy.
+D. Taking the verdict and special verdicts.
+Judge Kearney usually submits interrogatories to the jury after discussion with the parties.
+The Courtroom Deputy will take the verdict in the presence of the Court, counsel, and the parties.
+E. Polling the jury.
+Judge Kearney will poll the jury upon counsel’s request.
+19
+F. Interviewing the jury.
+Judge Kearney will allow counsel to talk to jurors following the verdict but will instruct
+the jurors they are not required to talk to counsel or any person purporting to represent counsel.
+XIII. Judge Kearney’s additional procedures in criminal cases.
+We apply the Policies detailed above to the extent applicable in criminal cases including
+for pro hac vice and other motions and trial procedures and specifically including the obligations
+as to Motions and Memoranda and to meaningfully confer with opposing counsel on requested
+relief before moving for relief in Section IV.B. (incorporating obligations in II.B).
+Judge Kearney also requires in criminal cases:
+A. Motions practice in criminal cases.
+All pretrial motions – including motions in limine and any motions challenging the
+indictment, seeking suppression of evidence, or raising dispositive matters – must be filed in
+accord with the deadline set forth in the scheduling order and represent the position of all parties
+on the requested relief. Upon filing a motion, the parties shall advise Judge Kearney whether they
+intend to present testimony in support of or in opposition to the motion and the expected duration
+of any such testimony so Judge Kearney can schedule a hearing, if necessary. Judge Kearney will
+generally permit oral argument in criminal matters on substantive motions upon request.
+B. Trial continuances.
+Any request for a continuance must be filed no later than fourteen days in advance of the
+scheduled trial date. Requests for a continuance must be filed as a motion stating the reasons for
+the request , the position of the other side, the amount of time sought, and existing conflicts
+potentially impacting scheduling of a new trial date . Any such motion must be accompanied by
+the form of consent to continuance signed by the defendant, as provided by Judge Kearney after
+receipt of the motion and proposed order which, if approved by Judge Kearney, would grant the
+relief sought by the motion. The proposed form of order must be consistent with the requirements
+of the Speedy Trial Act, 18 U.S.C. § 3161(h)(8), and must include a proposed finding explaining
+in reasonable detail why the ends of justice served by granting the requested continuance outweigh
+the best interest of the public and the defendant in a speedy trial.
+Continuances are strongly discouraged, and, if multiple continuances are sought, counsel
+may be required to appear in person to argue the matter.
+C. Pretrial conferences.
+Judge Kearney does not generally hold telephone conferences with counsel in criminal
+cases, unless counsel specifically requests one or Judge Kearney finds a conference is appropriate.
+The Courtroom Deputy handles scheduling of criminal matters. A final pretrial conference may
+20
+address pending motions, and is sues arising from the review of filed proposed voir dire , jury
+instructions, and jury verdict.
+D. Voir Dire.
+Judge Kearney will conduct the initial voir dire regarding hardships, the general suitability
+of the jurors, etc.
+E. Guilty pleas.
+1. Before a defendant offers a guilty plea, counsel must complete the guilty
+plea memorandum, guilty plea statement, and acknowledgement of rights and review those
+documents with the defendant. Counsel must also provide copies of those documents to Judge
+Kearney.
+2. The guilty plea agreement must state whether the plea is a general plea of
+guilty, a conditional plea, or a plea of nolo contendere . The guilty plea agreement also must
+disclose to the defendant and Judge Kearney whether the plea is entered under Federal Rule of
+Criminal Procedure 11(c)(1)(A), (B) or (C), relating to the obligation of the United States
+regarding other charges under su bsection (A), a non -binding sentencing recommendation under
+subsection (B), or a binding sentencing recommendation under subsection (C).
+3. The parties seeking approval of a plea agreement under Federal Rule of
+Criminal Procedure 11(c)(1)(A), (B) or (C):
+a. Are strongly encouraged to identify a range of months for
+incarceration and supervised release rather than a specific term of months to allow for fair
+application all the section 3553 factors and compliance with federal sentencing policy; and,
+b. Must be mindful Judge Kearney may accept the plea agreement but
+will defer accepting the Rule 11(c)(1) recommendation as to a proposed range for sentencing until
+after study of the presentence investigation report and possibly reviewing evidence at the
+sentencing hearing absent extraordinary grounds in a straightforward fact presentation and
+application of the guidelines.
+4. The United States must submit a guilty plea memorandum at least two days
+prior to the change of plea hearing. The memorandum shall include the elements of each offense
+to which the defendant is pleading guilty and legal citations for the elements, the maxi mum
+statutory penalties for each offense, the terms of any plea agreement and the factual basis for the
+plea. The change of plea memorandum shall be provided in Microsoft Word Format by email to
+Chambers_of_Judge_Kearney@paed.uscourts.gov.
+5. If an agreement has been reached to request Judge Kearney set an expedited
+sentencing, the United States must notify Chambers and the probation office at least two days prior
+to the change of plea hearing.
+21
+F. Sentencing
+1. Sentencing will be scheduled on the day Judge Kearney accepts a
+defendant’s guilty plea or after a defendant is convicted at trial. Sentencing will generally occur
+approximately one hundred and ten (110) days after a guilty plea or trial. Sentencing will be
+continued for good cause only.
+2. To avoid delay in sentencing, all objections to the Presentence Investigation
+Report must be sent to the probation officer in advance of sentencing. In no event shall counsel
+raise objections for the first time in a sentencing memorandum.
+3. Counsel must file sentencing motions and supporting memoranda at least
+seven days prior to the scheduled sentencing date, and any response thereto must be filed at least
+three days prior to the scheduled sentencing date. The memorandum must set forth any legal
+authority relied upon by the party. No replies may be filed without leave.
+4. Sentencing memoranda (exclusive of motions), by both the United States
+and the defense must be filed no later than seven days before the scheduled sentencing date, and
+any response thereto must be filed at least three days prior to the scheduled sentencing date.
+Counsel shall serve a copy on the United States Probation Office.
+5. Counsel shall provide all character letters by email at least three days
+before sentencing to Chambers_of_Judge_Kearney@paed.uscourts.gov.
+6. If a defendant may be responsible for restitution, the United States must
+submit sufficient information in its sentencing memorandum to enable Judge Kearney to determine
+entitlement, the name and the address of each victim, the amount of loss for each victim, and
+documentary support for each amount. If liability for restitution is joint and several, the United
+States shall itemize the restitution amount for which each defendant may be responsible.
+7. Pre-Sentence Investigation Reports and Sentencing Memoranda shall also
+be promptly delivered to chambers in Microsoft Word Format by email to
+Chambers_of_Judge_Kearney@paed.uscourts.gov.
+For any civil or criminal litigation issues not addressed above, please consult the Local Rules
+of Civil and Criminal Procedure for the Eastern District of Pennsylvania, available at
+http://www.paed.uscourts.gov

@@ -1,0 +1,27 @@
+UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+JACKSONVILLE DIVISION
+IN RE: Use of Generative Artificial
+Intelligence
+/
+STANDING ORDER
+Due to the increasing use of generative artificial intelligence (“ AI”) in the
+researching and drafting of legal documents, including pleadings, motions, briefs, and
+other filings, the undersigned requires all parties appearing before her, through counsel
+or pro se, to certify at the end of any filing:
+(1) That no generative AI was used in the drafting and preparation of the filing; or
+(2) To the extent that generative AI was used in any drafting of the filing, that any
+language drafted by AI —even if later edited by a human—was personally
+reviewed by the filer or another human for accuracy and that all legal citations
+reference actual, non-fictitious cases or cited authority and accurately reflect
+the contents of such authority.
+The AI Certification does not count against any page limitations.
+Filings that do not comply with this Order may be stricken without substantive
+consideration and without leave to amend. Numerous failures to comply with the
+certification requirement set forth in this Order or to otherwise properly review and ensure
+the accuracy of AI generated content will result in sanctions up to and including dismissal
+of claims with prejudice, default, and referral to the proper licensing authority.
+All filings remain subject to Federal Rule of Civil Procedure 11, 28 U.S.C. § 1927,
+and applicable ethical rules.
+2
+DONE AND ORDERED in Jacksonville, Florida on April 2, 2026.

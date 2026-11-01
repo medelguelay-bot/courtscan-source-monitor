@@ -1,0 +1,150 @@
+1
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEV ADA
+SECOND AM
+ENDED STANDING ORDER & CHAMBERS PRACTICES
+of United States Magistrate Judge Maximiliano D. Couvillier III
+Effective August 17, 2026
+United States District Court
+Lloyd D. George U.S. Courthouse
+333 Las Vegas Blvd. South
+Las Vegas, NV 89101
+Chambers Phone: 702-464-5540
+Courtroom Administrator Tawnee Renfro: 702-464-5427
+Chambers Email: court_mdc@nvd.uscourts.gov
+This St
+anding Order establishes requirements and procedures for all civil cases assigned to
+Judge Couvillier. A copy of this Order can be found at the District of Nevada’s website on Judge
+Couvillier’s biographical page. Counsel and pro se parties (those unrepresented by an attorney)
+must familiarize themselves with the Local Rules of Practice for the District of Nevada as well as
+the individual rules prescribed by this order. The Local Rules can be found on the Court’s website.
+I. CONFORMI
+TY WITH RULES
+Parties shall follow the Federal Rules of Civil Procedure and the District of Nevada’s Local
+Rules And General Orders, excep
+t as superseded by this Standing Order. A party’s failure to follow
+this Standing Order, Local Rules or the Federal Rules of Civil Procedure may result in their filings
+being stricken, revocation of pro hac vice admission, and other appropriate sanctions or penalties.
+II. DISCOVER
+Y
+A. Motions
+to Dismiss and Staying Discovery
+The fil
+ing of a motion to dismiss does not stay discovery. Rather, the parties are required
+to comply with the rules of discovery as required by the Local Rules and the Federal Rules of Civil
+Procedure. See LR 26-1 et. seq.; Fed. R. Civ. Pro. 26 et. seq . If a party believes that discovery
+should be stayed pending a decision on the motion to dismiss, the party is required to file a motion
+to stay. Judge Couvillier follows the pragmatic approach and all briefs regarding staying discovery
+pending ruling on a motion to dismiss must address the factors articulated in Schrader v. Wynn Las
+Vegas, LLC, No. 2:19-cv-02159-JCM-BNW, 2021 WL 4810324, at *4 (D. Nev. Oct. 14, 2021); see
+also Aristocrat Techs., Inc. v. Light & Wonder, Inc ., No. 2:24- cv-00382-GMN-MDC, 2024 WL
+2302151, at *3 (D. Nev. May 21, 2024).
+B. Discov
+ery Disputes
+Pursuant
+to LR 1- 1(b)(2), Judge Couvillier requires the parties to follow the procedure s
+outlined below regarding any discovery dispute. No discovery motion may be filed until the
+following procedure has been followed and such motion is ordered by Judge Couvillier:
+1. If a dis
+covery dispute arises the parties must first meet and confer to try to resolve
+their dispute in compliance with LR IA 1-3(f). Lead counsel for each party shall meet and confer
+2
+in person, videoconference, or telephone. A mere exchange of letters or e -mails does not satisfy
+the meet and confer requirement.
+2. If the parties are unable to resolve their dispute informally after a good-faith effort,
+the parties must file a single document captioned “Stipulation Regarding Discovery Dispute” that
+addresses each one of the following items:
+i. A brief, joint summary of the discovery dispute not to exceed one (1) page;
+ii. A restatement of the full text of the discovery requests, or deposition question, in
+dispute as originally stated and the responses to the requests. This may be done in single-spaced,
+10-font. A joint summary of the meet-and-confer efforts as required by LR IA 1-3(f), which
+includes: (1) a summary of discussions; (2) identification of time, place, manner, and
+participants; and (3) certification from counsel that, despite a sincere effort, the parties were
+unable to resolve or narrow the dispute without court intervention. This joint meet-and-confer
+summary may not exceed two (2) pages.
+iii. An explanation, without boilerplate language, of the position taken by each side,
+not to exceed two (2) pages per side. Such explanation must include relevant authorities
+supporting the parties’ respective position. It is not necessary to include case law of general
+discovery principles. Rather, the parties should include case law addressing their specific
+position or matters at issue.
+iv. Each side must make a proposal of compromise or resolution of the disputed
+discovery (e.g., request, interrogatory, deposition question). The proposal may not exceed two
+(2) pages per side.
+3. Upon review of the filed “Stipulation Regarding Discovery Dispute,” Judge
+Couvillier may set a telephonic conference, order written briefing, or enter an order deciding the
+dispute without conference or briefing.
+C. Emergency Discovery Disputes
+In emergencies during discovery events – which should be exceedingly rare - such as
+depositions, any party may, after exhausting good faith attempts to resolve disputed issues, seek
+judicial intervention pursuant to LR 26-6(d) by contacting Judge Couvillier through his law clerks.
+Before calling Judge Couvillier’s chambers, the parties must first send a short email
+describing the emergency and nature of the dispute to court mdc@nvd.uscourts.gov . After
+sending such email, the parties may call chambers at 702-464-5540.
+If Judge Couvillier is unavailable, the deposition or other discovery event shall proceed
+with objections noted for the record and resolved later via the “Stipulation Regarding Discovery
+Dispute” process addressed above.
+//
+3
+III. ARTIFICIAL INTELLIGENCE (AI)
+Any counsel or party may use AI to draft documents or process discovery consistent with
+Rule 11 of the Federal Rules of Civil Procedure (Fed. R. Civ. P.), this Standing Order, and any
+other applicable legal or ethical obligations.
+1. Certification of AI Use In Drafting Filings. Any party that files (manually
+or e-filing) a brief, motion, request, pleading, or other similar document with the Court which
+includes content generated or drafted by artificial intelligence (i.e., ChatGPT, Harvey, CoCounsel,
+Google Gemini, or any other such application) must include the following certification above the
+signature line:
+“I certify that artificial intelligence was used to generate a portion of
+this filing. I have reviewed the source material and verified that the
+artificially generated content in the filing is accurate and complies
+with the filer’s Rule 11 obligations.”
+Failure to include such certification may result in sanctions.
+2. Citations to Authorities. A pro se party or a counsel’s failure to confirm
+or double-check the accuracy, veracity, or existence of a case or legal citation (or assertion of fact)
+obtained from an AI tool or created by an AI tool is grounds for potential sanctions. All citations
+to authority or assertions of fact must be corroborated and comply with Fed. R. Civ. P. 11 and LR
+IA 7-3.
+3. Protective Orders. Parties are strongly encouraged to address the use of
+AI in proposed protective orders. In particular, such orders should include protocols addressing
+the type of permissible AI systems (e.g., closed AI system v. open AI system) and any limitations
+relative to using AI tools for processing discovery materials that contain personal-data identifiers,
+confidential material, trade secrets, or similar.
+4. Sealed Documents and Court Documents Containing Personal -Data
+Identifiers May Not Be Uploaded to Open AI System. Counsel and parties are prohibited from
+uploading onto any open AI system - where the source code, learning materials, and underling
+models may be publicly accessible - any filed documents which: (a) have been filed under seal; or
+(b) contain personal-data identifiers listed in LR IC 6-1(a)(1)-(6). Violation may result in sanctions.
+IV. OPPORTUNITIES FOR LESS-EXPERIENCED ATTORNEYS
+Per LR 78-1, all motions may be considered and decided with or without a hearing. Any
+party making or opposing a motion who believes oral argument may assist the court may request
+a hearing by inserting the words ORAL ARGUMENT REQUESTED below the title of the
+document on the first page of the motion or response.
+Judge Couvillier encourages litigants to permit more junior members of the litigation team
+to present oral argument and gain courtroom experience. Thus, if a party requests oral argument,
+the party should further note in the caption of the motion that a junior, less experienced attorney
+will be responsible for presenting argument. Allowing junior, less experienced attorneys to argue
+will weigh in favor of holding a hearing.
+4
+V . TRANSCRIPTS
+All hearings and case management, status and pretrial conferences are audio recorded .
+Court reporters are usually not provided. Forms necessary to request a copy of either the audio
+recording (on CD) or a transcription of the audio recording, or the court reporter’s transcript, if
+applicable, are available on the District of Nevada’s website at:
+https://www.nvd.uscourts.gov/court-information/forms/.
+VI. REQUESTS FOR COURT ACTION
+When a party requests the Court to act on a filing, the party s hould caption and file-code
+such filing as a “Stipulation” ; “Motion”; (opposed, joint , or unopposed) ; or “Application”
+(opposed, joint, or unopposed). That will flag such filing and bring it to the Court’s attention.
+Documents captioned and filed as “Notices”; “Reports”; “Status Reports”; and the like may not be
+flagged for the Judge’s review and action.
+VII. EX PARTE COMMUNICATIONS WITH THE COURT
+Counsel and parties should not contact Judge Couvillier’s chambers ex parte - except as
+provided for in LR IA 7- 1(a) or in connection with Early Neutral Evaluation or Settlement
+Conference proceedings. Parties should contact the Clerk’s Office at (702) 464- 5400 or Judge
+Couvillier’s Courtroom Deputy, Tawnee Renfro, at (702) 464-5427, with any scheduling or other
+non-substantive issues. See LR IA 7-2(c). Substantive matters should be addressed through filings
+that are served upon all parties.
+Dated: August 17, 2026.
+IT IS SO ORDERED
+_______________________________
+Hon. Maximiliano D. Couvillier III

@@ -1,0 +1,2138 @@
+Effective December 1, 2024 Nebraska Civil Rules
+i
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEBRASKA
+CIVIL RULES
+TABLE OF CONTENTS
+1.1 Definitions. .......................................................................................................... 1
+3.2 Prepayment of Filing Fees. ................................................................................ 1
+3.3 Applications to Proceed in Forma Pauperis. ................................................... 1
+(a) Financial Affidavit. ................................................................................... 2
+(b) Prisoner Applications; Trust Account Information. .............................. 2
+(1) Consent to Release of Information and Fee Payment. .............. 2
+(2) Continuing Payment Obligation. .................................................. 2
+(c) Multiple Plaintiffs. .................................................................................... 2
+4.1 Summons. ........................................................................................................... 2
+5.1 Electronic Case Filing (CM/ECF). ...................................................................... 2
+(a) Mandatory Electronic Case Opening and Filing. .................................. 3
+(b) Non-prisoner Pro Se Party Case Filing. ................................................. 3
+(c) Exceptions. ............................................................................................... 3
+(d) Facsimile and E-mail Filings Not Allowed. ............................................ 3
+(e) Timely Filing. ............................................................................................ 4
+(f) Official Record. ........................................................................................ 4
+(1) Documents Filed Nonelectronically. ........................................... 4
+(2) Original Documents Scanned and Discarded. ............................ 4
+(3) Copies of Filings. .......................................................................... 4
+(g) File Date. ................................................................................................... 4
+5.2 Electronic Service. ............................................................................................. 5
+5.3 Privacy. ................................................................................................................ 5
+(a) Mandatory Redaction. ............................................................................. 5
+(b) Discretionary Redaction. ......................................................................... 5
+(c) Restricting Access to Unredacted Documents. .................................... 6
+(1) Motion. ........................................................................................... 6
+(A) Procedure. ........................................................................... 6
+(B) Unredacted Document Not Attached. ............................... 6
+(2) Order. ............................................................................................. 6
+(3) Docket Sheet Entries. ................................................................... 6
+5.4 Restrictions on Filing Discovery. ...................................................................... 7
+(a) In General. ................................................................................................ 7
+(b) Electronic Service of Discovery. ............................................................ 7
+6.1 Time. .................................................................................................................... 7
+(a) Computation. ............................................................................................ 7
+(b) Response Time Computation. ................................................................ 7
+7.1 Motion Practice. .................................................................................................. 7
+Effective December 1, 2024 Nebraska Civil Rules
+ii
+(a) Supporting a Motion. ............................................................................... 8
+(1) Supporting Brief. ........................................................................... 8
+(A) Substantial Issue of Law. ................................................... 8
+(B) No Substantial Issue of Law. ............................................. 8
+(2) Evidence and Evidence Index. ..................................................... 8
+(A) Factual Support. ................................................................. 8
+(B) How to File. ......................................................................... 8
+(C) Required Affidavit. ............................................................. 9
+(D) Citations to Evidence. ........................................................ 9
+(b) Opposing a Motion. ................................................................................. 9
+(1) Opposing Brief. ............................................................................. 9
+(A) Form and Content. ........................................................... 10
+(B) Time for Filing. .................................................................. 10
+(C) Effect of Failure to File. .................................................... 10
+(2) Evidence and Evidence Index. ................................................... 10
+(A) Factual Support. ............................................................... 10
+(B) How to File. ....................................................................... 10
+(C) Required Affidavit. ........................................................... 11
+(c) Replying to Opposing Briefs and Evidence. ....................................... 11
+(1) Time for Filing. ............................................................................ 11
+(2) Contents of Reply Brief. ............................................................. 11
+(3) Leave of Court; When Required. ................................................ 11
+(d) Word Limits, Generative AI, and Certificate of Compliance. .............. 11
+(1) Word Limits. ................................................................................ 11
+(A) Supporting and Opposing Briefs. ................................... 11
+(B) Reply Briefs. ..................................................................... 11
+(C) Text Included. ................................................................... 12
+(2) Motion to Exceed Limits. ............................................................ 12
+(3) Generative Artificial Intelligence. ............................................... 12
+(4) Certificate of Compliance. .......................................................... 12
+(A) Word Limits. ...................................................................... 12
+(B) Generative Artificial Intelligence. .................................... 13
+(5) Consequence of Noncompliance. .............................................. 13
+(e) Request for Oral Argument or Evidentiary Hearing. ........................... 13
+(f) Request to Present Oral Testimony. .................................................... 13
+(g) Submission of Motion. .......................................................................... 13
+(h) Procedures for Summary Judgment Motions. .................................... 13
+(i) Extensions of Time for Filing or Responding to Motions. ................. 14
+(j) Discovery Motions. ................................................................................ 14
+(k) Conference Telephone Calls. ................................................................ 14
+7.2 Proposed Order. ............................................................................................... 14
+7.3 Agreements and Stipulations. ......................................................................... 14
+7.4 Motion to Certify a Question to State Court. .................................................. 14
+7.5 Sealed Documents and Objects. ..................................................................... 15
+Effective December 1, 2024 Nebraska Civil Rules
+iii
+(a) Procedure. .............................................................................................. 15
+(1) Motion to Seal. ............................................................................. 15
+(2) Sealed Document not Attached. ................................................ 15
+(3) Order. ........................................................................................... 15
+(b) Notice. ..................................................................................................... 15
+(c) Docket Sheet Entries. ............................................................................ 15
+(d) Motion to Unseal. ................................................................................... 16
+7.6 Denial of Pending Motions Upon Reference. ................................................. 16
+9.1 Pleading Special Matters. ................................................................................ 16
+(a) Social Security Cases. ........................................................................... 16
+(1) Social Security Number Required. ............................................ 16
+(2) Electronic Filing. ......................................................................... 16
+(A) Transcript or Administrative Records. ........................... 16
+(b) Claim of Unconstitutionality. ................................................................ 17
+(c) Request for 3-Judge Court. ................................................................... 17
+(d) Privacy Issues. ....................................................................................... 17
+10.1 Form of Documents. ......................................................................................... 17
+(a) Electronic Filings. .................................................................................. 17
+(1) Legibility. ..................................................................................... 17
+(2) Evidence, Exhibits, and Attachments. ...................................... 18
+(A) Listing or Index. ................................................................ 18
+(B) Excerpts Required. ........................................................... 18
+(C) Paper Documents. ............................................................ 18
+(D) Additional Information. .................................................... 18
+(3) Content. ....................................................................................... 19
+(4) Hyperlinks. ................................................................................... 19
+(A) Cited Authority. ................................................................ 19
+(B) Responsibility for Hyperlinks. ......................................... 19
+(b) Nonelectronic Filings. ........................................................................... 19
+(1) Paper Size; Margins. ................................................................... 19
+(2) Presentation. ............................................................................... 20
+(3) Additional Materials. ................................................................... 20
+(4) Content. ....................................................................................... 20
+(5) Physical Media Required. ........................................................... 20
+11.1 Signing of Documents. .................................................................................... 20
+(a) Electronic Filings. .................................................................................. 20
+(1) Attorney's Signature. .................................................................. 21
+(A) Format. .............................................................................. 21
+(B) Challenges to Authenticity. ............................................. 21
+(2) Nonattorney Signature. .............................................................. 21
+(A) Maintenance of Original Document. ............................... 21
+(B) Disputes. ........................................................................... 21
+(3) Multiple Signatures. .................................................................... 22
+(A) Filing Methods. ................................................................. 22
+Effective December 1, 2024 Nebraska Civil Rules
+iv
+(B) Disputes. ........................................................................... 22
+(b) Nonelectronic Filings. ........................................................................... 22
+12.1 Motions to Dismiss; Suspension of Time to Answer. ................................... 22
+15.1 Motion to Amend Pleading. ............................................................................. 22
+(a) Form and Content. ................................................................................. 22
+(b) Pro Se Cases. ......................................................................................... 23
+(c) Filing of Amended Pleading. ................................................................. 23
+16.1 Scheduling Orders. .......................................................................................... 23
+(a) Entered by Magistrate Judges. ............................................................. 23
+(b) Excepted Proceedings. ......................................................................... 23
+(c) Pro Se Cases. ......................................................................................... 24
+16.2 Pretrial Procedure in Civil Cases. ................................................................... 24
+(a) Matters to Be Completed Before Final Pretrial Conference. .............. 24
+(1) Exhibit List. .................................................................................. 24
+(A) Objections. ........................................................................ 24
+(B) Exception for Good Cause. ............................................. 25
+(C) Effect of Listing. ............................................................... 25
+(2) Proposed Final Pretrial Order. ................................................... 25
+(A) Exhibits. ............................................................................ 25
+(B) Uncontroverted Facts. ..................................................... 25
+(C) Controverted and Unresolved Issues. ............................ 25
+(D) Witnesses. ......................................................................... 26
+(E) Expert Witness Qualifications. ........................................ 26
+(F) Voir Dire. ........................................................................... 26
+(G) Number of Jurors. ............................................................ 26
+(H) Verdict. .............................................................................. 27
+(I) Briefs, Instructions, and Proposed Findings. ................ 27
+(J) Length of Trial. ................................................................. 27
+(K) Trial Date. .......................................................................... 27
+(b) Representation Required. ..................................................................... 27
+(c) "Impeachment Purposes" Defined. ...................................................... 27
+23.1 Class Action Procedures. ................................................................................ 27
+(a) Designation on Pleading. ...................................................................... 28
+(b) Notice to Class Members. ..................................................................... 28
+(c) Filing of Documents Submitted by Class Members............................ 28
+26.1 Service of Disclosures. .................................................................................... 28
+(a) Certificate of Service. ............................................................................ 28
+(b) Service by E-Mail or Fax. ....................................................................... 28
+29.1 Discovery Stipulations. .................................................................................... 28
+30.1 Video Depositions. ........................................................................................... 28
+(a) Notice. ..................................................................................................... 29
+(b) Identification of Camera Operator. ....................................................... 29
+(c) Swearing of Witness. ............................................................................. 29
+(d) Camera Operation. ................................................................................. 29
+Effective December 1, 2024 Nebraska Civil Rules
+v
+(e) Voluntary Resolution of Objections. .................................................... 29
+(f) Unresolved Objections. ......................................................................... 29
+32.1 Editing Video Depositions for Court Proceedings. ....................................... 29
+(a) Notice to Opposing Parties. .................................................................. 29
+(b) Overruled Objections. ........................................................................... 30
+(c) Copy to Opposing Parties. .................................................................... 30
+33.1 Interrogatories. ................................................................................................. 30
+(a) Sequential Numbering. .......................................................................... 30
+(b) Separate Definitions Prohibited. .......................................................... 30
+(c) Number of Interrogatories. .................................................................... 30
+(d) Form of Response. ................................................................................ 30
+(e) Certificate of Service. ............................................................................ 30
+(f) Alternative Methods of Service. ........................................................... 31
+34.1 Requests for Production or Inspection. ......................................................... 31
+(a) Form of Response. ................................................................................ 31
+(b) Certificate of Service. ............................................................................ 31
+(c) Alternative Methods of Service. ........................................................... 31
+34.2 Persons Not Parties. ........................................................................................ 31
+36.1 Requests for Admission. ................................................................................. 31
+(a) Sequential Numbering. .......................................................................... 31
+(b) Form of Response. ................................................................................ 31
+(c) Certificate of Service. ............................................................................ 32
+(d) Alternative Methods of Service. ........................................................... 32
+38.1 Notation of "Jury Demand" on Pleading. ....................................................... 32
+39.1 Opening Statements and Closing Arguments. .............................................. 32
+(a) Opening Statements. ............................................................................. 32
+(b) Closing Arguments. ............................................................................... 32
+39.2 Briefs. ................................................................................................................ 33
+(a) Trial Briefs. ............................................................................................. 33
+(b) Motion Briefs. ......................................................................................... 33
+(c) Abandonment of Issues. ....................................................................... 33
+(d) Habeas Corpus and Post-Conviction Relief. ....................................... 33
+39.3 Trial Exhibits. .................................................................................................... 33
+(a) Delivery to Clerk Before Trial. ............................................................... 33
+(b) Custody. ................................................................................................. 33
+(c) Special Cases. ........................................................................................ 33
+(d) Numbering Exhibits. .............................................................................. 34
+40.1 Trial Calendar. ................................................................................................... 34
+(a) Setting Trial. ........................................................................................... 34
+(b) Request for Place of Trial; Form. ......................................................... 34
+(1) Conflicting Requests. ................................................................. 35
+(2) Amended Request. ...................................................................... 35
+(c) Calendaring Cases................................................................................. 35
+(d) Trial Judge's Designation of Place of Trial. ......................................... 35
+Effective December 1, 2024 Nebraska Civil Rules
+vi
+41.1 Settlement Procedures. ................................................................................... 35
+41.2 Dismissal of Action. ......................................................................................... 36
+45.1 Subpoenas to Nonparties. ............................................................................... 36
+(a) Notice to Adverse Party. ....................................................................... 36
+(b) Objections. ............................................................................................. 36
+(c) Effect of Failure to Object. .................................................................... 36
+47.1 Jury Selection. .................................................................................................. 36
+(a) Voir Dire. ................................................................................................. 36
+(b) Peremptory Challenges. ........................................................................ 36
+(c) Waiver of Peremptory Challenges. ....................................................... 37
+47.2 Disclosure of Juror Identity. ............................................................................ 37
+48.1 Number of Jurors. ............................................................................................ 37
+48.2 Jury Deliberations. ........................................................................................... 37
+(a) Recess. ................................................................................................... 37
+(b) Attorney Availability. ............................................................................. 37
+(c) Verdict. .................................................................................................... 37
+51.1 Proposed Jury Instructions. ............................................................................ 37
+(a) When Filed and Submitted. ................................................................... 38
+(b) Objections. ............................................................................................. 38
+(c) Form. ....................................................................................................... 38
+52.1 Proposed Findings. .......................................................................................... 38
+54.1 Taxation of Costs. ............................................................................................ 38
+(a) Handbook. .............................................................................................. 38
+(b) Bill of Costs; When Filed; Form. .......................................................... 38
+(c) To Whom Payable. ................................................................................. 39
+(d) Waiver of Costs. ..................................................................................... 39
+(e) Attorney's Fees Excluded. .................................................................... 39
+54.2 Jury Cost Assessment. .................................................................................... 39
+54.3 Award of Attorney's Fees and Nontaxable Expenses. .................................. 39
+(a) Time and Method. .................................................................................. 39
+(b) Support for Application. ........................................................................ 39
+(c) Potential Award Issues. ......................................................................... 40
+54.4 Fee Application Guidelines. ............................................................................. 40
+(a) Services Performed. .............................................................................. 40
+(b) Expenses Incurred. ................................................................................ 41
+(c) Rates of Compensation Requested...................................................... 41
+55.1 Default Judgment. ............................................................................................ 41
+(a) Clerk's Entry of Default. ........................................................................ 41
+(b) Clerk's Entry of Default Judgment. ...................................................... 41
+(c) Court's Entry of Default Judgment. ...................................................... 42
+56.1 Summary Judgment Procedure. ..................................................................... 42
+(a) Moving Party. ......................................................................................... 42
+(1) Concise Statement of Material Facts. ........................................ 42
+(2) Form; Citation to Record. ........................................................... 42
+Effective December 1, 2024 Nebraska Civil Rules
+vii
+(3) Content. ....................................................................................... 43
+(4) Filing. ........................................................................................... 43
+(b) Opposing Party. ..................................................................................... 43
+(1) Response to Movant's Statement of Material Facts. ................ 43
+(A) Form; Citation to Record. ................................................ 43
+(B) Contents of Response. .................................................... 43
+(2) Statement of Additional Material Facts. .................................... 44
+(3) Filing. ........................................................................................... 44
+(c) Reply. ...................................................................................................... 44
+(d) Effect of Admission. .............................................................................. 44
+(e) Compliance. ........................................................................................... 45
+(f) Stipulated Material Facts. ...................................................................... 45
+58.1 Satisfaction of Judgment. ................................................................................ 45
+65.1.1 Security; Proceedings Against Sureties. ....................................................... 45
+(a) General Requirements. .......................................................................... 45
+(b) Unacceptable Sureties. ......................................................................... 46
+(c) Corporate Surety. .................................................................................. 46
+(d) Personal Surety. .................................................................................... 46
+(e) Cash Bonds. ........................................................................................... 46
+(f) Cost Bonds. ............................................................................................ 47
+(g) Insufficiency; Remedy. .......................................................................... 47
+67.1 Deposits. ........................................................................................................... 47
+(a) Receipt of Funds. ................................................................................... 47
+(b) Investment of Registry Funds. ............................................................. 47
+(c) Assessment of Fees. ............................................................................. 48
+(d) Withdrawal of Deposit. .......................................................................... 48
+72.1 Magistrate Judge Duties. ................................................................................. 48
+72.2 Objections to Magistrate Judge's Order or Findings and Recommendations.
+........................................................................................................................... 49
+(a) Statement of Objections. ....................................................................... 49
+(b) Evidence. ................................................................................................ 49
+(1) Nondispositive Orders. ............................................................... 49
+(2) Dispositive Orders. ..................................................................... 49
+(c) No Stay of Nondispositive Order Pending Resolution of Objections.
+................................................................................................................. 49
+(d) Nondispositive Orders; Consent Cases Excluded.............................. 50
+(e) Dispositive Orders; Remand. ................................................................ 50
+(f) Dispositive Orders; Failure to Object. .................................................. 50
+72.3 Review of Magistrate Judge's Order in Special Master Report. ................... 50
+73.1 Magistrate Judge; Trial by Consent. ............................................................... 50
+(a) Random Assignment. ............................................................................ 50
+(b) Reassignment of Case to Magistrate Judge. ....................................... 51
+79.1 Custody of Files and Exhibits. ........................................................................ 51
+(a) Clerk's Custody. ..................................................................................... 51
+Effective December 1, 2024 Nebraska Civil Rules
+viii
+(b) Viewing and Copying Court Files. ........................................................ 51
+(1) Paper Files. .................................................................................. 51
+(2) Electronic Files. ........................................................................... 51
+(3) Payment for Copies. ................................................................... 51
+(c) Inspecting Physical Evidence. .............................................................. 52
+(d) Temporary Withdrawal of Paper Court Files, Exhibits, and
+Documents. ............................................................................................ 52
+(e) Permanent Withdrawal of Files and Documents. ................................ 52
+(f) Withdrawal or Destruction of Exhibits at Case Conclusion. .............. 52
+(1) Withdrawal. .................................................................................. 52
+(A) Duty to Retain Exhibits. ................................................... 52
+(B) Sanctions. ......................................................................... 53
+(2) Destruction. ................................................................................. 53
+81.1 Removed Actions. ............................................................................................ 53
+85.1 Title; Citation. .................................................................................................... 53
+Effective December 1, 2024 Nebraska Civil Rules
+1
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEBRASKA
+CIVIL RULES
+1.1 Definitions.
+The following definitions apply to these rules, unless stated otherwise.
+(a) "Judge" means any district or magistrate judge serving this district.
+(b) "Court" means "judge" or, collectively, the judges of this district.
+(c) "Clerk" means the clerk or a deputy clerk of this district.
+(d) "Marshal" means the United States Marshal or a deputy marshal of this
+district.
+(e) "System" means the District of Nebraska' s Case Management/Electronic
+Case Files (CM/ECF) System.
+(f) "Electronic filing" or "electronically file " means uploading a document
+directly from a registered user's computer, using the court's Internet-based
+System to file that document in the court 's case file. Electronic filing also
+includes uploading to the System done by the clerk of documents given to
+the court in paper format or as .pdf ( "Portable Document Format ") files .
+Sending a document to the court via electronic mail (e- mail) or facsimile
+transmission (fax) is not electronic filing.
+(g) "Filing" or "file" means "electronic filing " or "electronically file. " A paper
+document is considered filed on the date the clerk receives and file stamps
+it rather than the date the clerk uploads it to the System.
+(h) "NEF" means "notice of electronic filing."
+3.2 Prepayment of Filing Fees.
+Statutory filing fees must be paid before a case is filed and process is issued .
+Exceptions are proceedings in forma pauperis as governed by statute or local
+rules.
+3.3 Applications to Proceed in Forma Pauperis.
+Effective December 1, 2024 Nebraska Civil Rules
+2
+(a) Financial Affidavit.
+A financial affidavit that substantially complies with 28 U.S.C. § 1915(a) and
+discloses the applicant 's income, assets, expenses, and liabilities must
+accompany an application to proceed in forma pauperis.
+(b) Prisoner Applications; Trust Account Information.
+In addition to submitting a financial affidavit, a prisoner as defined by 28
+U.S.C. § 1915A(c) filing a complaint and seeking leave to proceed in forma
+pauperis must file a certified copy of the prisoner's trust account information
+that complies with 28 U.S.C. § 1915(a)(2).
+(1) Consent to Release of Information and Fee Payment.
+An application to proceed in forma pauperis is consent for the
+institution to release trust account information to the clerk and to pay
+any filing fee required by 28 U.S.C. § 1915(b).
+(2) Continuing Payment Obligation.
+The court must continue to collect, and the institution must continue
+to pay, the filing fee required by 28 U.S.C. § 1915(b)(1) until the fee
+is fully paid, despite dismissal of a case in which the court granted
+leave to proceed in forma pauperis . This subparagraph does not
+apply to petitions for writ of habeas corpus.
+(c) Multiple Plaintiffs.
+If more than one person brings a civil action for which leave to proceed in
+forma pauperis is requested, each plaintiff must file an application, affidavit,
+and, if applicable, trust account information. In multiplaintiff prisoner civil
+rights cases, the assigned judge may require each prisoner to pay the full
+district court filing fee; joinder of plaintiffs is allowed if appropriate under
+Federal Rule of Civil Procedure 20.
+4.1 Summons.
+The plaintiff is responsible for completing a summons and arranging service. The
+clerk is authorized to sign orders specially appointing persons to serve process .
+The clerk is authorized to sign, seal, and issue summonses and subpoenas
+electronically. Electronically issued summonses and subpoenas may not,
+however, be served electronically.
+5.1 Electronic Case Filing (CM/ECF).
+Effective December 1, 2024 Nebraska Civil Rules
+3
+(a) Mandatory Electronic Case Opening and Filing.
+Attorneys filing new civil cases in this district are required to open the cases
+themselves using the System. All documents must be filed electronically.
+(b) Non-prisoner Pro Se Party Case Filing.
+(1) Only non- prisoner pro se part ies to pending civil cases may file
+documents electronically. The clerk will deny any request for
+electronic filing made by prisoners or pro se part ies who are not
+parties to pending civil cases.
+(2) An initial request to electronically file in this court must be submitted
+through PACER. See NEGenR 1.3(b)(1). Subsequent requests to
+electronically file in later -filed cases must be made to the clerk by
+email at clerk@ned.uscourts.gov.
+(c) Exceptions.
+The following matters or individuals are excepted from mandatory electronic
+case opening and filing:
+(1) pro se parties who are not registered users;
+(2) cases filed under seal by court order;
+(3) exhibits, evidence, or attachments, the nature of which precludes
+electronic filing;
+(4) cases or documents excepted by statute or rule; and
+(5) situations in which an attorney applies for and receives permission
+from:
+(A) the chief judge to have the clerk open the new case on the
+System; or
+(B) the assigned judge to file documents nonelectronically.
+(d) Facsimile and E-mail Filings Not Allowed.
+Effective December 1, 2024 Nebraska Civil Rules
+4
+A document is not filed under the Federal Rules of Civil Procedure until the
+filing party receives a System generated NEF after uploading the document
+to the System. A document faxed or e-mailed to the clerk or assigned judge
+is not considered filed without a court order.
+(e) Timely Filing.
+A document is considered timely filed if filed before midnight Central
+Standard Time (or Central Daylight Time, if in effect) . However, the
+assigned judge may order a document filed by a time certain.
+(f) Official Record.
+The clerk does not maintain a paper court file in any case unless required
+by law or local rule. When a document is filed electronically, the official
+record is the electronic recording of the document as stored by the court,
+and the filing party is bound by the document as filed.
+(1) Documents Filed Nonelectronically.
+The official record also includes documents filed nonelectronically
+under local rule.
+(2) Original Documents Scanned and Discarded.
+The clerk scans and discards original documents brought to the clerk
+for filing unless the document's size or nature requires that it be kept
+in a paper format. An attorney who wishes to have an original
+document returned after the clerk scans and uploads it to the System
+may, before submitting the document to the clerk, ask the assigned
+judge for writte n authorization for the document 's return .
+Authorization is granted on a case-by-case basis. The court does not
+allow blanket authorizations for the return of all original documents
+filed by an attorney or office.
+(3) Copies of Filings.
+A party who requests a copy of a paper document submitted for filing
+must, at the time of filing, supply the clerk's office with the copy and,
+if the return is to be made by mail, a self -addressed, stamped
+envelope.
+(g) File Date.
+Effective December 1, 2024 Nebraska Civil Rules
+5
+Except for documents first filed with the court nonelectronically and then
+uploaded to the System, a document filed electronically is considered filed
+as of the date and time stated on the NEF.
+5.2 Electronic Service.
+A party filing electronically must serve a nonregistered user of the System with (A)
+a paper copy of any electronically filed document, see Fed. R. Civ. P. 5(a); and (B)
+proof of the filing, defined as a copy of either (i) the associated NEF or (ii) the
+document bearing the header printed by the System.
+5.3 Privacy.
+(a) Mandatory Redaction.
+See Federal Rule of Civil Procedure 5.2(a) or Federal Rule of Bankruptcy
+Procedure 9037 regarding mandatory redaction in electronic and
+nonelectronic filings. The following privacy rules also apply to all documents
+and exhibits filed in the district and bankruptcy courts.
+(b) Discretionary Redaction.
+The filing party may also redact the following information from all documents
+and exhibits filed electronically or nonelectronically, unless the assigned
+judge orders otherwise:
+(1) personal identifying numbers, such as driver's license numbers;
+(2) home street addresses;
+(3) medical or psychological records;
+(4) employment history;
+(5) individual financial information;
+(6) proprietary or trade secret information;
+(7) information that may identify a cooperating individual;
+(8) information regarding a crime victim;
+(9) national security information;
+Effective December 1, 2024 Nebraska Civil Rules
+6
+(10) sensitive security information as described in 49 U.S.C. § 114(s);
+(11) education records as defined by 20 U.S.C. § 1232g(a)(4)(A); and
+(12) other data as the court orders.
+(c) Restricting Access to Unredacted Documents.
+With the court's leave, a party may restrict access to a document containing
+the unredacted personal data identifiers listed in Nebraska Civil Rule 5.3(b),
+Federal Rule of Civil Procedure 5.2, or Federal Rule of Bankruptcy
+Procedure 9037.
+(1) Motion.
+(A) Procedure.
+A party seeking to file an unredacted document must
+electronically file a motion to restrict access to the document
+under the E -Government Act of 2002, Pub. L. No. 107- 347,
+116 Stat. 2899 (Dec. 17, 2002) (codified at 5 U.S.C. §§ 3701-
+3707 and scattered sections) ( "E-Government Act "). The
+motion must state why filing an unredacted document is
+necessary and why redaction would not reduce or eliminate
+the need for restriction.
+(B) Unredacted Document Not Attached.
+The unredacted document must not be attached to the
+motion, but rather filed separately as a restricted document .
+The document remains provisionally restricted pending the
+ruling on the motion to restrict access . If the court denies the
+motion, it will direct the clerk to lift the restriction on the
+unredacted document.
+(2) Order.
+In ruling on the motion, the assigned judge may lift the restriction on
+the document, strike it, or order the filing party to place a redacted
+copy of the document on the public docket.
+(3) Docket Sheet Entries.
+When access to a document is restricted under the E -Government
+Act, an entry noting the restricted access appears on the public
+Effective December 1, 2024 Nebraska Civil Rules
+7
+electronic docket sheet; however, only parties of record and court
+users may routinely access the document electronically . The public
+does not have remote access to the restricted document from the
+docket sheet. The court may grant the public leave for remote access
+upon motion.
+5.4 Restrictions on Filing Discovery.
+(a) In General.
+Disclosures under Federal Rule of Civil Procedure 26(a)(1) and (2),
+depositions, interrogatories, answers and objections to interrogatories,
+requests for admissions, answers and objections to requests for
+admissions, requests to produce or inspect, and responses to requests to
+produce or inspect must not be filed until needed for trial, resolution of a
+motion, or on the court's order. If a member of the public asks the clerk for
+nonfiled documents, the parties must make the documents available for
+inspection, subject to the entry of protective orders under the Federal Rules
+of Civil Procedure and other applicable law provisions.
+(b) Electronic Service of Discovery.
+Notwithstanding the restrictions on filing discovery documents in
+subparagraph (a) of this rule, the parties may agree at any time to serve
+discovery documents electronically (e.g., by e-mail or fax).
+6.1 Time.
+(a) Computation.
+Federal Rule of Civil Procedure 6 applies when computing any period of
+time stated in these rules.
+(b) Response Time Computation.
+Unless a local rule states otherwise, Federal Rule of Civil Procedure 6
+governs the computation of response time.
+7.1 Motion Practice.
+All miscellaneous motions, applications, requests, and petitions are filed and
+considered under this rule. Unless this rule states otherwise, a party who does not
+follow this rule may be considered to have abandoned in whole or in part that
+party's position on the pending motion.
+Effective December 1, 2024 Nebraska Civil Rules
+8
+(a) Supporting a Motion.
+A moving party must state the basis for the motion and the specific relief
+requested.
+(1) Supporting Brief.
+(A) Substantial Issue of Law.
+A motion raising a substantial issue of law must be supported
+by a brief filed and served together with the motion. The brief
+must be separate from, and not attached to or incorporated in,
+the motion or index of evidence. The brief must concisely state
+the reasons for the motion and cite to supporting authority . A
+party's failure to brief an issue raised in a motion may be
+considered a waiver of that issue . The brief must not recite
+facts unless supported as described in Nebraska Civil Rule
+7.1(a)(2).
+(B) No Substantial Issue of Law.
+A brief is not required if (i) a motion raises no substantial issue
+of law and (ii) relief is within the court 's discretion. Examples
+include motions to which all parties consent, to withdraw as
+counsel to a party, for an extension of time, or for leave to
+proceed in forma pauperis . If the court concludes that a
+motion raises a substantial issue of law, however, it may treat
+the failure to file a brief as an abandonment of the motion.
+(2) Evidence and Evidence Index.
+(A) Factual Support.
+If a motion requires the court to consider any factual matters
+not stated in the pleadings, when filing the supporting brief the
+moving party must also file and serve supporting evidentiary
+materials not previously filed.
+(B) How to File.
+Evidentiary materials in support of a brief or statement of
+undisputed material facts must be filed separately with an
+evidence index listing each item of evidence being filed and
+identifying the motion to which it relates. Electronically filed
+exhibits must include both a category (e.g., Exhibit A or Exhibit
+Effective December 1, 2024 Nebraska Civil Rules
+9
+1) and a description (e.g., Deposition of John Doe), identified
+in the evidence index.
+(C) Required Affidavit.
+An affidavit must identify and authenticate any documents
+offered as evidence. The affidavit must be made on personal
+knowledge, set forth facts that would be admissible in
+evidence, show affirmatively that the affiant is competent to
+testify to the matters stated, and identify the related motion.
+Evidentiary materials authenticated by the affidavit must be
+filed separately in accordance with NECivR 7.1(2)(B), and
+may not be filed in the same document as the affidavit.
+The affidavit must identify the evidence being authenticated
+using the relevant exhibit category provided in the evidence
+index (e.g., Exhibit A or Exhibit 1). Affidavits may, but are not
+required to, identify evidence using the description, so long as
+the exhibit category is also present (e.g., Exhibit A (Deposition
+of John Doe)).
+(D) Citations to Evidence.
+A factual assertion in the motion and the supporting brief must
+cite to the pertinent page of the pleading, affidavit, deposition,
+discovery material, or other evidence on which the moving
+party relies.
+For already-filed evidence, citations must indicate the correct
+docket number and the docket page number (e.g., Filing no.
+1-2 at 7). Citations should not include the "Page ID" number.
+For contemporaneously filed evidence, citations must identify
+the exhibit category from the index and the page number (e.g.,
+Exhibit A at 7).
+Citations may, but are not required to, include the description
+of the evidence, so long as the exhibit category is also present
+(e.g., Exhibit A (Deposition of John Doe) at 7; Filing no. 1- 2
+(Deposition of John Doe) at 7).
+(b) Opposing a Motion.
+(1) Opposing Brief.
+Effective December 1, 2024 Nebraska Civil Rules
+10
+(A) Form and Content.
+The party opposing a motion must not file an " answer,"
+"opposition," "objection," or "response," or any similarly titled
+responsive filing. Rather, the party must file a brief that
+concisely states the reasons for opposing the motion and cites
+to supporting authority. The brief must not recite facts unless
+supported as stated in Nebraska Civil Rule 7.1(b)(2).
+(B) Time for Filing.
+A brief opposing a motion to dismiss, for judgment on the
+pleadings, for a more definite statement, or for summary
+judgment must be filed and served within 21 days after the
+motion and supporting brief are filed and served. A brief
+opposing any other motion must be filed and served within 14
+days after the motion and supporting brief are filed and
+served.
+(C) Effect of Failure to File.
+Failure to file an opposing brief is not considered a confession
+of a motion but precludes the opposing party from contesting
+the moving party's statement of facts.
+(2) Evidence and Evidence Index.
+(A) Factual Support.
+When filing the opposing brief, the opposing party must also
+file and serve supporting evidentiary material not previously
+filed. A factual assertion in the opposing brief must cite to the
+pertinent page of the pleading, affidavit, deposition, discovery
+material, or other evidence on which the opposing party relies.
+(B) How to File.
+Evidentiary materials may be attached to the brief , or the
+statement respecting undisputed material facts in response to
+a summary judgment motion, if the brief includes a listing of
+each item of evidence being filed, and the evidence citations
+within the brief provide hyperlinks to the evidence attached
+and offered in support of the factual statements . In all other
+cases, evidentiary materials may not be attached to the brief
+but rather must be filed separately with an index listing each
+Effective December 1, 2024 Nebraska Civil Rules
+11
+item of evidence being filed and identifying the motion to
+which it relates.
+(C) Required Affidavit.
+An affidavit must identify and authenticate any documents
+offered as evidence. The affidavit must be made on personal
+knowledge, set forth facts that would be admissible in
+evidence, show affirmatively that the affiant is competent to
+testify to the matters stated, and identify the related motion.
+(c) Replying to Opposing Briefs and Evidence.
+(1) Time for Filing.
+A reply brief and index of evidence in support of a motion for
+summary judgment may be filed within 14 days after the opposing
+party files and serves the opposing brief. A reply brief in support of
+any other motion must be filed and served within 7 days after the
+opposing party files and serves the opposing brief.
+(2) Contents of Reply Brief.
+The reply brief may not merely repeat the moving party 's initial
+arguments, but rather must address factual or legal issues raised in
+the opposing brief. Without leave of court, a reply brief may not raise
+new grounds for relief or present matters that do not relate to the
+opposing party's response.
+(3) Leave of Court; When Required.
+No party may file further briefs or evidence without the court's leave.
+If the moving party does not file an initial brief, it may not file a reply
+brief without the court's leave.
+(d) Word Limits, Generative AI, and Certificate of Compliance.
+(1) Word Limits.
+(A) Supporting and Opposing Briefs.
+Except with the court 's prior permission, a party 's supporting
+brief or opposing brief may not exceed 13,000 words.
+(B) Reply Briefs.
+Effective December 1, 2024 Nebraska Civil Rules
+12
+Except with the court's prior permission, a moving party's reply
+brief may not exceed 6,500 words.
+(C) Text Included.
+All text —including the caption, headings, footnotes, and
+quotations—counts toward these limits.
+(2) Motion to Exceed Limits.
+A party who seeks to exceed these word limits must first obtain the
+court's permission to do so by filing and serving a motion of no more
+than 500 words that (1) indicates whether the motion is unopposed
+or opposed after conferring with opposing parties; (2) explains the
+reason for the requested relief; and (3) states the proposed number
+of additional words. The court will grant such a motion only up on a
+showing of good cause. A party who opposes such a motion may,
+within 7 days, file and serve a response in opposition of no more than
+500 words. A motion under this section shall not serve to extend the
+deadline for filing the brief, and any extension must be separately
+sought and granted.
+(3) Generative Artificial Intelligence.
+All parties are responsible for the accuracy and reliability of their legal
+briefing—including quotations, citations, paraphrased assertions,
+and legal analysis —regardless of whether generative artificial
+intelligence programs drafted any portion of that filing. See Fed. R.
+Civ. P. 11(b). All parties are expected, if using generative artificial
+intelligence programs, to verify the contents of their filings.
+(4) Certificate of Compliance.
+A brief shall include a certificate executed by the author affirming that
+the brief complies with the requirements of this subsection.
+(A) Word Limits.
+The certificate must state how many words the brief contains.
+Certifying authors may rely on the word-count function of their
+word-processing software if they certify that the function was
+applied to include all text, including the caption, headings,
+footnotes, and quotations, and include the name and version
+of the word-processing software used.
+Effective December 1, 2024 Nebraska Civil Rules
+13
+(B) Generative Artificial Intelligence.
+The certificate must state that no generative artificial
+intelligence program was used in drafting the document, or
+that to the extent such a program was used, a human
+signatory of the document verified the accuracy of all
+generated text, including all citations and legal authority.
+(5) Consequence of Noncompliance.
+Any brief not in compliance with this subsection may be stricken, with
+or without further notice, in the sole discretion of the court. A material
+misrepresentation in the certificate of compliance may result in
+striking the document and sanctions against the person signing the
+document. The opposing party shall not file a motion to strike based
+on alleged noncompliance with this subsection.
+(e) Request for Oral Argument or Evidentiary Hearing.
+Any request for oral argument or for an evidentiary hearing by a moving
+party must be included in the motion or else presented by a separate motion
+filed no later than the deadline for filing a reply brief. Any request for oral
+argument or for an evidentiary hearing by an opposing party must be
+presented by a motion filed no later than the deadline for filing an opposing
+brief. In general the court does not allow oral argument or evidentiary
+hearings on motions. The party requesting oral argument or an evidentiary
+hearing must state (1) why argument or a hearing is necessary and (2) an
+estimate of the time required for the argument or hearing.
+(f) Request to Present Oral Testimony.
+A party failing to request the opportunity to present oral testimony consents
+to the motion' s submission without oral testimony . No oral testimony is
+allowed without the court's prior leave.
+(g) Submission of Motion.
+Unless the court grants leave for oral argument, a motion is submitted on
+the briefs and any evidence filed when the time limit specified in Nebraska
+Civil Rule 7.1(c) expires.
+(h) Procedures for Summary Judgment Motions.
+Effective December 1, 2024 Nebraska Civil Rules
+14
+See Nebraska Civil Rule 56.1.
+(i) Extensions of Time for Filing or Responding to Motions.
+See Nebraska Civil Rule 6.1.
+(j) Discovery Motions.
+To curtail undue delay in the administration of justice, this court only
+considers a discovery motion in which the moving party, in the written
+motion, shows that after personal consultation with opposing parties and
+sincere attempts to resolve differences, the parties cannot reach an accord.
+This showing must also state the date, time, and place of the
+communications and the names of all participating persons . "Personal
+consultation" means person-to-person conversation, either in person or on
+the telephone. An exchange of letters, faxes, voice mail messages, or e-
+mails is also personal consultation for purposes of this rule upon a showing
+that person-to-person conversation was attempted by the moving party and
+thwarted by the nonmoving party.
+(k) Conference Telephone Calls.
+The judge may conduct a motion hearing by telephone or video conference.
+7.2 Proposed Order.
+A party may submit a proposed order to the assigned judge's chambers by e-mail
+sent to the address listed on the judge' s information page on the court 's website.
+See https://www.ned.uscourts.gov/attorney/judges-information. A proposed order
+may not be filed by a party.
+7.3 Agreements and Stipulations.
+An agreement, stipulation or consent between parties is binding only if (a) in writing
+and signed by the parties or their attorneys, or if oral, made a part of the record
+and (b) approved by an appropriate court order or ruling if required. For provisions
+on multiple signatures on electronically filed documents, see Nebraska Civil Rule
+11.1(a)(3). For discovery stipulations, see Nebraska Civil Rule 29.1. The attorney
+who electronically files a joint stipulation must file a certificate of service.
+7.4 Motion to Certify a Question to State Court.
+A party may move to certify a question of state law to the highest court of that state
+when it appears that (a) an issue of that state' s law is determinative of the case
+and (b) there is no clear controlling state law precedent . The moving party's brief
+Effective December 1, 2024 Nebraska Civil Rules
+15
+must include a statement of the precise issue to be certified. If the court grants the
+motion, it orders the parties to prepare and file stipulated facts, which this court
+forwards to the state court. The filing fees and court costs of the state court must
+be paid directly to the clerk of the state court.
+7.5 Sealed Documents and Objects.
+(a) Procedure.
+(1) Motion to Seal.
+A party seeking to file a sealed document or object must
+electronically file a motion to seal. The motion must state why sealing
+is required and whether redaction could eliminate or reduce the need
+for sealing. A motion to seal is not required if the document or object
+is already subject to a protective order or included within a category
+of documents or objects considered sealed under a federal statute
+or rule of procedure, local rule, or standing order of this court.
+(2) Sealed Document not Attached.
+The document to be sealed must not be attached to the motion but
+rather filed separately as a provisionally sealed document . The
+document remains provisionally sealed until the court rules on the
+motion to seal.
+(3) Order.
+In ruling on the motion, the assigned judge may also unseal the
+document, strike it, or order the filing party to electronically file a
+redacted copy.
+(b) Notice.
+When a sealed document is filed, the System does not provide notice of
+electronic filing to all parties in the case. The filing party must use alternate
+forms of service to provide all parties entitled to notice with copies of the
+sealed document.
+(c) Docket Sheet Entries.
+When a sealed document is filed electronically, an entry appears on the
+electronic docket sheet only for court users . The parties and the public do
+not have remote access to the sealed document from the docket sheet
+Effective December 1, 2024 Nebraska Civil Rules
+16
+unless otherwise ordered by the court.
+(d) Motion to Unseal.
+A motion to unseal or view a document or object may be made on any legal
+grounds.
+7.6 Denial of Pending Motions Upon Reference.
+When a district judge refers a case with pending motions to mediation or to the
+bankruptcy court, the clerk is authorized to enter a text-only order (a) automatically
+denying all pending motions as of the date of the reference and (b) stating that the
+denial is made under this rule and without prejudice to refiling.
+9.1 Pleading Special Matters.
+(a) Social Security Cases.
+(1) Social Security Number Required.
+A person seeking judicial review of a decision of the Commissioner
+of Social Security under Section 205(g) of the Social Security Act, 42
+U.S.C. § 405(g) must provide, on a separate document attached to
+the copy of the complaint served on the Commissioner, the social
+security number of the worker on whose wage record the application
+for benefits was filed. The complaint must also state that the social
+security number has been attached to the copy of the complaint
+served on the Commissioner . Failure to provi de a social security
+number to the Commissioner may result in sanctions that do not
+include dismissal of the complaint.
+(2) Electronic Filing.
+Absent a showing of good cause, all documents in social security
+cases filed in this court must be filed and noticed electronically
+according to local rule, except as noted below.
+(A) Transcript or Administrative Records.
+Social security transcripts or administrative records may be
+nonelectronically filed and served. If a transcript or
+administrative record is filed nonelectronically, the clerk
+dockets a text -only event stating that the transcript or
+administrative record is available to parties and counsel of
+Effective December 1, 2024 Nebraska Civil Rules
+17
+record in paper format from the clerk.
+(b) Claim of Unconstitutionality.
+A party who pleads the unconstitutionality of an act of Congress or a state
+statute in any action in which the United States, the state, or a federal or
+state agency, officer or employee is not a party must notify the court of the
+question either by (1) checking the appropriate box on the civil cover sheet
+or (2) stating in the caption of the pleading that alleges unconstitutionality:
+"Claim of Unconstitutionality." A party raising a claim of unconstitutionality
+after the complaint must file a document enti tled "Notice of Claim of
+Unconstitutionality."
+(c) Request for 3-Judge Court.
+If a party believes a 3 -judge district court is required to hear an action or
+proceeding under 28 U.S.C. § 2284 or any other federal law, the party must
+include the words "3- Judge District Court Requested" or the equivalent
+immediately after the title of the first pleading in which the cause of action
+requiring a 3- judge court is pleaded. Unless the basis for the request is
+apparent from the pleading, it must be stated in the pleading or in a brief
+attached statement.
+(d) Privacy Issues.
+Documents containing personal identifying information must conform to the
+E-Government Act . See also NECivR 5.0.3(a); NEGenR 1.3(c) . Parties,
+attorneys, and court personnel should be vigilant in protecting sensitive
+personal information found in documents including mental competency
+evaluations, substance abuse evaluations, and medical reports.
+10.1 Form of Documents.
+(a) Electronic Filings.
+Absent a contrary local rule or assigned judge' s order, all documents must
+be filed electronically on the System as .pdf files . To make these .pdf files
+text-searchable, filers should convert word processed documents to .pdf
+format and then upload them to the System; filers should avoid printing the
+documents on paper and then scanning them to produce .pdf files for
+uploading. The following provisions apply to all electronically filed
+documents.
+(1) Legibility.
+Effective December 1, 2024 Nebraska Civil Rules
+18
+The filing party is responsible for the legibility of any scanned
+document uploaded to the System . If a document cannot be easily
+read after scanning, the filing party must file it nonelectronically with
+the clerk.
+(2) Evidence, Exhibits, and Attachments.
+(A) Listing or Index.
+Court filings which include hyperlinks to attached evidence,
+exhibits, and documents must include a listing of each item of
+evidence being filed . In all other cases, evidence, exhibits,
+and attachments in support of a motion must be identified on
+an electronically filed index of evidence, which must identify
+the related motion.
+(B) Excerpts Required.
+A filer must submit as exhibits or attachments only excerpts
+of the referenced documents that are directly relevant to the
+matter under consideration. Excerpted material must be
+clearly and prominently identified. Persons who file excerpts
+of documents as exhibits or attachments under this rule do so
+without prejudice to their right to timely file additional excerpts
+or the complete document. Responding parties may timely file
+additional relevant excerpts or, if relevant, the complete
+document. The court ma y require parties to file additional
+excerpts or the complete document.
+(C) Paper Documents.
+If the court grants a party leave to submit evidentiary materials
+in paper, the party must also file a paper index of evidence
+listing each item of evidence being filed and identifying the
+motion to which it relates . The party must serve copies of
+nonelectronically filed supporting materials on other parties as
+if not subject to electronic filing procedures.
+(D) Additional Information.
+Additional information on filing evidence or exhibits is
+available on the court 's website at
+https://www.ned.uscourts.gov/attorney/electronic-case-filing.
+Effective December 1, 2024 Nebraska Civil Rules
+19
+(3) Content.
+A document must plainly show the case caption, a description or
+designation of its contents, and the party or person/entity on whose
+behalf it is filed . All documents after the pleading initiating a
+proceeding must also show the correct docket number . A demand
+for jury trial, designation of a class action, claim of unconstitutionality
+of a statute, or request for a 3- judge court must be noted in the
+pleading caption.
+(4) Hyperlinks.
+Electronically filed documents allow only two types of hyperlinks: to
+other parts of the same document; and to an Internet location that
+contains a source document for a citation . A hyperlink to evidence
+attached to a court filing becomes a permissible hyperlink to an
+Internet location upon filing in CM/ECF . These hyperlinks are
+provided only for users ' convenience. Users are cautioned that
+hyperlinked documents in CM/ECF are subject to PACER fees.
+(A) Cited Authority.
+Hyperlinks to cited authority may not replace standard citation
+format. The text of the filed document must include complete
+citations. Neither a hyperlink, nor any site to which it refers,
+may be considered part of the record.
+(B) Responsibility for Hyperlinks.
+The court accepts no responsibility for and does not endorse,
+approve, or guarantee any third parties or the services or
+products they provide on their websites. Likewise, the court
+has no agreements with any of these third parties or their
+websites. The court accepts no responsibility for any
+hyperlink's availability or functionality. Thus, the fact that a
+hyperlink ceases to work or directs the user to some other site
+does not affect the court's opinion.
+(b) Nonelectronic Filings.
+If a document must be filed nonelectronically, the following provisions apply.
+(1) Paper Size; Margins.
+Effective December 1, 2024 Nebraska Civil Rules
+20
+The paper used must be 82" x 11", white, and of standard weight. A
+2-inch margin must appear at the top of the first page for the clerk 's
+filing stamp.
+(2) Presentation.
+All documents must be single- sided and legibly typewritten,
+photocopied, printed, or handwritten if necessary, and without
+materially defacing erasures or interlineations . Attached exhibits
+must be similarly typewritten, printed, photocopied, or handwritten if
+necessary, in clear, legible, and permanent form.
+(3) Additional Materials.
+Any materials filed in connection with a motion must be accompanied
+by an index listing each item attached. If not pre- bound, such as a
+transcript or book, all attachments to the index printed on 82 " x 11"
+paper must be bound together by fasteners . All materials not
+amenable to binding must be submitted in an envelope or other
+closeable container.
+(4) Content.
+A document filed nonelectronically must include the same
+information as an electronically filed document . See NECivR
+10.1(a)(3).
+(5) Physical Media Required.
+Electronic documents filed nonelectronically, such as audio or video
+files, must be provided to the Clerk of the Court and parties entitled
+to service in the case by a commonly used physical media format,
+such as an optical disc or flash drive. Providing a document only by
+linking to a cloud storage service such as Dropbox or OneDrive is
+not sufficient.
+11.1 Signing of Documents.
+(a) Electronic Filings.
+The user login and password required to file documents on the System
+serve as the filer 's signature on electronically filed documents and for
+purposes of Federal Rule of Civil Procedure 11, these local rules, and any
+other signature requirement.
+Effective December 1, 2024 Nebraska Civil Rules
+21
+(1) Attorney's Signature.
+An electronically filed document that requires an attorney's signature
+must be signed as follows: "s/ (attorney name)."
+(A) Format.
+The correct format for an electronic signature follows.
+s/ Judith Attorney
+Bar Number: 12345
+Attorney for (Plaintiff/Defendant)
+ABC Law Firm
+123 South Street
+Omaha, Nebraska 68000
+Telephone: (402) 123-4567
+Fax: (402)123-4567
+E-mail: judith_attorney@law.com
+(B) Challenges to Authenticity.
+Any party challenging the authenticity of an electronically filed
+document or an electronic signature must file an objection
+within 7 days of receiving the NEF.
+(2) Nonattorney Signature.
+If an original document requires a nonattorney 's signature, the filer
+may (A) scan and upload the signed document to the System or (B)
+electronically file the document with the nonattorney signature
+represented by an " s/" and the name typed in the space where the
+signature would otherwise appear.
+(A) Maintenance of Original Document.
+The filer must maintain the original signed document in paper
+form until all time periods for appeal expire. At the court 's
+request, the filer must provide the original document for
+review.
+(B) Disputes.
+A nonfiling signatory or party who disputes i) the authenticity
+of an electronically filed document with a nonattorney
+signature or ii) the authenticity of the signature on a document
+Effective December 1, 2024 Nebraska Civil Rules
+22
+must file an objection within 7 days of receiving the NEF.
+(3) Multiple Signatures.
+(A) Filing Methods.
+Documents requiring signatures of more than one party must
+be electronically filed by i) submitting a scanned document
+containing all necessary signatures; ii) representing the other
+parties' consent on the document; or iii) any other court
+approved manner.
+(B) Disputes.
+A nonfiling signatory or party who disputes the authenticity of
+an electronically filed document containing multiple signatures
+or the authenticity of the signatures must file an objection
+within 7 days of receiving the NEF.
+(b) Nonelectronic Filings.
+The name, address, telephone number, fax number, and a bar number must
+be typed under each attorney signature.
+12.1 Motions to Dismiss; Suspension of Time to Answer.
+When a party files a motion to dismiss, the time for that party to file an answer to
+all claims, including those not addressed in the motion, is suspended until 14 days
+after the court issues a ruling on the motion.
+15.1 Motion to Amend Pleading.
+(a) Form and Content.
+A party who moves for leave to amend a pleading (including a request to
+add parties) must file as an attachment to the motion an unsigned copy of
+the proposed amended pleading that clearly identifies the proposed
+amendments. Except as stated in these rules or court order, the proposed
+amended pleading must be a complete pleading that, if allowed to be filed,
+supersedes the original pleading in all respects; no part of the prior pleading
+may be incorporated into the proposed am ended pleading by reference .
+The motion for leave to amend must (1) specifically state the proposed
+amendments and (2) state whether the motion is unopposed or opposed,
+after conferring with opposing parties.
+Effective December 1, 2024 Nebraska Civil Rules
+23
+(b) Pro Se Cases.
+In considering pro se litigants' amended pleadings, the court may consider
+the amended pleading as supplemental to, rather than as superseding, the
+original pleading, unless the pleading states that it supersedes the prior
+pleading.
+(c) Filing of Amended Pleading.
+The granting of the motion for leave to amend does not constitute filing the
+amended pleading. If granted leave to amend, the party must then file the
+amended pleading.
+16.1 Scheduling Orders.
+(a) Entered by Magistrate Judges.
+(1) Magistrate judges may enter scheduling orders under Federal Rule
+of Civil Procedure 16(b).
+(2) In this district, a scheduling order under Federal Rule of Civil
+Procedure 16 (b) is called a "Case Progression Order."
+(b) Excepted Proceedings.
+The proceedings listed below are inappropriate for the scheduling order
+required by Federal Rule of Civil Procedure 16(b):
+(1) habeas corpus cases and motions for post -conviction relief filed
+under 28 U.S.C. §§ 2241, 2254, and 2255;
+(2) Social Security cases filed under 42 U.S.C. § 405(g) and any other
+action for judicial review of an administrative decision of a
+government agency where review is based on the administrative
+record;
+(3) actions to compel arbitration or to confirm or set aside arbitration
+awards;
+(4) proceedings to compel or challenge efforts to obtain testimony or
+production of documents under a subpoena or summons issued by
+an officer, agency , or instrumentality of the United States not
+authorized to compel compliance;
+Effective December 1, 2024 Nebraska Civil Rules
+24
+(5) appeals from the bankruptcy court;
+(6) actions for enforcement of a civil fine, penalty , or forfeiture of
+property;
+(7) naturalization proceedings;
+(8) proceedings under the Freedom of Information Act, 5 U.S.C. § 552;
+and
+(9) proceedings to compel testimony or production of documents relative
+to actions in another district or perpetuation of testimony for use in
+any court.
+(c) Pro Se Cases.
+Pro se cases assigned to a district judge for trial are exempt from the
+disclosure and conference requirements of Federal Rule of Civil Procedure
+26. Unless otherwise ordered by the court, approximately 30 days after the
+last defendant files an answer, the court will issue an "Order Setting
+Schedule for Progression of Case" addressing discovery and other issues.
+No discovery may take place until this progression order is entered except
+upon motion and order.
+16.2 Pretrial Procedure in Civil Cases.
+(a) Matters to Be Completed Before Final Pretrial Conference.
+(1) Exhibit List.
+Unless the court orders otherwise, before the pretrial conference
+documents and objects expected to be introduced as exhibits must
+be physically numbered and inspected. Exhibits must be listed on
+approved forms available from the clerk and on the court 's website,
+https://www.ned.uscourts.gov/forms " Exhibit List, " or on forms
+prepared in substantially the same format . Documents and objects
+expected to be used solely for impeachment purposes that have not
+been given to opposing parties need not be numbered or listed until
+identified at trial. Except upon a showing of good cause, failure to list
+an exhibit required by this rule to be listed results in its
+nonadmissibility over an objection.
+(A) Objections.
+Effective December 1, 2024 Nebraska Civil Rules
+25
+All objections to the admissibility of any listed exhibit must be
+noted on the exhibit list . Objections not disclosed on the
+exhibit list, other than objections under Federal Rules of
+Evidence 402 and 403, are considered waived unless
+excused by the court for good cause.
+(B) Exception for Good Cause.
+The judge holding the pretrial conference may, for good cause
+shown, authorize the parties to defer listing exhibits or
+objections until a later date specified by that judge.
+(C) Effect of Listing.
+Merely because a party lists an exhibit on an exhibit list does
+not mean that an opposing party may offer it into evidence
+without meeting all necessary evidentiary prerequisites.
+(2) Proposed Final Pretrial Order.
+Unless the court orders otherwise, a proposed "Order on Final
+Pretrial Conference" that includes each matter listed below must be
+jointly prepared and presented to the judge at the pretrial conference.
+An acceptable pretrial order form is available from the clerk or on the
+court's website, https://www.ned.uscourts.gov/forms "Order on Final
+Pretrial Conference."
+(A) Exhibits.
+A complete list of exhibits and objections prepared under
+Nebraska Civil Rule 16.2(a)(1) must be attached to the
+proposed order.
+(B) Uncontroverted Facts.
+The parties must jointly state any facts that may be accepted
+as established at trial, in a form that may be read to the jury.
+(C) Controverted and Unresolved Issues.
+The parties must jointly list all remaining legal issues to be
+determined, setting out in detail each element of the genuinely
+controverted unresolved claim or defense (including issues on
+the merits and issues of jurisdiction, venue, joinder, validity of
+appointment of a representative of a party, class action,
+Effective December 1, 2024 Nebraska Civil Rules
+26
+substitution of parties, attorney 's fees and applicable law
+under which fees are claimed, and prejudgment interest). The
+following must be specified: (i) any claimed special damages
+or permanent injuries; (ii) any elements of negligence and
+contributory negligence; and (iii) any other unresolved matters
+requiring the court 's attention, for example, possible
+consolidation for trial, bifurcated trials on specified issues, and
+pending motions.
+(D) Witnesses.
+Each party must separately list all witnesses, including
+rebuttal witnesses, whom that party expects to call to testify,
+except witnesses who may be called for impeachment
+purposes as defined in Nebraska Civil Rule 16.2(c) . The list
+must (1) include the city and state where each witness resides
+and (2) identify witnesses whom the party expects to be
+present and whom the party may call. Except upon a showing
+of good cause, a witness whose name and city of residence
+does not appear on the list will not be permitted to testify over
+objection for any purpose except impeachment . The witness
+list must identify each witness whose only testimony is
+intended to establish foundation for an exhibit for which
+foundation has not been waived, and unless the witness was
+disclosed under Federal Rule of Civil Procedure 26(a)(3), over
+objection the witness may not testify for any other purpose. A
+witness appearing on any party's witness list may be called by
+any other party.
+(E) Expert Witness Qualifications.
+The parties must separately list persons whom they expect to
+call as expert witnesses and (i) state each witness 's
+qualifications or (ii) attach the witness's curriculum vitae.
+(F) Voir Dire.
+In cases to be tried to a jury, parties must state any requests
+regarding the conduct of juror examination . See Fed. R. Civ.
+P. 47(a); NECivR 47.2(a).
+(G) Number of Jurors.
+In cases to be tried to a jury, parties must state a preference
+regarding the number of jurors . See Fed. R. Civ. P. 48;
+Effective December 1, 2024 Nebraska Civil Rules
+27
+NECivR 48.1.
+(H) Verdict.
+In cases to be tried to a jury, the parties must state whether
+they will stipulate to a less-than-unanimous verdict.
+(I) Briefs, Instructions, and Proposed Findings.
+Parties must state any requests regarding: deadlines for filing
+trial briefs, see NECivR 39.2(a); proposed jury instructions,
+see NECivR 51.1(a); or proposed findings of fact, see NECivR
+52.1.
+(J) Length of Trial.
+Parties must estimate the length of trial (in days) and state
+both the minimum and maximum number of trial days that the
+court should reserve.
+(K) Trial Date.
+Parties must state any special requests regarding the setting
+of a trial date.
+(b) Representation Required.
+Unless otherwise approved in advance by the judge conducting the
+conference, each party for whom an attorney has filed an appearance must
+be represented at the conference by the lead trial attorney who has
+adequate information and authority to responsibly and effectively participate
+in every aspect of the conference. All attorneys attending the final pretrial
+conference must be identified in the final pretrial order and may be required
+to sign the order approving its form at the conference.
+(c) "Impeachment Purposes" Defined.
+With regard to this rule, "impeachment purposes" means only to attack or
+support (1) a witness 's credibility or (2) the validity of or the weight to be
+given to the contents of a document or object used solely to attack or
+support a witness 's credibility. It does not include evidence that merely
+contradicts other evidence.
+23.1 Class Action Procedures.
+Effective December 1, 2024 Nebraska Civil Rules
+28
+(a) Designation on Pleading.
+In a case filed as a class action, the complaint or other pleading asserting
+a class action must include in its caption the phrase "Class Action."
+(b) Notice to Class Members.
+In addition to the notice requirements of Federal Rule of Civil Procedure
+23(c)(2)(B), all notices to class members must specifically state that all
+documents sent to the court by any class member, including any letter or
+document expressing the member 's desire to be excluded from the class
+and any objection to a proposed settlement, voluntary dismissal, or
+compromise, are filed electronically by the clerk and therefore will be
+available for public review.
+(c) Filing of Documents Submitted by Class Members.
+Before the clerk electronically files any document submitted by a class
+member, the clerk must provide the document to the assigned judge' s
+chambers. The judge will instruct the clerk concerning the filing of the
+document and its appropriate docket entry.
+26.1 Service of Disclosures.
+(a) Certificate of Service.
+When serving disclosures under Federal Rule of Civil Procedure 26(a)(1)
+and (2), the disclosing party must electronically file a certificate of service.
+(b) Service by E-Mail or Fax.
+To the extent practicable and if all parties agree, Rule 26(a)(1) and (2)
+disclosures may be served by e-mail or fax.
+29.1 Discovery Stipulations.
+If stipulations to extend the time stated in Federal Rules of Civil Procedure 33, 34,
+and 36 for responses to discovery would interfere with court -imposed discovery
+deadlines, motion deadlines, or trial dates, the stipulations are effective only upon
+court order. All other discovery stipulations are effective when the parties file a
+written stipulation signed by all parties that specifies the agreed upon change.
+30.1 Video Depositions.
+Effective December 1, 2024 Nebraska Civil Rules
+29
+Video depositions are authorized without a prior motion and order.
+(a) Notice.
+The deposition notice must state that the deposition will be recorded by
+video.
+(b) Identification of Camera Operator.
+At the deposition, the camera operator must be identified . An employee of
+the attorney who noticed the deposition may operate the camera.
+(c) Swearing of Witness.
+The witness must be sworn on camera.
+(d) Camera Operation.
+The camera must be directed at the witness at all times, showing a head
+and shoulders view. Close-up views of exhibits are allowed as requested by
+the questioning attorney.
+(e) Voluntary Resolution of Objections.
+Before trial, a party seeking to use the deposition at trial must initiate the
+voluntary resolution of objections made at the deposition.
+(f) Unresolved Objections.
+The party seeking to use the deposition at trial must submit any unresolved
+objections to the court in a motion in limine after the deposition, but no later
+than 7 days before trial or, alternatively, the date set by the pretrial order. A
+transcript of the video must accompany the motion.
+32.1 Editing Video Depositions for Court Proceedings.
+(a) Notice to Opposing Parties.
+After the court rules on the unresolved objections raised in a motion in limine
+brought under Nebraska Civil Rule 30.1(f), the party seeking to use the
+deposition must notify opposing parties of the pages and line numbers of
+the deposition transcript that the party plans to delete from the tape. The
+party seeking to use the video deposition at trial must then edit the tape
+accordingly and bear the editing expense.
+Effective December 1, 2024 Nebraska Civil Rules
+30
+(b) Overruled Objections.
+If the court overrules an objection made during the deposition, the objection
+need not be deleted. If requested, the court will give an instruction regarding
+objections heard on the video when the deposition is shown at trial.
+(c) Copy to Opposing Parties.
+At least 7 days before showing the video, the party seeking to use the tape
+at trial must deliver a copy of the edited video to opposing attorneys . An
+opposing attorney may only object if (1) the edited version does not comply
+either with (A) the parties ' agreement described in Nebraska Civil Rule
+30.1(e), or (B) the court's ruling on the motion in limine filed under Nebraska
+Civil Rule 30.1(f); or (2) the quality of the video will make it difficult for the
+jury to understand. Any objections must be in writing and served at least 24
+hours before the video is to be shown.
+33.1 Interrogatories.
+(a) Sequential Numbering.
+A party must number each interrogatory sequentially, despite the number
+of interrogatory sets.
+(b) Separate Definitions Prohibited.
+A party may not separately define words used in an interrogatory without
+the court's leave.
+(c) Number of Interrogatories.
+In determining the number of interrogatories, including subquestions, each
+inquiry seeking a discrete item of information is counted as one
+interrogatory. For example, the following question is counted as 3
+interrogatories: "Please state the name, address, and telephone number of
+any witness to the accident set forth in the complaint."
+(d) Form of Response.
+In answering or objecting to interrogatories, the responding party must first
+state verbatim the interrogatory and immediately thereafter the responsive
+answer or objection.
+(e) Certificate of Service.
+Effective December 1, 2024 Nebraska Civil Rules
+31
+The demanding party, when serving interrogatories, must file a certificate of
+service. The responding party must also file a certificate of service upon
+serving a response.
+(f) Alternative Methods of Service.
+If all parties agree, interrogatories and answers or objections may be served
+by e-mail or fax. The answering party must maintain during the pendency
+of the proceeding a paper copy of all answers to interrogatories, sworn to
+and signed as required by Federal Rule of Civil Procedure 33(b), and must
+produce this copy upon a party's request.
+34.1 Requests for Production or Inspection.
+(a) Form of Response.
+In responding or objecting to requests to produce or inspect, the party must
+first state verbatim the propounded request and immediately thereafter the
+party's response or objection.
+(b) Certificate of Service.
+The demanding party, upon serving a request for production or inspection,
+must file a certificate of service. The responding party must also file a
+certificate of service upon serving a response.
+(c) Alternative Methods of Service.
+If all parties agree, requests and responses or objections may be served by
+e-mail or fax.
+34.2 Persons Not Parties.
+For the rule on subpoenas to nonparties, see Nebraska Civil Rule 45.1.
+36.1 Requests for Admission.
+(a) Sequential Numbering.
+A party must number each request sequentially, despite the number of sets
+of requests for admission.
+(b) Form of Response.
+Effective December 1, 2024 Nebraska Civil Rules
+32
+In answering or objecting to requests for admission, the responding party
+must first state verbatim the propounded request and immediately
+thereafter the party's answer or objection.
+(c) Certificate of Service.
+The demanding party, upon serving requests for admission, must file a
+certificate of service . The responding party must also file a certificate of
+service upon serving answers or objections.
+(d) Alternative Methods of Service.
+If all parties agree, requests and answers or objections may be served by
+e-mail or fax.
+38.1 Notation of "Jury Demand" on Pleading.
+If a party demands a jury trial by including it on a pleading, as Federal Rule of Civil
+Procedure 38(b) allows, a notation must be on the front page and immediately after
+the title of the pleading, stating "Demand for Jury Trial" or the equivalent . This
+notation serves as a sufficient demand under Federal Rule of Civil Procedure
+38(b). Failure to use this manner of noting the demand does not result in a waiver
+under Federal Rule of Civil Procedure 38(d) . Regarding jury trials in removed
+cases, see Federal Rule of Civil Procedure 81(c)(3).
+39.1 Opening Statements and Closing Arguments.
+(a) Opening Statements.
+After the jury is selected and sworn, the party on whom the burden of proof
+rests may, without arguing, make an opening statement, after which each
+adverse party may do the same.
+(b) Closing Arguments.
+The parties may each make a final argument . The judge, after conferring
+with the attorneys, allots time for each argument. The plaintiff's attorney may
+take no more than one-third of the plaintiff's allotted time for rebuttal. Unless
+ordered otherwise, during rebuttal the plaintiff 's attorney may discuss only
+subjects previously discussed during either party's closing argument. If the
+defendant waives closing argument, the plaintiff may not offer rebuttal .
+However, if the plaintiff waives closing argument, the defendant may make
+a closing argument. If the party having the burden of proof is not the plaintiff,
+that party is treated as the plaintiff for purposes of this rule.
+Effective December 1, 2024 Nebraska Civil Rules
+33
+39.2 Briefs.
+(a) Trial Briefs.
+Unless ordered otherwise, each party must file a trial brief at least 7 days
+before the trial begins.
+(b) Motion Briefs.
+Motion briefs must be prepared according to Nebraska Civil Rule 7.1.
+(c) Abandonment of Issues.
+Except as stated in Nebraska Civil Rule 7.1(b)(1)(C), when by local rule or
+separate order a time has been set for filing a brief, a judge may treat a
+party's failure to file a brief or discuss an issue in a brief as an abandonment
+of that party's position on any issue not briefed or discussed.
+(d) Habeas Corpus and Post-Conviction Relief.
+In matters brought under 28 U.S.C. §§ 2241 and 2254, counsel must file the
+briefs submitted by the petitioner on direct appeal . In cases brought under
+§§ 2241, 2254, and 2255, direct appeal briefs may be considered as part of
+the record of the habeas case. They must not, however, be incorporated by
+reference in, or considered to be, the petitioner 's brief. Pro se parties are
+not required to electronically file briefs or other documents.
+39.3 Trial Exhibits.
+(a) Delivery to Clerk Before Trial.
+On the day before the trial begins, attorneys must deliver to the clerk an
+exhibit list as described in Nebraska Civil Rule 16.2(a)(1).
+(b) Custody.
+Exhibits offered or received into evidence during a hearing or trial must be
+left in the clerk's custody.
+(c) Special Cases.
+In cases involving a large number of exhibits or in cases requiring special
+provisions for access, safekeeping, or inspection of exhibits, attorneys must
+confer with the courtroom deputy to establish procedures for handling
+exhibits during and after the trial. Attorneys should (1) prepare trial evidence
+Effective December 1, 2024 Nebraska Civil Rules
+34
+that includes a large number of paper documents in an electronic format
+and (2) may consult with the court 's information technology staff for
+assistance.
+(d) Numbering Exhibits.
+Each party shall affix/add an exhibit sticker and each exhibit sticker shall
+include the case number and exhibit number. Each party is responsible for
+numbering that party's intended trial exhibits. In a case with one plaintiff and
+one defendant, the defendant numbers exhibits with the next 100 series
+after the plaintiff's last exhibit number (e.g., Ex. 201 where the plaintiff's last
+exhibit was Ex. 154) . In a case with multiple plaintiffs with separate
+attorneys and one defendant, each plaintiff numbers ex hibits with a
+separate 100 series (e.g., Exs. 1-100 for the first plaintiff, Exs. 101-200 for
+the second plaintiff, and so on); the defendant numbers exhibits with the
+next 100 series after the final plaintiff 's last exhibit number (e.g., Ex. 501
+where the fourth plaintiff's last exhibit was Ex. 475) . In cases with multiple
+defendants with separate attorneys and one plaintiff, the first defendant
+numbers exhibits with the next 100 series after the plaintiff 's last exhibit
+number (e.g., Ex. 201 where the plaintiff 's last exhibit was Ex. 154); each
+defendant numbers exhibits with a subsequent, separate 100 series (e.g.,
+Ex. 501 for the fourth defendant where the third defendant's final exhibit was
+Ex. 417).
+40.1 Trial Calendar.
+(a) Setting Trial.
+The court may issue occasional orders or communicate by e- mail to all
+affected attorneys of record regarding trial settings . Attorneys must keep
+informed of the progress of the court 's business and be ready when their
+cases are reached. The district court annually determines trial sessions in
+North Platte by general order.
+(b) Request for Place of Trial; Form.
+The plaintiff at the time of filing a complaint in a civil action, or the removing
+party at the time of filing a petition for removal, must request trial in Omaha,
+Lincoln, or North Platte. For cases filed electronically, the place of trial
+selected on the CM/ECF filing system during case opening will serve as the
+plaintiff's (or removing party's) designated place of trial. Each defendant or
+third-party defendant at the time of filing that defendant's first pleading in a
+civil action, or the plaintiff in a removed action, within 14 days after service
+of the notice of removal, may file a written request for trial at Omaha,
+Lincoln, or North Platte. A request for a place different from that requested
+Effective December 1, 2024 Nebraska Civil Rules
+35
+by the plaintiff, third- party plaintiff, or removing party must be filed as a
+motion. Any other party then has 14 days to respond.
+(1) Conflicting Requests.
+Conflicting requests may be resolved without oral argument. Except
+for cases governed by the special rules for the Nebraska docket and
+the death penalty, see NEGenR 1.4(a)(5)-(6), a judge considers the
+convenience of the parties, lawyers, witnesses, other related
+matters, and the interests of justice.
+(2) Amended Request.
+A party may amend an initial or opposing request for place of trial at
+any time based on a change in material circumstances.
+(c) Calendaring Cases.
+The clerk calendars a case according to the initial request . If the parties
+make no initial request, the clerk calendars a case in the city where the case
+is filed.
+(d) Trial Judge's Designation of Place of Trial.
+When circumstances and the interests of justice warrant, the judge to whom
+the case is assigned may at any time prior to trial designate a place of trial
+different from that requested by the plaintiff, third-party plaintiff, or removing
+party. The trial judge shall state the reasons for designating a different place
+of trial in an order or on the record. In such event, the parties shall have the
+opportunity to respond either in writing or on the record. Such responses
+must be filed within 14 days of the tri al judge's designation of a different
+place of trial unless the trial judge specifies a shorter time within which
+responses must be filed or entered on the record.
+41.1 Settlement Procedures.
+Attorneys must notify the court or clerk when the parties settle an action, and within
+30 days after notification file all documents necessary to terminate the action,
+unless the court directs otherwise by written order . If the parties fail to file all
+documents, the court may dismiss the action without further notice and without
+prejudice to the right to secure reinstatement of the case within 30 days after the
+date of the order by showing good cause as to why the parties did not consummate
+the settlement. If the parties engaged in mediation, the notification to the court or
+clerk should also state the mediator 's name, the dates of the mediation, and
+Effective December 1, 2024 Nebraska Civil Rules
+36
+whether the mediation was successful.
+41.2 Dismissal of Action.
+At any time, after appropriate notice, a case not being prosecuted with reasonable
+diligence may be dismissed for lack of prosecution.
+45.1 Subpoenas to Nonparties.
+(a) Notice to Adverse Party.
+No subpoenas for production or inspection may be issued for service on a
+nonparty without giving the adverse party notice stating the name and
+address of the nonparty being subpoenaed, the documents or items to be
+produced or inspected, the time and place for production or inspection, and
+the date on which the subpoena will issue.
+(b) Objections.
+After receipt of the notice, the adverse party has 7 days to serve written
+objections to the subpoena on the noticing party . The adverse party must
+specifically identify the grounds for the objections and must file a certificate
+of service with the court . No subpoena may be issued for documents or
+premises whose inspection or production is contested under this rule until
+the parties resolve the objections . Any unresolved objections will be
+resolved by the court on appropriate motion filed in accordance with
+Nebraska Civil Rule 7.1 . Nothing in this rule affects the availability of
+objections described in Federal Rule of Civil Procedure 45(d) and (e).
+(c) Effect of Failure to Object.
+Failure to object to issuance of a subpoena to a nonparty does not preclude
+an adverse party from moving for a protective order under Federal Rule of
+Civil Procedure 26(c).
+47.1 Jury Selection.
+(a) Voir Dire.
+The court determines whether the court, the attorneys, or both will conduct
+voir dire. The court may limit an attorney's examination by time and subject
+matter.
+(b) Peremptory Challenges.
+Effective December 1, 2024 Nebraska Civil Rules
+37
+Unless ordered otherwise, all parties exercise peremptory challenges
+alternately, beginning with the plaintiff . Each party is informed, after the
+exercise of each peremptory challenge, of the identity of each prospective
+juror peremptorily challenged by each other party.
+(c) Waiver of Peremptory Challenges.
+Passing or refusing to exercise a peremptory challenge constitutes a waiver
+of the right to exercise the challenge. If a party waives the right to exercise
+a peremptory challenge, the court exercises it after the parties exercise or
+waive all other challenges to which they are entitled.
+47.2 Disclosure of Juror Identity.
+Documents identifying jurors or potential jurors in a case must not appear in the
+public case file or be given to the public at the courthouse or electronically.
+48.1 Number of Jurors.
+After consulting the attorneys, the court determines the number of jurors, which
+must be between 6 and 12.
+48.2 Jury Deliberations.
+(a) Recess.
+After trial, the court may recess while the jury deliberates . The court may
+direct the jurors that upon arriving at a verdict they must seal it, give it to the
+courtroom deputy, and return to the courtroom at a predetermined time for
+the opening and reading of the verdict.
+(b) Attorney Availability.
+Attorneys must be available on short notice during jury deliberations .
+Attorneys must inform the courtroom deputy of their whereabouts at all
+times during deliberations.
+(c) Verdict.
+Attorneys and parties need not be present when the court announces the
+verdict.
+51.1 Proposed Jury Instructions.
+Effective December 1, 2024 Nebraska Civil Rules
+38
+(a) When Filed and Submitted.
+Unless ordered otherwise, each party must file requested instructions 7
+days before the first day of trial. In addition, a party should submit requested
+instructions in a word processing format on a CD delivered, or through an
+e-mail addressed to, the trial judge's chambers. A party may file and submit
+to the trial judge additional requested instructions relating to matters arising
+during the trial at any time before the trial ends.
+(b) Objections.
+Objections to requested jury instructions, with supporting authority, must be
+filed at least 3 days before the first day of trial.
+(c) Form.
+Each requested instruction must be numbered, state the presenting party,
+and cite the instruction' s source and any additional supporting authority .
+Parties must use the latest edition of the Eighth Circuit Model Jury
+Instructions whenever possible. If a submitted instruction is modified from
+the pattern instruction, deleted material must be in parentheses and
+additions must be underscored. Requests for routine instructions are
+unnecessary and should not be filed.
+52.1 Proposed Findings.
+In civil nonjury trials, each party must submit detailed proposed findings of fact
+that, if adopted, would sufficiently form an adequate factual basis, supported by
+anticipated evidence, to resolve the case and support a judgment . Parties should
+file their proposed findings of fact at least 7 days before the first day of trial.
+54.1 Taxation of Costs.
+(a) Handbook.
+Attorneys should read the Bill of Costs Handbook available on the court 's
+web page, https://www.ned.uscourts.gov/plans -and-policies " Bill of Costs
+Form (Handbook)," or from the clerk before submitting a bill of costs or filing
+a response to a bill of costs.
+(b) Bill of Costs; When Filed; Form.
+A party entitled to recover costs must file within 30 days after entry of
+judgment a verified bill of costs on a form available on the court's web page,
+https://www.ned.uscourts.gov/forms "Bill of Costs Form " or from the clerk .
+Effective December 1, 2024 Nebraska Civil Rules
+39
+Post-trial motions do not extend the time for filing a verified bill of costs
+under this rule.
+(c) To Whom Payable.
+Except in (1) suits for civil penalties for violations of criminal statutes and
+(2) government cases not handled by the Department of Justice, all taxed
+costs are payable directly to the entitled party and not to the clerk, unless
+the court orders otherwise.
+(d) Waiver of Costs.
+A party failing to file a bill of costs within the time allowed waives taxable
+costs.
+(e) Attorney's Fees Excluded.
+"Costs" as used in this rule does not include attorney 's fees. For attorney
+fee awards, see Nebraska Civil Rule 54.3.
+54.2 Jury Cost Assessment.
+To avoid the unnecessary attendance of jurors, parties should notify the clerk of a
+settlement at least 24 hours before trial is scheduled to begin. The court may
+assess all juror costs and fees against one or more parties if the parties do not
+timely notify the clerk of a settlement and a jury is summoned. The court may also
+assess all juror costs and fees against one or more parties if parties settle a civil
+action during trial.
+54.3 Award of Attorney's Fees and Nontaxable Expenses.
+(a) Time and Method.
+Where a party may be entitled to receive attorney 's fees and related
+nontaxable expenses, the court may order, on its own or a party 's motion,
+the time and method of making showings regarding a fee award. Otherwise,
+Federal Rule of Civil Procedure 54(d)(2) controls the time and method for
+filing a claim for attorney's fees and related nontaxable expenses.
+(b) Support for Application.
+A party applying for attorney's fees and related nontaxable expenses must
+support the application with appropriate and reliable evidence and authority,
+including affidavits and any written argument . "Block billing"—meaning an
+entry containing multiple tasks with only one increment of time noted (like
+Effective December 1, 2024 Nebraska Civil Rules
+40
+3.20 hours) and one amount billed ($304.00) for the collection of listed
+tasks—is prohibited. Attorneys should follow appropriate criteria in
+connection with fee applications.
+(c) Potential Award Issues.
+Where a potential fee award issue exists, attorneys should consult the Fee
+Application Guidelines in Nebraska Civil Rule 54.4.
+54.4 Fee Application Guidelines.
+With respect to services performed and expenses incurred in any case, including
+a Criminal Justice Act case, the following guidelines should help attorneys present
+to the court information essential to a reasoned explanation of the fee award .
+Attorneys should also review the most recent circuit court decisions for additional
+guidance. These fee guidelines also may be appropriate in applications for
+sanctions.
+(a) Services Performed.
+(1) Identify with particularity the work done.
+(A) For a conference, state who was present, the subjects
+discussed, and how long it lasted.
+(B) For research, state who did it, the subjects and issues
+researched, and whether the results were incorporated into a
+brief, motion, or pleading.
+(C) For travel time, segregate it, state who traveled, and the
+purpose and mode of travel.
+(D) For filings, identify the filing and who prepared it.
+(2) Identify the status and background (attorney, paralegal, law student)
+of each person performing an item of work.
+(3) If a paralegal or law student performed any services, state the salary
+or other wage rate at which the attorney or law firm pays the
+paralegal or law student.
+(4) If the services apply to more than one case, identify the relative
+applicability to each case.
+Effective December 1, 2024 Nebraska Civil Rules
+41
+(b) Expenses Incurred.
+Identify the expense with particularity.
+(1) For photocopies, state the items copied, why they were copied, how
+they were used, and the number of pages copied.
+(2) For depositions, list the court reporter's name, the date of taking, the
+deponent's identity, the purpose of the deposition (discovery or
+evidentiary), and the use made of the deposition.
+(3) For long-distance telephone calls, list the date, by whom, to whom,
+and the location of the person called, and the subject of the call.
+(c) Rates of Compensation Requested.
+Except in Criminal Justice Act cases, attorneys must file affidavits or other
+evidence in support of claimed hourly rates and hours.
+55.1 Default Judgment.
+(a) Clerk's Entry of Default.
+To obtain a clerk 's entry of default under Federal Rule of Civil Procedure
+55(a), a party must:
+(1) file a motion for the clerk's entry of default; and
+(2) e- mail a proposed clerk 's entry of default to the clerk at
+clerk@ned.uscourts.gov. This clerk 's entry of default should state
+that a default is being entered for failure to plead or otherwise defend
+under Federal Rule of Civil Procedure 55(a).
+(b) Clerk's Entry of Default Judgment.
+If a party requests the clerk to enter a default judgment under Federal Rule
+of Civil Procedure 55(b)(1), the party must:
+(1) file a motion for clerk's judgment by default;
+(2) file an affidavit (a) stating the amount, for a sum certain or that can
+by computation be made certain, and that does not exceed the
+amount asked for in the complaint plus the exact computation of
+interest and costs, and (b) stating that the defendant against whom
+judgment is to be entered is not an infant or incompetent person as
+Effective December 1, 2024 Nebraska Civil Rules
+42
+stated in Federal Rule of Civil Procedure 55(b)(1); and
+(3) e- mail a proposed clerk 's judgment for the clerk 's signature to
+clerk@ned.uscourts.gov.
+(c) Court's Entry of Default Judgment.
+If a party requests a judgment from the court under Federal Rule of Civil
+Procedure 55(b)(2), the party must, after obtaining a clerk's entry of default
+under Federal Rule of Civil Procedure 55(a) and Nebraska Civil Rule
+55.1(a):
+(1) file a motion for default judgment;
+(2) file an affidavit stating that the party against whom the default
+judgment is requested is (a) not an infant or incompetent person as
+stated in Federal Rule of Civil Procedure Rule 55(b)(2) or (b) meets
+the exceptions stated in Federal Rule 55(b)(2);
+(3) e- mail to the judge's chambers a proposed judgment; and
+(4) in cases in which damages must be proved, request an evidentiary
+hearing before the trial judge.
+56.1 Summary Judgment Procedure.
+Unless this rule states otherwise, the procedures of Nebraska Civil Rule 7.1 apply
+to summary judgment motions. Generally, the court does not hear oral argument
+on summary judgment motions.
+(a) Moving Party.
+(1) Concise Statement of Material Facts.
+A summary judgment motion shall be supported by a brief and a
+separate statement of material facts about which the moving party
+contends there is no genuine issue to be tried and that entitles the
+moving party to judgment as a matter of law . A fact is "material" if
+pertinent to the outcome of the issues identified in the summary
+judgment motion. Failure to submit a statement of material facts may
+be grounds to deny the motion.
+(2) Form; Citation to Record.
+Effective December 1, 2024 Nebraska Civil Rules
+43
+The statement of material facts should consist of short numbered
+paragraphs. Each numbered paragraph shall contain pinpoint
+references to affidavits, pleadings, discovery responses, deposition
+testimony (by page and line), or other materials that support the
+material facts stated in the paragraph. Failure to provide citations to
+the exact locations in the record supporting the factual allegations
+may be grounds to deny the motion.
+(3) Content.
+The statement of material facts must describe the parties and recite
+all facts supporting the court's venue and jurisdiction. The statement
+must not contain legal conclusions.
+(4) Filing.
+The statement of material facts shall be filed in a separate document
+from the motion for summary judgment and brief in support of the
+motion. The word limits of Nebraska Civil Rule 7.1(d) shall apply to
+briefs supporting or opposing summary judgment but shall not apply
+to a separate statement of material facts or response to such
+statement.
+(b) Opposing Party.
+(1) Response to Movant's Statement of Material Facts.
+(A) Form; Citation to Record.
+The party opposing a summary judgment motion must file a
+brief and a separate statement of concise responses to the
+moving party 's statement of material facts . The statement
+should consist of separate numbered paragraphs
+corresponding to the numbered paragraphs in the movant's
+separate statement of facts , and must include pinpoint
+references to affidavits, pleadings, discovery responses,
+deposition testimony (by page and line), or other materials
+upon which the opposing party relies.
+(B) Contents of Response.
+Each response must clearly state that the asserted fact is:
+(i) undisputed,
+(ii) disputed, or
+Effective December 1, 2024 Nebraska Civil Rules
+44
+(iii) undisputed in part and disputed in part.
+Properly referenced material facts in the movant 's statement
+are considered admitted unless controverted in the opposing
+party's response.
+If the response admits in part and disputes in part the asserted
+fact, it must specify which part of the asserted fact is admitted
+and which part is disputed. A response may not assert legal
+arguments except to make an objection to the evidentiary
+support for the asserted fact or the admissibility of that
+evidence. Arguments about the relevance or materiality of an
+asserted fact may be raised in the argument section of a brief,
+but are not a proper basis for disputing that fact.
+(2) Statement of Additional Material Facts.
+If the party opposing a summary judgment motion wishes to assert
+facts not set forth in the moving party's statement of material facts,
+the opposing party may include in its response its statement of
+additional material facts, in the same form and manner as set forth
+in sections (a)(2), (3), and (4), above.
+(3) Filing.
+The opposing party's brief and response to movant's statement of
+material facts may be filed within 21 days after service of the motion
+and supporting statement . The responsive statement of facts shall
+be filed in a separate document from the brief opposing the motion.
+Failure to file an opposing brief or statement alone is not considered
+confession of a motion; however, nothing in this rule excuses a party
+opposing a summary judgment motion from meeting the party 's
+burden under Federal Rule of Civil Procedure 56.
+(c) Reply.
+If the party opposing summary judgment submits a statement of additional
+material facts as provided in section (b)(2) above, the moving party shall,
+within 14 days after service of the opposing statement, serve and file a
+statement of concise responses to the opposing party's statement of
+additional material facts, in the same form as set forth in section (b)(1)(A),
+above.
+(d) Effect of Admission.
+Effective December 1, 2024 Nebraska Civil Rules
+45
+Facts deemed admitted pursuant to this rule are admitted solely for
+purposes of summary judgment, and shall not be deemed admitted for any
+other purpose, including as admissions at trial.
+(e) Compliance.
+If a party files a statement of material facts, statement of additional material
+facts, or brief that does not comply with this rule, the court may require
+immediate compliance or provide any other relief that the court deems
+appropriate. The opposing part y shall not file a motion to strike based on
+alleged noncompliance with this rule. Any dispute over the admissibility of
+evidence should be raised through an objection, in the objecting party's brief
+or responsive statement, to the facts relying on that evidence.
+(f) Stipulated Material Facts.
+Parties are encouraged to stipulate to facts, and may in connection with a
+motion for summary judgment separately file a stipulation setting forth facts
+to which the parties have agreed solely for purposes of summary judgment,
+which shall not be used for any other purpose in the absence of express
+language to that effect. Facts so stipulated do not require citations to
+evidentiary support.
+58.1 Satisfaction of Judgment.
+The clerk notes satisfaction of a judgment on the docket sheet when any of the
+following events occurs:
+(a) the judgment creditor or the creditor's attorney of record executes and files
+a written satisfaction of judgment;
+(b) the marshal files a return of execution showing the judgment the marshal
+has collected; or
+(c) the judgment is paid into the registry account of the court, but the payment
+may only be made after an order of the court authorizes the payment.
+65.1.1 Security; Proceedings Against Sureties.
+(a) General Requirements.
+The principal obligor and one or more sureties qualified as stated in this rule
+must execute a bond, recognizance, or other undertaking required by law
+or court order in any proceeding.
+Effective December 1, 2024 Nebraska Civil Rules
+46
+(b) Unacceptable Sureties.
+An attorney in a case, the attorney's spouse or employee, a party to a case,
+and the party 's spouse may not act as a surety on a bond or other
+undertaking in a civil case.
+(c) Corporate Surety.
+A corporate surety upon any undertaking in which the United States is the
+obligee must be qualified under 31 U.S.C. §§ 9301-9309 and approved by
+the Secretary of the Treasury of the United States. The parties may consult
+with the clerk to confirm that a surety is qualified. In all other instances, a
+corporate surety qualified to write bonds in the State of Nebraska is an
+acceptable surety. In all cases, a power of attorney showing the authority of
+the agent signing the bond must be attached to the bond.
+(d) Personal Surety.
+Persons competent to convey real estate who own land in the State of
+Nebraska of an unencumbered value of at least the stated penalty of the
+bond may obtain consideration for qualification as a surety by attaching an
+acknowledged justification showing:
+(1) a legal description of the real estate;
+(2) a complete list of all encumbrances and liens on the real estate;
+(3) market value based on recent sales of like property;
+(4) a waiver of inchoate rights of any character and certification that the
+real estate is not exempt from execution; and
+(5) certification for the aggregate amount of the penalties of any other
+subsisting undertakings assured by the bondsman as of that date.
+The judge before whom the proceeding is pending approves or disapproves
+the surety after reviewing the justification and certifications.
+(e) Cash Bonds.
+Cash bonds may be deposited into the court's registry only upon execution
+and filing of a written bond (1) sufficient in form and (2) stating the bond' s
+conditions. Withdrawal of cash bonds so deposited may not be made except
+upon a written court order.
+Effective December 1, 2024 Nebraska Civil Rules
+47
+(f) Cost Bonds.
+The court on motion or its own initiative may order a party to file an original
+bond for costs or additional security for costs in an amount and under
+conditions designated in the order.
+(g) Insufficiency; Remedy.
+An opposing party may object to a bond' s form or timeliness or the
+sufficiency of the surety. If a bond is found to be insufficient, the judge may
+order that a sufficient bond be filed within a stated time. If the party required
+to file the bond does not comply, the judge may dismiss the case for want
+of prosecution or take other appropriate action.
+67.1 Deposits.
+(a) Receipt of Funds.
+(1) No money may be sent to the court or its officers for deposit into the
+court's registry without a court order by the presiding judge in a
+pending or adjudicated case.
+(2) All money ordered to be paid to the court or received by its officers
+in any pending or adjudicated case must be deposited with the
+Treasurer of the United States in the name and to the credit of this
+court pursuant to 28 U.S.C. § 2041 through depositories designated
+by the Treasury to accept such deposit on its behalf.
+(3) The party making the deposit or transferring the funds to the court 's
+registry must serve the order permitting the deposit or transfer on the
+clerk.
+(b) Investment of Registry Funds.
+(1) Funds on deposit with the court will be placed in interest -bearing
+instruments in the Court Registry Investment System (CRIS)
+administered by the Administrative Office of the United States
+Courts, which is the only investment mechanism authorized.
+(2) Under CRIS, monies deposited in each case will be "pooled" together
+with those on deposit with the Treasury to the credit of other courts
+in CRIS and used to purchase Government Account Series
+securities through the Bureau of Public Debt, which will be held at
+the Treasury in an account in the name and to the credit of the
+Effective December 1, 2024 Nebraska Civil Rules
+48
+Director of the Administrative Office of the United States Courts.
+(3) An account for each case will be established in CRIS titled in the
+name of the case giving rise to the investment in the fund . Income
+generated from fund investments will be distributed to each case
+based on the ratio each account 's principal and earnings has to the
+aggregate principal and income total in the fund.
+(4) The court will direct that post-adjudication deposits held on behalf of
+minors until their age of majority be invested in the Minors ' Fund
+within CRIS.
+(5) Unless otherwise ordered by the court, interpleader funds deposited
+under 28 U.S.C. § 1335 will be deposited in the CRIS Disputed
+Ownership Fund.
+(c) Assessment of Fees.
+Depending on the CRIS fund used, one of two fees is assessed by the AO
+on behalf of the courts each time interest is credited to the investment.
+(1) The CRIS Fee is assessed against deposits in the CRIS Liquidity
+Fund or any other funds created.
+(2) The Disputed Ownership Fund (DOF) Fee is assessed against
+deposits in the CRIS Disputed Ownership Fund.
+(d) Withdrawal of Deposit.
+To withdraw money deposited with the court under Federal Rule of Civil
+Procedure 67 and these rules, a party must file a motion for withdrawal of
+the funds and simultaneously submit a proposed order and completed IRS
+Form W-9.
+72.1 Magistrate Judge Duties.
+Magistrate judges are authorized under 28 U.S.C. § 636(b) to perform any duties
+assigned to them by a district judge of this court that are consistent with the
+Constitution and laws of the United States . A full-time magistrate judge is
+responsible for (a) scheduling trials; (b) conducting any discovery, pretrial, and
+settlement conferences; (c) hearing and determining pretrial procedural and
+discovery motions; (d) issuing progression orders; and (e) presiding over
+proceedings related to executions of judgments under Federal Rule of Civil
+Procedure 69.
+Effective December 1, 2024 Nebraska Civil Rules
+49
+72.2 Objections to Magistrate Judge's Order or Findings and Recommendations.
+(a) Statement of Objections.
+A party may object to a magistrate judge's order in a nondispositive matter
+or findings and recommendation in a dispositive matter by filing a
+"Statement of Objections to Magistrate Judge' s Order" or "Objections to
+Magistrate Judge's Findings and Recommendations " within 14 days after
+being served with the order or findings and recommendations, unless the
+order or recommendation states a different time. The party must specify (1)
+the parts of the order or findings and recommendations to which the party
+objects and (2) the legal basis of the objections. The statement of objections
+should also indicate whether the objecting party relies on a previously or
+newly filed brief. Unless ordered otherwise, an opposing party may file an
+opposing brief within 14 days of being served with the statement of
+objections. This brief may refer to previously filed briefs. The objecting party
+may not file a reply brief without the court's leave.
+(b) Evidence.
+If evidentiary materials were filed or received in evidence when the matter
+was before the magistrate judge, the parties need not refile or re- offer the
+materials and may refer to them in their legal arguments.
+(1) Nondispositive Orders.
+A party may not offer additional evidentiary materials without a court
+order.
+(2) Dispositive Orders.
+A party may not offer additional evidentiary materials; however, if the
+magistrate judge held an evidentiary hearing, the objecting party may
+request a supplemental hearing to offer additional evidence . The
+district judge may hold the supplemental hearing if the party shows
+good cause why the evidence was not presented to the magistrate
+judge.
+(c) No Stay of Nondispositive Order Pending Resolution of Objections.
+The filing of a statement of objections to a nondispositive order does not
+stay the magistrate judge' s order pending resolution of the statement of
+objections. The magistrate judge whose order is objected to decides a
+motion for stay pending the resolution of the statement of objections . If the
+magistrate judge denies the motion for stay, the party may address the
+Effective December 1, 2024 Nebraska Civil Rules
+50
+motion to the assigned district judge.
+(d) Nondispositive Orders; Consent Cases Excluded.
+A party may not object to a nondispositive order of a magistrate judge in
+which the parties consented to proceed before a magistrate judge. See
+NECivR 73.1.
+(e) Dispositive Orders; Remand.
+If the district judge remands a dispositive matter to the magistrate judge, the
+magistrate judge's subsequent recommendation is also subject to objection
+under this rule.
+(f) Dispositive Orders; Failure to Object.
+Failure to object to a finding of fact in a magistrate judge's recommendation
+may be construed as a waiver of the right to object to the district judge' s
+order adopting the recommendation of the finding of fact.
+72.3 Review of Magistrate Judge's Order in Special Master Report.
+When a magistrate judge is designated as a special master with the parties '
+consent under 28 U.S.C. § 636(b)(2), or without the parties' consent under Federal
+Rule of Civil Procedure 53(b), a party may request review of or action on the
+special master report filed by the magistrate judge under Federal Rule of Civil
+Procedure 53(f).
+73.1 Magistrate Judge; Trial by Consent.
+(a) Random Assignment.
+Unless ordered otherwise, the clerk assigns each civil action to a district or
+magistrate judge by automated random selection. When the clerk assigns
+an action to a magistrate judge, each party must file either (1) a consent to
+the referral to the magistrate judge under 28 U.S.C. § 636(c) or (2) an
+election for reassignment to a district judge . The parties may indicate on
+Form 35 (the Rule 26(f) report) or other consent form provided by the court
+whether they consent to trial before a magistrate judge. Failure to timely
+return the election form will result in case reassignment to a district judge.
+Consent to a magistrate judge' s authority does not constitute a waiver of
+any jurisdictional defense unrelated to the grant of authority under 28 U.S.C.
+§ 636(c).
+Effective December 1, 2024 Nebraska Civil Rules
+51
+(b) Reassignment of Case to Magistrate Judge.
+The clerk notifies the parties in a case assigned to a district judge that under
+28 U.S.C. § 636(c) they may consent to have a magistrate judge (1) conduct
+any proceedings in the case, including a jury or nonjury trial, and (2) enter
+final judgment. This notice is provided as soon as practicable after the case
+is filed and before the case is first scheduled for trial . If all parties consent
+on the required form to proceed before the magistrate judge, the clerk
+notifies the district judge of the consent . The district judge considers the
+consent and reassigns the case to the magistrate judge if appropriate.
+79.1 Custody of Files and Exhibits.
+(a) Clerk's Custody.
+In general, documents or physical items belonging to the court 's paper or
+electronic files remain in the clerk 's custody throughout a judicial
+proceeding.
+(b) Viewing and Copying Court Files.
+(1) Paper Files.
+The public may view files and documents in the clerk 's office in
+Omaha and Lincoln between 8:00 a.m. and 4:30 p.m. on days when
+the courthouses are open for business . Upon request, the clerk 's
+staff copies public documents for a fee as allowed by 28 U.S.C.
+§ 1914.
+(2) Electronic Files.
+Electronic access to the electronic docket and documents filed in the
+System is available to the public at no charge at the clerk 's office in
+Omaha and Lincoln between 8:00 a.m. and 4:30 p.m. on days when
+the courthouses are open for business. Fees to print a paper copy of
+an electronic filing and to obtain a certified copy of an electronically
+filed document are allowed by 28 U.S.C. § 1914.
+(3) Payment for Copies.
+Payment must be made when service is requested in cash, by credit
+card, or by check or money order payable to "Clerk, U.S. District
+Court." Fees apply to copying services for the United States if the
+record or paper requested can be electronically accessed. Clerk's
+Effective December 1, 2024 Nebraska Civil Rules
+52
+staff cannot make change for cash payments.
+(c) Inspecting Physical Evidence.
+No one may inspect physical evidence in the clerk 's custody, including
+photographic negatives, tape recordings, contraband (including drugs and
+narcotics, firearms, and ammunition), currency, negotiable instruments,
+computer disks or tapes, and other items designated by a judicial officer
+except while in the presence and under the control of the clerk . The clerk
+may limit or preclude access and copying in order to preserve evidence.
+(d) Temporary Withdrawal of Paper Court Files, Exhibits, and Documents.
+Paper court files, exhibits, documents, and transcripts may not be taken
+from the clerk 's office or custody without a written order of the assigned
+judge. To request permission to check out a court file, exhibit, document, or
+transcript, an attorney must electronically file a written motion. If the
+assigned judge grants the motion, the attorney may have the court file,
+exhibit, document, or transcript upon delivery of a receipt for the file to the
+clerk. The attorney must return the court file, exhibit, document, or transcript
+when the judge directs or no later than 7 days, in the same condition and
+order in which it was filed in the clerk's office. The judge may direct the file,
+exhibit, document, or transcript to be returned the next morning.
+(e) Permanent Withdrawal of Files and Documents.
+Upon a showing of good cause, the court may order an item in a file to be
+permanently withdrawn. The clerk may require a party requesting
+withdrawal to provide a copy of the item for certification and a receipt for the
+original. The certified copy and receipt are filed in lieu of the original, and
+the party receiving the original must pay the clerk any costs.
+(f) Withdrawal or Destruction of Exhibits at Case Conclusion.
+(1) Withdrawal.
+After trial or as soon as possible, but within 14 days after a verdict is
+rendered or a judgment is entered, the offering attorney must
+withdraw all exhibits in the clerk's custody and give the clerk a receipt
+for the exhibits.
+(A) Duty to Retain Exhibits.
+An attorney must:
+Effective December 1, 2024 Nebraska Civil Rules
+53
+(i) retain exhibits withdrawn from the clerk's custody for at
+least 1 year after the judgment is final and is therefore
+no longer subject to appellate review;
+(ii) preserve the retained exhibits in the same condition
+they were in when offered into evidence;
+(iii) if an opposing attorney requests the exhibits, make
+them available for examination and use at reasonable
+times and places; and
+(iv) upon request, promptly return the exhibits to the clerk.
+(B) Sanctions.
+Sanctions may be awarded for the failure to abide by this rule.
+Despite entry of judgment, the court retains jurisdiction over
+the parties and attorneys for purposes of enforcing this rule.
+(2) Destruction.
+After the judgment is no longer subject to appellate review, the
+attorney may destroy or otherwise dispose of the exhibits without
+further authorization. If the attorney does not claim and withdraw the
+exhibits, the clerk may destroy or otherwise dispose of any exhibits
+not claimed and withdrawn. On the date the clerk destroys the
+exhibits, the clerk enters a remark on the docket sheet reflecting the
+date of destruction.
+81.1 Removed Actions.
+If a motion is pending and undecided in state court at the time of removal, the court
+will not consider the motion unless and until a party refiles the motion in federal
+court in conformity with federal practice requirements.
+85.1 Title; Citation.
+These rules are the Civil Rules of the United States District Court for the District of
+Nebraska ("Nebraska Civil Rules"). They may be cited as "NECivR."

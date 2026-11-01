@@ -1,0 +1,483 @@
+Civil Rules | Northern District of Texas | United States District Court
+Skip to main content
+Directory
+UNITED STATES DISTRICT COURT
+Northern District of Texas
+Reed O'Connor, Chief Judge
+Karen Mitchell, Clerk of Court
+Search form
+Search
+Court Information
+Judges
+Rules & Orders
+Filing
+Resources
+FAQs
+Attorneys
+Jurors
+Pro Se
+Forms & Records
+Civil Rules
+You are here
+Home » Rules & Orders » Local Rules
+Effective September 2, 2025
+1.1 - Definitions
+Unless the context indicates a contrary intention, the following definitions apply in these rules:
+Court. The word “court” means the district judges of the United States District Court for the Northern District of Texas, as a collective body.
+Presiding Judge. The term “presiding judge” means the judge to whom a case is assigned. The word “judge” includes district judges and magistrate judges.
+Attorney. The word “attorney” means either:
+a person licensed to practice law by the highest court of any state or the District of Columbia; or
+a party proceeding pro se in any civil action.
+Clerk. The word “clerk” means the clerk of this court.
+Discovery Materials. The term “discovery materials” means notices of and depositions upon oral examination or written questions, interrogatories, requests for documents and things, requests for inspection or to permit entry upon land, requests for admission, and answers and responses thereto, and disclosures made in compliance with Fed. R. Civ. P. 26(a)(1) or (2).
+ECF. The term “ECF” means electronic case filing and refers to the court’s web- based document filing system that allows a document to be transmitted, signed, or verified by electronic means in a manner that is consistent with technical standards established by the Judicial Conference of the United States.
+Judge’s Copy. The term “judge’s copy” means a paper copy of an original pleading, motion, or other paper that is submitted for use by the presiding judge.
+3.1 - Filing Complaint by Electronic Means
+A plaintiff may file a complaint by electronic means by following the procedures set forth in the ECF Administrative Procedures Manual. The complaint must be accompanied by:
+a civil cover sheet;
+the required filing fee or the appropriate application to proceed without prepayment of fees; and
+a separately signed certificate of interested persons—in a form approved by the clerk—that contains—in addition to the information required by Fed. R. Civ. P. 7.1(a)—a complete list of all persons, associations of persons, firms, partnerships, corporations, guarantors, insurers, affiliates, parent or subsidiary corporations, or other legal entities that are financially interested in the outcome of the case. If a large group of persons or firms can be specified by a generic description, individual listing is not necessary.
+3.2 - Filing Complaint on Paper
+To file a complaint on paper, a plaintiff must provide the clerk:
+an original of the complaint;
+a copy of the complaint and a completed civil summons form for each defendant to be served;
+a civil cover sheet;
+the required filing fee or the appropriate application to proceed without prepayment of fees; and
+a separately signed certificate of interested persons—in a form approved by the clerk—that contains—in addition to the information required by Fed. R. Civ. P. 7.1(a)—a complete list of all persons, associations of persons, firms, partnerships, corporations, guarantors, insurers, affiliates, parent or subsidiary corporations, or other legal entities that are financially interested in the outcome of the case. If a large group of persons or firms can be specified by a generic description, individual listing is not necessary.
+3.3 - Filing Complaints in Related Case; Notice of Related Case.
+Notice Requirement. When a plaintiff files a complaint and there is a related case, as defined by LR 3.3(b)(1), (b)(2), or (b)(3), the complaint must be accompanied by a notice of related case. The notice must state the style and civil action number of the related case, the name of the presiding judge, whether the case is pending, and, if the case has been dismissed or remanded, the date of the final judgment or order remanding the case.
+Related Case Defined. A “related case” is any civil action
+that the plaintiff dismissed with the intent or for the purpose of obtaining a different assigned presiding judge and that is being refiled through the complaint;
+that the plaintiff dismissed under Fed. R. Civ. P. 41(a)(1) by notice of dismissal, and that is being refiled through the complaint without changing the parties, or after adding or omitting one or more parties;
+that—to the best of the plaintiff’s or removing party’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances—arises from a common nucleus of operative fact with the case being filed or removed, regardless whether the related case is a pending case; or
+that was remanded and, regardless whether one or more parties or one or more claims or defenses have changed, is being removed again.
+Effect of Failure to File Notice of Related Case. A plaintiff who does not file a notice of related case under LR 3.3(a), and a removing party who does not file a notice of related case under LR 81.1(a)(3), certifies that there is no related case, as defined in LR 3.3(b), to the case being filed or removed.
+4.1 - Proof of Service or of Waiver of Service.
+Proof of service or of waiver of service must be made by filing with the clerk the summons and any supporting documentation required or allowed by Fed. R. Civ. P. 4, or an executed waiver.
+4.2 - Marshal's Fees.
+[REPEALED]
+5.1 - Filing and Serving Pleadings, Motions, or Other Papers
+Filing with the Clerk. A pleading, motion, or other paper that the Federal Rules of Civil Procedure permit or require to be filed, or that the court orders to be filed, that is submitted on paper, must be filed with the clerk’s office for the appropriate division. Unless the presiding judge agrees to accept it for filing, the pleading, motion, or other paper must not be sent directly to the presiding judge.
+Original and Judge's Copy Required. An original and one judge's copy of each pleading, motion, or other paper that is submitted on paper must be filed with the clerk. If a pleading, motion, or other paper is filed by electronic means, the judge's copy must be submitted following procedures set forth in the ECF Administrative Procedures Manual.
+Document Containing More Than One Pleading, Motion, or Other Paper. Except for a proposed order or judgment, a document may contain more than one pleading, motion, or other paper. Any such document must clearly identify each included pleading, motion, or other paper in its title.
+Serving by Electronic Means. [REPEALED]
+Electronic Filing Required. Unless the presiding judge otherwise directs, an attorney —other than a prisoner pro se party— must file any pleading (except a complaint), motion, or other paper by electronic means, subject to the restrictions and requirements of the ECF Administrative Procedures Manual. A party may, for cause, move to be excused from the requirement of electronic filing.
+Registration as an ECF User Required. Unless excused for cause, an attorney—other than a prisoner pro se party— must register as an ECF user within 14 days of the date the attorney appears in a case, following the registration procedures set forth in the ECF Administrative Procedures Manual.
+5.2 - Filing Discovery Materials.
+Discovery Materials Not to be Filed [REPEALED]
+Deposition Notices Not to be Filed [REPEALED]
+Filing Discovery Materials for Use in Discovery Proceedings. A motion that relates to a discovery proceeding must only contain the portions of the discovery materials in dispute.
+Filing Discovery Materials for Use in Pretrial Motions. When discovery materials are necessary for consideration of a pretrial motion, a party shall file only the portions of discovery on which that party relies to support or oppose the motion.
+5.3 - Prisoner's Civil Rights Complaints
+A prisoner’s complaint alleging violations of civil rights under 28 U.S.C. § 1331 or § 1343 must be filed in accordance with the current miscellaneous order establishing procedures for such actions.
+5.4 - Post-Conviction Relief.
+A prisoner application, motion, or petition filed under 28 U.S.C. § 2241, § 2254, or § 2255 must be filed in accordance with the current miscellaneous order establishing procedures for such applications, motions, or petitions.
+6.1 - Time Deemed Filed.
+A pleading, motion, or other paper that is filed by electronic means before midnight central time of any day will be deemed filed on that day. A pleading, motion, or other paper that is filed on paper before the clerk’s office is scheduled to close on any day will be deemed filed on that day.
+7.1 - Motion Practice.
+Unless specifically controlled by another local civil rule or otherwise directed by the presiding judge, motion practice is controlled by subsection (h) of this rule. In addition, the parties must comply with the following:
+Conference - Before filing a motion, an attorney for the moving party must confer with an attorney for each party affected by the requested relief to determine whether the motion is opposed. Conferences are not required for motions to dismiss, motions for judgment on the pleadings, motions for summary judgment, motions for new trial, or when a conference is not possible.
+Certificate of Conference.
+​Each motion for which a conference is required must include a certificate of conference indicating that the motion is unopposed or opposed.
+If a motion is opposed, the certificate must state that a conference was held, indicate the date of conference and the identities of the attorneys conferring, and explain why agreement could not be reached.
+If a conference was not held, the certificate must explain why it was not possible to confer, in which event the motion will be presumed to be opposed.
+Proposed Order. Except for an opposed motion that is submitted on paper, each motion must be accompanied by a proposed order that is set forth separately. An agreed proposed order must be signed by the attorneys or parties.
+Brief. An opposed motion must be accompanied by a brief that sets forth the moving party’s contentions of fact and/or law, and argument and authorities, unless a brief is not required by subsection (h) of this rule. A response to an opposed motion must be accompanied by a brief that sets forth the responding party’s contentions of fact and/or law, and argument and authorities. A responding party is not required to file a brief in opposition to a motion for which a brief is not required by subsection (h) of this rule.
+Time for Response and Brief. A response and brief to an opposed motion must be filed within 21 days from the date the motion is filed.
+Time for Reply Briefs. Unless otherwise directed by the presiding judge, a party who has filed an opposed motion may file a reply brief within 14 days from the date the response is filed.
+No Oral Argument. Unless otherwise directed by the presiding judge, oral argument on a motion will not be held.
+Uniform Requirements on Motion Practice.
+​B - Brief required (not required with agreed motion)
+C - Certificate of conference required
+Motion (to/for)
+B
+C
+AMEND
+X
+CHANGE OF VENUE
+X
+X
+COMPEL
+X
+X
+CONSOLIDATION
+X
+X
+CONTINUANCE
+X
+DISMISS
+X
+EXTEND TIME
+X
+INTERVENE
+X
+X
+JUDGMENT AS A MATTER OF LAW
+X
+JUDGMENT ON PLEADINGS
+X
+LEAVE TO FILE
+X
+X
+LIMINE
+X
+X
+MORE DEFINITE STATEMENT
+X
+X
+NEW TRIAL
+X
+PRELIMINARY INJUNCTION
+X
+X
+PRODUCE DOCUMENTS
+X
+X
+PROTECTIVE ORDER
+X
+X
+QUASH
+X
+X
+REMAND
+X
+X
+SANCTIONS
+X
+X
+STAY
+X
+X
+STRIKE
+X
+X
+SUBSTITUTE COUNSEL
+X
+SUMMARY JUDGMENT
+X
+NOTE: If a motion is not listed, a brief and certificate of conference are required.
+Requirement of Appendix; Appendix Requirements.
+​A party who relies on materials—including depositions, documents, electronically stored information, affidavits, declarations, stipulations, admissions, interrogatory answers, or other materials—to support or oppose a motion must include the materials in an appendix.
+The appendix must be assembled as a self-contained document, separate from the motion, response, reply, and brief.
+Each page of the appendix must measure 81⁄2 x 11 inches. Non- documentary materials (e.g., videotapes and other physical materials) and oversized materials (e.g., maps and schematic drawings) that are included in the appendix must be placed in an envelope that measures 9 x 12 inches.
+Each page of the appendix must be numbered legibly in the lower, right- hand corner. The first page must be numbered as "1," and succeeding pages must be numbered sequentially through the last page of the entire appendix (i.e., the numbering system must not re-start with each succeeding document in the appendix). An envelope that contains non- documentary or oversized materials must be numbered as if it were a single page.
+7.2 - Briefs.
+General Form. A brief must be printed, typewritten, or presented in some other legible form. The brief must be on an 81/2-by-11 inch page. The font size must be 12-point or larger. The text must be double-spaced, but quotations more than two lines long may be indented and single-spaced. Headings and footnotes may be single-spaced. Margins must be at least one inch on all four sides. Page numbers may be placed in the margins, but no text may appear there.
+Amicus Briefs. An amicus brief may not be filed without leave of the presiding judge. The brief must specifically set forth the interest of the amicus curiae in the outcome of the litigation.
+Length. Unless another local civil rule provides otherwise, a brief must not exceed 25 pages (excluding the table of contents and table of authorities). A reply brief must not exceed 10 pages. Permission to file a brief in excess of these page limitations will be granted by the presiding judge only for extraordinary and compelling reasons.
+Table of Contents and Authorities. A brief in excess of 10 pages must contain:
+a table of contents with page references; and
+an alphabetically arranged table of cases, statutes, and other authorities cited, with page references to the location of all citations.
+Citations to Appendix. If a party’s motion or response is accompanied by an appendix, the party’s brief must include citations to each page of the appendix that supports each assertion that the party makes concerning any documentary or non- documentary materials on which the party relies to support or oppose the motion.
+Disclosure of Use of Generative Artificial Intelligence.
+A brief prepared using generative artificial intelligence must disclose this fact on the first page under the heading “Use of Generative Artificial Intelligence.” If the presiding judge so directs, the party filing the brief must disclose the specific parts prepared using generative artificial intelligence.
+“Generative Artificial Intelligence” means a computer tool (whether referred to as “Generative Artificial Intelligence” or by another name) that is capable of generating new content (such as images and text) in response to a submitted prompt (such as a query) by learning from a large reference database of examples.
+A party who files a brief that does not contain the disclosure required by subsection (f)(1) of this rule certifies that no part of the brief was prepared using generative artificial intelligence.
+7.3 - Confirmation of Informal Leave of Court
+When a presiding judge informally grants leave, such as an extension of time to file a response, an attorney for the party to whom leave is granted must file a document confirming the leave and must serve the document on all other parties.
+7.4 - Certificate of Interested Persons
+The initial responsive pleading or motion filed in lieu of a responsive pleading that a defendant files in a civil action must be accompanied by a separately signed certificate of interested persons that complies with LR3.1(c) or 3.2(e). If the defendant concurs in the accuracy of another party’s previously-filed certificate, the defendant may adopt that certificate.
+7.5 - Page Limits in Death Penalty Habeas Cases.
+In any post-conviction proceeding seeking to vacate or set aside a death sentence, the following page limits (excluding pages that contain a table of contents and table of authorities) apply:
+the application, motion, or petition, and any supporting brief memorandum (whether filed contemporaneously with—or after—the application, motion, or petition), must not exceed 100 pages in total;
+the answer to the application, motion, or petition, and any supporting brief or memorandum (whether filed contemporaneously with, or after, the answer), must not exceed 100 pages in total; and
+the reply, and any supporting brief or memorandum (whether filed contemporaneously with, or after, the reply), must not exceed 25 pages in total.
+9.1 - Social Security and Black Lung Cases
+[REPEALED]
+10.1 - Required Form.
+In addition to the requirements of the Federal Rules of Civil Procedure, each pleading, motion, or other paper must:
+contain on its face a title clearly identifying each included pleading, motion, or other paper;
+contain a signature block that sets forth the attorney’s bar number for the jurisdiction in which the attorney is admitted to practice, and a facsimile number and e-mail address where information may be sent to the attorney;
+use a page size of 81⁄2 x 11 inches;
+be typed, printed, or legibly handwritten on numbered pages; and
+when submitted on paper, unless otherwise provided by the local civil rules or order of the presiding judge, be two-hole punched at the top and either stapled in the upper, left-hand corner or secured with a durable fastener at the top.
+11.1 - Electronic Signature.
+What Constitutes Electronic Signature. [REPEALED]
+Requirements for Electronic Signature. [REPEALED]
+Certification of Signature of Another Person. By submitting a document by electronic means and representing the consent of another person on the document, an attorney who submits the document certifies that the document has been properly signed.
+Requirements for Another Person's Electronic Signature. An attorney who submits a document by electronic means that is signed by another person—including by a moving party under LR 40.1—must:
+include a scanned image of the other person’s signature, or represent the consent of the other person in a manner permitted or required by the presiding judge; and
+maintain the signed paper copy of the document for one year after final disposition of the case.
+12.1 - Motion for More Definite Statement.
+[REPEALED]
+15.1 - Motions to Amend.
+When Filed on Paper. When a party files a motion for leave to file an amended pleading that, if leave is granted, will be filed on paper, the party must attach a copy of the proposed amended pleading as an exhibit to the motion. The party must also submit with the motion an original and a judge's copy of the proposed pleading. The original and judge's copy must neither be physically attached to the motion nor made exhibits to the motion. The original of the proposed pleading must contain the original signature of the signing attorney. If leave is granted, the clerk will file the original of the amended pleading.
+When Filed by Electronic Means. When a party files by electronic means a motion for leave to file an amended pleading, the party must attach the proposed amended pleading to the motion as an exhibit. If leave is granted, the amended pleading will be deemed filed as of the date of the order granting leave, or as otherwise specified by the presiding judge, and the clerk will file a copy of the amended pleading.
+16.1 - Exemptions from Pretrial Scheduling and Management.
+The following categories of cases are exempt from the scheduling and planning requirements of Fed. R. Civ. P. 16(b):
+actions for social security benefits, including appeals from decisions of the Secretary of Health and Human Services, and black lung cases subject to LR 9.1;
+prisoner civil rights complaints filed pursuant to 42 U.S.C. § 1981 et seq.;
+forfeiture actions;
+cases filed by the United States Attorney for collection of promissory notes payable to the United States or any government agency;
+bankruptcy appeals;
+cases involving pro se plaintiffs;
+habeas corpus complaints filed pursuant to 28 U.S.C. § 2254 or § 2255;
+petitions for enforcement of an Internal Revenue Service summons;
+actions for review of the administrative action of any federal agency; and
+all cases not reported by the clerk for statistical purposes as filed cases.
+16.2 - Authority of Magistrate Judges as to Scheduling Orders.
+Unless the presiding judge otherwise directs, a magistrate judge shall have the authority under Fed. R. Civ. P. 16(b) to enter and modify scheduling orders.
+16.3 - Settlement.
+Settlement Negotiations. Parties in a civil action must make good-faith efforts to settle. Settlement negotiations must begin at the earliest possible time, well in advance of any pretrial conference.
+Settlement Conferences. A judge will be available for settlement discussions. In nonjury cases the presiding judge will not discuss settlement figures unless requested to do so by all concerned parties.
+16.4 - Pretrial Order.
+Unless otherwise directed by the presiding judge, a pretrial order must be submitted to the presiding judge at least 14 days before the scheduled date for trial. All attorneys are responsible for preparing the pretrial order, which must contain the following:
+a summary of the claims and defenses of each party;
+a statement of stipulated facts;
+a list of contested issues of fact;
+a list of contested issues of law;
+an estimate of the length of trial;
+a list of any additional matters that might aid in the disposition of the case;
+the signature of each attorney; and
+a place for the date and the signature of the presiding judge.
+23.1 - Complaint.
+A complaint alleging a class action must bear in its title the designation “COMPLAINT- CLASS ACTION,” and must contain a separate heading entitled “Class Action Allegations.”
+23.2 - Motion for Certification; Briefs.
+Within 90 days of filing a class action complaint, or at such other time as the presiding judge by order directs, an attorney for the plaintiff must move for certification. A brief must accompany the motion for certification and must specifically set out the following:
+the appropriate sections of Fed. R. Civ. P. 23 under which the suit is properly maintainable as a class action;
+specific factual allegations concerning the alleged class, including:
+the approximate number of class members;
+the definition of the class and any subclasses;
+the distinguishing and common characteristics of class members, such as geography, time, and common financial incentives;
+questions of law and fact that are common to the class; and
+in actions asserting a class under Fed. R. Civ. P. 23(b)(3), allegations concerning the findings required by that section;
+the basis of the named plaintiff’s claim to be an adequate representative of the class, including financial responsibility to fund the action;
+the basis for determining any required jurisdictional amount;
+the type and estimated expense of notice to be given to class members, and the source of funds from which notice costs will be paid;
+the discovery necessary for a class certification hearing and the estimated time necessary for such discovery; and
+all arrangements for payment of plaintiffs’ attorney’s fees
+23.3 - Class Notice Responses.
+Once a case is conditionally certified as a class action and the presiding judge requires that notice be given to potential class members, the following rules apply:
+if there are fewer than 1,000 potential class members, the presiding judge may require that notification responses be sent directly to the clerk; but
+if there are 1,000 or more potential class members, the presiding judge may require that notification responses be sent to a United States Postal Service box in the name of the clerk. Plaintiff must pay the fees for the box, but such fees will be taxed as costs.
+The presiding judge may name an individual to collect, account for, and tabulate notice responses. Plaintiff must pay such individual a reasonable fee for these services, as determined by the presiding judge, but such fee will be taxed as costs.
+26.1 - Initial Disclosures Not Required.
+[REPEALED 12-1-00]
+26.2 - Exchanging Exhibits, Exhibit Lists, and Witness Lists; Designating Deposition Excerpts.
+Exchanging Exhibits. All exhibits that a party intends to offer at trial, except those offered solely for impeachment, must be marked with gummed labels or tags that identify them by the exhibit number under which they will be offered at trial, and must be exchanged with opposing parties at least 14 days before the scheduled date for trial. When practicable, a copy of such exhibits must be furnished to the presiding judge at a time and in a manner prescribed by the presiding judge.
+Exchanging Exhibit and Witness Lists. At least 14 days before the scheduled trial date, the parties must file with the clerk and deliver to opposing parties and the court reporter, separate lists of exhibits and witnesses, except those offered solely for impeachment.
+Designating Deposition Excerpts. The parties must designate, in lists delivered to opposing parties and filed with the clerk at least 14 days before the scheduled trial date, the portions of any depositions to be offered at trial.
+40.1 - Motions for Continuance.
+A motion for continuance of a trial setting must be signed by the moving party as well as by the party’s attorney of record. Unless the presiding judge orders otherwise, the granting of a motion for continuance will not extend or revive any deadline that has already expired in a case.
+41.1 - Order of Dismissal.
+[REPEALED]
+42.1 - Motions to Consolidate.
+Motions to consolidate civil actions, and all briefs and other papers concerning consolidation, must be served on an attorney for each party in each case sought to be consolidated. After consolidation, all pleadings, motions, or other papers must only bear the caption of the first case filed. All post-consolidation filings must also bear the legend “(Consolidated with [giving the docket numbers of all the other cases]).”
+47.1 - Contact with Jurors.
+A party, attorney, or representative of a party or attorney, shall not, before or after trial, contact any juror, prospective juror, or the relatives, friends, or associates of a juror or prospective juror, unless explicitly permitted to do so by the presiding judge.
+51.1 - Requested Jury Charge.
+[REPEALED 12-01-03]
+52.1 - Proposed Findings in Nonjury Cases.
+Unless otherwise directed by the presiding judge, at least 14 days before trial in all nonjury cases, each party must file with the clerk and serve on opposing parties proposed findings of fact and conclusions of law. The parties must submit such amendments to the proposed findings of fact and conclusions of law as the presiding judge directs.
+53.1 - Briefing Practice for Objections and Motions Concerning Orders, Reports, and Recommendations of Masters.
+Brief. Objections or a motion filed under Fed. R. Civ. P. 53(f)(2) must be accompanied by a brief that sets forth the party’s contentions of fact and/or law, and argument and authorities, and complies with LR 7.2.
+Response Brief. A response brief to objections or a motion filed under Fed. R. Civ. P. 53(f)(2) must comply with LR 7.2 and be filed within 21 days from the date the objections or motion is filed.
+Reply Brief. Unless otherwise directed by the presiding judge, a party who files objections or a motion under Fed. R. Civ. P 53(f)(2) may file a reply brief within 14 days from the date the response brief is filed. The brief must comply with LR 7.2.
+Appendix Required. A party who relies on materials—including depositions, documents, electronically stored information, affidavits, declarations, stipulations, admissions, interrogatory answers, or other materials—to support or oppose objections or a motion filed under Fed. R. Civ. P. 53(f)(2) must include the materials in an appendix that complies with LR 7.1(i)(2)-(4).
+Preparing the Record. A party who files objections or a motion under Fed. R. Civ. P. 53(f)(2) is responsible for preparing the record and—if necessary for disposition of the objections or motion—obtaining a hearing transcript. Unless otherwise directed by the presiding judge, the transcript must be filed contemporaneously with the objections or motion.
+54.1 - Time for Filing Bill of Costs.
+A party awarded costs by final judgment or by judgment that a presiding judge directs be entered as final under Fed. R. Civ. P. 54(b) must apply to the clerk for taxation of such costs by filing a bill of costs in a form approved by the clerk. Unless otherwise provided by statute or by order of the presiding judge, the bill of costs must be filed with the clerk and served on any party entitled to such service no later than 14 days after the clerk enters the judgment on the docket.
+55.1 - Failure to Obtain Default Judgment
+If a defendant has been in default for 90 days, the presiding judge may require the plaintiff to move for entry of a default and a default judgment. If the plaintiff fails to do so within the prescribed time, the presiding judge will dismiss the action, without prejudice, as to that defendant.
+55.2 - Default Judgments by the United States.
+[REPEALED 9-1-11]
+55.3 - Request for Entry of Default by Clerk.
+Before the clerk is required to enter a default, the party requesting such entry must file with the clerk a written request for entry of default, submit a proposed form of entry of default, and file any other materials required by Fed. R. Civ. P. 55(a).
+56.1 - Motion Practice Not Modified Generally.
+Except as expressly modified, the motion practice prescribed by LR 7.1-7.3 is not affected by LR 56.2-56.7.
+56.2 - Limits on Time for Filing and Number of Motions.
+Time for Filing. Unless otherwise directed by the presiding judge, no motion for summary judgment may be filed within 90 days of the trial setting.
+Number. Unless otherwise directed by the presiding judge, or permitted by law, a party may file no more than one motion for summary judgment.
+56.3 - Content of Motion.
+Except as provided in subsection (b) of this rule, a motion for summary judgment must, in addition to the contents required by Fed. R. Civ. P. 56(a),
+on the first page, under the heading “summary,” state concisely the elements of each claim or defense as to which summary judgment is sought, and
+if the motion is accompanied by an appendix and it is necessary to cite support for an assertion about the absence or presence of a genuine dispute of fact, comply with LR 56.5(c).
+A moving party may satisfy the requirements of subsection (a) of this rule by stating in its motion that each of the required matters will be set forth in the party’s brief.
+If a moving party seeks summary judgment on fewer than all claims or defenses, the motion must be styled as a motion for partial summary judgment.
+A motion for summary judgment must not contain argument and authorities.
+56.4 - Content of Response
+Except as provided in subsection (b) of this rule, a response to a motion for summary judgment must
+state in reasonably concise terms why the responding party opposes the motion, and
+if the response is accompanied by an appendix and it is necessary to cite support for an assertion about the absence or presence of a genuine dispute of fact, comply with LR 56.5(c).
+A responding party may satisfy the requirements of subsection (a) of this rule by stating in its response that each of the required matters will be set forth in the party’s brief.
+A response to a motion for summary judgment must not contain argument and authorities.
+56.5 - Requirement of Brief; Briefing Requirements.
+Brief Required. A summary judgment motion and a response must be accompanied by a brief that sets forth the argument and authorities on which the party relies in support of or opposition to a motion, and must contain the matters required by LR 56.3(a) or LR 56.4(a) if the party has opted to comply with those rules by including the required matters in its brief. Notwithstanding LR 5.1(c), the brief must be filed as a separate document from the motion or response that it supports.
+Length of Briefs. The requirements of LR 7.2 apply to briefs filed pursuant to LR 56.5(a), except that, excluding the table of contents and table of authorities, the length of a principal brief must not exceed 50 pages and a reply brief must not exceed 25 pages. The presiding judge, by order or other appropriate notice issued in a civil action, may restrict the length of briefs to fewer pages than are permitted by this rule.
+Citations to Appendix. When citing materials in the record, as required by Fed. R. Civ. P. 56(c)(1)(A) or (B), a party must support each assertion by citing each relevant page of its own or the opposing party’s appendix.
+56.6 - Requirement of Appendix; Appendix Requirements.
+Appendix Required. A party who relies on materials in the record—including, depositions, documents, electronically stored information, affidavits, declarations, stipulations, admissions, interrogatory answers, or other materials— to support or oppose a motion for summary judgment must include the materials in an appendix.
+Appendix Requirements.
+​The appendix must be assembled as a self-contained document, separate from the motion and brief or response and brief.
+Each page of the appendix must measure 81⁄2 x 11 inches. Non- documentary materials (e.g., videotapes and other physical materials) and oversized materials (e.g., maps and schematic drawings) that are included in the appendix must be placed in an envelope that measures 9 x 12 inches.
+Each page of the appendix must be numbered legibly in the lower, right- hand corner. The first page must be numbered as “1,” and succeeding pages must be numbered sequentially through the last page of the entire appendix (i.e., the numbering system must not re-start with each succeeding document in the appendix). An envelope that contains non- documentary or oversized materials must be numbered as if it were a single page.
+56.7 - Limit on Supplemental Materials.
+Except for the motions, responses, replies, briefs, and appendices required by these rules, a party may not, without the permission of the presiding judge, file supplemental pleadings, briefs, authorities, or evidence.
+58.1 - Proposed Judgments
+Each proposed judgment must be set forth on a separate document.
+62.1 - Supersedeas Bond.
+[REPEALED]
+62.2 - Stay of Inter-District Transfer Order.
+Unless all affected parties consent to the transfer, an order that transfers a case to a district court outside the Fifth Circuit is stayed for 21 days from the date the order is entered on the docket.
+67.1 - Deposit of Money in Court Registry.
+[REPEALED 09-02-14]
+71.1 - Condemnation of Property
+Where the United States files separate condemnation actions and a single declaration of taking relating to the separate actions, the clerk may establish a master file for the declaration of taking. The single declaration in such master file shall constitute a filing of the declaration in each individual action to which it relates.
+72.1 - Briefing Practice Concerning Objections to Magistrate Judge Orders in Nondispositive Matters.
+Brief. Objections filed under Fed. R. Civ. P. 72(a) must be accompanied by a brief that sets forth the party’s contentions of fact and/or law, and argument and authorities, and complies with LR 7.2.
+Response Brief. A response brief to objections filed under Fed. R. Civ. P. 72(a) must comply with LR 7.2 and be filed within 21 days from the date the objections are filed.
+Reply Brief. Unless otherwise directed by the presiding judge, a party who files objections under Fed. R. Civ. P. 72(a) may file a reply brief within 14 days from the date the response brief is filed. The brief must comply with LR 7.2.
+Appendix Required. A party who relies on materials—including depositions, documents, electronically stored information, affidavits, declarations, stipulations, admissions, interrogatory answers, or other materials—to support or oppose objections filed under Fed. R. Civ. P. 72(a) must include the materials in an appendix that complies with LR 7.1(i)(2)-(4).
+Preparing the Record. A party who files objections under Fed. R. Civ. P. 72(a) is responsible for preparing the record and – if necessary for disposition of the objections – obtaining a hearing transcript. Unless otherwise directed by the presiding judge, the transcript must be filed contemporaneously with the objections.
+72.2 - Briefing Practice Concerning Objections to Magistrate Judge Recommendations on Dispositive Motions and Prisoner Petitions.
+Brief. Objections filed under Fed. R. Civ. P. 72(b)(2) must be accompanied by a brief that sets forth the party’s contentions of fact and/or law, and argument and authorities, and complies with LR 7.2.
+Response Brief. A response brief to objections filed under Fed. R. Civ. P. 72(b)(2) must comply with LR 7.2.
+Reply Brief. Unless otherwise directed by the presiding judge, a party who files objections under Fed. R. Civ. P. 72(b)(2) may file a reply brief within 14 days from the date the response brief is filed. The brief must comply with LR 7.2.
+Appendix Required. A party who relies on materials—including depositions, documents, electronically stored information, affidavits, declarations, stipulations, admissions, interrogatory answers, or other materials—to support or oppose objections filed under Fed. R. Civ. P. 72(b)(2) must include the materials in an appendix that complies with LR 7.1(i)(2)-(4).
+Preparing the Record. A party who files objections under Fed. R. Civ. P. 72(b)(2) is responsible for preparing the record and – if necessary for disposition of the objections – obtaining a hearing transcript. Unless otherwise directed by the presiding judge, the transcript must be filed contemporaneously with the objections.
+77.1 - Notice of Orders and Judgments.
+Furnishing Copies of Orders and Judgments. Unless the presiding judge otherwise directs, the clerk shall furnish a copy of each order and judgment to counsel of record by first class mail or by electronic transmission. Where a party is represented by more than one attorney of record, the attorney designated in accordance with LR 77.1(b) or (c) shall receive copies of orders and judgments and distribute them to co- counsel for the same party who have not received a notice of electronic filing from ECF.
+Designation of Counsel to Receive Orders and Judgments. The clerk shall designate an attorney to receive copies of orders and judgments, in the following manner:
+the first attorney to sign a plaintiff’s complaint;
+the first attorney to sign a defendant’s initial responsive pleading;
+the first attorney to sign a removing party’s notice of removal, and the first attorney listed on the civil cover sheet and/or supplemental civil cover sheet for the remaining parties; and
+the first attorney listed on the bankruptcy docket sheet for each party in a bankruptcy withdrawal or bankruptcy appeal.
+Change in Designation of Counsel. If the attorney designated to receive orders and judgments desires that another attorney be substituted for this purpose, the attorney must request substitution in the manner prescribed by the clerk.
+79.1 - Case Files
+Official Record. The electronic version of a document maintained on ECF, or the paper version of a document not so maintained, is the official record of the court.
+Inspection of Files. Except as otherwise limited by rule or by court order, the electronic portion of an original file in a pending or closed case shall be available for public inspection in the clerk’s office. The paper portion of an original file shall be available in the division where the case is filed, unless the file has been removed to a federal records center. The clerk shall not release the paper portion of a file from the clerk’s custody without the permission of the presiding judge, or except as permitted by subsection (d) of this rule.
+Inspection of Closed Files. [REPEALED 9-1-06]
+Copies of Files. Upon request, the clerk shall provide copies of the contents of case files, including transcripts of oral depositions and court proceedings. The clerk shall charge the fee established by the court for this service. When large numbers of copies are requested, the clerk is authorized to release the file to a commercial copying service, and to direct that the copy fee be paid directly to the service by the requesting party.
+79.2 - Disposition of Exhibits.
+Release While Case Pending. Without an order from the presiding judge, no exhibit in the custody of the court may be removed from the clerk’s office while the case is pending.
+Removal or Destruction After Final Disposition of Case. All exhibits in the custody of the court must be removed from the clerk’s office within 60 days after final disposition of a case. The attorney who introduced the exhibits shall be responsible for their removal. Any exhibit not removed within the 60-day period may be destroyed or otherwise disposed of by the clerk.
+79.3 - Sealed Documents
+A party may file under seal any document that a statute or rule requires or permits to be so filed. The term "document," as used in this rule, means any pleading, motion, other paper, or physical item that the Federal Rules of Civil Procedure permit or require to be filed.
+If no statute or rule requires or permits a document to be filed under seal, a party may file a document under seal only on motion and by permission of the presiding judge.
+When a party files a motion for leave to file a document under seal, the party may file the motion under seal and must attach the proposed sealed document as an exhibit. If leave is granted, the sealed document will be deemed filed as of the date of the order granting leave, or as otherwise specified by the presiding judge, and the clerk will file a copy of the sealed document.
+79.4 - Disposition of Sealed Documents.
+Unless the presiding judge otherwise directs, all sealed documents maintained on paper will be deemed unsealed 60 days after final disposition of a case. A party that desires that such a document remain sealed must move for this relief before the expiration of the 60-day period. The clerk may store, transfer, or otherwise dispose of unsealed documents according to the procedure that governs publicly available court records.
+80.1 - Court Reporter’s Fees.
+[REPEALED 9-1-04]
+81.1 - Required Form of Documents to be Filed Upon Removal.
+The party or parties that remove a civil action from state court must provide the following to the clerk for filing:
+a completed civil cover sheet;
+a supplemental civil cover sheet; and
+if there is a “related case,” as defined by LR 3.3(b)(3) or (b)(4), a notice of related case that complies with LR 3.3(a); and
+a notice of removal with a copy of each of the following attached to both the original and the judge's copy—
+an index of all documents that clearly identifies each document and indicates the date the document was filed in state court;
+a copy of the docket sheet in the state court action;
+each document filed in the state court action, except discovery material (if filed on paper, each document must be individually tabbed and arranged in chronological order according to the state court file date; if filed by electronic means, each document must be filed as a separate attachment); and
+a separately signed certificate of interested persons that complies with LR 3.1(c) or 3.2(e).
+If the documents listed in subsection (a) of this rule are filed on paper, they must be two-hole punched at the top, and either stapled in the upper, left-hand corner or secured at the top with durable fasteners if too thick to staple. If these documents are too voluminous to be filed as a single unit, each unit must be secured in the manner required by this subsection (b) and must contain a cover sheet that identifies the case by its caption and by the civil action number assigned by the clerk.
+81.2 - Certificate of Interested Persons.
+Within 21 days after the notice of removal is filed, the plaintiff shall file a separately signed certificate of interested persons that complies with LR 3.1(c) or 3.2(e). If the plaintiff concurs in the accuracy of another party’s previously-filed certificate, the plaintiff may adopt that certificate.
+83.1 - Application of Rules by a Presiding Judge.
+Notwithstanding the local civil rules, a presiding judge may direct the parties to proceed in any manner that the judge deems just and expeditious.
+83.2 - Miscellaneous and Special Orders.
+The clerk shall maintain in each division a copy of all miscellaneous and special orders adopted by the court, and shall make these orders available for inspection and copying.
+83.3 - Assignment of Cases.
+The district judges shall determine the method by which all cases are assigned to individual judges.
+83.4 - Conduct of Attorneys at Trial or Hearing.
+Unless the presiding judge otherwise directs, during a trial or hearing, attorneys must:
+stand when making objections or otherwise addressing the presiding judge;
+use the lectern while examining or cross-examining witnesses;
+when examining a witness, refrain from making statements, comments, or remarks before or after asking a question;
+limit to one attorney for each party the examination or cross-examination of a witness; and
+in making an objection, state plainly and briefly the grounds for objecting and not offer argument unless requested by the presiding judge.
+Rule 83.4.1
+An attorney appearing in a civil action must comply with the standards of litigation conduct adopted in Dondi Properties Corp. v. Commerce Savings & Loan Ass’n, 121 F.R.D. 284 (N.D. Tex. 1988) (en banc).
+83.5 - Clerk's Fees.
+[REPEALED 9-1-04]
+83.6 - Applications to Proceed In Forma Pauperis.
+A party desiring to proceed without prepayment of fees or costs must complete the appropriate form and file it with the clerk.
+83.7 - Admission of Attorneys.
+Attorneys must fulfill the following requirements to be admitted to practice in this court:
+Eligibility for Admission. Any attorney licensed to practice law by the Supreme Court of Texas, or by the highest court of any state or the District of Columbia, may be admitted to the bar of this court if the attorney is of good personal and professional character and is a member in good standing of the bar where the attorney is licensed.
+Procedure for Admission. Attorneys desiring admission to the bar of this court must complete an application for admission, to be approved by a district judge, and except as provided in subsection (c) of this rule, be introduced by a member in good standing of the bar of this court, and take the required oath or affirmation before a judge of this court. After the oath or affirmation is administered, and the applicant has paid the appropriate fee, the clerk shall issue a certificate stating that the attorney is admitted to practice before this court.
+Admission Before Judges of Other Districts. Any nonresident attorney who has completed all requirements for admission to the bar of this court may, with the approval of a district judge of the division where the application is pending, have the oath of admission administered by a judge in another district. The nonresident attorney must file the oath with the clerk and pay the appropriate fee before the attorney’s name will be added to the roll of attorneys for this district.
+Admission is Discretionary. All admissions to practice before this court shall be discretionary with the district judge reviewing the application for admission.
+83.8 - Loss of Membership and Discipline of Attorneys.
+Loss of Membership. A member of the bar of this court is subject to suspension or disbarment by the court under the following circumstances:
+if for any reason other than nonpayment of dues, failure to meet continuing legal education requirements, or voluntary resignation unrelated to a disciplinary proceeding or problem, an attorney loses, either temporarily or permanently, the right to practice law before:
+the courts of the State of Texas;
+the highest court of any other state or the District of Columbia; or
+any federal court; or
+if an attorney fails to maintain the right to practice law before the highest court of at least one state or the District of Columbia, unless the member’s failure to maintain such right results from nonpayment of dues or failure to meet continuing legal education requirements.
+Grounds for Disciplinary Action. A presiding judge, after giving opportunity to show cause to the contrary, may take any appropriate disciplinary action against a member of the bar for:
+conduct unbecoming a member of the bar;
+failure to comply with any rule or order of this court;
+unethical behavior;
+inability to conduct litigation properly;
+conviction by any court of a felony or crime involving dishonesty or false statement; or
+having been publicly or privately disciplined by any court, bar, court agency or committee.
+Appeal of Disciplinary Action [REPEALED 9-1-04]
+Reporting by Members. Any member of the bar of this court who has:
+lost or relinquished, temporarily or permanently, the right to practice in any court of record;
+been disciplined, publicly or privately, by any court, bar, court agency, or committee; or
+been convicted of a felony or crime involving dishonesty or false statement,
+shall promptly report such fact in writing to the clerk, supplying full details and copies of all pertinent documents reflecting, or explaining, such action.
+Unethical Behavior. The term “unethical behavior,” as used in this rule, means conduct undertaken in or related to a civil action in this court that violates the Texas Disciplinary Rules of Professional Conduct.
+Readmission. An attorney applying for readmission to the bar of this court must submit an application for readmission, together with the following materials:
+a full disclosure concerning the attorney’s loss or relinquishment of membership in the bar of this court; and
+all information required by subsection (d) of this rule concerning facts that occurred prior to the date of application for readmission.
+Appointment of Counsel. A presiding judge shall have the right to appoint any member of the court’s bar to assist in the handling of any proceeding contemplated by or resulting from this rule. An attorney appointed under this rule shall perform as requested unless relieved from doing so. An attorney desiring relief from appointment must move for such relief, which will be granted only upon a showing of good cause.
+Reciprocal Discipline.
+A member of the bar who is subject to suspension or disbarment under LR 83.8(a) must be given written notice by the chief judge, or by a district judge designated by the chief judge, that the court intends to suspend or disbar the member. The notice must identify the ground for imposing reciprocal discipline and provide the member an opportunity to show cause, within the time prescribed by the notice, why the member should not be suspended or disbarred.
+If the member does not respond to the notice, or responds but does not oppose reciprocal discipline, the chief judge or a designee district judge may enter an appropriate order after the prescribed time for a response expires or the response is received.
+If the member responds and, in whole or in part, opposes reciprocal discipline, the chief judge, or a district judge designated by the chief judge, must designate three district judges to hear the matter. The decision of a majority of the three-judge panel concerning the appropriate discipline shall be the final ruling of this court.
+83.9 - Attorneys Not Admitted to Practice Before this Court.
+Eligibility to Appear. An attorney who is licensed to practice law by the highest court of any state or the District of Columbia, but who is not admitted to practice before this court, may represent a party in proceedings in this court only by permission of the presiding judge.
+Application to Appear. Unless exempted by LR 83.11, an attorney who is not admitted to practice in this court, who desires to appear as counsel in a case, and who is eligible pursuant to subsection (a) of this rule to appear, shall apply for admission pro hac vice on a court-approved form and pay the applicable fee to the clerk.
+Regulation of Attorneys Admitted Pro Hac Vice. By appearing in any case, an attorney becomes subject to the rules of this court.
+83.10 - Requirement of Local Counsel.
+Local Counsel Required. Unless exempted under LR 83.10(c) or by LR 83.11, local counsel is required in all cases where an attorney appearing in a case does not reside or maintain the attorney’s principal office in this district. “Local counsel” means a member of the bar of this court who resides or maintains the attorney’s principal office in this district.If the presiding judge so orders, local counsel may be subject to requirements such as residing or maintaining the attorney’s principal office within a specified distance from the courthouse in which the case is pending.
+Duties of Local Counsel. Local counsel must be able to perform, on behalf of the party represented, any duty required by the presiding judge or the local civil rules of this court.
+Exemption from Local Counsel Requirement. The presiding judge may exempt a party from the local counsel requirement in a case pending before the judge.
+83.11 - Exemption from Admission to Practice, and from Requirement of Local Counsel, for Attorneys Appearing on Behalf of the United States Justice Department or the Attorney General of the State of Texas.
+Unless the presiding judge otherwise directs, an attorney appearing on behalf of the United States Justice Department or the Attorney General of the State of Texas, and who is eligible pursuant to LR 83.9(a) to appear in this court, shall be exempt from the requirements of LR 83.9(b) and 83.10, but shall otherwise be subject to all requirements applicable to attorneys who have been granted leave to appear pro hac vice.
+83.12 - Withdrawal or Substitution of Attorney.
+Except as provided in subsection (b), (c), or (d) of this rule, an attorney desiring to withdraw in any case must file a motion to withdraw. This motion must, in addition to the matters required by LR 7.1, specify the reasons requiring withdrawal and provide the name and address of the succeeding attorney. If the succeeding attorney is not known, the motion must set forth the name, address, and telephone number of the client and either bear the client’s signature approving withdrawal or state specifically why, after due diligence, the attorney was unable to obtain the client’s signature.
+When an Assistant United States Attorney enters an appearance in a case, another Assistant United States Attorney may replace the attorney by filing a notice of substitution that identifies the attorney being replaced. Unless the presiding judge otherwise directs, the notice effects the withdrawal of the attorney being replaced.
+When the Federal Public Defender is appointed to represent a party and an Assistant Federal Public Defender enters an appearance in the case, another Assistant Federal Public Defender may replace the attorney who has entered an appearance by filing a notice of substitution that identifies the attorney being replaced. Unless the presiding judge otherwise directs, the notice effects the withdrawal of the attorney being replaced.
+When an attorney desiring to withdraw is to be replaced simultaneously, the succeeding attorney must file a motion to substitute counsel. If the presiding judge grants the motion, the order effects both the substitution of the succeeding attorney and the withdrawal of the attorney being replaced. This subsection (d) does not supersede subsection (b) or (c) of this rule.
+83.13 - Change of Contact Information or Name.
+Attorney Who is Not a Registered User of ECF. When an attorney who is not a registered user of ECF changes the attorney’s business address, e-mail address, telephone number, facsimile number, or name, the attorney must promptly notify the clerk, using the approved method, and the presiding judge, in writing, in each pending case.
+Attorney Who is a Registered User of ECF. When an attorney who is a registered user of ECF changes the attorney’s business address, e-mail address, telephone number, facsimile number, or name, the attorney must promptly change this information in ECF, following procedures set forth in the ECF Administrative Procedures Manual.
+83.14 - Parties Proceeding Pro Se.
+Any party proceeding on the party’s own behalf is considered pro se. Pro se parties must read and follow the local civil rules of this court and the Federal Rules of Civil Procedure.
+83.15 - Attorney as a Witness.
+[REPEALED 9-1-04]
+83.16 - Dress and Conduct.
+All persons present in a courtroom where a trial, hearing, or other proceeding is in progress must dress and conduct themselves in a manner demonstrating respect for the court. The presiding judge shall have the discretion to establish appropriate standards of dress and conduct.
+83.17 - Weapons Forbidden.
+Firearms and other weapons are prohibited in areas of buildings designated for court use. Such weapons may be carried by the United States Marshal, the marshal’s deputies, courtroom security personnel, and other law enforcement officers to whom a presiding judge has given authority.
+83.18 - Photographs, Broadcasting, Recording, and Television Forbidden.
+Except as the presiding judge permits under the authority of a United States statute, a Federal Rule of Civil Procedure, a policy adopted by the Judicial Conference of the United States, or an order of The Judicial Council of the Fifth Circuit, no person may photograph, electronically record, televise, or broadcast a judicial proceeding. This rule shall not apply to ceremonial proceedings or electronic recordings by an official court reporter or other authorized court personnel.
+Local Rules
+Civil Rules
+Criminal Rules
+Bankruptcy Rules
+Federal Rules
+Appellate Rules
+Special Orders
+S.O. No. 2: Orders Adopting Rules
+S.O. No. 3: Case Assignment
+S.O. No. 19: Sealed Documents
+Miscellaneous Orders
+Federal Pattern Jury Instructions
+Opinions
+Local Rules (PDF)
+Please click the following links to download a pdf copy of Local Rules.
+Civil Rules (PDF)
+Criminal Rules (PDF)
+Bankruptcy Rules (PDF)
+Appendices (PDF)
+Home
+Contact Us
+Careers
+ECF
+Forms
+Links
+Judicial Seminar Disclosure
+Privacy | Sitemap

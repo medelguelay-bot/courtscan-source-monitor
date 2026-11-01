@@ -1,0 +1,441 @@
+Revised: October 23, 2025
+INDIVIDUAL RULES AND PRACTICES IN CIVIL CASES
+JOHN P. CRONAN
+UNITED STATES DISTRICT JUDGE
+SOUTHERN DISTRICT OF NEW YORK
+Chambers Courtroom
+United States District Court Courtroom 12D
+Southern District of New York 500 Pearl Street
+500 Pearl Street, Room 1320 Meghan Henrich, Courtroom Deputy
+New York, NY 10007
+CronanNYSDChambers@nysd.uscourts.gov
+Unless otherwise ordered by the Court, these Individual Rules and Practices shall apply to
+all civil matters before Judge Cronan, except for civil cases involving pro se litigants.
+1. Communications with Chambers
+A . Letters. Except as otherwise provided below, communications with Chambers shall
+be by letter, with copies simultaneously delivered to all counsel. Letters to the Court on behalf of
+parties represented by counsel must be both docketed on ECF and e -mailed as a .pdf attachment
+to the following address: CronanNYSDChambers@nysd.uscourts.gov. Counsel shall not provide
+a hard copy of correspondence e-mailed to Chambers. Letters seeking relief should (if consistent
+with the S.D.N.Y. Local Rules and the S.D.N.Y. ECF Rules and Instructions) be filed on ECF as
+letter-motions, not as ordinary letters. Any response to a letter or letter-motion shall be filed within
+two business days of the filing of the letter or letter-motion.
+Counsel shall include the case caption and docket number in the subject line of every e -
+mail sent to Chambers. All letters should be text-searchable where practicable. Unless otherwise
+ordered by the Court, letters may not exceed three pages in length (single-spaced, 12-point font).
+Letters to be filed under seal or containing sensitive or confidential information must be filed in
+accordance with 4.A-B below. Copies of correspondence between counsel shall not be sent to the
+Court or docketed on ECF, except if the correspondence is a relevant attachment to a filing.
+B. Telephone Calls. For questions that cannot be answered by reference to these Rules
+or the S.D.N.Y. Local Rules, or for docketing, scheduling, and calendar matters, counsel may
+contact the Courtroom Deputy, Meghan Henrich. For situations requiring immediate attention
+from the Court, counsel should call Chambers directly; in such situations, parties should email the
+Chambers inbox requesting the Court’s contact information.
+C. Faxes. Faxes to Chambers are not permitted.
+2
+D. Hand Deliveries. Hand-delivered mail should be left with the Court Security Officers
+at the Worth Street entrance of the Daniel Patrick Moynihan United States District Courthouse at
+500 Pearl Street, New York, NY 10007 and may not be brought directly to Chambers. If the hand-
+delivered letter is urgent and requires the Court’s immediate attention, the party should ask the
+Court Security Officers to notify Chambers that an urgent package has arrived that needs to be
+retrieved by Chambers staff immediately.
+2. Rules for All Filings
+A. Electronic Case Filing ( “ECF”). In accordance with the S.D.N.Y. ECF Rules and
+Instructions, all counsel must register promptly as ECF filers after being retained or assigned and
+to enter an appearance in the case. Counsel can obtain instructions on how to register at
+http://www.nysd.uscourts.gov/ecf_filing.php. Counsel are responsible for updating their contact
+information on ECF, should it change, and they are responsible for checking the docket sheet
+regularly, regardless of whether they receive an ECF notification of case activity.
+If an ECF submission requires immediate attention from the Court, counsel should notify
+Chambers by telephone after filing the submission via ECF.
+All electronic submissions should be in the form of text-searchable .pdf documents, where
+practicable.
+B. Memoranda of Law. The typeface, margins, and spacing of motion papers must
+conform to Local Civil Rule 7.1(b). Unless prior permission has been granted, memoranda of law
+in support of and in opposition to motions are limited to 8,750 words, and reply memoranda are
+limited to 3,500 words. These limits do not include the caption, any index, table of contents, table
+of authorities, signature blocks, or any required certificates, but do include material contained in
+footnotes or endnotes. Memoranda of 10 pages or more shall contain a table of contents and a
+table of authorities, and all memoranda must include a certificate by the attorney, or party who is
+not represented by an attorney, that the document complies with the word-count limitations. These
+limits do not apply to motions for reconsideration under Local Civil Rule 6.3; parties should refer
+to that provision for applicable word or page limits and other information. Sur- reply memoranda
+will not be accepted without prior permission of the Court. Motion papers shall be filed promptly
+after service.
+C. Unpublished Cases. Westlaw or Lexis citations shall be provided, if available, to cases
+not available in an official reporter. Parties must provide copies of cases that are not available on
+Westlaw or Lexis.
+D. Courtesy Copies. Regarding all pleadings, correspondence, and motion papers,
+including exhibits submitted in connection with a motion, a party shall submit an electronic
+courtesy copy via e- mail to Chambers at the time the papers are served. Paper courtesy copies
+3
+may be submitted only upon request from the Court. Courtesy copies should be marked as such
+and shall be submitted to Chambers for both ECF and non-ECF designated cases.
+Electronic courtesy copies of proposals for the Court to enter, including proposed orders
+to show cause, temporary restraining orders, preliminary injunctions, stipulations, consent orders,
+and default judgments, should be sent in both Microsoft Word and PDF formats.
+E. Use of Artificial Intelligence (“AI”) Tools. Counsel is responsible for providing the
+Court with complete and accurate representations of the record, the procedural history of the case,
+and any cited legal authorities. All litigants are responsible for verifying the accuracy of any
+output produced in whole or in part by an AI tool. Any attorney who signs a filing for which an
+AI tool was used to prepar e (including by appearing on the signature block of the filing) must
+attach to the filing a signed certification (i) stating whether the litigant personally reviewed the
+filing for accuracy of cited legal authorities and factual assertions and (ii) if so, describing in detail
+the steps taken to verify the accuracy of all legal authorities and factual ass ertions generated by
+the AI tool. An attorney who signs an AI-assisted filing, yet fails to review that filing for accuracy
+or to provide the required certification, violates this Rule. The Court may impose sanctions on
+counsel and/or strike the filing for failing to comply with this Rule. A model certification may be
+found on the Court’s website (https://www.nysd.uscourts.gov/hon-john-p-cronan).
+3. Rules for Specific Types of Filings
+A. Complaints. Plaintiffs shall ensure that a copy of the operative complaint is posted
+electronically to the docket on the ECF system. This requirement applies to all cases, including
+removed cases. There is no need to submit courtesy copies of pleadings, unless immediate relief
+is sought (e.g., a temporary restraining order).
+If a party files an amended pleading, a courtesy copy of the pleading, in redline form to the
+most recent operative pleading, shall be provided to the Court via email.
+B. Requests for Adjournments or Extension s of Time . Requests for adjournments,
+extensions of time, and extensions of word lengths in memoranda shall be made by letter, and not
+by stipulation sent through the Orders and Judgments Clerk. R equests for adjournments or
+extensions of time shall be filed on ECF as letter-motions, not as ordinary letters. All requests for
+adjournments or extensions of time must state (1) the original date (s) set for the appearance or
+deadline(s) and the new date(s) requested; (2) t he reason(s) for the request ; (3) the number of
+previous requests for adjournment or extension; (4) whether these previous requests were granted
+or denied; and (5) whether opposing counsel consents, and, if not, any reasons given by opposing
+counsel for refusing to consent. If the requested adjournment or extension affects any other
+scheduled dates or deadlines, a proposed Revised Case Management Plan and Scheduling Order
+(reflecting only business days) must be attached.
+4
+Absent compelling circumstances, a request for an extension or adjournment must be made
+at least 48 hours (i.e., two business days) prior to the scheduled appearance or deadline. Requests
+for extensions will ordinarily be denied if made after the expiration of the original deadline.
+Requests for extensions of deadlines regarding a matter that has been referred to a Magistrate
+Judge shall be directed to that assigned Magistrate Judge.
+If a party seeks to extend the discovery deadlines for a case, the request must include (1) a
+description of what discovery has already been completed; (2) a description of what discovery
+remains to be taken; (3) why discovery was not completed by the time provided in the Case
+Management Plan; and (4) why “good cause” exists to modify the scheduling order under Federal
+Rule of Civil Procedure 16(b)(4). The Court requires a showing of good cause to modify a
+previously set discovery deadline and failure to comply with this requirement will result in denial
+of the request. Parties should not assume that such requests will be granted as a matter of course.
+C. Related and Consolidated Cases. After an action has been accepted as related to a
+prior case, all future court papers and correspondence must contain the docket number of the new
+filing as well as the docket number of the case to which it is related ( e.g., 21-cv-1234 [rel. 20-cv-
+4321]). After two or more actions have been consolidated for all purposes under a single docket
+number pursuant to Rule 42(a)(2) of the Federal Rules of Civil P rocedure, all future court papers
+and correspondence should be fil ed only in the docket under which the cases have been
+consolidated and should reference only that docket number.
+D. Certificates of Default. A party that intends to seek a certificate of default pursuant
+to Rule 55(a) of the Federal Rules of Civil Procedure and Local Civil Rule 55.1 must notify the
+Court of its intent to do so by filing a letter pursuant to 1.A above at least two business days before
+filing for such a request with the Clerk of Court.
+E. Default Judgments. A party seeking a default judgment must proceed by filing a
+motion for default judgment on ECF pursuant to Rule 55(b)(2) of the Federal Rules of Civil
+Procedure and Local Civil Rule 55.2(a)(2). A party seeking a default judgment must also file the
+following materials, in addition to those specified in Local Civil Rule 55.2:
+i. The required affidavit under Local Civil Rule 55.2(a)(1) with the following,
+additional information:
+a. the basis for entering a default judgment, including if appropriate a
+description of the method and date of service of the summons and
+complaint;
+b. the procedural history beyond service of the summons and
+complaint, if any;
+5
+c. whether, if the default is applicable to fewer than all of the
+defendants, the Court may appropriately order a default judgment
+on the issue of damages prior to resolution of the entire action; and
+d. if the party believes an inquest into damages is unnecessary, the
+legal authority for that position;
+ii. Copies of all the operative pleadings; and
+iii. A copy of the Affidavit of Service of the summons and complaint.
+The party must file the Affidavit of Service specified in Local Civil Rule 55.2(a)(3) on
+ECF within two business days of filing the motion for default judgment. The Court will not
+consider the motion for default judgment unless and until such Affidavit of Service is filed. If
+more than two business days are required to complete service of the motion for default judgment
+and supporting papers, the party should file a letter on ECF explaining why additional time is
+necessary and when the party anticipates service will be completed. The Court will set deadlines
+for opposition papers to default judgment and for any reply, and will schedule a hearing on the
+default judgment motion.
+F. Voluntary Dismissals . A plaintiff seeking to dismiss an action pursuant to Rule
+41(a)(1)(A)(i) of the Federal Rules of Civil Procedure must file a notice of dismissal with the
+Court. Parties seeking to dismiss an action under Rule 41(a)(1)(A)(ii) must file a stipulation of
+dismissal signed by all parties who have appeared in the action, regardless of whether those parties
+have been dismissed from the case. A stipulation of dismissal under Rule 41(a)(1) (A)(ii) must
+contain handwritten signatures, not electronic signatures, of the parties. Neither a dismissal under
+Rule 41(a)(1)(A)(i) nor Rule 41(a)(1)(A)(ii) requires an order from the Court. If the parties are
+requesting dismissal pursuant to Rule 41(a)(2), however, the submission should contain a date and
+signature line for the Court to “So Order.”
+G. Settlement Agreements. The Court will not retain jurisdiction to enforce confidential
+settlement agreements. If the parties wish the Court to retain jurisdiction to enforce a settlement
+agreement, the parties must place the terms of their settlement agreement on the public reco rd.
+The parties may do this by providing a copy of the settlement agreement for the Court to endorse,
+attaching the settlement agreement to their stipulation of settlement and dismissal, or including the
+terms of their settlement agreement in their stipulation of settlement and dismissal.
+H. Fair Labor Standards Act (“FLSA ”) Settlement Agreements. Parties that seek to
+settle FLSA claims through a stipulated dismissal with prejudice pursuant to Federal Rule of Civil
+Procedure 41(a)(1)(A)(ii) must submit the settlement agreement and all other necessary
+information for Court approval in accordance with Cheeks v. Freeport Pancake House, Inc., 796
+F.3d 199 (2d Cir. 2015). The Court will not approve a settlement agreement that contains an overly
+broad release clause or for which the parties fai l to submit all necessary information, including,
+6
+inter alia, the parties’ estimations for the plaintiff’s number of hours worked, applicable wages,
+and a detailed breakdown of the justification for any requested attorneys’ fees. See, e.g.,
+Fernandez v. 219 Dominican Valle Corp., No. 19 Civ. 9513 (JPC), 2021 WL 240721, at *2- 4
+(S.D.N.Y. Jan. 25, 2021). Parties that settle FLSA claims through a Federal Rule of Civil
+Procedure 68(a) offer of judgment should not seek Court approval of the disposition. See Mei Xing
+Yu v. Hasaki Rest., Inc., 944 F.3d 395, 411 (2d Cir. 2019).
+I. Bankruptcy Appeals. Briefs must be submitted in accordance with Rules 8014-8018
+of the Federal Rules of Bankruptcy Procedure. If the parties wish to extend these dates, they must
+submit a joint request to the Court no later than 48 hours (i.e., two business days) before the brief
+is due.
+J. Deposition Transcripts . If the parties cite to deposition transcripts in their motion
+papers, the parties, upon completion of briefing, must confer and submit a single consolidated copy
+of each cited deposition transcript to the Court that includes all relevant portions of the cited
+transcripts.
+4. Redactions and Sealed Filings
+A. Redactions Not Requiring Court Approval. Nothing herein is intended to alter or
+modify the applicability of Rule 5.2 of the Federal Rules of Civil Procedure. The redactions
+expressly authorized by Rule 5.2 may be made without application to the Court.
+B. Procedures for Filing Sealed or Redacted Documents . Except for redactions
+referenced in 4.A above, all redactions or sealing of public court filings require Court approval .
+Any party seeking to file a document under seal or in redacted form shall proceed as follows:
+i. Meet and Confer. The party seeking leave to file a document under seal
+or in redacted form shall meet and confer with all other parties in the case
+(as well as any third party seeking confidential treatment of the information)
+in advance to narrow the scope of the request. In general, however, the
+parties’ consent or the fact that information is subject to a confidentiality
+agreement or protective order between litigants is not, by itself, a valid basis
+to overcome the presumption in favor of public acces s to judicial
+documents. See, e.g., In re Gen. Motors LLC Ignition Switch Litig., No. 14-
+MD-2543 (JMF), 2015 WL 4750774, at *4 (S.D.N.Y. Aug. 11, 2015).
+ii. Filing Sealed or Redacted Documents. Where a party seeks leave to file
+a document under seal or in redacted form , t he party shall file a letter -
+motion seeking leave to do so on ECF in accordance with Standing Order
+19-MC-583 and Section 6 of the S.D.N.Y. ECF Rules and Instructions. The
+letter-motion itself shall be filed in public view, should explain the reasons
+for seeking to file the document under seal or in redacted form, and should
+7
+not include confidential information. Any application to file a document
+under seal or in redacted form must demonstrate that the standards for
+sealing have been met and specifically address Lugosch v. Pyramid Co. of
+Onondaga, 435 F.3d 110 (2d Cir. 2006) and any other controlling authority.
+The movant also may file a memorandum of law and an affidavit or
+affidavits in support of the request for sealing or redacting. If approval for
+redactions is sought, the application shall also include a proposed redac ted
+version of the document in question for public docketing.
+When a party seeks leave to file a document under seal or in redacted form
+on the ground that an opposing party or third party has requested it, the
+opposing party or third party must file publicly on ECF, within three
+business days, a letter explaining the need to seal or redact the document.
+In the event there are grounds for sealing or redacting that cannot be
+publicly disclosed, a party may file under seal on ECF (with appropriate
+level of restriction) additional briefing further explaining those grounds,
+along with a justification for the sealing of that briefing.
+The subject document, in unredacted form, shall be contemporaneously
+filed under seal on ECF (with the appropriate level of restriction) and
+electronically related to the motion (or to the relevant Court order if the
+Court previously granted leave to file the document under seal). Note that
+the summary docket text, but not the document itself, will be open to public
+inspection and therefore should not include confidential information sought
+to be filed under seal.
+When a party seeks to file a document in redacted form, the party also shall
+e-mail to Chambers ( CronanNYSDChambers@nysd.uscourts.gov) and to
+the Courtroom Deputy, Meghan Henrich (Meghan_Henrich@nysd.uscourt
+s.gov) a n unredacted copy of the document highlighting the proposed
+redactions.
+iii. Submission by Alternative Method. Any party unable to comply with the
+requirements for electronic filing under seal through the ECF system, or
+who believes that a particular document should not be electronically filed
+at all, may submit a letter-motion by e-mail seeking leave of the Court to
+file in a different manner.
+8
+5. Conferences
+A. Attendance by Principal Trial Counsel. Absent leave of the Court, the attorney who
+will serve as principal trial counsel must appear at all conferences with the Court. Any attorney
+appearing before the Court must enter a notice of appearance on ECF.
+B. Initial Case Management Conference. The Court will generally schedule a
+conference pursuant to Rule 16(c) of the Federal Rules of Civil Procedure within three months of
+the filing of the complaint or notice of removal . The Notice of Initial Case Management
+Conference will be filed on ECF.
+Plaintiff’s counsel is responsible for ensuring that all parties have received copies of the
+Notice of Initial Case Management Conference. The Notice will direct the parties, inter alia , to
+submit on ECF a joint letter as well as a proposed Civil Case Management Plan and Scheduling
+Order attached as an exhibit to the joint letter. The parties shall use the form Proposed Case
+Management Plan and Scheduling Order available at the Court’s website.
+C. Discovery Disputes. Parties must f ollow Local Civil Rule 37.2 with the following
+modifications. Any party wishing to raise a discovery dispute with the Court must first confer in
+good faith with the opposing party, in person or by telephone, in an effort to resolve the dispute.
+If this meet-and-confer process does not resolve the dispute, a party may raise the dispute with the
+Court by filing a letter -motion on ECF, no longer than three pages, explaining the nature of the
+dispute. Such a letter must include a representation that the meet-and-confer process occurred and
+was unsuccessful. A party opposing the relief sought must file a response, not to exceed three
+pages, within three business days. T he Court will seek to resolve discovery disputes quickly, by
+order or at an in -person or telephonic conference. Counsel are strongly urged to seek relief in
+accordance with these procedures in a ti mely fashion. If a party waits until near the close of
+discovery to raise an issue that could have been raised earlier, the Court is unlikely to grant
+additional time for discovery.
+6. Motions
+A. Pre-Motion Letters in Civil Cases. Unless otherwise ordered by the Court, a party
+seeking to file a motion must submit a pre -motion letter in accordance with 1.A above, not to
+exceed three pages in length absent leave of the Court, notifying the Court of its anticipated motion,
+summarizing the basis for the anticipated motion, and proposing a briefing schedule. All parties
+served with the pre-motion letter must submit a letter response, also not to exceed three pages
+absent leave of the Court, within three business days from the submission of the pre-motion letter.
+Response letters may address arguments raised in the pre-motion letter, propose an alternative
+briefing schedule, and indicate whether the party intends to oppose the contemplated motion or
+intends to correct any possible deficiencies in lieu of motion practice, such as by filing, or seeking
+leave to file, an amended complaint. A party’s submission of a pre -motion letter in connection
+9
+with a pre-answer motion to dismiss will stay that party’s obligation to answer or move against the
+complaint through the deadline to move to dismiss.
+The above requirements shall not apply to motions previously authorized by the Court,
+discovery motions or disputes (for which parties shall follow 5.C above), motions brought by order
+to show cause, motions by incarcerated pro se litigants, motions for admission pro hac vice ,
+motions for reargument or reconsideration, motions for appointment of lead plaintiffs and counsel
+in class actions, motions for remand, motions for a preliminary injunction, motions brought
+pursuant to Local Rule 6.3, and motions desc ribed in Rule 6(b) of the Federal Rules of Civil
+Procedure and Rule 4(a)(4)(A) of the Federal Rules of Appellate Procedure.
+In the event a plaintiff files an amended complaint as of right pursuant to Rule 15(a)(1) of
+the Federal Rules of Civil Procedure after a defendant has filed a motion to dismiss, that defendant
+must file a letter with the Court within one week of the amendment, describing whether the
+defendant seeks to refile the motion as to the amended complaint.
+B. Filing of Motion Papers. Motion papers shall be filed promptly after service.
+C. Oral Argument on Motions. Parties may request oral argument by letter at the time
+their moving, opposing, or reply papers are filed. Oral argument will be held at the Court’s
+discretion. If the Court determines that argument will be heard, the Court will advise counsel of
+the argument date and time. Where junior lawyers are familiar with the matter under consideration,
+but are not experienced in arguing before a court, they should be encouraged to actively participate.
+If oral argument is granted, the Court is amendable to permitting more than one lawyer to argue
+for a party, especially where it creates an opportunity for a junior lawyer to argue.
+7. Pretrial Procedures in Civil Cases
+A. Courtesy Copies. One courtesy copy of each submission described in 7.B –G below
+should be provided to Chambers on the date that the submission is filed or served.
+B. Joint Proposed Pretrial Orders. Unless otherwise ordered by the Court, within 30
+days after the close of discovery or if any dispositive motion is filed, within 30 days from the
+Court’s decision on such motion, the parties shall file on ECF a proposed joint pretrial order that
+includes the information required by Rule 26(a)(3) of the Federal Rules of Civil Procedure and the
+following:
+i. The full caption of the action;
+ii. The names, addresses (including firm names), telephone numbers, e -mail
+addresses, and any fax numbers of trial counsel;
+10
+iii. A brief statement by the plaintiff (or, in a removed case, by the defendant)
+as to the basis of subject matter jurisdiction and a brief statement by each
+other party as to the presence or absence of subject matter jurisdiction, each
+of which shall include citations to all authority relied on and relevant fa cts
+as to citizenship and jurisdictional amount;
+iv. A brief summary by each party of the claims and defenses that the party has
+asserted that remain to be tried —without recital of evidentiary matters but
+with citations to all statutes on which the party has relied —and of any
+claims and defenses that the party has previously asserted that are not to be
+tried;
+v. A statement by each party as to whether the case is to be tried with or
+without a jury, and the number of trial days needed;
+vi. A joint statement summarizing the nature of the case, to be read to potential
+jurors during jury selection;
+vii. A list of people, places, and institutions that are likely to be mentioned
+during the course of the trial, to be read to potential jurors during jury
+selection;
+viii. A statement as to whether all parties have consented to a trial of the case by
+a magistrate judge, without identifying which party or parties have or have
+not so consented;
+ix. Any stipulations of fact or law that have been agreed upon by the parties .
+In a jury case, the parties should memorialize any such stipulations or
+agreed statements of fact or law in a standalone document that can be
+marked and admitted at trial;
+x. A list of all trial witnesses, indicating whether such witnesses will testify in
+person or by deposition, whether such witnesses will require an interpreter
+(and, if so, which party will pay the costs for the interpreter), and a brief
+summary of the substance of each witness’s testimony. Absent leave of the
+Court, a witness listed by both sides shall testify only once , with any
+defendant permitted to go beyond the scope of the direct examination on
+cross examination, and counsel should confer with respect to scheduling;
+xi. A designation by each party of deposition testimony to be offered in the
+party’s case- in-chief, with any cross -designations and objections by any
+other party. For any deposition with objections, the parties shall also
+11
+provide the full transcript of that deposition, unless otherwise ordered by
+the Court;
+xii. A list by each party of exhibits to be offered in the party’s case-in-chief. If
+a party objects to an exhibit, the objection should be noted by indicating the
+Federal Rule of Evidence that is the basis for the objection. If any party
+believes that the Court should rule on such an objection in advance of trial,
+that party should include a notation to that effect ( e.g., “Advance Ruling
+Requested”) as well;
+xiii. A statement of the damages claimed and any other relief sought, including
+the manner and method used to calculate any claimed damages and a
+breakdown of the elements of such claimed damages; and
+xiv. A statement of whether the parties consent to less than a unanimous verdict.
+C. Required Pretrial Filings in Jury Cases. Unless otherwise ordered by the Court, in
+jury cases, the parties shall jointly file the following submissions at the same time as the Joint
+Proposed Pretrial Order. The parties must meet and confer in an effort to reach agreement with
+respect to these submissions:
+i. Joint proposed voir dire questions—a copy of which shall be e -mailed to
+Chambers in Word and .pdf versions—which shall include the text of any
+requested questions and should consist of a single document that notes any
+areas of disagreement between the parties;
+ii. A joint proposed verdict form —a copy of which shall be e -mailed to
+Chambers in Word and .pdf versions—and which should consist of a single
+document that notes any areas of disagreement between the parties;
+iii. Joint proposed jury instructions —a copy of which shall be e -mailed to
+Chambers in Word and .pdf versions—and which shall include the text of
+any requested instructions and citations, if relevant, to the authority from
+which such instruction derives, and should consist of a single document that
+notes any areas of disagreement between the parties;
+iv. Motions addressing any evidentiary or other issues that should be resolved
+in limine , with oppositions to such motions due one week after the lead
+motions and no replies allowed absent leave of the Court; and
+v. In cases in which a party believes it would be useful to the Court, a pretrial
+memorandum of law, not to exceed 3,500 words (excluding the caption, any
+index, table of contents, table of authorities, signature blocks, or any
+12
+required certificates, but including material contained in footnotes or
+endnotes) absent leave of the Court, addressing any issues of law that are
+expected to arise at or before trial, with any responses or oppositions to
+those legal issues due one week later.
+D. Required Pretrial Filings in Non-Jury Cases. Unless otherwise ordered by the Court,
+in non-jury cases, the parties shall file the following submissions at the same time as the Joint
+Proposed Pretrial Order:
+i. Joint proposed findings of fact and conclusions of law —a copy of which
+shall be e- mailed to Chambers in .pdf version—which should be detailed
+and note any areas of disagreement between the parties and, for each
+proposed factual finding, shall include citations to the record;
+ii. Motions addressing any evidentiary or other issues that should be resolved
+in limine , with oppositions to such motions due one week after the lead
+motions and no replies allowed absent leave of the Court; and
+iii. In cases in which a party believes it would be useful to the Court, a pretrial
+memorandum of law, not to exceed 3,500 words (excluding the caption, any
+index, table of contents, table of authorities, signature blocks, or any
+required certificates, but including material contained in footnotes or
+endnotes) absent leave of the Court, addressing any issues of law that are
+expected to arise at or before trial, with any responses or oppositions to
+those legal issues due one week later.
+E. Additional Submissions in Non-Jury Cases. In addition, at the time the Joint Pretrial
+Order is filed, each party shall serve the following submissions, one courtesy copy of which the
+party shall also submit to Chambers:
+i. Affidavits—the originals of which shall be marked as exhibits at trial—
+constituting the direct testimony of each trial witness, except for testimony
+of an adverse party, a person whose attendance must be compelled by
+subpoena, or a person for whom a par ty has requested and from whom the
+Court has agreed to hear direct testimony during the trial; and
+ii. All deposition excerpts that will be offered as substantive evidence, as well
+as a one-page synopsis of those excerpts for each deposition (with citations
+to the pertinent pages of the deposition transcript).
+F. Courtesy Copies of Documentary Evidence. All exhibits must be pre -marked in
+advance of trial. Unless otherwise ordered by the Court, in both jury and non- jury trials, three
+days prior to trial, each party shall submit to Chambers a flash drive containing electronic copies
+13
+of all documentary exhibits organized by exhibit number and a document listing all exhibits sought
+to be admitted. The list of all exhibits sought to be admitted shall be separated into four columns
+labeled: (1) Exhibit Number; (2) Description (of the exhibit); (3) Date Identifie d; and (4) Date
+Admitted. If the number of exhibits is so voluminous as to make compliance with this rule
+impractical, the parties shall contact the Court for guidance.
+8. Policy on the Use of Electronic Devices
+A. Standing Order M10 -468. Attorneys’ use of mobile phones, personal electronic
+devices, and general-purpose computing devices such as laptops and tablets within the Courthouse
+and its environs is governed by Standing Order M10-468.
+B. Mobile Phones. Attorneys in compliance with the Standing Order may bring mobile
+phones into the courtroom, but the phones must be turned off at all times. Non- compliance with
+this rule will result in forfeiture of the device for the remainder of the proceedings.
+* * *
+If you have any questions after reading these Individual Rules and Practices, please contact
+Meghan Henrich, Courtroom Deputy.

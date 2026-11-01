@@ -1,0 +1,292 @@
+1
+REVISED JANUARY 8, 2026
+INDIVIDUAL RULES AND PRACTICES IN CRIMINAL CASES
+Dale E. Ho, United States District Judge
+Chambers
+United States District Court
+Southern District of New York
+40 Foley Square
+New York, NY 10007
+(212) 805-0190
+HoNYSDChambers@nysd.uscourts.gov
+Courtroom
+Thurgood Marshall Courthouse
+40 Foley Square, Courtroom 905
+Courtroom Deputy
+Nicole Morales
+(212) 805-6110
+1. Guidelines for All Submissions
+a. Electronic Case Filing (“ECF”). In accordance with the S.D.N.Y . Electronic
+Case Filing Rules and Instructions, except for as otherwise expressly provided, all
+documents filed with the Court must be filed electronically.
+b. Text Searchable Submissions. All written submissions and supporting materials
+must be text-searchable to the extent practicable.
+c. Submission of Large Electronic Files. The Court has a file transfer protocol for
+the safe electronic transmission of large files. If a party needs to submit large
+files by email (as opposed to ECF), the party should email the Court (at
+HoNYSDChambers@nysd.uscourts.gov) requesting a link to be used for such
+transfer. The email should include the name and docket number of the case as
+well as the nature and size of the materials to be submitted electronically. The
+Government may use USAfx.
+d. No Courtesy Copies. Unless the Court orders otherwise, parties should not
+submit courtesy copies of any submissions, including sentencing submissions.
+e. Use of Generative Artificial Intelligence. Any party who uses generative
+artificial intelligence (such as ChatGPT, Harvey, CoCounsel, or Google Bard) to
+generate any portion of a motion, brief, pleading, or other filing must attach to the
+filing a separate declaration disclosing the use of artificial intelligence and
+certifying that the filer has reviewed the source material and verified that the
+artificially generated content is accurate and complies with the filer’s Rule 11
+obligations.
+2
+2. Communications with Chambers
+a. Initial Pretrial Conference.
+i. Scheduling. Upon assignment of a criminal case to Judge Ho, the
+Assistant United States Attorney (“AUSA”) shall immediately contact
+Chambers (at HoNYSDChambers@nysd.uscourts.gov) to arrange for a
+conference/arraignment. The AUSA shall provide a courtesy copy of the
+Indictment and the criminal Complaint, if one exists, to the Court as soon
+as practicable via email. The email shall include: (1) the defendant’s
+name; (2) defense counsel’s name and contact information; (3) whether
+the defendant(s) is/are detained (and if so, the relevant defendant’s Reg.
+No.) or bailed; (4) whether any defendant requires an interpreter (and if so,
+the relevant language); (5) the criminal wheel from which it was drawn
+and (6) any other pertinent information.
+ii. Brady Materials. At the initial pretrial conference and all conferences
+thereafter, the Government shall be prepared to address its ongoing duty to
+comply with its obligations to timely disclose exculpatory evidence under
+Brady v. Maryland, 373 U.S. 83 (1963), and its progeny, including as set
+forth in the standing order pursuant to Federal Rule of Criminal Procedure
+5(f). Defense counsel may facilitate the Government’s compliance with
+its Brady obligations by making specific requests that the Government
+seek out, review, and/or produce certain evidence or information that
+defense counsel reasonably believes may contain, or is reasonably likely
+to lead to the discovery of, Brady material.
+b. Letters and Letter-Motions.
+i. Except as otherwise provided below, communications with Chambers
+shall be by letter filed on ECF. Letters seeking relief, including requests
+for extensions, adjournments, or bail modification, should be filed on ECF
+as letter-motions in accordance with Section 4 below, not ordinary letters.
+ii. For any emails to Chambers permitted under these Rules, parties shall not
+include substantive communications in the body of the email, only in an
+attached letter. Copies of correspondence between counsel shall not be
+sent to the Court or filed on ECF except as exhibits to an otherwise
+properly filed document.
+iii. Whether filed electronically or not, letters (together with any related
+exhibits) may not exceed ten pages in length. Letters solely between
+parties or their counsel or otherwise not addressed to the Court may not be
+filed on ECF or otherwise sent to the Court (except as exhibits to an
+otherwise properly filed document).
+3
+c. Telephone Calls. Any other communications with Chambers, including requests
+for extensions or adjournments, shall be by letter or letter-motion filed on ECF in
+accordance with Section 4. For questions that cannot be answered by reference to
+these Rules or for urgent matters requiring immediate attention, call Nicole
+Morales, Courtroom Deputy, at (212) 805-6110.
+d. Faxes. Faxes to Chambers are not permitted without express prior permission.
+e. Hand Deliveries. Hand-delivered mail should be left with the Court Security
+Officers at the Worth Street entrance (200 Worth Street, New York, NY 10007) of
+the Daniel Patrick Moynihan United States District Courthouse. If the hand-
+delivered letter is urgent and requires the Court’s immediate attention, ask the
+Court Security Officers to notify Chambers that an urgent package has arrived
+that needs to be retrieved by Chambers staff immediately.
+f. Requests for Adjournments or Extensions of Time.
+i. All requests for adjournments or extensions of time must be made in
+writing and filed on ECF as letter-motions in accordance with Section 4 of
+these Rules, not as ordinary letters. (Requests filed under seal or
+containing sensitive or confidential information shall be filed in
+accordance with the requirements described in Section 9.)
+ii. The letter-motion must state: (1) the original date and the new date
+requested; (2) the number of previous requests for adjournment or
+extension; (3) whether these previous requests were granted or denied; (4)
+the reason for the extension or adjournment; (5) whether the adversary
+consents and, if not, the reasons given by the adversary for refusal to
+consent; and (6) the date of the parties’ next scheduled appearance before
+the Court. If a party seeks an exclusion of time under the Speedy Trial
+Act, 18 U.S.C. § 3161, the party must submit to the Court by email
+(HoNYSDChambers@nysd.uscourts.gov) a proposed order (in Microsoft
+Word format) along with its request for adjournment or extension.
+iii. Absent an emergency, any request for extension or adjournment shall be
+made as early as possible, and at least two business days prior to the
+deadline or scheduled appearance and any request for adjournment of
+sentencing shall be made at least three business days prior to the
+scheduled proceedings. Requests for extensions will ordinarily be denied
+if made after the expiration of the original deadlines.
+4
+3. Defense Counsel
+a. Benefactor Payments. Whenever defense counsel has received, or is receiving, a
+benefactor payment that subjects counsel to a conflict of interest, said counsel
+must inform the Court and request a Curcio hearing at the first conference.
+b. Other Conflicts. Counsel have an obligation to promptly inform the Court upon
+learning of any other conflict of interest, whether a potential or an actual conflict,
+and to request a Curcio hearing if appropriate.
+c. Substitution of Counsel. When there is a substitution of defense counsel,
+counsel of record must file a letter-motion on ECF to request a conference be
+scheduled as soon as possible. At the conference, the Court will address the
+application by defense counsel to be relieved. Counsel of record (i.e., current
+counsel), the defendant, proposed replacement counsel and the AUSA must also
+attend the conference.
+4. Motions
+a. Letter-Motions. Letter-motions may be filed via ECF if they comply with the
+S.D.N.Y . Local Rules and the S.D.N.Y . Electronic Case Filing Rules and
+Instructions. In particular, in accordance with Section 2(b) above, all requests for
+adjournments and extensions should be filed as letter-motions. All letter-motions
+should be text searchable.
+b. Memoranda of Law. Unless prior permission has been granted, memoranda of
+law in support of and in opposition to motions are limited to twenty-five pages,
+and reply memoranda are limited to ten pages. All memoranda of law shall be in
+twelve-point font or larger, double spaced, and text-searchable. Memoranda of
+ten pages or more shall contain a table of contents and a table of authorities,
+neither of which shall count against the page limit. Sur-reply memoranda will not
+be accepted without prior permission of the Court. All appendices to memoranda
+of law must be indexed.
+c. Discovery Motions. In making discovery motions, counsel must comply with
+Southern District Local Criminal Rule 16.1. Any discovery motion must contain
+the Rule 16.1 affidavit.
+5. Bail Modification or Appeal
+a. Modification. Any request for a bail modification by a defendant shall be filed
+on ECF as a letter-motion and shall indicate whether the Government and
+Pretrial Services Officer consent to the request.
+b. Appeal. A party who wishes to appeal an adverse bail determination by the
+5
+Magistrate Judge should contact Chambers to arrange a conference for that
+purpose.
+i. The party that brings the appeal is directed to provide the Court no less
+than two business days before the conference with the transcript of
+argument on bail before the Magistrate Judge, any written submissions
+below as to bail and Pretrial Services’ report as to the defendant, and a
+written submission in support of the appeal, which shall also be filed on
+ECF.
+ii. The responding party shall file on ECF a written submission no less than
+one business day before the conference.
+6. Guilty Pleas
+a. Plea Agreements and Pimentel Letters. The Government shall provide a copy
+of the plea agreement, cooperation agreement, or Pimentel letter to the Court.
+These documents should be emailed to Chambers as soon as practicable and no
+later than three business days before the scheduled plea.
+b. Preparation for Allocution. Prior to the date set for the plea, defense counsel
+is expected to have reviewed with the defendant – if necessary, with the
+assistance of an interpreter – any Pimentel letter or plea, cooperation or other
+agreement. Defense counsel and the defendant shall execute any plea or
+cooperation agreement prior to the time set for the plea. The defendant should
+also be prepared in advance of a guilty plea to give a narrative allocution that
+incorporates all of the elements of that offense(s) to which the defendant is
+pleading guilty.
+The Court further expects that defense counsel will have determined whether
+detention of the defendant is required under 18 U.S.C. § 3143(a)(2) upon the
+entry of a guilty plea, subject to the limited exception provided in 18 U.S.C.
+§ 3145(c) for cases in which it is clearly shown that there are exceptional
+reasons why detention would not be appropriate, and to prepare the defendant
+for the possibility of detention commencing at the end of the plea proceeding.
+7. Trials
+The parties should carefully review Judge Ho’s Individual Trial Rules and Procedures
+(available at https://nysd.uscourts.gov/hon-dale-e-ho).
+6
+8. Sentencing
+a. Sentencing Adjournments. Any request for an adjournment of a sentencing
+should be made as early as possible, and no later than three business days
+before the sentencing proceeding, in accordance with Section 2(f) above.
+b. Sentencing Submissions. Unless prior permission has been granted, sentencing
+memoranda are limited to twenty-five pages. Unless otherwise ordered by the
+Court, a defendant’s sentencing submission shall be served two weeks in advance
+of the date set for sentencing. The Government’s sentencing submission shall be
+served one week in advance of the date set for sentencing. If a party does not
+intend to file a substantive sentencing submission, the party shall file and serve a
+letter to that effect.
+c. ECF Filing. Except for submissions to be filed under seal or in redacted form,
+every document in a sentencing submission, including letters, must be filed on
+ECF. Letters should be grouped and filed together as attachments to a single
+document marked SENTENCING SUBMISSION with the caption and docket
+number clearly indicated. The defendant is responsible for filing all letters
+submitted on behalf of the defendant, including those from friends and relatives.
+The Government is responsible for filing all letters from victims.
+9. Redactions and Filing Under Seal
+a. Privacy Policy. The parties are referred to Federal Rule of Civil Procedure 5.2
+and the S.D.N.Y. ECF Privacy Policy (“Privacy Policy”). There are two
+categories of information that may be redacted from public court filings without
+prior permission from the Court: “sensitive information” and information
+requiring “caution.”
+i. Parties should not include in their public filings, unless necessary, the five
+categories of “sensitive information,” i.e.,
+• social security numbers (use the last four digits only);
+• names of minor children (use the initials only);
+• dates of birth (use the year only);
+• financial account numbers (use the last four digits only); and
+• home addresses (use only the City and State).
+ii. Parties may also redact from their public filings, without prior Court
+approval, the six categories of information requiring “caution” described
+in the Privacy Policy, i.e.,
+• any personal identifying number, such as a driver’s license number;
+7
+• medical records (including information regarding treatment and
+diagnosis);
+• employment history;
+• individual financial information;
+• proprietary or trade secret information; and
+• information regarding an individual’s cooperation with the
+government.
+b. Redactions and Sealed Filings Requiring Court Approval. Except for
+redactions permitted by the eleven categories of information identified in the
+Privacy Policy, all redactions or sealing of public court filings require Court
+approval. To be approved, any redaction or sealing of a court filing must be
+narrowly tailored to serve whatever purpose justifies the redaction or sealing and
+must otherwise be consistent with the presumption in favor of public access to
+judicial documents. In general, the parties’ consent or the fact that information is
+subject to a confidentiality agreement between litigants is not, by itself, a valid
+basis to overcome the presumption in favor of public access to judicial
+documents.
+c. Procedures for Filing Documents with Redactions. Any party seeking to file a
+document with partial redactions should follow the following three steps:
+i. ECF Filing of the Redacted Document(s). The party should file the
+redacted version of the document on ECF.
+ii. Filing a Letter-Motion Seeking Leave to File with Redactions. If the
+party is seeking leave of the Court to redact the document (i.e., if the
+redactions are not among the categories of redactions that can be made
+without Court approval), the party should simultaneously file on ECF a
+letter-motion seeking leave to file the document with those redactions.
+The letter-motion must explain the purpose of the redactions, and why the
+redactions are consistent with the standards set forth in Section 9(b) above.
+iii. Emailing of Documents to Chambers. At the same time, the party
+should email to HoNYSDChambers@nysd.uscourts.gov: (1) a clean (i.e.,
+unredacted) copy of the document; (2) a copy of the document
+highlighting the information that has been redacted in the ECF filing; and
+(3) an unredacted copy of the letter-motion described in Section 9(c)(ii),
+should the party also be seeking leave to file that letter-motion with
+redactions or under seal.
+8
+e. Procedure for Filing Sealed Documents.
+i. Sealing Exhibits. Any party seeking leave to file an unsealed or redacted
+document with a fully sealed exhibit attached thereto should file the main
+document (in accordance with the procedures above, if the party seeks to
+do so with redactions) on ECF, accompanied by a single page marked
+“SEALED” in place of any exhibit that the party seeks leave to file under
+seal, regardless of the actual length of such exhibit. The party should
+simultaneously file a letter-motion seeking leave to file in that manner.
+ii. Sealing Entire Documents. Any party seeking leave to file under seal an
+entire submission (with or without exhibits) should not file anything on
+ECF in the first instance. Instead, the party should email an unredacted
+copy of the submission to HoNYSDChambers@nysd.uscourts.gov and
+should include as an attachment to the email a letter-motion seeking leave
+to file the document under seal. The letter-motion must explain why
+sealing is justified in light of the standards discussed in Section 9(b)
+above. If the party believes that the letter-motion itself should be sealed or
+redacted, the letter-motion should so state and should provide the
+justification therefor. The Court will include instructions for filing sealed
+or redacted versions of the document and accompanying letter-motion, if
+necessary, in any order disposing of the motion to seal.
+10. Policy on Use of Electronic Devices
+a. Personal Electronic Devices. Attorneys’ use of personal electronic devices
+(including mobile phones) and general purpose computing devices (such as
+laptops and tablets) within the Courthouse and its environs is governed by
+Standing Order M10-468. When Court permission is required under the Standing
+Order, attorneys seeking to bring electronic devices to the Court should email a
+completed Model Court Order to HoNYSDChambers@nysd.uscourts.gov no later
+than five business days before the relevant trial or hearing. Upon the Court’s
+approval, Chambers will coordinate with the District Executive’s Office to issue
+the order and forward a copy to counsel. The order must be presented upon
+bringing the electronic device(s) into the Courthouse. If permitted by the
+Standing Order, mobile telephones are permitted inside the Courtroom, but they
+MUST be kept turned off at all times.
+b. Wi-Fi Access for Hearings and Trials. Attorneys may obtain authorization to
+use the Court’s Wi-Fi system in Judge Ho’s Courtroom during a hearing or trial.
+For further information, see Judge Ho’s Individual Practices for Hearings and
+Trials, available on the Court’s website (https://nysd.uscourts.gov/hon-dale-e-ho).

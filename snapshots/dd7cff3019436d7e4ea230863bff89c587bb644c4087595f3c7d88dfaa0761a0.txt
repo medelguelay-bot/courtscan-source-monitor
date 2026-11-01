@@ -1,0 +1,433 @@
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF ALABAMA
+________ DIVISION
+[Name of plaintiff(s)], )
+)
+Plaintiff(s), )
+)
+v. ) C ivil Action No.
+)
+[Name of defendant(s)], )
+)
+Defendant(s). )
+INITIAL ORDER
+GOVERNING ALL FURTHER PROCEEDINGS
+This order governs all proceedings in this action, unless modified by written
+order for good cause shown.
+Judge Axon’s staff will not answer questions from attorneys or unrepresented
+parties over the telephone. Therefore, each attorney or unrepresented party appearing
+in this case and practicing in this court should carefully review this order and the
+court’s local rules available at www.alnd.uscourts.gov. If an attorney or an
+unrepresented party has a question that cannot be answered by reference to this order
+or the local rules, the attorney or unrepresented party must email chambers
+(axon_chambers@alnd.uscourts.gov) with a copy to all opposing counsel or, if a
+party is unrepresented, the unrepresented party. The court will not respond to ex
+parte communication from any attorney or unrepresented party.
+2
+I. GENERAL PROVISIONS
+A. Communication With Chambers
+Any and all questions should be sent to axon_chambers@
+alnd.uscourts.gov, with a copy to all opposing counsel or, if a party is unrepresented,
+the unrepresented party. Emails that do not include all counsel of record, or if a
+party is unrepresented, the unrepresented party, will not receive a response.
+If an unrepresented party does not have an e-mail address, the parties may file
+a motion for a telephone conference.
+B. HIPAA Compliance
+In accordance with the requirements of the Health Insurance Portability and
+Accountability Act of 1996 (“HIPAA”), Pub. L. No. 104-191, 110 Stat. 1936 (1996),
+and its regulations, when “protected health information” is relevant to the claims or
+defenses pre sented in an action, the party seeking such “protected health
+information” shall present a valid authorization at the Rule 26 planning meeting to
+be executed by the party from whom such “protected health information” is sought.
+The parties shall include i n their report a deadline (specific date) by which the
+authorization will be executed. The parties may file with the court a motion for a
+“qualified protective order,” to which all parties stipulate, and, at the same time, e -
+mail to axon_chambers@alnd.uscourts.gov a proposed “qualified protective order,”
+in substantially the form attached to this order as Appendix I.
+3
+C. Dismissal of Non-Served Defendants
+Any defendant who has not been served with a summons and complaint within
+90 days after the filing of the complaint (or within 90 days after the party was added
+to the action) may be dismissed without further order of the court unless the party
+on whose behalf such service is required shows good cause why service has not been
+perfected.
+D. Suitability of Action for Alternative Dispute Resolution
+All parties should give early consideration to the possibility of settlement to
+avoid unnecessary costs and fees. The court requires that the attorneys for all parties
+make an early analysis of the case along with their clients and be prepared to discuss
+settlement at an early date. The parties shall also consider and discuss whether this
+action may be suitable for mediation, whether under the court’s ADR plan or
+otherwise. In the absence of an objection by any of the parties, the court will order
+this case to mediation before the submission of dispositive motions.
+Each attorney is directed to immediately forward a copy of the initial order to
+his or her client. Plaintiff(s)’ attorney(s) are ordered to immediately discuss the
+feasibility of settlement with Defendant(s)’ attorney(s).
+4
+E. Courtesy Copies
+For all submissions exceeding thirty (30) pages (including exhibits), the filing
+party must submit, within three (3) business days of filing, an exact courtesy copy
+of the submission, reflecting the CM/ECF case number, document number, date, and
+page stamp on each page, to the Clerk’s office for delivery to chambers. Deliveries
+are not accepted in the court’s chambers. COURTESY COPIES SHOULD BE
+DOUBLE-SIDED TO CONSERVE PAPER AND SECURELY BOUND IN A
+THREE-RING BINDER OR BY LARGE CLIP.
+The parties must also email a copy of any brief filed with the court to
+chambers in Microsoft Word format.
+F. Disclosure of Use of Artificial Intelligence
+All counsel and pro se parties must disclose the use of artificial intelligence
+(“AI”) in any capacity to prepare documents submitted to the court. If any attorney
+or pro se party uses AI in any way to prepare a filing or submission to the court, the
+attorney or pro se party MUST sign and file a d isclosure of the use of artificial
+intelligence stating, as follows:
+This document was generated with the assistance of [identify AI tool
+name]. I hereby certify under penalty of perjury that, despite use of an
+AI tool, I have independently reviewed this document to confirm the
+accuracy, legitimacy, and use of good and applicable law, pursuant to
+Federal Rule of Civil Procedure 11.
+5
+The court cautions c ounsel and pro se parties that it does not recognize
+mistake, lack of technical expertise, and time constraints as a good faith excuse for
+submission of documents that either violate Rule 11 or this disclosure rule. In
+particular, arguments in briefs that are supported by AI-generated caselaw (i.e., cases
+or quotations from cases that do not actually exist) are not acceptable. Failure to
+comply with this rule may result in appropriate sanctions, up to and including
+dismissal or default judgment.
+II. Electronic Submissions
+A. CM/ECF Record
+The official record of this case is maintained electronically pursuant to
+CM/ECF. Documents must be filed through CM/ECF in PDF (Portable Document
+Format) in searchable format, unless submitted by a party appearing pro se, in which
+case documents should be filed with the Clerk of Court. All filings must comply with
+the Court’s Civil Administrative Procedures Manual found on the court’s website.1
+B. Type Size
+The court requires all documents created by counsel for submission to the
+court to be in 14 point type, except that footnotes may be in 12 point type.
+1 The Administrative Procedures Manual is available on the court’s website by clicking the
+“Policies and Procedures” link under the “For Attorneys” tab.
+(https://www.alnd.uscourts.gov/sites/alnd/files/AL-N%20Civil%20Administrative%20Procedure
+s%20Manual.Revision.05-18-2021.pdf)
+6
+C. Sealed and/or Redacted Protected Information
+The Civil Administrative Procedures Manual for CM/ECF, located on the
+main page of CM/ECF generally outlines the requirements and procedures with
+respect to redaction and sealing. All parties should confirm compliance with those
+provisions in advance of any filing. The failure to properly redact information may
+result in sanctions.
+Parties must seek the court’s permission to file any documents under seal by
+following the procedure outlined in the Civil Administrative Procedures Manual for
+CM/ECF, even when filing information designated as confidential pursuant to a
+confidentiality pr otective order. In the Eleventh Circuit, there is a presumptive
+constitutional public right of access to judicial records. Comm’r, Ala. Dep’t of Corr.
+v. Advance Loc. Media, LLC , 918 F.3d 1161, 1166 (11th Cir. 2019); Chicago
+Tribune Co. v. Bridgestone/Fire stone, Inc., 263 F.3d 1304, 1310 (11th Cir. 2001).
+The parties cannot overcome this presumption, which protects a right held by the
+public, by agreeing in a protective order that documents may be filed under seal. See,
+e.g., Advance Loc. Media, LLC , 918 F.3d at 1166 . To overcome the public’s
+constitutional right of access, the party moving to seal must establish that good cause
+warrants filing the judicial records under seal. See id. at 1169; Callahan v. United
+Network for Organ Sharing, 17 F.4th 1356, 1363 (11th Cir. 2021). All parties should
+note that the designation of a document as confidential does not, standing alone,
+7
+sustain the burden of establishing good cause. Motions to seal that fail to show good
+cause will be denied. See, e.g., Chicago Tribune, 263 F.3d at 1310.
+D. Required Electronic Submissions to Chambers
+Counsel must email to chambers copies of all proposed orders in Word Format
+with opposing counsel or pro se parties copied. The address for the undersigned
+judge’s chambers is axon_chambers@alnd.uscourts.gov.
+III. MOTION PRACTICE
+A. Dispositive Motions
+Any motion(s) for summary judgment filed in this action must comply with
+all requirements of Appendix II to this order. Any other dispositive motion must
+comply with the requirements of Appendix II to the extent practicable.
+B. Other Motions
+All motions longer than ten pages in length must comply with the
+requirements in Appendix II to this order to the extent practicable. Before filing any
+motion (other than a motion to remand), moving counsel shall contact the opposing
+counsel and determine if counsel opposes the moti on. All motions shall include, in
+the caption under the case number, a notation that the motion is either “Opposed” or
+“Unopposed.” The first paragraph shall briefly summarize the parties’ attempts to
+resolve the issue(s) and set forth areas of agreement and disagreement. Failure of the
+8
+parties to abide by these requirements can result in a sua sponte denial of the motions
+for failure to comply.
+Parties must seek leave of the court before filing a motion about a discovery
+dispute. The motion for leave of the court must specify the nature of the discovery
+dispute and the steps the parties have taken to resolve that dispute. The motion need
+only include the facts relevant to the dispute. Legal argument and/or legal citations
+are not necessary. Opposing counsel MUST file a response to the motion for leave
+within three days of its filing, explaining why the court should not grant leave to file
+the discovery motion. If the court grants leave to file, the parties will receive an
+opportunity to make substantive arguments at that time.
+C. Motion of Counsel to Withdraw
+Once an attorney has appeared as counsel for a party, he or she may not
+withdraw from the action merely by filing a “notice of withdrawal,” but must file a
+motion stating the specific grounds for withdrawal and seeking permission of the
+court to do so. Any motion to withdraw which, if granted, would leave a party
+unrepresented by counsel must include a certification tha t the moving attorney has
+served a copy of the motion on his or her client and has informed the client of the
+right to promptly file an objection with the court. The motion must also include the
+notation, “Future notice to (name of party) is to be made at the following address:
+(state last known address of the party).
+9
+D. Motions for Extensions of Time
+Any motion that seeks an extension of the discovery deadline by more than
+thirty days must provide: (1) a description of all discovery conducted up to the point
+of filing the motion for an extension and the dates said discovery was served and
+answered; (2) what depositions the parties have taken up to the point of filing the
+motion; and (3) a discovery plan setting the date on which each outstanding
+discovery issue will be resolved. Successive motions for extensions of time are
+strongly disfavored.
+III. SPECIFIC PROVISIONS RELATING TO CERTAIN CASES
+A. ATTORNEY FEE SHIFTING CASES
+If a party anticipates that during or upon the completion of this action it may
+for any reason (other than as a sanction under the Federal Rules of Civil Procedure)
+seek an award of attorneys’ fees from the opposing party pursuant to any statute or
+other law, the party must comply with the following requirements as a precondition
+to any such award:
+(a) Counsel must maintain a separate record of time with a complete and
+accurate accounting of all time devoted to this particular action (to the nearest
+1/10 of an hour), recorded contemporaneously with the time expended, for
+each attorney and with suffic ient detail to disclose the nature of the work
+performed in the action (i.e., not just “research” but the specific matter being
+10
+researched; not just “conference” but the identity of persons conferring and
+general subject matter of the conference).
+(b) If a claim will be made for services performed by any person not a
+member of the bar, a separate time record shall be maintained for each such
+individual in accordance with (a) above.
+(c) Counsel is directed to review and verify all attorney and non-
+attorney time records no less than once per month.
+(d) Although the court does not require counsel to file a copy of the time
+records before a request for a fee, counsel may file with the C lerk of C ourt
+either a copy of the time record refer enced in (a) above, or a separately
+prepared document setting forth the information described in (a) above. If
+counsel elects to file reports, they should be filed by the 15th day of the month
+following the month in which the work was performed during the pendency
+of the case. If counsel elects to file time reports, the material filed may be filed
+under seal, subject to further court order, by placing the same in a sealed
+envelope with the case name and number along with “ATTORNEY TIME
+RECORDS - FILE UNDER SEAL” written thereon. However, if the material
+is filed under seal, then the filing party must, at the time of such filing, also
+file (and serve a copy on opposing parties or their counsel) a document stating
+the total of the hours represented by the sealed filing, allocated as to total
+11
+attorney hours and total non-attorney hours included in the current filing under
+seal. Upon the conclusion of this case, without further order the seal will be
+lifted as to all attorney fee materials filed under seal.
+(e) A petition for attorney fees shall be accompanied by counsel’s
+certification that all time records are accurate; that such records were prepared
+contemporaneously with the performance of the work for which the fees are
+claimed; and that counsel reviewed and verified all attorney and non-attorney
+time records no less frequently than once per month.
+B. CASES THAT REQUIRE EEOC CHARGES
+If this case is one in which the filing of a charge of discrimination with the
+Equal Employment Opportunity Commission or similar agency is required as a
+prerequisite to suit, then the plaintiff(s) must file with the Clerk of Court at the time
+of filing the disclosures required by Federal Rule of Civil Procedure 26(a)(1): (a) a
+copy of all charges of discrimination filed with the EEOC and which form the bases
+of the action; and (b) a copy of the EEOC’s response to all such charges of
+discrimination filed with that agency, including the notice of right to sue.
+DONE and ORDERED this May 23, 2025.
+_________________________________
+ANNEMARIE CARNEY AXON
+UNITED STATES DISTRICT JUDGE
+12
+13
+APPENDIX I
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF ALABAMA
+________ DIVISION
+AAA, )
+)
+Plaintiff(s), )
+)
+v. ) Civil Action No. ___
+)
+BBB, )
+)
+Defendant(s). )
+QUALIFIED HIPAA PROTECTIVE ORDER
+The court GRANTS the parties the right, upon compliance with the applicable
+discovery provisions of the Federal Rules of Civil Procedure and the orders of this
+court, to obtain from any health care provider, health plan, or other entity covered
+by the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), Pub.
+L. No. 104-191, 110 Stat. 1936 (1996), any and all information relating to the past,
+present, or future medical condition of any individual who is a party to this action
+(or the decedent or ward of a party who sues in a representative capacity), as well as
+any and all information relating to the provision of health care to such individual and
+payment for the provision of such health care.
+14
+This order authorizes any third -party who is provided with a subpoena
+requesting the production of documents or commanding attendance at deposition or
+trial to disclose the p rotected health information in response to such request or
+subpoena. This order is intended to authorize such disclosures under the privacy
+regulations issued pursuant to HIPAA. 45 C.F.R. § 164.512(e)(1)(i).
+The court expressly prohibits the parties from using or disclosing the protected
+health information obtained pursuant to this order for any purpose other than this
+action. Further, the court orders the parties either to return to the covered entity from
+whom or which such protected health information was obtained, or to destroy the
+protected health information (including all copies made), immediately upon
+conclusion of this action. See 45 C. F. R. §§ 163.502(b); 164.512(e)(1)(v).
+DONE and ORDERED this ________ day of ________________, ______.
+_______________________
+Annemarie Carney Axon
+United States District Judge
+APPENDIX II
+SUMMARY JUDGMENT REQUIREMENTS
+NOTICE
+This exhibit contains specific, mandatory instructions regarding the preparation and
+submission of briefs and evidentiary materials in support of and in opposition to
+potentially dispositive motions. These instructions must be followed strictly. Except
+for good cause shown, briefs and evidentiary materials that do not conform to the
+following requirements may be stricken.
+SUBMISSION DATES
+The court’s scheduling order will provide a deadline for filing summary
+judgment motions. Any motion for summary judgment and evidentiary materials
+will be due on or before that deadline. Briefs in support of or in opposition to
+summary judgment must be filed within one business day of the filing of the
+dispositive motion and/or evidentiary submissions. The court will enter a briefing
+schedule upon receipt of the brief in support of the motion for summary judgment.
+To ensure that each party is afforded a full and fair opportunity to be heard,
+the parties must deliver copies of briefs and evidentiary materials to opposing parties
+without undue delay and, generally, on the same date the party submits the brief.
+16
+SUBMISSIONS
+The parties’ submissions in support of and opposition to summary judgment
+motions must consist of: (1) a brief containing, in separately identified sections, (i) a
+statement of allegedly undisputed relevant material facts and (ii) a discussion of
+relevant legal authorities; and (2) copies of any evidentiary materials upon which the
+party relies. More detailed requirements for these submissions are explained in the
+following sections.
+REQUIREMENTS FOR BRIEFS
+A. Format
+Initial and response briefs are limited to thirty- five pages. Reply briefs are
+limited to ten pages. Briefs that exceed twenty pages must include a table of contents
+that accurately reflects the organization of the document. The table of contents is not
+included in the page limit. The text of briefs must be double -spaced (except for
+quotations exceeding fifty words, which may be block indented from the left and
+right margins and single spaced) using fourteen point typeface, preferably Times
+New Roman.
+The court will not consider arguments incorporated by reference to earlier
+filings and will not consider substantive arguments made in footnotes. The court
+may strike any brief that would exceed the page limits because of attempts to
+incorporate by reference or include substantive arguments in footnotes.
+17
+B. Submissions
+The parties must electronically file the original brief. The parties also shall e-
+mail to the court’s chambers (axon_chambers@alnd.uscourts.gov) the brief in Word
+format. The email must copy opposing counsel, or if a party is unrepresented, the
+unrepresented party.
+For requirements about the submission of courtesy copies of evidentiary
+materials, see Part III.D. of the initial order.
+C. Binding
+The Clerk will not accept bound materials for filing, but the parties must
+securely bind the court’s “courtesy copy” of the brief in a three-ring binder or large
+clip for ease of use and to prevent inadvertent loss of pages. In addition, all pages
+submitted in the court’s “courtesy copy” shall be three-hole punched.
+D. Manner of Stating Facts
+All briefs submitted either in support of or opposition to a motion must begin
+with a statement of allegedly undisputed relevant material facts set out in separately
+numbered paragraphs. Counsel must state facts in clear, unambiguous, simple,
+declarative sentences. Each statement of fact must be supported by specific reference
+to the CM/ECF document and page number of the evidentiary submissions.
+18
+1. Moving Party’s Initial Statement of Facts
+The moving party shall list in separately numbered paragraphs each material
+fact the movant contends is true and not in genuine dispute, and upon which the
+moving party relies to demonstrate that it is entitled to summary judgment. Each
+statement of fact must be followed by a specific reference to those portions of the
+evidentiary record that the movant claims supports it.
+2. Opposing Party’s Statement of Facts
+Each party opposing a summary judgment motion also must submit a
+statement of facts divided as follows.
+a. Response to Movant’s Statement of Facts
+The first section must consist of only the non-moving party’s disputes, if any,
+with the moving party’s claimed undisputed facts. The non-moving party’s response
+to the moving party’s claimed undisputed facts shall be in separately numbered
+paragraphs that coincide with those of the moving party’s claimed undisputed facts.
+Any statements of fact that are disputed by the non-moving party must be followed
+by a specific reference to those portions of the evidentiary record upon which the
+dispute is based. All material facts set forth in the statement required of the moving
+party will be deemed to be admitted for summary judgment purposes unless
+controverted by the response of the party opposing summary judgment.
+19
+b. Additional Undisputed Facts
+The second section may contain additional, allegedly undisputed facts set out
+in separately numbered paragraphs that the opposing party contends require the
+denial of summary judgment. The second section of the opposing party’s statement
+of facts, if any, shall be clearly designated as such. Each statement of fact in this
+section shall be supported by its own evidentiary citation. The opposing party should
+include only facts that the opposing party contends are true and not in genuine
+dispute.
+c. Additional Disputed Facts
+The third section may contain additional, allegedly disputed facts set out in
+separately numbered paragraphs that the opposing party contends require the denial
+of summary judgment. The third section of the opposing party’s statement of facts,
+if any, shall be clearly designated as such. Each statement of allegedly disputed facts
+must be followed by specific reference to those portions of the evidentiary record
+which both support and contradict the alleged fact.
+3. Moving Party’s Reply
+The reply submission, if any, must include the moving party’s disputes, if any,
+with the non -moving party’s additional claimed undisputed facts. The moving
+party’s response to the non-moving party’s additional claimed undisputed facts shall
+be in separately numbered paragraphs that coincide with those of the non-moving
+20
+party’s additional claimed undisputed facts. Any statements of fact that are disputed
+by the moving party must be followed by a specific reference to those portions of
+the evidentiary record upon which the disputation is based. All additional material
+facts set forth in the statement required of the opposing parties will be deemed to be
+admitted for summary judgment purposes unless controverted by the statement of
+the movant.
+REQUIREMENTS FOR EVIDENTIARY MATERIALS
+To facilitate the court’s requirement that the parties cite to the CM/ECF
+document and page numbers, the parties must electronically file all evidentiary
+materials ( e.g., affidavits, exhibits, depositions, or other products of discovery)
+relied upon in support of or opposition to summary judgment motions before they
+file their briefs in support of or opposition to summary judgment. The parties may
+file their briefs, with citations to the CM/ECF document and page numbers, one
+business day after making their evidentiary submissions.
+Any party opposing a summary judgment motion may reference materials
+included in the moving party’s initial evidentiary submission without resubmitting
+that evidentiary submission. Parties should refrain from r e-submitting additional
+copies of the same documents.
+While the court reserves the right to consider evidentiary materials that are
+not specifically referenced in the brief, no party should assume the court will
+21
+consider such materials. A specific reference must include the CM/ECF document,
+page, and, when appropriate, line number.
+A. Organization
+Each volume of evidentiary materials must include a table of contents
+that includes a brief narrative description of each document included: e.g.,
+“Plaintiff’s Exhibit 1, the Deposition of John Jones.” Each affidavit, exhibit,
+deposition, or other product of discovery must be separately identified by a capital
+letter or numeral (i.e., “Exhibit A” or “Exhibit 1”); and, if the exhibit contains more
+than one page, each page must be separately numbered. Deposition travel transcripts
+that are submitted as part of the evidentiary record should include no more than four
+pages of deposition text per 81⁄2” by 11” page.
+Counsel are directed to submit entire depositions , including all exhibits
+to the depositions, even if relying only on excerpts. However, if the deposition or
+exhibits to the deposition contain information designated as confidential under a
+protective order and the parties agree that the confidential information is not
+necessary to the court’s determination of the summary judgment motion, the parties
+may seek to be relieved of the obligation to submit the full deposition with all
+exhibits. If a party seeks to be relieved of this obligation, the party should move for
+that relief at least one calendar week before the due date for the summary judgment
+22
+motion. The motion should specify whether the party will redact parts of the
+deposition or will omit or redact exhibits.
+B. Number of Sets Submitted
+The parties must electronically file one set of evidentiary materials. The
+parties must submit a “courtesy copy” to the Clerk of Court for delivery to the court’s
+chambers by the Clerk, an exact copy of the filed set of evidentiary materials,
+reflecting the CM/ECF case number, document number, date, and page stamp on
+each page, within three business days of electronic filing. Additionally, the
+evidentiary material should include a tab corresponding to each document.
+Regarding courtesy copies of depositions, parties shall include the entire deposition,
+in travel transcript format consisting of no more than four pages of deposition text
+per 8 1⁄2 by 11 inch page, as well all exhibits to the depositions with sub-tabs, clearly
+labeled.
+C. Binding
+The Clerk will not accept bound materials for filing, but the parties must
+securely bind the court’s “courtesy copy” of the evidentiary submission —in
+separately numbered volumes, if necessary—for ease of use and to prevent
+inadvertent loss of pages.

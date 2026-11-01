@@ -1,0 +1,152 @@
+1
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF WEST VIRGINIA
+IN RE: USE OF ARTIFICIAL INTELLIGENCE
+TOOLS TO REVIEW CRIMINAL
+DISCOVERY
+Miscellaneous No.: 1:26-MC-38
+STANDING ORDER
+The use of artificial intelligence (“AI”) tools, particularly
+“data-retentive” or “consumer-tier” AI tools that allow publicly
+accessible AI systems to retain and use submitted data to train
+models, poses a threat to the integrity and security of data
+produced in litigation.
+THE COURT FINDS that the best way to mitigate this threat is
+to require defense counsel to provide notice to, and receive
+consent from, the government before entering sensitive materials
+into any AI tool.
+Accordingly, IT IS HEREBY ORDERED that, effective as of the
+date of this Standing Order, and until such time as the Court
+orders otherwise, all criminal actions filed in this Court are
+subject to the following restrictions as it pertains to the use of
+AI tools.
+Restrictions on Use of AI to process Sensitive Materials. No
+person or entity authorized to have access to Sensitive Materials
+Case 1:26-mc-00038-TSK Document 1 Filed 06/16/26 Page 1 of 6 PageID #: 1
+2
+under the terms of this Order, i.e., the legal defense team, shall
+input, transmit, upload, process, generate output from, or
+otherwise expose any Sensitive Materials received to any AI tool
+without prior written consent from the government. “AI tool” means
+any automated system that uses statistical modeling, machine
+learning, or similar techniques to process inputs and generate
+outputs, recommendations, or predictions, including but not
+limited to large language models, generative AI services, or AI-
+assisted software tools, whether cloud-based or otherwise. To
+obtain authorization for the otherwise prohibited use of an AI
+tool, defense counsel must submit a written request to the
+government. In any request for written authorization, defense
+counsel must specifically identify and describe any AI tool to be
+used and certify that it does not (i) retain or use any Sensitive
+Materials for model training, nor (ii) expose any Sensitive
+Materials to third parties not authorized under this Order to
+receive such materials. In addition, defense counsel must certify
+that (i) defense counsel has implemented reasonable measures to
+ensure that any AI tool used will maintain the confidentiality of
+any Sensitive Materials, and (ii) defense counsel will ensure the
+deletion of all Sensitive Materials from the tool at the conclusion
+of the case. Defense counsel will be responsible for destroying
+such information at that time. Under no circumstances will any
+member of the defense team submit Sensitive Materials to a publicly
+Case 1:26-mc-00038-TSK Document 1 Filed 06/16/26 Page 2 of 6 PageID #: 2
+3
+accessible AI system that retains and uses submitted data to train
+models. Such AI tools pose unique risks to the security and
+integrity of Sensitive Materials, given the practical inability to
+claw back or delete data once it has been incorporated into a
+model.
+Sensitive Materials. Unless the parties agree otherwise, the
+below portions of the discovery will be designated as “Sensitive
+Materials.”
+a. Telephone numbers, residential addresses, email
+addresses, driver’s license numbers, and similar
+unique identifying information;
+b. Information that could reasonably be used to identify
+the government’s confidential sources;
+c. Identifying information, including true names and
+photographs, regarding government agents who acted in
+an undercover capacity with respect to this
+investigation;
+d. Information that could reasonably be expected to
+jeopardize witness security;
+e. Personal identifying information, including
+photographs and videos, for individuals that do not
+appear to be related to the criminal conduct in the
+case;
+f. Message content and other private communications –
+including from confidential sources, co-conspirators,
+victims, and other individuals – that are unrelated
+to the criminal conduct in the case;
+g. Medical or mental health records, other than those of
+the defendant;
+h. Sources, locations, and methods law-enforcement
+officials have used, and will continue to use, to
+investigate other criminal conduct;
+i. Information that may jeopardize an ongoing or future
+investigation;
+j. Tax returns or tax information; and
+k. Portions of the footage depicting minors and any
+personal identifying information of minors, including
+names.
+Case 1:26-mc-00038-TSK Document 1 Filed 06/16/26 Page 3 of 6 PageID #: 3
+4
+Legal Defense Team. The “legal defense team” includes defense
+counsel (defined as counsel of record in the case, including any
+post-conviction or appellate counsel) and any attorneys,
+investigators, paralegals, support staff, interns, consultants and
+expert witnesses who are advising or assisting defense counsel in
+connection with the case. The legal defense team shall not include
+the defendant or the defendant’s family members, friends, or
+associates.
+Automatic Exclusion from this Order. This Order does not
+apply to discovery that:
+a. are, or later become, part of the public record,
+including materials that have been received in
+evidence in this or other public trials, or materials
+that are publicly released by the U.S. Attorney’s
+Office or the government of the United States;
+b. materials that the defense obtains by means other than
+discovery; or
+c. pertain solely and directly to the defendant.
+Disputes. The parties shall make a good faith effort to
+resolve any dispute regarding the applicability of this Order.
+The United States may agree to remove a sensitivity designation
+without further order of this Court. Whenever the redaction of
+specified information will resolve the basis for which a
+sensitivity designation was applied, either party may do so and
+Case 1:26-mc-00038-TSK Document 1 Filed 06/16/26 Page 4 of 6 PageID #: 4
+5
+any materials so redacted will no longer be deemed Sensitive
+Material under this Order. Should the parties be unable to resolve
+the dispute, either party may file a motion specifying the material
+at issue and why it does or does not qualify as “Sensitive
+Material” under this Order. The disputed materials shall be
+treated as subject to this Order pending disposition of such
+motion.
+Government’s Discovery Obligations. Nothing in this Order
+modifies the obligation of the United States at any stage of
+discovery in the case pursuant to Federal Rules of Criminal
+Procedure 16 and 26.2, 18 U.S.C. § 3500, and the government’s
+general obligation to produce exculpatory and impeachment
+information in criminal cases.
+Scope of this Order. This Order does not prevent any party
+from objecting to the discovery or admission of discovery that it
+otherwise believes to be inadmissible or not subject to a
+disclosure obligation. This Order also does not constitute a
+ruling on: (A) any potential objection to the discoverability or
+admissibility of discovery; or (B) whether any particular
+discovery is properly discoverable or admissible. This Order is
+not intended to limit the use of discovery in any judicial
+proceeding.
+The Clerk is hereby directed to forward a copy of this Order
+to the United States Attorney’s Office and the Federal Public
+Case 1:26-mc-00038-TSK Document 1 Filed 06/16/26 Page 5 of 6 PageID #: 5
+6
+Defender’s Office. The Federal Public Defender shall forward a
+copy of this Order to all panel counsel.
+IT IS SO ORDERED this 16th day of June, 2026.
+_________________________
+Honorable Thomas S. Kleeh
+Chief Judge
+United States District Court
+Case 1:26-mc-00038-TSK Document 1 Filed 06/16/26 Page 6 of 6 PageID #: 6

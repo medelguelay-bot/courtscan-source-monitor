@@ -1,0 +1,27 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF TEXAS
+'
+' GENERAL ORDER 2025-04
+IN RE: USE OF GENERATIVE
+ARTIFICIAL INTELLIGENCE
+IN COURT FILINGS '
+Rule 11 of the Federal Rules of Civil Procedure requires that an attorney or self -represented
+litigant certifies their claims, defenses, and other legal contentions are warranted by existing law and
+the factual contentions have evidentiary support. Attorneys and self -r epresented litigants are
+cautioned against submitting to the Court any pleading, written motion, or other pa per drafted using
+generative artificial intelligence (e .g., ChatGPT, Harvey.AI , generative AI services) without checking
+t
+he submission for accuracy as certain technologies may produce factually or legally inaccur at e
+content and should never replace the lawyer’s independent legal judgment.
+Any attorney or self-represented litigant who signs a pleading, written motion, or other paper
+submitted to the Court will be held responsible for the contents of that filing under Rule 11, regardless
+of whether generative artificial intelligence drafted any portion of that filing. See Fed. R. Civ. P. 11(c)
+(providing for imposition of an “appropriate sanction”—inc luding nonmonetary directives, a penalty
+payable
+to the court, or payment to the opposing party of attorney's fees and expenses directly
+resulting from the violation—if, after notice and a reasonable opportunity to respond, the
+C
+ourt determines that Rule 11(b) has been violated).
+Signed this 7th day of May 2025.
+RANDY CRANE
+CHIEF JUDGE

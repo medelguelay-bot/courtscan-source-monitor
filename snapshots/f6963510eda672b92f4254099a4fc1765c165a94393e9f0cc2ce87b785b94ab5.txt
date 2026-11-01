@@ -1,0 +1,466 @@
+1
+S. Kato Crews
+United States District Judge
+Byron G. Rogers United States Courthouse
+Courtroom C201
+(303) 335-2124
+Crews_Chambers@cod.uscourts.gov
+STANDING ORDER FOR CIVIL CASES
+Revised: January 1, 2026
+2
+Contents
+A. Introduction .......................................................................................................................................... 3
+1. The Uniform Civil Practice Standards ........................................................................... 3
+2. The Court’s Mission ................................................................................................................ 3
+3. Statement Re: Attorney Mentoring & Training .......................................................... 3
+4. Notice Encouraging Consideration of Consent to Magistrate Judge
+Jurisdiction ......................................................................................................................................... 4
+B. Communications with Chambers ..................................................................................................... 4
+C. Motions Practice ................................................................................................................................. 5
+1. Duty to Confer Before Filing a Motion ........................................................................... 5
+2. Certification Re: Use of Generative Artificial Intelligence (AI) for Drafting 6
+3. Format of Pleadings and Documents Presented for Filing ................................... 6
+4. Motions for Summary Judgment ...................................................................................... 6
+D. Proposed Final Pretrial Order .......................................................................................................... 9
+E. Trial Information ............................................................................................................................... 10
+ATTACHMENT 1 ................................................................................................................................... 14
+ATTACHMENT 2 ................................................................................................................................... 17
+3
+A. Introduction
+1. The Uniform Civil Practice Standards
+This Court subscribes to the United Stat es District Court for the District of
+Colorado Uniform Civil Practice Standards. This Standing Order supplements the
+Uniform Civil Practice Standards. Civil litigants before this Court are expected to be
+familiar and comply with the Uniform Practice Standards, this Standing Order, the
+Local Rules of Practice, and the practice st andards of the magistrate judge assigned
+to their case. The Uniform Civil Practice Standards are available on this U.S. District
+Court’s website.
+2. The Court’s Mission
+The mission of the United States District Court for the District of Colorado is
+“to serve the public by providing a fair and impartial forum that ensures equal access
+to justice in accordance with the rule of law, protects rights and liberties of all
+persons, and resolves cases in a timely and efficient manner.” Litigation is an
+emotional, stressful, time-consuming, and expensive process. The Court’s mission is
+best served when litigants treat each other with civility and professionalism. Though
+litigation is understood to be an “adversari al” process, it is possible for counsel and
+parties to disagree and zealously advocate their positions while at the same time
+treating each other with courtesy and respect. The Court expects nothing less.
+3. Statement Re: Attorney Mentoring & Training
+The Preamble to the Colorado Rules of Professional Conduct acknowledge that
+lawyers should “seek improvement of the law, access to the legal system, the
+administration of justice and the quality of service rendered by the legal profession.”
+These goals are best achieved when experienced lawyers provide inexperienced and
+young lawyers, and lawyers from underre presented backgrounds, opportunities to
+participate in judicial proceedings. “Stand up time” for these lawyers is critical to
+their development. Both non-evidentiary and evidentiary hearings before this Court
+are opportune moments to afford these lawyers “stand up time.” This Court welcomes
+and appreciates the active participation of inexperienced and young lawyers, and
+lawyers from underrepresented backgrounds, in its courtroom. The Court encourages
+seasoned lawyers to facilitate the mentorin g and development of these lawyers that
+will enrich the legal profession and the work of the United States District Court.
+4
+4. Notice Encouraging Consideration of Consent to Magistrate Judge
+Jurisdiction
+This district’s magistrate judges play a crucial role in the work and structure
+of the district court and the ad ministration of justice. Under Local Rule 72.2 , the
+parties have the option to consent to their case being presided over by a magistrate
+judge instead of a district judge. This court encourages parties to meaningfully confer
+and consider consenting to magistrate judge jurisdiction. There are many benefits to
+consenting. One such benefit is having a si ngle judicial officer preside over every
+aspect of your case rather than two. A second benefit is the certainty of not having
+your trial date vacated when set before a magistrate judge. District judges preside
+over felony criminal cases and those cases receive priority over civil cases because of
+a criminal defendant’s speedy trial rights. Magistrate judges do not preside over
+felony criminal cases, and therefore, they do not have to vacate civil trials because of
+criminal cases.
+If the parties do not choose to consent to magistrate judge jurisdiction, they
+should keep in mind Local Rule 72.3 . Under this rule, the parties may consent to
+the final determination of a dispositive motion (motion for summary judgment or
+motion to dismiss) by the assigned magistra te judge by filing a notice of consent for
+that motion. Please refer to Local Rule 72.3 for more information on that option.
+Consent to magistrate judge jurisdiction is voluntary, and no adverse
+consequence will result if one or more parties decline to consent.
+B. Communications with Chambers
+My Chambers includes my judicial assistant, career law clerk, and term law
+clerk. Your communications with my sta ff are expected to be professional and
+respectful. If I learn any attorney contacted my Chambers and was rude or otherwise
+disrespectful or inappropriate with my staff, I will take the matter up directly with
+the attorney or law firm involved. Please instruct your staff accordingly in the event
+members of your staff contact mine.
+While the Court cannot engage in ex parte communications with counsel or
+parties, my staff is available to answer questions of an administrative or logistical
+nature. You should contact my Chambers only by a joint email to
+crews_chambers@cod.uscourts.gov. My staff is not permitted to provide legal advice,
+interpret orders or rules, grant oral requ ests, or provide specific information about
+the progress of any pending motion.
+5
+I also have a courtroom deputy assigned to Chambers. My courtroom deputy is
+Cathy Pearson. Please direct questions regarding courtroom proceedings, technology,
+or other equipment needs to her at (303) 335-2089 or
+cathy_pearson@cod.uscourts.gov.
+Documents required to be submitted to Chambers pursuant to local rule, court
+order, or practice standards, shall be submitted via email to
+crews_chambers@cod.uscourts.gov. Please include the case number, case name, and
+document description in the subject line of the email.
+C. Motions Practice
+1. Duty to Confer Before Filing a Motion
+I expect parties to take their conferral obligation seriously. Consistent with the
+Federal Rules of Civil Procedure and the Local Rules of Civil Practice, parties have
+an affirmative obligation to meet and confer prior to filing certain motions. This
+includes motions to dismiss and motions for summary judgment. The duty to
+meet and confer requires the parties to di scuss the specific dispute at issue and the
+requested relief, preferably by telephone or an in-person or virtual “face-to-face,” and
+not solely through email or written correspondence , and provide opposing
+counsel a reasonable amount of time to resp ond prior to filing a motion. The duty to
+meet and confer also requires the parties to react timely and to be responsive over
+the course of conferring. I expect the parties to return each other’s emails or
+voice messages within 24 hours barring extenuating circumstances.
+If your motion is opposed by the other side, your Certification of Conferral in
+the motion must substantively describe your conferral efforts and must state
+the reason given by opposing counsel or the opposing party for opposing
+the motion . Statements to the following effect are insufficient and will not be
+accepted: “Counsel certifies they conferred with opposing counsel before filing this
+motion. The motion is opposed.” The Certificate of Conferral does not count against
+any page limitations.
+The duty to confer applies the same to those parties who are not represented
+by counsel ( pro se parties) unless the party who is not represented by counsel is
+incarcerated. Pro se parties and attorneys who confer are expected to communicate
+with each other respectfully and professionally at all times.
+6
+2. Certification Re: Use of Generative Artificial Intelligence (AI) for
+Drafting
+The Court takes no position on attorneys’ use of generative AI in their filings,
+other than it is imperative that attorney s who use AI double (and triple) check AI’s
+work to avoid filing documents with erro neous and fictitious case law or other
+references that mislead the Court and waste time. See, e.g., Colorado RPC 3.3. (“A
+lawyer shall not knowingly: (1) make a false statement of material fact or law to a
+tribunal or fail to correct a false statement of material fact or law previously made to
+the tribunal by the lawyer[.]”). Thus, ev ery substantive motion—including, but not
+necessarily limited to, motions under Fe d. R. Civ. P. 12, 56, and 65—and the
+corresponding response and reply, shall contain an AI Certification regarding the use,
+or non-use, of generative AI in preparing the filing.
+The preparer of the filing must certify ei ther that (1) no portion of the filing
+was drafted by AI, or that (2) any language drafted by AI (even if later edited by a
+human) was personally reviewed by the filer or another human for accuracy and all
+legal citations are to actual, non-fictitious cases or cited authority. The Court will
+strike any filing (without prejudice) from a party who fails to include the AI
+Certification in the above-mentioned motions. The AI Certification does not count
+against any page limitations.
+3. Format of Pleadings and Documents Presented for Filing
+The parties should follow Unif orm Practice Standard 10.1 except that all
+papers filed with this Court shall be in Century Schoolbook 12-point font,
+including footnotes, and conform to the other formatting requirements (margins,
+line spacing, etc.) of D.C.COLO.LCivR 10.1.
+4. Motions for Summary Judgment
+These rules apply over Uniform Practice Standard 7.1D:
+a. Single Motion. Absent leave of Court and exceptional circumstances, a
+party may file only one motion for summary judgment.
+b. Page Limitations. Motions and responses shall not exceed 20 pages.
+Replies shall not exceed 10 pages. These page limits shall not include
+the cover page, table of contents (if any), signature block, certificate of
+service, conferral certification, or AI certification.
+7
+c. Before Filing a Motion for Summa ry Judgment. No later than
+10 days after the close of discovery, a party intending to file a
+motion for summary judgment must meaningfully confer with the
+opposing party and jointly contact chambers by email to set a pre-motion
+status conference with the Court. At that status conference, the movant
+will be expected to explain which claims they intend to seek summary
+judgment on, and the undisputed material facts which support moving
+on those claims. And the Court will explain the chart (described below
+and in Attachment 1) the part ies must complete regarding the
+Statement of Undisputed Material Facts. The Court will order a
+deadline for filing motions for summary judgment at the status
+conference.
+If no party seeks to file a summary judgment motion, Counsel shall then
+jointly email Chambers to obtain dates for trial and a trial preparation
+conference.
+d. Statement of Undisputed Material Facts. The parties shall file
+separate Statements of Undisputed Material Facts using the three-
+column chart found at Attachment 1, as follows:
+1. For the Moving Party: A Statement of Undisputed Material Facts
+in support of the motion must separately identify each material fact
+claimed to be without dispute. Absent prior leave of Court, a movant
+shall not file more than 80 sepa rately-numbered statements of
+undisputed material facts. In a three-column format, the statement
+must state in numerical sequence the undisputed material facts in
+the first column, followed by a specific reference to material in the
+record that establishes those undisputed facts in that same column.
+The pages of the chart are not included in the page limits for motions
+for summary judgment. There is no page limit on the
+evidence/exhibits attached in support of the motion.
+2. For the Non-moving Party: A separate Statement of Undisputed
+Material Facts in opposition to the motion for summary judgment
+must contain the following in a thr ee-column format: (a) in the first
+column, the verbatim entries that were prepared by the movant at
+step one; (b) in the second column, directly opposite the recitation of
+the movant’s material facts and supporting evidence, the response
+must state whether the fact is “disputed” or “undisputed.” An
+opposing party who contends the fact is “disputed” must state, in the
+8
+second column of the page directly opposite the fact in dispute, the
+nature of the dispute followed by a specific reference to material in
+the record that supports the positi on that the fact is controverted.
+Also in the second column, after the Movant’s verbatim entries, the
+opposing party shall set forth any a dditional material facts which it
+contends are undisputed, followed by a specific reference to material
+in the record that establishes those additional material facts as
+undisputed in that same column. Absent prior leave of Court, a
+respondent to a summary judgment motion shall not file more than
+40 separately-numbered statements of additional facts. The pages of
+the chart are not included in the page limits for the response. There
+is no page limit on the evidence/e xhibits attached in support of the
+motion.
+3. For the Movant’s Reply Filing: A separate Statement of
+Undisputed Material Facts in support of the motion must contain the
+following in a three-column format : (a) the first two columns shall
+contain the verbatim entries prepar ed by movant at step one, and
+the verbatim entries prepared by th e responding party at step two;
+(b) in the third column, directly opposite the recitation of the
+opposing party’s material facts and supporting evidence, the reply
+must state whether the fact is “disputed” or “undisputed.” The
+moving party who contends the fact is “disputed” must state, in the
+third column of the page directly opposite the fact in dispute, the
+nature of the dispute followed by a specific reference to material in
+the record that supports the positi on that the fact is controverted.
+Also in the third column, if the mo ving party contests the opposing
+party’s dispute of the moving party’s recitation of undisputed
+material fact, the moving party may make specific reference to any
+additional supporting material in the record.
+4. Citing the Record: When making a specific reference to material
+in the record which establishes a fact, general references are
+insufficient if the document is longer than one page. A “specific
+reference” means reference to: a page number; a line number; a
+paragraph number; a CM/ECF Docket entry number (with additional
+internal specific reference provid ed); or any combination of these
+references to assist the Court to easily locate the pertinent
+information. The effort at spec ificity may be further aided by
+highlighting, underlining, or ma nually underscoring the pertinent
+information.
+9
+5. Editable Copy of the Chart for the Opposing Party: In addition
+to filing its Statement of Undisputed Material Facts with the Court,
+each party shall provide to the opposing party an editable electronic
+version of its Statement in Word format for the opposing party’s use
+in preparing its Statement. Thus, for example, the moving party
+shall provide its Statement to the opposing party, with the first
+column completed, and the opposing party shall provide its
+Statement to the moving party, with the first and second columns
+completed.
+D. Proposed Final Pretrial Order
+This Court presides over the Final Pr etrial Conference. A Final Pretrial
+Conference will be set after all dispositive motions have been ruled on, or, after the
+dispositive motion deadline has passed and no motions have been filed. The parties
+proposed Final Pretrial Order is due at least seven days before the combined Final
+Pretrial Conference, and a Word version should also be emailed to chambers at
+crews_chambers@cod.uscourts.gov.
+The proposed Final Pretrial Order should reflect the narrowing of issues to
+those that will actually be tried, the witn esses that will be called, and the exhibits
+that will be presented. The form propos ed Final Pretrial Order available on our
+district court’s website should be used, and shall incorporate the following changes
+to that form:
+a. Section 3: Claims and Defenses: Parties are discouraged from
+submitting a narrative summary of th e claims, defenses, facts, and legal
+theories. If a narrative summary is included, it should not exceed one page,
+and shall be in addition to the following: Separately enumerate each claim
+and affirmative defense (a defense on which the Defendant bears the
+burden of proof) that will be tried. (An example is at Attachment 2.) For
+each claim and affirmative defense designate:1
+i. the standard of proof and controlling law; and,
+ii. each element that must be proved. Under each element,
+identify the facts that establish that element, and reference
+the witness whose testimony, or the exhibit the contents of
+which, will establish that fact at trial.
+b. Section 4: Stipulations: To save time and expense, and to focus the trial,
+1 Any claims or affirmative defenses not specifically identified may be deemed waived.
+10
+the parties shall stipulate to all material facts that are not in dispute. 2
+Stipulated facts will be included in a jury instruction given to the jury prior
+to opening statements.
+c. Section 6: Witnesses: In addition to listing witnesses as required by the
+form, the parties should also attach their witness lists using the form found
+on the Court’s website on the page for Judge Crews.
+d. Section 7: Exhibits: Only the parties’ exhibit lists should be attached,
+using the form found on the Court’s website on the page for Judge Crews.
+E. Trial Information
+1. Motions in Limine: These motions are allowed. The Court will set a
+deadline for their submission at the Final Pretrial Conference.
+2. Fed. R. Evid. 702 Motions: The deadline for filing these motions is the
+same as the date set for the Final Pretrial Conference. In other words, if the Court
+sets the Final Pretrial Conference for March 5, 2026, the deadline for filing Rule 702
+motions is March 5, 2026.
+3. Trial Briefs: Trial briefs are encouraged only where there are unusual
+issues of law. They should be filed 14 days before trial. They should not exceed 10
+pages and should not attach exhibits.
+4. Trial Readiness Conference: Within one week of commencement of
+trial, the Court will set a Trial Readiness Conference. Lead trial counsel must attend.
+The purpose of the conference is to conf irm the parties are ready for trial. This
+includes confirming the parties have stipul ated to the admissibility of as many trial
+exhibits as possible, know the foundations they will need to set when seeking the
+admission of any unstipulated exhibits at trial, have witnesses appropriately
+subpoenaed or otherwise prepared to attend, etc., and may include bringing a sample
+of any voluminous trial exhibits that the Court previously ordered the party to break
+out into separate exhibits.
+2 Please be cognizant of the difference betw een disputing the existence of a fact and
+disputing the significance of that fact. A stipulation to the existence of a fact ( e.g.,
+that the sun set at 7:00 p.m. on the day in question) does not prevent the party from
+arguing the significance of that fact (e.g., that there was or was not adequate daylight
+at 7:00 p.m.).
+11
+5. Final Witness and Exhibit Lists: By no later than Noon on the Friday
+before the start of trial, the parties sha ll submit their respective final witness and
+exhibit lists via CM/ECF.
+6. Access to the Courtroom Prior to Trial: The courtroom will be made
+available to all parties before the start of trial so they may bring in items for trial or
+to test technical equipment. My Courtroom Deputy is Cathy Pearson. She can be
+reached at (303) 335-2089 or cathy_pearson@cod.uscourts.gov. Please contact Ms.
+Pearson in advance if you would like to access the courtroom before trial.
+7. Jury Trials:
+a. Proposed Jury Instructions and Verd ict Forms: Jury instructions and
+verdict forms shall be both e-filed on CM/ECF, and e-mailed to my
+chambers ( crews_chambers@cod.uscourts.gov) in Word format. The
+Court will order a deadline for submission of these materials at the Final
+Pretrial Conference. Counsel (and any pro se parties) shall confer and
+stipulate to as many instructions as possible. Up to four sets of
+instructions should be submitted to the Court, as necessary: (1) one set
+of stipulated jury instructions; (2) one set of opposed or disputed jury
+instructions; (3) one set of stipulated verdict forms (if any); and/or (4)
+one set of disputed or opposed verdict forms (if any). Jury instructions
+should be appropriately titled and must include citations to
+relevant authority in footnotes.
+b. Exhibits:
+i. Plaintiff’s exhibits should be marked using numbers. Defendant’s
+exhibits should be marked using letters A through Z, then using
+A-1 through A-99, then B-1 through B-99, etc. The parties
+should avoid duplicate exhibits between their respective
+lists. The parties must confer and stipulate to the
+admissibility of as many exhibits as possible.
+ii. There will be no juror exhibit no tebooks. Instead, the Court will
+provide a projector and television screen, or other technology, for
+purposes of publishing admitted exhibits to the jury. The parties
+may use the projector system provided by the Court or may bring
+in their own technology for purposes of publishing exhibits.
+Questions concerning exhibits and courtroom
+equipment/technology may be directed to Ms. Pearson.
+12
+iii. Only one exhibit notebook is required as a backup for the witness
+stand and which will also be the notebook the jury receives during
+deliberations. Your single exhibit notebook should contain that
+party’s original exhibits, properly marked and tabbed, with the
+pages of each exhibit numbered. You should also bring two
+electronic copies of your exhibi ts on a thumb drive on the first
+trial day to provide to my courtr oom deputy and court reporter.
+The court reporter does not need media files such as videos or
+photos, only document exhibits.
+c. Voir Dire: If trial is to a jury, the Court will conduct an initial orientation
+and voir dire. The Court’s voir dire is designed to address issues of juror
+hardship. The Court will leave the inquiry of impartiality and potential
+juror bias to the parties during th eir voir dire. Unless the Court is
+persuaded otherwise, the parties will be permitted 20 minutes each to
+conduct voir dire. In most circums tances, the Court does not condone
+inculcating the jury pool with specific facts of the case during voir dire.
+If there are questions about whether intended voir dire approaches that
+line, those questions should be raised in advance.
+d. Number of Jurors: The jury will normally consist of at least nine jurors,
+with each side afforded three pe remptory challenges. The Court will
+inform the parties of the intended number of jurors for their specific case
+during the Trial Preparation Conf erence. The Court does not seat
+alternate jurors in civil cases.
+e. Notes by Jurors: Jurors will be permitted to take notes during trial.
+f. Time for Giving Jury Instructions: Preliminary instructions will be
+given prior to opening statements. Final instructions will be given after
+closing arguments.
+g. Court Reporter:
+i. Transcript of Proceedings: The proceedings will be transcribed by
+my Court Reporter, Mary George. Any request for transcripts
+should be directed to her at mary_george@cod.uscourts.gov, or
+(303) 335-2109.
+ii. Hard Copy Transcripts: If you require hourly or daily transcripts
+for a trial, you must make arrangements with my Court Reporter
+at least 14 days before trial. If you require hourly or daily copy
+13
+transcripts for a hearing or oral argument, my Court Reporter
+appreciates as much advance notice as possible.
+iii. Realtime Reporting: If you require realtime reporting to your
+laptop or other electronic device for a trial, you must make
+arrangements with my Court Repo rter at least 10 days before
+trial. If you require realtime reporting for a hearing or oral
+argument, you must consult with my Court Reporter prior to the
+date of the proceeding to ensure that all technical issues have
+been resolved prior to the commencement of the proceeding.
+iv. Word List: If the trial contains technical or medical terms, a list
+containing these words shall be provided to my Court Reporter by
+email to mary_george@cod.uscourts.gov, no later than 8:00 a.m.
+the Friday before trial.
+[Attachments 1 and 2 follow.]
+14
+ATTACHMENT 1
+Format for Separate Statement of Undisputed Material Facts
+Movant’s Statement
+15
+Opposing Party’s Statement
+16
+Moving Party’s Reply Statement
+17
+ATTACHMENT 2
+Format for Section 3 of Proposed Final Pretrial Order Form
+Example:
+Claim 1: Breach of contract under Colorado law: Plaintiff has burden of proof by a
+preponderance of the evidence
+Elements: (1)-(3) offer, acceptance, consideration
+(a) the parties stipulate that these elements are satisfied
+(4) performance by the plaintiff
+(a) On March 3, 2004, Peter Plaintiff delivered one
+crate of widgets to Widget Packers, Inc. (Testimony
+of Peter Plaintiff; Don Defendant; Exhibits 1, 4)
+(b) The widgets conformed to the specifications in
+the contract. (Testimony of Peter Plaintiff; Exhibit
+2)
+(c) The widgets were deliver ed on the date set by
+the contract. (Exhibit 2)
+(5) non-performance by the defendant
+(a) Widget Packers, Inc. failed to remit payment on
+the terms set by the contra ct. (Testimony of Barry
+Bookkeeper; Exhibit 2)
+(b) Peter Plaintiff has made several written demands
+for payment. (Peter Plaintiff; Exhibits 3, 5, 7)
+(6) damages
+(a) Peter Plaintiff has been damaged in the contract
+amount of $10,000. (Testimony of Peter Plaintiff; Exhibit
+2).
+Claim 2: Unjust Enrichment under Colorado law: Plaintiff has burden of proof on
+all elements by a preponderance of the evidence
+Elements: (1) Defendant has received a benefit
+(a) On March 3, 2004, Peter Plaintiff delivered one
+crate of widgets to Widget Packers, Inc. pursuant
+to a contractual agreement. (Testimony of Peter
+18
+Plaintiff; Don Defendant; Exhibits 1, 2, 4).
+(2) the benefit is at the Plaintiff’s expense
+(a) Widget Packers, Inc. failed to remit payment on the
+terms set by the contract. (Testimony of Barry
+Bookkeeper, Exhibit 2)
+(3) justice requires that Defendant reimburse the
+Plaintiff for the benefit received
+(a) The widgets have a market value of $15,000.
+(Testimony of Peter Plaintiff)
+(b) Don Defendant is in breach of the contract.
+(Testimony of Peter Plaintiff)
+Affirmative Defense to Claim 2: Failure to mitigate under Colorado law: Defendant
+has burden of proof on all elements by a preponderance of the evidence
+Elements:
+(1) Plaintiff had a reasonable opportunity to avoid injury
+(a) On March 5, 2004, Don Defendant left a
+message on Peter Plaintiff’s voice mail offering to
+return the crate of widgets unopened. (Testimony of
+Don Defendant; Peter Plaintiff)
+(b) On March 8, 2004, Don Defendant wrote to Peter
+Plaintiff, offering to assign the contract for the
+purchase of widgets to WidgetCo. (Don Defendant;
+Warren Widget; Exhibit 6)
+(2) Plaintiff unreasonably failed to avail itself of
+opportunities to avoid injury
+(a) Peter Plaintiff did not respond to the March 5,
+2004 message. (Don Defendant)
+(b) Peter Plaintiff did not respond to the March 8,
+2004 (Don Defendant)

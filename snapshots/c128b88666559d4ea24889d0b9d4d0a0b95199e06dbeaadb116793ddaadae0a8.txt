@@ -1,0 +1,565 @@
+Updated: June 23, 2025
+1
+U.S. DISTRICT JUDGE JOHN A. KAZEN
+United States Courthouse Jessica Rodriguez, Case Manager
+1300 Victoria St., Ste. 2317 Tel: (956) 726-2332
+Laredo, TX 78040 Fax: (956) 790-1756
+Tel: (956) 790-1757 Email: Jessica_Rodriguez@txs.uscourts.gov
+COURT PROCEDURES IN CRIMINAL CASES
+1. Contact with Court Personnel
+2. Courtesy Copies of Documents
+3. Emergencies
+4. Continuances
+5. Appearances
+6. Motion Practice
+7. Use of Generative Artificial Intelligence (AI)
+8. Pretrial Conferences and Docket Calls
+9. Required Trial Materials
+10. Procedures for Jury Trials
+11. Courtroom Procedures
+12. Sentencing Procedures
+13. Attachments
+Updated: June 23, 2025
+2
+The accompanying procedures are to be used in conjunction with the Local Rules for the Southern District
+of Texas and not as a substitute for them. The Local Rules of this District can be obtained on the District
+website at www.txs.uscourts.gov. The Court requires strict compliance with these Local Rules.
+1. CONTACT WITH COURT PERSONNEL
+A. The Court requires that parties file documents through the District Court ’s Case
+Management/Electronic Case Filing (CM/ECF) System. See Southern District of
+Texas Local Rule 5.1 (LR5.1) and the District =s Administrative Procedures for
+CM/ECF (as amended and available at www.txs.uscourts.gov).
+B. Case-related telephone, letter, and email inquiries are strictly limited to procedural
+matters and should be made only to the Case Manager . See addresses below.
+Inquiries should not be made to the Court’s secretary or law clerks. The Court’s
+caseload does not allow the Case Manager to respond to casual telephone inquiries
+about the status of motions or cases.
+C. Information about the status of documents, entry of orders, or docket entries should
+be obtained from the CM/ECF or PACER Systems, or if absolutely necessary, from
+the United States District Clerk=s Office at (956) 723-3542.
+D. Correspondence with the Court must be delivered or sent to the Court’s Chambers:
+1) Case-related correspondence should be addressed to:
+Jessica Rodriguez
+Case Manager to U.S. District Judge John A. Kazen
+1300 Victoria St., Ste. 2317
+Laredo, TX 78040
+Or by email: Jessica_Rodriguez@txs.uscourts.gov
+2) Do not address substantive issues in letter or email form. The parties must
+file copies of all letters. Email correspondence with the Court should copy
+all other counsel appearing in the case and will be docketed at the Court’s
+discretion.
+3) Copies of urgent documents (including letters) may be sent by First Class
+Mail, emailed, or hand-delivered to Chambers (see Emergencies, § 3 below)
+or to the Court’s Case Manager, with copies to all parties. Service copies
+must be transmitted to all counsel of record simultaneously with (or prior
+to) and in the same manner as the document is transmitted to the Court.
+The documents may not be faxed without express prior permission of the
+Court.
+Updated: June 23, 2025
+3
+2. COURTESY COPIES OF DOCUMENTS
+A. Letters to the Court may be hand-delivered, sent by First Class Mail to Chambers,
+or transmitted by email, with copies to all parties served prior to or at the time of
+filing. See addresses above. Letters concerning discovery and scheduling
+matters must be filed in the docket.
+B. The parties must forward promptly to Chambers courtesy copies of (i) all
+documents that exceed ten (10) pages in length, including exhibits and attachments,
+and (ii) documents pertaining to matters to be heard by the Court within seven (7)
+days after the document is filed. Unless this rule is followed, the Court will not
+consider any documents filed within seven (7) days of any court appearance. Do
+not fax or email copies of documents to Chambers unless specifically authorized to
+do so by the Court.
+3. EMERGENCIES AND TRAVEL
+A. Counsel should contact the Case Manager at (956) 726-2332 for matters requiring
+immediate attention.
+B. A copy of emergency motions must be sent directly to Chambers after their
+electronic filing. Counsel should bring the matter to the Court ’s attention
+promptly.
+C. Travel requests must be submitted to Chambers a minimum of five (5) business
+days before the controlling deadline , with exceptions only for verifiable medical
+emergencies or funerals. Attorneys must also furnish Probation with both the
+request and documentary proof within the same five (5) business day timeframe,
+ensuring adequate time for Probation to verify and assess the request's merits.
+Requests will be granted at the Court’s discretion. Failure to comply with this rule,
+absent good cause, will result in the request being denied.
+4. DEADLINE EXTENSIONS AND CONTINUANCES
+A. Motions for deadline extensions and continuances of court settings must be filed
+prior to date of the controlling deadline and will be granted only at the Court’s
+discretion. Motions that fail to comply with this rule , absent a showing of good
+cause, will not be granted.
+B. Agreements or joint motions among counsel for deadline extensions or
+continuances are not binding on the Court. Parties must notify the Court of agreed
+continuances by submitting an agreed motion and proposed order.
+C. A trial generally will not be continued because of the unavailability of a witness.
+Updated: June 23, 2025
+4
+5. APPEARANCES
+A. An attorney who appears at a hearing or conference must:
+1) be familiar with the case,
+2) have authority to bind the client, and
+3) be in charge for that appearance.
+B. Motions for admission pro hac vice shall include the attorney-applicant’s averment
+that he or she has familiarized him/herself with the Local Rules of the Southern
+District of Texas and these Procedures applicable to criminal cases before Judge
+Kazen. See attached form, also available at the Court’s website.
+C. Requirement for Experienced Local Counsel. When an attorney does not
+maintain a principal office in the Laredo Division, or when an attorney does not
+have a substantial history of federal criminal practice, or when the ends of justice
+so require, the Court may require the attorney appear with expe rienced local
+counsel.
+“Experienced Local Counsel” Defined. A member of the bar of the Southern
+District of Texas who maintains a principal office in the Laredo Division may serve
+as local counsel. Local counsel must have demonstrated experience in, and
+knowledge of, the Federal Rules of Criminal Procedure, the Federal Rules of
+Evidence, the United States Sentencing Guidelines, the Local Rules of the Southern
+District of Texas, and U.S. District Judge John A. Kazen Court Procedures in
+Criminal Cases. Local counsel must be autho rized to act as attorney of record for
+all purposes, and must be authorized to present and argue the client ’s position at
+any hearing called by the Court and to perform any duty required by the Local Rules
+of the Southern District of Texas and of this Court.
+6. MOTION PRACTICE
+A. General Guidelines. The Court follows the written motion practice described in
+the Local Rules. In addition, the following procedures apply:
+1) Counsel must make serious and timely efforts to confer with opposing counsel
+on all motions to try to reach agreement on the relief requested by the movant.
+2) Motions must conform with CrLR12.2 and contain a certificate verifying that
+opposing counsel was consulted but no agreement could be reached. An
+unopposed motion and its order must be indicated prominently in the caption.
+3) If the motion presents issues of fact, it shall be supported by affidavit or
+declaration that sets forth with particularity the material facts at issue.
+Updated: June 23, 2025
+5
+4) The Court will not grant a motion to adopt another party ’s motion and such a
+motion should not be filed.
+5) Any pleadings filed with the C ourt, including exhibits thereto, containing
+personal data identifiers must comply with the S.D. Texas General Order
+#2004-11 (available at the District’s website) on protecting personal privacy in
+public case files.
+B. Page Limits and Briefing Requirements. The Court requires concise, pertinent,
+and well-organized memoranda of law. Without leave of Court, all memoranda of
+law are limited to 25 pages, 12 -point font, double-spaced, with 1” margins. Any
+memorandum that has more than ten (10) pages of argument must contain the
+following items.
+1) A table of contents setting forth the page number of each section, including
+all headings designated in the body of the brief or memorandum.
+2) A table of citations of cases, statutes, rules, textbooks, and other authorities,
+alphabetically arranged.
+3) A short statement of the nature and stage of the proceeding.
+4) A statement of the issues to be ruled upon by the Court and, with respect to
+each issue, a short statement (supported by authority) of the standard of
+review.
+5) A short summary of the argument.
+6) Succinct headings dividing the argument into separate points.
+7) A short conclusion stating the precise relief sought.
+8) Proposed orders.
+C. If an evidentiary hearing is necessary, the Court will notify the parties in advance.
+Exhibit and witness lists (the originals and TWO (2 ) copies of each) shall be
+provided to the Court at the hearing.
+D. Motions to Suppress must be plead ed with specificity and not filed solely for
+discovery. They must also be in compliance with the Local Rules. Motions not in
+conformity therewith will be struck.
+E. All Motions to Dismiss, Motions to Sever, and Motions for Separate Trial must be
+specific and brought to the Court ’s attention at least thirty (30) days before jury
+selection.
+Updated: June 23, 2025
+6
+F. Dispositive motions in criminal cases will be considered by the United States
+District Judge or may be referred to the Magistrate Judge as requested by the Court.
+7. USE OF GENERATIVE ARTIFICIAL INTELLIGENCE (AI)
+Attorneys and self -represented litigants must ensure that any filing prepared with the
+assistance of generative artificial intelligence (e.g. ChatGPT, Harvey.AI, or similar tools),
+is thoroughly reviewed for factual and legal accuracy prior to submission. These tools are
+capable of producing content that may be factually incorrect or legally unsound.
+The Court will hold attorneys and self-represented litigants fully accountable for all content
+submitted under their name or signature, regardless of whether it was drafted in part by
+generative AI. The Court will exercise its inherent authority to sanction conduct that abuses
+the judicial process, including reliance on inaccurate or frivolous AI-generated content. In
+re Goode, 821 F.3d 553, 559 (5th Cir. 2016) (courts may sanction local rule violations even
+absent bad faith showing). The Court will not acc ept the excuse that such content was
+prepared by AI, staff, or others when assessing potential sanctions.
+Attorneys are further reminded of their professional obligations under the Texas
+Disciplinary Rules of Professional Conduct, including the duty of candor to the tribunal
+and the prohibition against knowingly offering false statements of law. See Tex.
+Disciplinary Rules Prof’l Conduct r. 3.03(a) (Tex. Bar Ass’n 2024). Attorneys must also
+remain proficient and competent in the practice of law, including recognizing the benefits
+and risks associated with relevant technology. See id. at 1.01, cmt. 8.
+The Court adopts and incorporates by reference Chief Judge Randy Crane’s General Order
+2025-04 on the Use of Generative Artificial Intelligence in Court Filings.
+8. PRETRIAL CONFERENCES AND DOCKET CALLS
+A. The Court generally holds one trial docket call each month. This docket call is the
+final pretrial conference (FPTC). At the FPTC, the Court may rule on all pending
+motions and conduct re -arraignments. The Magistrate Judge may conduct re -
+arraignments in felony cases as requested by the Court.
+B. The parties must engage in timely plea negotiations. Defense counsel should
+confer beforehand with the Government and their clients and review plea
+agreements prior to the FPTC. The FPTC date is NOT the date to secure a plea
+agreement and review it with the defendant-client. The parties must be ready to
+enter a plea of guilty or proceed to trial on announcement.
+9. REQUIRED TRIAL MATERIALS
+A. For All Trials and Evidentiary Hearings:
+1) Exhibit List (see attached form , also available on the Court’s website ).
+Updated: June 23, 2025
+7
+Original must be filed in accordance with Local Rules; two (2) courtesy
+copies must be provided to the Court at the trial and/or hearing for
+distribution to all parties.
+2) Witness List for live witnesses ( see attached form, also available on the
+Court’s website). Original must be filed in accordance with Local Rules;
+two (2) courtesy copies must be provided to the Court at the trial and/or
+hearing for distribution to all parties.
+3) Objections to Exhibits, if any, must be filed within seven (7) calendar days
+after the exhibit is listed and made available and at least seven (7) days
+before trial. Failure to object in advance of trial in writing concedes
+authenticity. See CrLR55.2(A) and (B).
+B. For Jury Trials:
+1) Voir Dire. The Court will conduct the principal examination of the venire.
+Counsel will be generally allowed fifteen ( 15) to thirty ( 30) minutes
+(depending on the complexity of the case) to conduct an examination of the
+venire, provided that the proposed voir dire questions are submitted in
+advance to the Court.
+Each proposed voir dire question must be in question form. Counsel must
+file an original copy of any proposed voir dire questions according to Local
+Rules. Counsel must also provide TWO (2 ) courtesy copies of any
+proposed voir dire questions.
+2) Jury Instructions . The Court utilizes the Fifth Circuit Pattern Jury
+Instructions, as modified by case law or statutory amendments, when
+composing its jury instructions . A party should file proposed jury
+instructions only to request the addition or substitution of unique and/or
+non-standard instructions. Each requested instruction must be numbered
+and supported by authority.
+3) Motions in limine are not required but may be filed when a party seeks
+the Court’s ruling on a unique or novel evidentiary dispute. The Court
+strongly discourages and may strike motions in limine that simply seek to
+have the Court admonish the other party to follow the Federal Rules of
+Evidence and Criminal Procedure or other well -known rules of jury trial
+practice, all of which counsel must understand and follow. See Attachment
+A, which enumerates a non -exhaustive list of basic trial rules and
+expectations that should not be included in a motion in limine.
+Additionally, if counsel harbors doubt as to whether his or her anticipated
+conduct at trial will violate the rules or expectations, counsel must seek
+permission to take that action in a motion in limine . Failure to ask
+Updated: June 23, 2025
+8
+permission prior to taking a potentially prohibited action may result in
+sanctions.
+C. For Non-Jury Trials, each party must file:
+1) Proposed Findings of Fact (electronically in Microsoft Word). The Court
+strongly encourages counsel to reference testimony and exhibits that
+support each proposed finding of fact;
+2) Proposed Conclusions of Law (electronically in Microsoft Word). Each
+proposed conclusion of law will contain citation to legal authority
+supporting the conclusions.
+10. PROCEDURES FOR JURY TRIALS
+A. Unless an attorney has commenced trial in another court, prior trial settings will not
+cause a case to be continued.
+B. Voir Dire. The Court will conduct the principal examination of the venire.
+Counsel will be generally allowed fifteen (15) to thirty (30) minutes (depending on
+the complexity of the case) to conduct an examination of the venire, provided that
+the proposed voir dire questions are submitted in advance to the Court. See § 8.B
+above. The Magistrate Judge may conduct voir dire as requested by the Court with
+the consent of the parties.
+C. Exhibits.
+1) Counsel must be familiar with CrLR55.2 regarding authentication of,
+objections to, and disposition of exhibits at criminal trials.
+2) Any exhibits containing personal data identifiers must comply with S.D.
+Texas General Order #2004-11 (available at the District website).
+3) All exhibits must be marked and exchanged among counsel prior to trial.
+The offering party will mark each of his /her own exhibits with the party =s
+name, case number, and exhibit number.
+4) The Court will admit all exhibits without objection into evidence as the first
+order of business. Sensitive exhibits ( e.g., weapons, drugs, and money)
+will remain in the custody of the government agent throughout the
+proceedings.
+5) Counsel will not pass exhibits to the jury during trial without obtaining
+permission in advance from the Court. All admitted exhibits will go to the
+jury during its deliberations.
+6) Counsel for each party is required to provide the Court with two (2) printed
+copies of that party=s exhibits in a properly tabbed and indexed notebook.
+Updated: June 23, 2025
+9
+7) Disposition of Exhibits Following Trial.
+a. Exhibits that are not easily stored in a file folder (e.g., posters, parts,
+or models) must be withdrawn after the completion of the trial and
+substituted with reduced reproductions or photographs.
+b. If there is no appeal, exhibits will be removed by the offering party
+within thirty (30) days after the time for appeal has elapsed. When
+there is an appeal, exhibits returned by the Court of Appeals will be
+removed by the offering party within ten (10) d ays after written
+notice from the clerk.
+c. Exhibits not removed will be disposed of by the clerk, and the
+expenses incurred will be taxed against the offering party.
+D. Equipment.
+1) Sound and Video Equipment : The Court has projection, document camera,
+sound, and video equipment in the courtroom. Counsel are invited to use that
+equipment during trial. Counsel who wish to test the equipment prior to trial
+shall contact the Case Manager to make arrangements to test the equipment.
+Parties also may provide their own equipment, but special arrangements must
+be made with the Case Manager prior to the day of trial.
+2) Internet service is available for attorneys.
+3) The Court will not provide a printer.
+4) Devices for auditory assistance are available for the hearing impaired.
+11. COURTROOM PROCEDURES
+A. Hours. The Court will generally convene for trial at 8:30 a.m. and adjourn at 5:30
+p.m., recessing for lunch between 12:00 p.m. and 1:00 p.m.
+B. Access at Other Times . Counsel requesting access to the courtroom to set up
+equipment or exhibits before or after normal hours of Court must make
+arrangements in advance with the Case Manager.
+C. Telephones. Telephone messages for counsel will not be taken by the Court ’s
+staff, and counsel shall refrain from requesting use of telephones in chambers.
+D. Filing of Documents. Handing documents to the Court or Case Manager does not
+constitute the filing of the documents in the CM/ECF system.
+1) All original documents must be filed through the CM/ECF system.
+Updated: June 23, 2025
+10
+2) Copies of documents filed within two (2) days prior to and during trial
+should be submitted to the Case Manager in duplicate.
+C. Decorum.
+1) Attorneys are required to wear standard business attire. Counsel and
+parties will comply with CrLR 57.2 and Appendix C regarding courtroom
+behavior. These procedures will be strictly enforced.
+3) Counsel will ensure that all parties and witnesses refrain from chewing gum,
+drinking, eating, smoking, or reading newspapers, books, etc., in the
+courtroom. No cellular telephones, pagers , iPads, computers or other
+electronic devices are allowed in the courtroom. Attorneys needing to use
+computers or iPads during trial must seek prior approval. Recording
+equipment and photographic mechanisms are strictly prohibited.
+F. Witnesses.
+1) Counsel are responsible for summoning witnesses into the courtroom and
+instructing them on courtroom decorum and attire. Counsel may question
+witnesses while standing at the podium or seated at Counsel table.
+2) Counsel must obtain the Court’s permission before approaching a witness.
+3) Counsel shall make every effort to elicit from the witnesses only
+information relevant to the issues in the case and to avoid cumulative
+testimony.
+4) Counsel should bear in mind the Court ’s hours and arrange for witnesses
+accordingly. The Court will not recess to permit counsel to call a missing
+witness unless he or she has been subpoenaed and has failed to appear.
+5) Mode and Order of Examination: A party will be allowed to conduct a
+direct examination of its witnesses to be followed by cross-examination by
+opposing counsel. Interrogation will conclude with a re-direct examination,
+which is limited by the scope of cross-examination.
+The Court will not allow any Are-cross@ or Are-re-direct,@ except in
+extraordinary circumstances and upon request by counsel.
+G. Deliberations. While the jury is deliberating, Counsel are to remain near the
+courtroom to be available for jury notes or a verdict.
+Updated: June 23, 2025
+11
+12. SENTENCING PROCEDURES
+A. The purpose of these sentencing procedures is to promote thorough research and
+robust, intelligent discussion about the legal issues raised by the parties. The
+procedures below are meant to raise the quality of advocacy on behalf of those
+being sentenced and by the Government in order to assist the Court in reaching
+decisions based on a fair and impartial application of the law to the facts of each
+case.
+B. PSI Report Completion Deadline. The Court will set a deadline for completion
+of the Presentence Investigation (“PSI”) Report by the U.S. Probation Office. It is
+the responsibility of counsel to obtain the PSI Report. The U.S. Probation Office
+is not required to further advise counsel of the completion of the PSI Report.
+C. Statements of Acceptance of Responsibility . Pursuant to U.S.S.G. § 3E1.1, a
+defendant who truthfully admits the conduct comprising the offense of conviction
+at the plea colloquy may adopt and submit the factual basis statement to the Court
+for consideration in determining whether the defendant qualifies for adjustment
+under subsection (a).
+D. Responses to PSI Report.
+1) Objections or Statements of Non -Opposition. The attorney for the
+Defendant and the attorney for the Government shall submit either written
+objections or a written statement of non-opposition to the U.S. Probation Office
+and serve the same on opposing counsel within fourteen (14) days of receiving
+the PSI Report. See FED. R. CRIM. P. 32(f); S.D. Tex. CrLR 32.6; U.S.
+SENTENCING GUIDELINES MANUAL § 6A1.2 (2013).
+Legal objections to the PSI Report require citations to supporting and contrary
+authority. When filing objections , counsel must note if the issue has been
+decided by binding or non -binding precedent and/or if the objection is being
+filed merely to preserve the issue for further appellate review.
+2) Responding to Objections. No later than fourteen (14) calendar days after
+receiving a party’s objections to the PSI Report, opposing counsel shall file a
+written response to the objections. Absent a clear demonstration of good
+cause, a party’s failure to timely respond and dispute the objections filed by
+opposing counsel concedes the issue so long as the objection is non -frivolous.
+An objection is frivolous, for example, if it is foreclosed by binding precedent,
+unless it is merely filed to preserve the is sue for further review. A party is not
+Updated: June 23, 2025
+12
+required to respond to objections foreclosed by binding precedent and filed to
+preserve the issue.
+3) Extensions. If additional time is required, counsel may request up to five (5)
+business days from the U.S. Probation Office without filing a formal motion
+with the Court. If more than five (5) business days are needed, a motion to
+extend time to file objections should be immediately filed. A sample proposed
+order is attached and is available on the Court’s website.
+E. Sentencing Memorandum. Counsel shall also file, within fourteen (14) calendar
+days of receiving the PSI Report, any sentencing memorandum with any pertinent
+attachments—such as letters and photographs —for consideration of grounds for
+departures under the Sentencing Guidelines or variances under 18 U.S.C. §3553(a).
+Requests for departures and/or variances must be supported by a factual basis and
+cite supporting legal authority.
+F. “Safety Valve” Debriefs in applicable drug offenses pursuant to 18 U.S.C.
+§ 3553(f) and U.S.S.G. § 5C1.2, must be completed no later than one week prior to
+the PSI Report disclosure date. The attorney for the Government shall timely notify
+the U.S. Probation Office of any recommendations prior to the disclosure deadline.
+13. ATTACHMENTS
+A. Non-Exhaustive List of Basic Trial Rules and Expectations
+B. Template Exhibit List
+C. Template Witness List
+D. Motion and Order for Admission Pro Hac Vice
+E. Template Proposed Order Extending Deadline for Objections to the PSI Report and
+Sentencing Memorandum
+Updated: June 23, 2025
+13
+ATTACHMENT “A”
+Non-Exhaustive List of Basic Trial Rules and Expectations
+1. The Government shall not comment on a defendant’s right to remain silent, see Griffin v.
+California, 380 U.S. 609, 615 (1965), or attempt to improperly shift its burden of proof to a
+defendant.
+2. The Government shall not introduce prior bad acts without giving the Defendant proper notice
+and obtaining a ruling from the Court. See Fed. R. Evid. 404(b)(3).
+3. The Defendant shall not elicit improper self -serving hearsay statements made by the
+Defendant. See Fed. R. Evid. 801.
+4. The Defendant shall not allude to information that could only come to the jury’s attention
+through the sworn testimony of the Defendant unless Defendant informs the Court that he or
+she will testify and does in fact testify.
+5. The Defendant must provide the Government proper notice of the affirmative defenses he or
+she wishes to raise. See, e.g., Fed. R. Crim. P. 12.1-12.3.
+6. Neither party shall elicit an opinion about whether the Defendant had a mental state or
+condition that constitutes an element of the crime or defense. Fed. R. Evid. 704.
+7. Neither party shall improperly vouch for the credibility of their witnesses. See Fifth Circuit
+Pattern Jury Instructions (Criminal Cases) § 1.09 (2019).
+8. Neither party shall make personal attacks against the other. S.D. Tex. L.R., App’x C.
+9. Neither party shall divulge any plea, plea discussion, or any related statement prohibited by
+Fed. R. Evid. 410.
+10. Neither party shall, during opening statements, comment on any exhibit not previously
+furnished to opposing counsel and admitted as evidence.
+11. Neither party shall admit or reference extrinsic evidence of specific instances of a witness’s
+conduct that may be used to attack or bolster the witness’s character for truthfulness, except
+for a criminal conviction as permitted by Fed. R. Evid. 608(b).
+12. Neither party shall introduce statements that violate the rule against hearsay. Fed. R. Evid.
+802.
+13. Neither party shall comment on punishment or make arguments designed to elicit sympathy
+or jury nullification. See Fifth Circuit Pattern Jury Instructions (Criminal Cases) § 1.04
+(2019).
+14. All parties must provide proper notice of expert witness testimony. See Fed. R. Crim. P. 16.
+Expert testimony is appropriate when the expert’s specialized knowledge will help the trier
+of fact understand the evidence or make a factual finding. Fed. R. Evid. 702.
+Updated: June 23, 2025
+14
+UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF TEXAS
+UNITED STATES OF AMERICA
+VERSUS - - - - - - - - - - - - - - -
+CRIMINAL ACTION NO.
+EXHIBIT LIST
+JUDGE JOHN A. KAZEN
+CASE MANAGER: JESSICA RODRIGUEZ
+LIST OF
+Q GOVERNMENT Q DEFENDANT
+PROCEEDING: DATE (S):
+NO.
+DESCRIPTION
+OBJ
+ADM
+NOT
+ADM
+DATE
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+Updated: June 23, 2025
+15
+UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF TEXAS
+UNITED STATES OF AMERICA
+VERSUS - - - - - - - - - - - - - - -
+CRIMINAL ACTION NO.
+WITNESS LIST
+JUDGE JOHN A. KAZEN
+CASE MANAGER: JESSICA RODRIGUEZ
+LIST OF
+Q GOVERNMENT Q DEFENDANT
+PROCEEDING: DATE (S):
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Updated: June 23, 2025
+16
+16
+Updated: June 23, 2025
+17
+UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF TEXAS
+Motion and Order for Admission Pro Hac Vice
+Division Case Number
+vs.
+*I understand that the Court requires strict compliance with the Local Rules for the Southern District of Texas and the
+Court Procedures for District Judge Kazen, which are applicable to cases assigned to Judge Kazen. The rules are
+available by visiting the Court’s website.
+The state bar reports that the applicant’s status is:
+Dated:
+Clerk’s signature
+This lawyer is admitted pro hac vice.
+Dated:
+John A. Kazen
+United States District Judge
+Lawyer’s Name
+Firm
+Street
+City & Zip Code
+Telephone & Email
+Licensed: State & Number
+Federal Bar & Number
+Name of party applicant seeks to
+appear for:
+Has applicant been sanctioned by any bar association or court? Yes No
+On a separate sheet for each sanction, please supply the full particulars.
+Dated:
+Signed*:
+Order Granting Motion for Admission Pro Hac Vice
+18
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF TEXAS
+LAREDO DIVISION
+UNITED STATES OF AMERICA §
+§
+§
+§
+§
+VS. CRIMINAL ACTION NO. 5:xx-CR-xxx
+DEFENDANT
+ORDER
+Pending before the Court is Defendant =s Motion to Extend Time to File
+Objections to the Pres entence Investigation Report , and Sentencing
+Memorandum. After review, the motion is
+ DENIED.
+ GRANTED. The Court hereby Orders the Objections to the Presentence
+Investigation Report and Sentencing Memorandum be filed by
+_________________, 202___ at 5:00 p.m.
+SIGNED this _____ day of ________, 202__.
+_______________________________
+John A. Kazen
+United States District Judge

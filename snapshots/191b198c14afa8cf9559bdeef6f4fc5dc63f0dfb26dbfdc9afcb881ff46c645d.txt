@@ -1,0 +1,30 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF OHIO
+EASTERN DIVISION
+STANDING ORDER ON THE USE OF GENERATIVE ARTIFICAL INTELLIGENCE
+The use of generative Artificial Intelligence (“AI”) by attorneys and pro se litigants to
+prepare pleadings, motions, briefs, and other documents has raised concerns over the reliability,
+accuracy, and volume of filings in this Court.
+Rule 11(b) of the Federal Rules of Civil Procedure provides that by submitting a pleading,
+motion, brief, or other paper to the Court, an atto rney or pro se litigant certifies that their claims,
+defenses, and other legal contentions are warr anted by existing law and that their factual
+contentions have evidentiary support.
+It is hereby ORDERED that any party, including a pro se litigant, who uses generative AI
+to help generate the content of any portion of a pleading, motion, brief, or other document must
+submit a declaration disclosing the use of generative AI. The declaration shall be captioned
+“Disclosure of the Use of Generative AI.” The declaration must identify the content (by page,
+section, or paragraph number) which was prepared with the assistance of generative AI and state
+the platform used (ChatGPT, Gemini, etc.). In the declaration, the attorney or pro se litigant must
+CERTIFY that they have reviewed the relevant so urce material and have verified that all
+submissions to the Court are accurate, and that they have complied with their obligations under
+Rule 11(b).
+An attorney or pro se litigant who signs a pleading, motion, brief, or other document
+submitted to the Court is responsible for the conten ts of that filing under Ru le 11, regardless of
+whether they used generative AI to generate any portion of that filing. The failure to comply with
+Rule 11(b) may result in sanctions under Rule 11(c).
+IT IS SO ORDERED.
+October 21, 2025 s/ James L. Graham
+James L. Graham
+United States District Judge
+OCT 21 2025 11:52A
+OCT 21 2025 11:52A

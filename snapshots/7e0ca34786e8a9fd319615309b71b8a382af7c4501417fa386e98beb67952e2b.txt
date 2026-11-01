@@ -1,0 +1,219 @@
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ALABAMA
+Choose an item. DIVISION
+Plaintiff(s).,
+Plaintiff,
+v.
+Defendant(s).,
+Defendants.
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+Case No.: Case Number.
+HAIKALA CHAMBERS INITIAL ORDER
+The Court enters this order to help “secure the just, speedy, and inexpensive
+determination” of this action. Fed. R. Civ. P. 1. The Court expects the parties to be
+adversaries with respect to the substantive issues litigated in this action, but counsel
+should cooperate in the litigation process in the spirit of Rule 1.
+The information contained in the sections that follow address these topics:
+I. Initial Screening of the Complaint
+II. Motions to Dismiss
+III. Rule 26(f) Obligations/Draft Scheduling Orders
+IV. Protective Orders
+V. Communication with the Court
+VI. Required E-Mail Submissions to Chambers
+VII. Briefing Format and Requirements including AI Disclosures
+VIII. Filing Procedures
+IX. Fee Shifting Cases
+X. Oral Argument
+2
+XI. Use of AI to Create Court Submissions
+Please read this order closely; this initial order governs all proceedings in this case.*
+I. Initial Screening of the Complaint
+The Court has reviewed the complaint, and the Court finds that it may exercise
+jurisdiction over the subject matter of this action. The Court has an ongoing
+obligation to assess subject matter jurisdiction. Univ. of S. Alabama v. Am. Tobacco
+Co., 168 F.3d 405, 410 (11th Cir. 1999) (“[I]t is well settled that a federal court is
+obligated to inquire into subject matter jurisdiction sua sponte whenever it may be
+lacking.”); see also Burr & Forman v. Blair, 470 F.3d 1019, 1035 n. 38 (11th Cir.
+2006). If, on motion from a party or on its own review, the Court determines that it
+may not have jurisdiction over the subject matter of this action, then the Court will
+give the parties an opportunity to address the jurisdictional issue.
+II. Motions to Dismiss
+When a defendant files a motion to dismiss, the Court will enter an order that
+sets either a briefing schedule or a hearing to discuss the motion.
+The Court often receives motions to dismiss that describe perceived
+deficiencies in the factual allegations of a complaint. Under the Federal Rules of
+Civil Procedure, a complaint must contain “a short and plain statement of the claim
+showing that the pleader is entitled to relief.” FED. R. CIV. P. 8(a)(2). A plaintiff
+* This case is not governed by the Uniform Initial Order for the Northern District of Alabama.
+3
+may amend a complaint to address pleadings deficiencies that cause a complaint to
+fall short of the requirements of Rule 8. A district court must “freely give leave” to
+amend “when justice so requires.” FED. R. CIV. P. 15(a)(2). Accordingly, if counsel
+for a defendant believes that factual allegations in a complaint do not meet Rule 8’s
+notice requirement, then counsel for the defendant must confer with counsel for the
+plaintiff before filing a motion to dismiss and ask counsel for the plaintiff to cure the
+perceived deficiencies.
+If the plaintiff’s attorney agrees to amend the complaint, then the parties shall
+file a notice advising the Court that they have conferred, and the plaintiff has opted
+to file an amended complaint. The joint notice relieves the defendant(s) of the
+obligation of responding to the original complaint. If , after conferring with the
+plaintiff, the parties are not able to agree, and the defendant files a motion to dismiss,
+then the defendant shall state on the first page of the motion that the parties conferred
+before the defendant filed the Rule 12(b)(6) motion.
+The obligation to confer pertains only to Rule 12(b)(6) motions to dismiss
+based on the sufficiency of the factual allegations in the complaint. There is no such
+obligation for other motions to dismiss.
+This instruction does not apply to cases in which individuals are handling their
+cases pro se without the assistance of an attorney.
+4
+III. Rule 26(f) Obligations
+Within 14 days of the appearance of a ll defendants, the parties must confer
+pursuant to Rule 26(f). 1 If this case involves more than one defendant and if, 90
+days from the date on which the plaintiff(s) filed the complaint, the defendants have
+not all been served and/or appeared, the parties shall file a joint notice advising the
+Court of the status of the case.
+At least seven days before the parties conduct a discovery conference
+pursuant to Rule 26(f), the parties shall exchange the initial disclosures that Federal
+Rule of Civil Procedure 26(a)(1) requires. The Court asks the parties to please
+exchange as much information as possible before the discovery conference to
+facilitate better discussions during the discovery meeting.2
+The parties’ discussions during their Rule 26(f) conference shall cover the
+following topics:
+• the nature of the claims and defenses, the complexity of the case, and
+the possibility of a prompt settlement or resolution of the case through
+formal mediation or informal settlement negotiations;
+• preservation of discoverable information;
+1 Rule 26(f)(2) provides: “[T]he court may order the parties or attorneys to attend the conference
+in person.” FED. R. CIV. P. 26(f)(2). The Court does not require the parties to meet in person, but
+the Court encourages the parties to conduct their Rule 26(f) conference in person or by video
+conference.
+2 The Court recognizes that in some circumstances, a party may not be able to provide complete
+initial disclosures before the Rule 26(f) conference. The parties must supplement initial
+disclosures pursuant to Rule 26(e).
+5
+• a proposed discovery plan that briefly describes the parties’ positions
+and provides proposed deadlines for the matters addressed in sub -
+paragraphs (A) through (F) of FED. R. CIV. P. 26(f)(3); and
+• execution of authorization(s) for disclosure of “protected health
+information” in cases in which the provisions of the Health Insurance
+Portability and Accountability Act of 1996 (“HIPAA”), Pub. L. No.
+104-191, 110 Stat. 1936 (1996), and regulations promulgated under the
+Act, apply.3
+Within three days of the Rule 26(f) meeting, the parties must file a joint report
+of their planning meeting. The report must include:
+• a brief description of the nature of the case;
+• a list of related cases or proceedings pending bef ore another judge of
+this court or before another court or administrative body;
+• an indication of the parties’ assessment of the complexity of the case;
+and
+• an analysis of the case’s suitability for an early settlement conference
+or mediation.
+Using the Word template at https://www.alnd.uscourts.gov/content/judge-madeline-
+h-haikala, t he parties shall email to chambers at
+haikala_chambers@alnd.uscourts.gov in Word a draft scheduling order that
+provides proposed deadlines for discovery and dispositive motions and proposed
+3 If the parties require a HIPAA protective order, they may find a draft order at the Court’s website
+at https://www.alnd.uscourts.gov/content/judge-madeline-h-haikala. The parties should tailor the
+draft order to the needs of their case and email the ir draft protective order to the chambers email
+address, haikala_chambers@alnd.uscourts.gov.
+6
+limits on the number of discovery requests. The Court will provide a date for a post-
+discovery status conference.
+IV. Protective Orders
+If the parties a nticipate an exchange of information that is confidential or
+proprietary, then the parties shall please email a draft protective order to chambers
+at haikala_chambers@alnd.uscourts.gov in Word format. T he parties shall please
+include the following language in a proposed protective order:
+Any person who reviews or receives confidential material shall not
+disclose such information to any other person except as allowed by and
+in strict conformity with this Order. Attorneys of record shall advise
+all persons who are given access to confidential information of the
+terms of this order and shall have all persons who are given access to
+confidential information other than members of the attorneys’ staff sign
+a copy of this order to acknowledge their familiarity with the terms of
+the order and its binding force. Individuals who are shown confidential
+information shall not be allowed to retain copies and shall not use the
+confidential information for any purpose unrelated to this litigation.
+V. Communication with the Court
+The Court may not engage in ex parte communications. If attorneys need to
+contact chambers, the y shall email chambers at
+haikala_chambers@alnd.uscourts.gov and copy all counsel of record on the email.
+VI. Required E-Mail Submissions to Chambers
+Counsel must e-mail to chambers in Word format copies of all filed motions
+that exceed 10 pages, copies of all filed briefs, and copies of all proposed orders. All
+7
+communications to the chambers email address must show a copy to all opposing
+counsel.
+VII. Briefing Format and Requirements
+Documents that the parties file shall use Times New Roman Font and 14-point
+font; footnotes may be in 12- point font. Documents must be double -spaced;
+footnotes and indented quotations that exceed three lines should be single-spaced.
+The party filing a motion shall indicate on the first page of the motion whether
+the motion is opposed or unopposed and whether the party requests oral argument.
+Citations to the record shall refer to the CM/ECF document number , page
+number, and paragraph or deposition line number, where available. Evidence cited
+in a brief must be filed in CM/ECF before a party files a brief to enable the party to
+cite to the evidence by CM/ECF document and page number. If a party cannot file
+evidence electronically before filing a brief, then the party shall, within three days
+of filing a brief, email to chambers (haikala_chambers@alnd.uscourts.gov) a Word
+version of the brief with CM/ECF record citations.
+VIII. Filing Procedures
+a. CM/ECF Record
+The official record of this case is maintained electronically in CM/ECF.
+Except in extraordinary circumstances, all fili ngs must comply with the Court’s
+Administrative Procedures Manual. Attorneys must register for electronic filing and
+8
+service through the “Attorney Registration” link on the Court’s website,
+www.alnd.uscourts.gov.4 Pro se litigants who lack electronic access may file
+documents conventionally in paper format.
+Documents filed through CM/ECF must be in .pdf (Portable Document
+Format). Should counsel or a pro se litigant have trouble filing a document, (s)he
+may call the Clerk’s Office at (205) 278-1700 and select option 3 for the Help Desk
+for assistance.
+b. Protected Information
+Counsel are reminded to please comply with the Court’s Administrative
+Procedures Manual for electronic filing (on the Court’s website) with respect to
+personal identifiers ( e.g., Social Security numbers, driver’s license numbers, birth
+dates, addresses, telephone numbers, bank account and credit card information) and
+other personal or sensitive information, in compliance with the E-Government Act.
+c. Sealing Documents
+If a party believes that information contained in a motion or an exhibit should
+be placed under seal, then the party must file a motion for leave to file the document
+under seal. If the Court grants the motion, the Court will review the information
+4 After an attorney has registered, his/her registration becomes permanent; (s)he is not required to
+re-register in each individual case.
+9
+placed under seal. Upon review, if the Court is inclined to lt the seal partially or
+entirely, then the Court will give the parties notice and an opportunity to be heard.
+IX. Fee Shifting Cases
+The Court’s website contains standard orders for fee shifting cases. The
+parties may access the Court’s website at http://www.alnd.uscourts.gov/content/
+judge-madeline-h-haikala. Parties must comply with those orders if they plan to
+seek an award of fees.
+X. Oral Argument
+The Court welcomes oral argument. Requests for oral argument shall appear
+on the first page of a motion or brief directly below the case number in the caption
+of the pleading.
+XI. Artificial Intelligence – Use of AI to Create Court Submissions
+Lawyers and pro se litigants who use technology like ChatGPT, Google Bard,
+Bing AI Chat, or other generative artificial intelligence services to prepare
+documents that the parties file in the record in this case are cautioned that generative
+AI technologies sometimes may produce factually or legally inaccurate content. The
+Court does not prohibit the use of AI, but to comply with Rule 11 of the Federal
+Rules of Civil Procedure and other applicable legal and ethical standards, attorneys
+and pro se litigants must review and verify computer -generated content to ensure
+that it is accurate and complies with all such governing standards.
+10
+Conclusion
+Counsel of record shall instruct all attorneys who work on this case, including
+in-house counsel, to review this order. The Court looks forward to working with the
+parties on this case.

@@ -1,0 +1,2345 @@
+COMMITTEE ON RULES OF PRACTICE AND PROCEDURE
+OF THE
+JUDICIAL CONFERENCE OF THE UNITED STATES
+WASHINGTON, D.C. 20544
+JAMES C. DEVER III
+CHAIR
+C
+AROLYN A. DUBAY
+SECRETARY
+CHAIRS OF ADVISORY COMMITTEES
+ALLISON H. EID
+APPELLATE RULES
+R
+EBECCA B. CONNELLY
+BANKRUPTCY RULES
+S
+ARAH S. VANCE
+CIVIL RULES
+MI
+CHAEL W. MOSMAN
+CRIMINAL RULES
+J
+ESSE M. FURMAN
+EVIDENCE RULES
+M
+EMORANDUM
+T
+O: Hon. James C. Dever III, Chair
+Committee on Rules of Practice and Procedure
+F
+ROM: Hon. Jesse M. Furman, Chair
+Advisory Committee on Evidence Rules
+RE
+: Report of the Advisory Committee on Evidence Rules
+DAT
+E: May 17, 2026
+_____________________________________________________________________________
+I. Introduction
+T
+he Advisory Committee on Evidence Rules (the “Committee”) met on May 7, 2026, in
+Washington, D.C. The Committee reviewed proposed amendments to Rule 609 and a proposed
+new Rule 707, which were approved for publication by the Standing Committee at its June 2025
+meeting. It also considered four other proposed amendments to the Evidence Rules.
+T
+he Committee now recommends (1) final approval of the proposed amendments to Rule
+609 and (2) proposed amendments to Rule 902(1) and Rule 104(a) and (b) for public comment .
+The Committee does not recommend action on the proposed Rule 707 at this time. Instead, it has
+revised the proposed Rule and plans to conduct further study on it and another issue relating to
+artificial intelligence — the problems posed by “deepfakes” — at its next meeting.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 525 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 2
+A full description of the Committee’s discussion can be found in the draft minutes of the
+Committee meeting, which are attached to this Report.
+II. Action Items
+A. Proposed Amendments to Rule 609 — for Final Approval
+The Committee recommends that proposed amendments to Rule 609 be forwarded to the
+Judicial Conference for final approval. In June 2025, the Standing Committee approved for public
+comment a modest proposed amendment to Rule 609(a)(1)(B), which currently allows for
+impeachment of criminal defendant witnesses with convictions not involving dishonesty or false
+statement if the probative value of the conviction in proving the witness’s character for truthfulness
+outweighs the prejudicial effect. The proposed amendment would result in the provision becoming
+somewhat more exclusionary. To be admitted, the probative value of the conviction would have
+to substantially outweigh its prejudicial effect. The amendment is narrower than other suggestions
+for changes made to, and rejected by, the Committee in the last three years, including a proposal
+to eliminate Rule 609 entirely and a proposal to delete Rule 609(a)(1), which would have meant
+that all convictions not involving falsity would be inadmissible to impeach a witness.
+After extensively reviewing the case law, t he Committee concluded that the amendment
+was warranted because a large number of courts have misappl ied the existing test to admit
+convictions that are either similar to the crime charged or otherwise inflammatory . This is
+especially problematic because appellate review of decisions to admit prior convictions for
+impeachment is rare. That is because, in Luce v. United States , 469 U.S. 38 (1984), the Supreme
+Court held that a defendant may appeal an adverse Rule 609 ruling only if he or she takes the stand
+at trial, so appeals by defendants of adverse Rule 609 rulings are rare.
+Through its slightly more protective balancing test, the amendment would promote
+Congress’s intent to provide more protection to criminal defendants so that they would not be
+unduly deterred from exercising their rights to testify. The Committee believes that the tweak to
+the applicable balancing test would encourage courts to more carefully assess the probative value
+and prejudicial effect of convictions that are similar or identical to the crime charged, or that are
+otherwise infla mmatory or less probative because they involve acts of violence. The proposal
+leaves intact Rule 609(a)(2), which governs admissibility of convictions involving dishonesty or
+false statements.
+In addition, the propos al released for public comment contain ed a slight change to Rule
+609(b), which covers older convictions. Subdivision (b) is triggered when a conviction is over ten
+years old. That ten- year period begins running from the date of conviction or release from
+confinement, whichever is later. But the current Rule does not specify the end date of the ten-year
+period. The absence of any guidance in the Rule has led courts to apply varying dates, including
+the date of indictment, the date that trial begins, and the date that the witness to be impeached
+actually testifies. The proposal released for public comment provides that the ten- year period
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 526 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 3
+would end on the date that the trial begins. The Committee determined that the date of trial is the
+date that is most easily administered, the least amenable to manipulation, and that it is a proper
+date for determining the credibility of a witness who is going to testify at the trial.
+The Committee received fifteen public comment s on the amendments to Rule 609. Save
+one, all commenters — including the Federal Magistrate Judges Association, the American
+College of Trial Lawyers, the New York City Bar Association, the National Association of
+Criminal Defense Lawyers, and the New York Council of Defense Lawyers — strongly supported
+the amendment. The one critical comment suggested a different endpoint for the Rule 609(b) time
+period; the Committee considered that suggestion and rejected it.
+At its May 7 th meeting, the Committee voted, by a margin of 7-2, in favor of
+recommending final approval of the proposed amendment s to Rule 609. The Department of
+Justice voted in favor of the proposal. Accordingly, t he Committee recommends that the
+proposed amendments, and the accompanying Committee Note — which are attached to this
+Report — be sent to the Judicial Conference for final approval.
+B. Proposed Amendment to Rule 902(1) – for Publication
+Before its Fall 2024 meeting, Judge Gregory K. Frizzell of the Northern District of
+Oklahoma suggested that the Committee consider adding federally recognized Indian tribes to
+Rule 902(1)(A), which provides that domestic public records that are sealed and signed are self -
+authenticating. Because Rule 902(1) (A) does not list Indian tribes, the government must use
+another route to authenticate proof of a defendant’s (or a victim’s) Indian status in federal
+prosecutions brought for crimes occurring in Indian country. There have been some recent cases
+in which the prosecution failed to prove Indian status by attempting, unsuccessfully, to meet the
+requirements of the business records exception to the hearsay rule, with authentication by
+certificate under Rule 902(11). The issue has arguably taken on more importance in light of the
+increase in relevant federal cases following the Supreme Court’s decision in McGirt v. Oklahoma,
+591 U.S. 894 (2020).
+The Committee sought and received input from Indian Tribes and Nations, as well as from
+the Federal Defenders. The Tribes and Nations that did weigh in strongly supported the change,
+on the ground that it would recognize the dignity and sovereignty of Indian tribes and Nations and
+would avoid the burden and expense of tribal officials traveling long distances to qualify tribal
+records. The Federal Defender’s position is that it is relatively simple to qualify a tribal record
+through a certification under Rule 902(11) (meaning that the failures of proof in the recent cases
+were attributable to the Department of Justice, not to the rules), that recordkeeping among Indian
+tribes may not be uniform, and that generally Indian Tribes do not allow open access to their
+records to non-members of the Tribe.
+After discussion, the Committee determined that it would be appropriate to add Indian
+Tribes and Nations to the list of entities in Rule 902(1)(A) whose public records are self -
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 527 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 4
+authenticating. The Committee ultimately saw no reason to differentiate the Tribes and Nations
+from the many other government entities whose records are currently self-authenticating.
+At its meeting, the Committee voted, by a margin of 8-1, to recommend approval of the
+proposal to amend Rule 902(1) for publication. The sole dissent was the Federal Defender
+representative on the Committee. The Committee therefore recommends that the proposed
+amendment to Rule 902(1)(A) and the accompanying Committee Note — which are attached to
+this Report — be released for public comment.
+C. Proposed Amendments to Rule 104 — for Publication
+Rule 104(a) makes the important point that, in deciding preliminary issues of fact, the trial
+judge is ordinarily not bound by the rules of admissibility. But one failing of Rule 104(a) is that it
+does not specify the standard of proof required for the court to find that evidence is admissible.
+In Bourjaily v. United States, 483 U.S. 171, 175 (1987), the Supreme Court held that the
+standard of proof for determinations of preliminary fact under Rule 104(a) is a preponderance of
+the evidence. But not having that standard in text has raised problems, some of which led to the
+amendment of Rule 702 in 2023 to set forth the preponderance standard in text (because many
+courts and litigants had been treating the admissibility requirements of the R ule as questions of
+weight rather than admissibility under Rule 104(a)). After the Rule 2023 amendment to Rule 702,
+some have argued that every subsequent amendment to the Evidence Rules will have to set forth
+the preponderance standard in text to avoid ambiguity.
+By contrast, Rule 104(b) does set forth a standard of proof, one less stringent than Rule
+104(a): evidence sufficient to support a finding. Per the Rule, t hat standard purportedly applies
+only to questions of “conditional relevance” — i.e., when the probative value of one piece of
+proffered evidence depends on the existence of another. (For example, when a statement is offered
+to prove someone’s state of mind, it is conditioned on that person having heard it.) In Huddleston
+v. United States, 485 U.S. 681, 687 (1988), t he Supreme Court held that Rule 104(b) requires a
+court to find only whether the finder of fact could reasonably find a fact by a preponderance of the
+evidence. But the problem with Rule 104(b) is that the standard covers only so-called “conditional”
+relevance, as distinct from all other questions of relevance (which some have called “logical”
+relevance). This leaves the standard of proof for other relevance questions undetermined. What’s
+more, “conditional” relevance is a confusing concept, because it fails to recognize that all questions
+of relevance involve some condition. See, e.g., Ron Allen. The Myth of Conditional Relevance, 25
+Loyola L. Rev. 871, 879 (1992).
+The Committee reviewed the case law on Rule 104(b) and found that there is some
+confusion about its application. Some courts have mistaken admissibility requirements (supposed
+to be covered by Rule 104(a)) as “conditions” and thus covered by the less demanding
+requirements of Rule 104(b). Some litigants have argued that the court must make a finding of
+“conditional” relevance when the proffered evidence is clearly relevant. Some courts have applied
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 528 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 5
+Rule 104(a) to issues that are really questions of trial sequencing rather than conditional relevance.
+Moreover, even where cases get it right , there is often a substantial waste of resources litigating
+“conditions” that are virtually pointless to litigate. Relevancy questions should be quite
+straightforward determinations of reasonableness that do not require briefing and hearings.
+After discussion, the Committee unanimously approved amendments to both Rule 104(a)
+and (b) for release for public comment. The amendment to Rule 104(a) is straightforward. It simply
+adds a sentence to the Rule:
+(a) In General. The court must decide any preliminary question about whether a
+witness is qualified, a privilege exists, or evidence is admissible. In so deciding,
+the court is not bound by evidence rules, except those on privilege. Unless
+otherwise provided in these rules, the proponent must establish the existence of a
+preliminary fact by a preponderance of the evidence.
+The proposed amendment to Rule 104(b) would eliminate the unhelpful concept of
+“conditional” relevance and provide that the standard of proof for all questions of relevance is
+whether a jury could reasonably find that the evidence has a tendency to make a fact of
+consequence more or less probable than without the evidence:
+(b) R elevance That Depends on a Fact. When the relevance of evidence depends on
+whether a fact exists, proof must be introduced sufficient to support a finding that
+the fact does exist. To establish that evidence is relevant, the proponent must
+demonstrate to the court that the trier of fact could reasonably find that the
+requirements of Rule 401 have been met. In making its relevance determination,
+the court may consider the evidence itself, other evidence, and common knowledge
+and experience. The court may admit proposed evidence on the condition that the
+further proof be introduced later.
+Beyond eliminating the confusing concept of “conditional” relevance, the proposed
+amendment to Rule 104(b) makes two further improvements:
+• It sets forth a standard of proof for all relevant evidence, which was a question not
+specifically covered in the original R ule, meaning technically the question of “logical”
+relevance was covered by Rule 104(a) — thus creating the anomaly that questions of
+“conditional” relevance were subject to a lesser standard of proof than questions of
+“logical” relevance.
+• It eliminates the confusing and problematic phrase “proof sufficient to support a finding.”
+The fact is that questions of relevance may be determined without “proof” as they might
+be simple questions of logic and experience.
+At its meeting, the Committee unanimously voted to recommend the proposal to amend
+Rule 104(a) and (b) for publication. Accordingly, the Committee recommends that the proposed
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 529 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 6
+amendments to Rule 104, and the accompanying Committee Note — which are attached to this
+Report — be released for public comment.
+III. Information Items
+A. Artificial Intelligence
+For the past three years, the Committee has been researching and investigating whether the
+existing Evidence Rules are sufficient to assure that evidence created by a rtificial intelligence
+(“AI”) will be properly regulated for reliability and authenticity. The Committee has determined
+that there are two evidentiary challenges raised by AI: ( 1) evidence that is an acknowledged
+product of AI, such as machine learning, which would be subject to Rule 702 if propounded by an
+expert witness; and (2) evidence that is not authentic because it is a difficult-to-detect deepfake.
+1. Output of Artificial Intelligence
+As to acknowledged AI (such as a machine-learning program that compares two works of
+art to determine similarity), the concern is that it might be unreliable, and yet the unreliability will
+be buried in the program and difficult to detect. The hearsay rule is likely to be inapplicable
+because the solution to hearsay is cross-examination, and an AI process cannot be cross-examined.
+The Committee’s view is that the reliability issues attend ant to AI are akin to those raised by
+experts under Rule 702. Indeed, Rule 702 is applicable to AI if it is used by a testifying expert to
+reach her conclusion. But Rule 702 is not cle arly applicable if the AI output is admitted without
+any expert testimony — either directly (for example, under Rule 902(13)) or by way of a lay
+witness (such as where facial recognition testimony is proffered by a person who merely “pressed
+the button” and has no idea how the system works).
+After extensive study and discussion, the Committee concluded that a new rule of evidence
+might be appropriate to regulate the admissibility of a product of AI that is introduced without the
+testimony of any expert. The Committee concluded that amending Rule 702 itself would not be
+workable, for two reasons: ( 1) that Rule was just amended in 2023; (2) it is a rule of general
+applicability, and a separate subdivision dealing with machine evidence would be inappropriately
+specific and difficult to draft . The Committee’s solution was to draft a new Rule 707 providing
+that if “ machine-generated” evidence is introduced without an expert witness, and it would be
+considered expert testimony if presented by a witness, then the standards of Rule 702(a) -(d) are
+applicable to that output.
+That proposed Rule 707 was released for public comment last August. The Committee was
+of the view that the issuance for public comment did not mean that there was a presumption that
+the Rule would go forward. The Committee believed that, in this difficult and fast-developing area,
+public comment would be useful in sharpening the Rule and, indeed, in determining whether any
+Rule is even necessary.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 530 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 7
+The public comment on the proposed Rule 707 was mixed, but helpful . A few
+commentators were of the view that the time is not ripe for an amendment requiring that AI -
+generated evidence offered without an expert must be reliable because, at this point , there is no
+problem to address, and the Committee should wait to see how AI develops . (By contrast, many
+commentators, such as the ACLU and the New York City Bar Association, s tated that the time is
+ripe and that the problem of AI being presented without expert testimony is occurring today,
+especially in criminal cases.) Most commentators thought that the term “machine-generated” was
+overbroad. Others contended that any rule should contain notice provisions, either in the rule text
+itself or as part of a joint project with the Civil and Criminal Rules Committee s. Others thought
+that any rule should have its own independent requirements and should not tie into Rule 702 (even
+though this would lead to AI evidence being covered by one set of rules when an expert testifies
+and a different set when the expert does not).
+Another important issue of dispute raised by public commentary was whether AI-produced
+evidence should ever be admissible without an expert foundation. Some argued that an expert
+foundation should always be required. Others argued that an “expert -only” foundation was
+unnecessarily strict and that AI could be shown to be reliable through evidence such as unbiased
+validation tests — or perhaps that, in the future, AI could be “self-validating,” in which event an
+“expert-only” requirement would be outmoded.
+The Committee reviewed all the public comments and considered several alternative
+redrafts of Rule 707 prepared by the Reporter. Committee members preferred the draft that
+provided a presumption that an expert foundation was required but also allowed for the possibility
+that other evidence might show that the AI is reliable. This redraft also includes a notice provision,
+and focuses on “artificial intelligence” rather than “machine -generated” information. The draft,
+and proposed Committee Note, provides as follows:
+Rule 707. Evidence Produced by Artificial Intelligence and Presented at Trial Without 1
+an Expert 2
+(a) General Rules. If evidence is a product of artificial intelligence and is 3
+offered without an expert witness, but would be subject to Rule 702 if 4
+testified to by a witness, the proponent must establish that the evidence: 5
+(1) will help the trier of fact; 6
+(2) is based on sufficient facts or data; 7
+(3) is the product of reliable principles and methods; and 8
+(4) reflects a reliable application of the principles and methods to the 9
+facts of the case. 10
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 531 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 8
+(b) Establishing Admissibility. Admissibility under this rule ordinarily 11
+requires the proponent to provide an expert to explain how the system of 12
+artificial intelligence reliably produced the evidence; but in exceptional 13
+circumstances, the court may rely upon other proof to find that the output 14
+satisfies the requirements of (a)(2)-(4). 15
+(c) Notice. The evidence is admissible only if the proponent gives an adverse 16
+party reasonable notice of the intent to offer the evidence — so that the party 17
+has a fair opportunity to meet it. 18
+(d) Judicial Notice. This rule does not apply to facts that may be judicially 19
+noticed under Rule 201. 20
+(e) Definition. In this rule, “artificial intelligence" means a machine -based 21
+system that can, for a given set of human- defined objectives, make 22
+predictions, recommendations or decisions influencing real or virtual 23
+environments. 24
+Committee Note 25
+The admissibility of evidence generated by artificial intelligence (AI) raises questions 26
+about reliability. AI involves the use of a computer -based process or system to make predictions 27
+or draw inferences from existing data. The concerns about the reliability of that process are akin 28
+to the reliability concerns about expert witnesses. Problems include using the process for purposes 29
+that were not intended (function creep); analytical error or incompleteness; inaccuracy or bias built 30
+into the underlying data or formulas; and lack of interpretability of the machine’s process. Where 31
+a testifying expert relies on AI, the validity of that reliance will be scrutinized under the reliability 32
+requirements of Rule 702. But if AI is proffered without the accompaniment of a human expert 33
+(for example through a witness who applied the program but knows little or nothing about its 34
+reliability), Rule 702 is not obviously applicable. Yet it cannot be that a proponent can evade the 35
+reliability requirements of Rule 702 by offering AI output directly or through a lay witness, where 36
+the output would be subject to Rule 702 if rendered as an opinion by a human expert. Therefore, 37
+new Rule 707 provides that if AI is offered without the accompaniment of an expert, and where 38
+the output would be treated as expert testimony if coming from a human expert, its admissibility 39
+is subject to requirements that are the same as imposed by Rule 702. 40
+The rule applies when AI-generated evidence is entered directly, but also when it is 41
+accompanied by lay testimony. For example, the technician who enters a question and prints out 42
+the answer might have no expertise on the validity of the output. Rule 707 would require the 43
+proponent to make the same kind of showing of reliability as would be required when an expert 44
+testifies on the basis of AI-generated information. 45
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 532 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 9
+If the AI output is the equivalent of expert testimony, it is not enough that it is self -46
+authenticated under Rule 902(13). That rule covers authenticity, but does not assure reliability 47
+under the preponderance of the evidence standard applicable to expert testimony — and of course 48
+applicable under Rule 707. See Adv. Comm. Note to Rule 902(13) (noting certification 49
+authenticating computer output “does not preclude an objection that the information produced is 50
+unreliable”). 51
+This rule is not intended to encourage parties to opt for AI evidence over live expert 52
+witnesses. Indeed the point of this rule is to provide reliability -based protections when a party 53
+chooses to proffer AI evidence instead of a live expert. These reliability standards will ordinarily 54
+be impossible to meet without presenting an expert. It is possible, however, that the proponent can 55
+establish the requirements of the rule through other evidence, such as convincing validation tests 56
+and objective studies indicating a low rate of error. 57
+It is anticipated that a Rule 707 analysis will usually involve the following, among other 58
+things: 59
+• Considering whether the inputs into the process are sufficient for purposes of ensuring 60
+the validity of the resulting output. For example, the court should consider whether the 61
+training data for an AI process is sufficiently representative to render an accurate output 62
+for the population involved in the case at hand. 63
+• Considering whether the process has been validated in circumstances sufficiently similar 64
+to the case at hand. 65
+• Reviewing information about what records the system keeps, what is deleted, and 66
+whether the output can be reproduced or audited. 67
+• Considering whether the process or system has been subject to evaluation by entities 68
+independent of the developer, and whether the opponent and independent evaluators 69
+have access to the system, e.g., through meaningfully available research licenses. 70
+• Considering whether the opponent has received sufficient information about how and 71
+why the process works, including information analogous to that which would be 72
+disclosed if the conclusion were that of a human expert. 73
+An AI process can sometimes develop in such a way that nobody is able to explain how 74
+the system has reached a result, because the machine has developed the ability to program itself. 75
+If the process cannot be explained then the court should in most cases find that the proponent has 76
+not established more likely than not that the methodology is reliable. As with experience -based 77
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 533 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 10
+testimony, the proponent is required to show how the methodology leads to a reliable conclusion. 78
+See Committee Note to the 2000 amendment to Rule 702 (“If the witness is relying solely or 79
+primarily on experience, then the witness must explain how that experience leads to the conclusion 80
+reached, why that experience is a sufficient basis for the opinion, and how that experience is 81
+reliably applied to the facts.”). That said, the proponent of AI output may overcome the problem 82
+of inexplicability by showing through an expert how the machine got trained and establishing, for 83
+example through validation studies, that the process leads to a low rate of error. 84
+Rule 901(b)(9)’s requirement that the process or system “produces an accurate result” is 85
+subsumed by the reliability requirements that must be established by a preponderance of the 86
+evidence under Rule 702 or 707. Given the fact that the threshold requirement for authenticity is 87
+significantly lower than that for reliability, it follows that if machine -generated evidence is 88
+qualified under Rule 70 2 or 707, then it automatically satisfies the lesser requirements of Rule 89
+901(b)(9). In contrast, satisfying Rule 901(b)(9) does not suffice for admissibility. 90
+Under this rule, AI-generated output will be regulated pre -trial by the court in essentially 91
+the same way as expert testimony. But there may well be a difference at trial when AI evidence is 92
+found by the court to be admissible under this rule, because while an expert is ordinarily required 93
+to provide the foundation for admissibility, it would be possible for a proponent to offer that 94
+evidence at trial without an expert . A human expert can be cross -examined, and the jury will be 95
+able to weigh the expert’s testimony accordingly. But it may be more difficult to attack the weight 96
+of AI output. The opponent may be able to introduce reports and data, as well as expert testimony, 97
+to undermine the output. Or the opponent might be able to impeach the conclusion by showing 98
+prior inconsistencies or specific contradiction, akin to Rule 806. But in the end, the inability to 99
+cross-examine is a concern. Accordingly, the court should consider providing a limiting instruction 100
+that machine-generated evidence is subject to error and that evidence should not be assumed to be 101
+reliable simply because it was produced by a machine. 102
+The rule provides for pre-trial notice, as it is important that the significant reliability issues 103
+attendant to AI evidence be handled before the trial. The notice provision is intentionally flexible. 104
+See the notice provisions in Rules 404(b) and 807. The proponent of AI evidence must also consult 105
+the Federal Rules of Civil and Criminal Procedure to determine pretrial obligations. 106
+Rule 707(d) specifically provides that the rule is not applicable if the reliability of an AI 107
+process is subject to judicial notice. 108
+The definition of “artificial intelligence” in Rule 707 is taken from the National Artificial 109
+Intelligence Initiative Act of 2020 (116 Pub. L. 283 (2021)) . That Act also notes that “[a] rtificial 110
+intelligence systems use machine and human -based inputs to—(A) perceive real and virtual 111
+environments; (B) abstract such perceptions into models through analysis in an automated manner; 112
+and (C) use model inference to formulate options for information or action.” This further 113
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 534 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 11
+elaboration by Congress should be considered in determining whether proffered computer -based 114
+information is subject to this rule. 115
+* * *
+At its May 7th meeting, the Committee agreed that the revised version of Rule 707 would
+require re-publication were it to go forward. But the Committee decided not to propose that the
+revised Rule 707 be released for a new period of public comment at this time. At the suggestion
+of Judge Dever, the Committee thought the more prudent course would be to have the proposed
+Rule vetted at the Committee’s Fall meeting by technology experts and others in the field of AI
+and law. That input can help to sharpen and refine the proposed R ule and will also help the
+Committee to determine whether an amendment is necessary.
+2. Deepfakes
+As discussed above, one of the problems of AI is that deepfakes are easy to generate and
+difficult to detect. As a matter of evidence, deepfakes raise a problem of authenticity, which
+traditionally is governed by a low standard of admissibility under Rule 901(a): evidence sufficient
+to support a finding that the item is what the proponent says it is.
+The Committee is of the view that, at least for now, an amendment to Rule 901 to address
+deepfakes is not warranted . This is because, despite extensive commentary on the subject, few
+examples exist of courts having to address the possibility of deepfakes. In making the decision to
+wait, the Committee also took into account a survey of District, Magistrate, and Bankruptcy Judges
+by the Federal Judicial Center, in which only fifteen respondents reported having dealt with
+deepfake issues.
+That said, the Committee is working to develop rule language that could be employed to
+assist courts in reviewing deepfake claims in the event that the Committee concludes that the
+existing rules are not adequate. The working rule is based on two agreed-upon principles. The first
+is that a n opponent should not have the right to an inquiry into whether an item is a deep fake
+merely by claiming that it is a deepfake. Some initial showing of a reason to think the item is a
+deepfake should be required. The second principle is that, if the opponent does make an evidentiary
+showing that the item may be a deepfake, then the opponent must prove authenticity under a higher
+evidentiary standard than the prima facie standard ordinarily applied under Rule 901. Mindful that
+technology develops quickly and the rule-making process is slow, the Committee’s objective is to
+fine tune a possible amendment to hold in abeyance until such time that it concludes an amendment
+is warranted, at which point the rule would be ready to go without delay.
+The working draft of a new Rule 901(c), to address deepfakes, is as follows:
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 535 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 12
+Rule 901(c) Potentially Fabricated Evidence Created by Generative Artificial Intelligence 116
+(1) Showing Required to Warrant an Inquiry into Fabrication. If a party challenges the 117
+authenticity of an item of evidence on the ground that it has been fabricated, in whole or in 118
+part, by generative artificial intelligence, the party must present evidence sufficient to 119
+support a finding of fabrication to warrant an inquiry by the court. 120
+(2) Showing Then Required by the Proponent. If the opponent makes that showing, the item 121
+of evidence is admissible only if the proponent demonstrates to the court that it is more 122
+likely than not authentic. 123
+(3) Applicability. This rule applies to items offered under either Rule 901 or 902. 124
+(4) Notice. Unless the court orders otherwise, a party claiming that an item is fabricated in 125
+whole or part by generative artificial intelligence must provide reasonable pretrial notice 126
+to all opposing parties of the intent to present evidence of fabrication, so that the opposing 127
+parties have a reasonable opportunity to respond to that evidence before trial. 128
+(5) Definitions. In this rule, “generative artificial intelligence” means a computer system that 129
+emulates the structure and characteristics of input data in order to create derived synthetic 130
+content, including images, video, audio, text, and other digital content. 131
+Committee Note 132
+This new subdivision is intended to set forth guidance and standards when an opponent 133
+alleges that a proffered item of evidence is a “deepfake” — i.e., that it is an inauthentic item 134
+prepared by software programs using generative artificial intelligence. 135
+The rule sets out a two-step process for regulating claims of deepfakes. First, the opponent 136
+must set forth enough information for a reasonable person to find that the item has been fabricated 137
+in whole or part by the use of generative artificial intelligence. Thus, a broad claim of “deepfake” 138
+is not enough to put the court and the proponent to the time and expense of showing that the item 139
+has not been manipulated by generative artificial intelligence. A proponent should not in the first 140
+instance be required to show that every video or audio it proffers is not a deepfake. Second, if the 141
+opponent has shown enough to merit the inquiry, the proponent must then show to the court that 142
+the item is more likely than not authentic. While that Rule 104(a) standard is higher than what is 143
+ordinarily required for a showing of authenticity, it is justified because any member of the public 144
+now has the capacity to make a deepfake, with little effort and expense, and deepfakes have 145
+become more difficult to detect by jurors. It is therefore reasonable for the court to require a 146
+showing, by a preponderance of the evidence, that the item is not a deepfake, once the opponent 147
+has met its burden of going forward. 148
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 536 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 13
+If the opponent satisfies its burden of going forward, the proponent will not establish 149
+authenticity simply by satisfying one of the illustrations of authenticity set forth in Rule 901(b). 150
+Rule 901(b) sets forth illustrations that “establish” the authenticity requirement — but that is in 151
+the context of the lower standard of proof set forth in Rule 901(a). So for example, testimony of a 152
+witness with knowledge (Rule 901(b)(1)) will provide evidence sufficient to support a finding that 153
+the item is authentic under Rule 901(a). But that knowledge will not ordinarily prove more likely 154
+than not that the item is authentic, especially given the opponent’s submission showing some 155
+likelihood of a deepfake. Requiring a stronger showing of authenticity is justified for the very 156
+reason that a person with “knowledge” may well think that the item is genuine when in fact it is a 157
+deepfake. 158
+This amendment covers specific proffered items as to which the opponent has presented a 159
+sufficient foundation of fabrication. It does not directly address another possible consequence — 160
+that because of the background risk of deepfakes, juries might be led to think that no evidence can 161
+be trusted. This phenomenon has been called the “liar’s dividend.” But rules are in place to combat 162
+claims that “you can’t believe anything you see.” To the extent evidence of such a broad point is 163
+proffered, it is subject to exclusion under Rule 403 for being distracting and confusing in the 164
+absence of the necessary foundation. See United States v. Peterson , 945 F.3d 144, 157 (4th Cir. 165
+2019) (finding that a demonstration of how easy it is to fake a text was properly excluded under 166
+Rule 403; the proposed demonstration “was an attempt to prejudice the jury—an attempt to 167
+confuse it by throwing the veracity of text message screenshots writ large into doubt, without any 168
+effort to identify a connection to Peterson's case.”). And to the extent the point is expressed by 169
+lawyers in argument, it is subject to the court’s inherent authority to regulate lawyer argument that 170
+is made without foundation in the evidence. See Lee v. City of Troy, 339 F.R.D. 346, 367–68 171
+(N.D.N.Y. 2021) (reversing the judgment for the defendant after defense counsel argued, without 172
+any basis, that the plaintiff’s videos were “manufactured” and stating that “attorneys may not make 173
+comments to the jury that are so inflammatory or so unsupported by the record as to affect the 174
+integrity of the trial.”). 175
+The requirements of the rule apply to authentication under either Rule 901 or 902. The risk 176
+of deepfakes extends to many of the items designated in Rule 902 as self -authenticating — most 177
+obviously newspapers and publications. 178
+The rule requires that an opponent pressing a deepfake argument must provide pretrial 179
+notice of the intent to present evidence of fabrication, so that the proponent of the item has a 180
+reasonable opportunity to respond. The purpose of the notice requirement is to assure that deepfake 181
+arguments under Rule 901 are resolved, if possible, before trial. The rule does not set forth specific 182
+time periods because the deepfake issue is likely to arise in different contexts, and the appropriate 183
+notice that a party with a deepfake argument must provide may well depend on whether it is a civil 184
+or criminal case and on whether the item of evidence is offered for impeachment. The rule provides 185
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 537 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 14
+that a court might excuse the lack of pretrial notice, as there may arise situations in which the 186
+opponent discovers that an item may be a deepfake after the trial has begun. 187
+The term “generative artificial intelligence” applied in this rule is derived from Executive 188
+Order 14110 (Oct. 30, 2023). 189
+* * *
+At its May 7th meeting, the Committee concluded that this issue should also be considered
+with the assistance of technological experts and lawyers in the field at the Committee’s Fall
+meeting. The Committee is hoping to get input on whether an amendment should cover all AI as
+opposed to generative AI. In addition, the Committee hopes to get views on whether this
+amendment is necessary now, in the future, or at all.
+C. Rules 703 and 606(b) and Constitutional Red Flags
+In Smith v. Arizona, 602 U.S. 779 (2024), the Supreme Court addressed whether a forensic
+expert may testify to a positive drug test by relying on and disclosing to the jury the testimonial
+hearsay of another analyst. The Court held that an expert’s disclosure to the jury of testimonial
+hearsay violated the defendant’s right to confrontation, even if the purpose of the disclosure was
+purportedly to illustrate the basis of the testifying expert’s opinion. At its May 7 th meeting, the
+Committee considered whether the Court’s holding counsels or mandates some amendment to
+Rule 703, which allows experts to rely on hearsay but strictly limits the disclosure of that hearsay
+to the jury. The Committee determined that, to the extent that the Court was concerned about
+disclosure of the report as the basis of the expert’s testimony, there would be little to no impact on
+federal practice because Rule 703 already limits disclosure of inadmissible hearsay as the basis of
+the expert’s opinion. But if the Court’s decision is construed to apply also to the expert’s reliance
+on the lab report, it could have a substantial effect on federal practice because Rule 703 specifically
+allows the expert to rely on inadmissible hearsay if it is the kind of information on which other
+experts in the field would reasonably rely.
+The Academic Consultant to the Committee conducted a survey of lower court cases and
+presented her research, indicating that courts are split on whether Smith bars reliance on the
+testimonial report. The majority rule appears to be that Smith does in fact prohibit reliance by the
+expert on the testimonial hearsay. But the issue is still a live one, and it is an important enough
+question that it seems likely that the Supreme Court will resolve it in the not- too distant future.
+Therefore, the Committee voted to table any amendment to Rule 703.
+The Committee also discussed whether to add a “ red flag” to Rule 606(b), which bars
+testimony from jurors about jury deliberations when a party is seeking to attack the verdict. In
+Peña-Rodriguez v. Colorado, 580 U.S. 206 (2017), the Supreme Court held that the defendant’s
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 538 of 587
+Report to the Standing Committee
+Advisory Committee on Evidence Rules
+May 17, 2026 Page 15
+Sixth Amendment right to a fair trial was violated when Rule 606(b) was applied to exclude
+racially biased statements of jurors. But after discussion, the Committee decided not to proceed
+with any amendment on this subject, and the question was taken off the Committee’s agenda. As
+to Peña-Rodriguez, its holding is clear, and it can reasonably be expected that courts and litigants
+will know about it and apply it in preparing for any hearing to attack a verdict. Moreover, any
+attempt to codify the ruling in Pe ña-Rodriguez threatens to impinge on the important policies
+promoted by Rule 606(b).
+IV. Minutes of the Spring 2026 Meeting
+A draft of the minutes of the Committee’s Spring 2026 meeting is attached to this Report.
+These minutes have not yet been approved by the Committee.
+Attachments:
+• Proposed amendment s to Evidence Rule 609, with the recommendation that they be
+forwarded to the Judicial Conference for final approval.
+• Proposed amendment to Rule 902(1) , with the recommendation it be released for public
+comment.
+• Proposed amendments to Rule 104(a) and (b) , with the recommendation that they be
+released for public comment.
+• Draft Minutes of the Spring 2026 meeting of the Advisory Committee on Evidence Rules.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 539 of 587
+Advisory Committee on Evidence Rules
+Minutes of the Meeting of May 7, 2026
+Thurgood Marshall Federal Judiciary Building
+Washington D.C.
+The Judicial Conference Advisory Committee on the Federal Rules of Evidence (the
+“Committee”) met on May 7, 2026, at the Thurgood Marshall Federal Judiciary Building in
+Washington, D.C.
+The following members of the Committee were present:
+Hon. Jesse M. Furman, Chair
+Hon. Valerie E. Caproni
+Hon. Mark S. Massa
+Hon. Edmund A. Sargus, Jr.
+Hon. Richard J. Sullivan
+John S. Siffert, Esq.
+James P. Cooney III, Esq.
+Rene L. Valladares, Esq., Federal Public Defender (via Microsoft Teams)
+Elizabeth J. Shapiro, Esq., Department of Justice
+Also present were:
+Hon. James C. Dever III, Chair of the Committee on Rules of Practice and Procedure
+Professor Edward Hartnett, Reporter to the Standing Committee
+Hon. Edward M. Mansfield, Liaison from the Standing Committee
+Hon. Hannah Lauck, Liaison from the Civil Rules Committee
+Hon. Thomas Durkin, Liaison from the Criminal Rules Committee
+Professor Daniel J. Capra, Reporter to the Committee
+Professor Liesa L. Richter, Academic Consultant to the Committee
+Professor Joseph Kimble, Style Consultant to the Standing Committee (via Microsoft Teams)
+Beth Wiggins, J.D., Ph.D., Federal Judicial Center
+Timothy Lau, J.D., Ph.D., Federal Judicial Center
+Carolyn Dubay, Esq., Chief Counsel, Rules Committee Staff
+Bridget Healy, Esq., Counsel, Rules Committee Staff
+Shelly Cox, Management Analyst, Rules Committee Staff
+Rakita Johnson, Administrative Analyst, Rules Committee Staff
+Invited guests included (via Microsoft Teams):
+Professor Andrea Roth, UC Berkeley School of Law
+Professor Ronald Allen, Northwestern Pritzker School of Law
+Nicole Owens, Federal Public Defender (Idaho)
+Jami Johnson, Assistant Federal Public Defender (Arizona)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 541 of 587
+2
+I. Opening Business
+Judge Furman opened the meeting by welcoming the Committee and other participants and
+attendees. He noted that it was a pleasure to meet in person again following the virtual fall meeting
+that occurred during the government shutdown. He also welcomed Committee member Rene
+Valladares and Professor Cathie Struve, Academic Consultant to the Standing Committee, who
+both joined remotely. Judge Furman next welcomed two new regular attendees - Chief Judge
+Thomas Durkin of the U.S. District Court for the Northern District of Illinois, who will be serving
+as the liaison from the Criminal Rules Advisory Committee, and Professor Ed Hartnett, the newly
+appointed Reporter to the Standing Committee.
+Next, Judge Furman recognized the invited guests who attended remotely. Professor
+Andrea Roth of the University of California Berkeley School of Law was present with regard to
+the Advisory Committee ’s work on new Rule 707 regarding AI . P rofessor Ronald Allen of
+Northwestern Pritzker School of Law was present to offer remarks on the Rule 104(b) conditional
+relevance issue. The Chair also welcomed two members from the Federal Defenders’ community,
+Ms. Jami Johnson, Assistant Federal Public Defender from Arizona to offer feedback on the Indian
+Tribes issue under Rule 902, and Ms. Nicole Owens , Federal Public Defender from Idaho, who
+joined to provide insight with respect to potential new Rule 707 on machine-generated evidence.
+Following general remarks and reminders on meeting logistics, Judge Furman informed
+the members about three items of interest. First, he advised members that in recognition of the 50th
+Anniversary of the Rules of Evidence in 2025, a short article was available on the USCourts.gov
+website to mark the event, and that additional materials will also soon be posted on the website .
+He also noted that there was a small celebration in New York during the November 2025 virtual
+meeting to share some cake to celebrate the occasion. Judge Furman thanked Ms. Dubay for her
+work to organize these events and projects.
+Second, Judge Furman informed the Committee that a proposal to amend Rule 611, which
+was not ultimately adopted, did result in additions to the Federal Judicial Center’s Benchbook for
+United States District Courts to give guidance to trial judges who allow jurors to ask questions of
+witnesses. An amendment to Rule 611 that would have offered safeguards for trial judges wishing
+to allow juror questions was not proposed due to concerns expressed by some Standing Committee
+members that a rule change might encourage the practice of allowing juror questions. At Professor
+Capra’s suggestion, however, the Committee sent its draft proposal to the FJC for possible
+inclusion in the new Benchbook. The Benchbook excerpt on Rule 611 is found on page 36 of the
+agenda book and gives proper attribution to this Committee. Professor Capra commented that
+including the necessary safeguards for juror questions in the Benchbook was a very good result.
+Third, Judge Furman offered his appreciation to Judge Richard Sullivan for his service on
+the Committee , which will end on September 30, 2026. Judge Furman commented that Judge
+Sullivan has been a stalwart member of the Committee since January 2021, despite extraordinary
+service also chairing the Judicial Conference Security Committee. He thanked Judge Sullivan for
+being an incredible member of the Committee during his time as Chair and noted that he would be
+missed and would leave big shoes to fill. Judge Sullivan thanked Judge Furman for the kind words
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 542 of 587
+3
+and said that it was a joy to be on the Committee even while serving on the Security Committee.
+With respect to security, Judge Sullivan remarked that it has been a difficult time for the security
+of judges, their families and our courthouses. Judicial security is also closely tethered to judicial
+independence, which is crucial for justice. Judge Sullivan also remarked on a quote on the state
+courthouse in New York. The quote from George Washington to Edmund Randolph, the first
+Attorney General of the United States, states that “the true administration of justice is the firmest
+pillar of good Government.” Through this quote, Judge Sullivan observed, Washington recognized
+that the courts were going to play a very important role in our democracy. Judge Sullivan expressed
+his feeling that it takes more than just judges for the true administration of justice , and that the
+work and members of the Committee epitomizes that fact by bringing together judges from every
+level of the federal judiciary, judges from state courts, leading academics in the field, practitioners
+who are the best at what they do , and staff who ensure the process moves forward. Jury trials are
+also crucial for liberty, for dignity, and for checking Government overreach, and the Committee is
+dedicated to ensuring that trials are fair.
+Next, Judge Furman asked if there was a motion to approve the Minutes of the Committee’s
+Fall 2025 meeting, which are found a t page 14 of the agenda book. A motion was made and
+seconded and the minutes were unanimously approved. Judge Furman also directed members to
+the draft minutes of the January 2026 Standing Committee meeting, found at page 40 of the agenda
+book. Judge Furman noted that the Committee had only informational items before the Standing
+Committee at the January 2026 Standing Committee meeting , including feedback on proposed
+Rules 707 and 609 that had been published for public comment. Judge Furman then asked Ms.
+Dubay to provide an update on the status of proposed amendments to the rules. Ms. Dubay called
+the Committee’s attention to page s 91 and 92 of the agenda book, which cover the amendments
+that will go in to effect December 1, 2026. She noted that Appellate Rules 29 and 32 and the
+Appendix of Length Limits were withdrawn for further consideration and were not delivered to
+Congress. Evidence Rule 801 was approved by the Supreme Court and was delivered to Congress
+on April 8, 2026, and, unless Congress acts, will go into effect on December 1, 2026. Ms. Dubay
+also provided a brief legislative update, referencing the legislative chart on page 95 of the agenda
+book, noting that there are no bills pending at this time would directly affect the Rules of Evidence.
+II. Proposal to Amend Rule 609
+The Chair next directed the Committee ’s attention to Tab 2 of the agenda book and
+consideration for final approval of the proposed amendment to Federal Rule of Evidence 609.
+Judge Furman reminded the Committee that two proposed amendments to Rule 609 had been
+approved for public comment at the Spring 2025 meeting. The first would make the balancing test
+under 609(a)(1)(B) somewhat more exclusionary by adding the word “substantially.” The second
+would clarify that the ten -year period under Rule 609(b) ends on the date the trial begins. B oth
+amendments were approved for publication and public comment by the Standing Committee with
+a few minor changes that are noted in the Reporter ’s memorandum. The comment period closed
+in February 2026, and the public comment was almost uniformly positive. A wide range of
+organizations, including the Federal Magistrate Judges ’ Association, the American College of
+Trial Lawyers, the New York City Bar Association, NACDL, and others strongly supported the
+amendment. There was only one slightly negative comment with respect to the 609(b) proposal,
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 543 of 587
+4
+which the Committee previously considered and rejected. There were a few comments that made
+relatively minor suggestions, but for reasons explained in the Reporter’s memorandum, the Chair
+did not recommend changes in response to those comments. Judge Furman flagged one comment
+that suggested amending Rule 609 to respond to the Supreme Court’s holding in Luce v. United
+States, which requires a defendant to testify and suffer impeachment before challenging a Rule
+609 ruling on appeal. Judge Furman noted that he shared the Reporter’s view that such a significant
+change to the Rule 609 proposal at this point would require republication. He noted that the
+Committee had previously considered the issue and had decided not to address it as part of this
+amendment package.
+Judge Furman highlighted a couple of minor changes to the proposed committee note that
+came from the Standing Committee. These included changing “the date of trial” to “the date trial
+begins” and using “ specific instances of conduct ” instead of “ bad acts, ” and adding “ absent
+agreement of the parties ” to the end. The Reporter further added that he wa s withdrawing a
+suggested addition to the end of the draft committee note in the agenda memorandum because it
+had not been vetted by the Department of Justice (DOJ). The Reporter also noted that the Standing
+Committee had suggested referencing the “existing rule” in the committee note instead of the
+“original rule.” As explained in a footnote on page 111 of the agenda book, the language “original
+rule” was retained to make it clear that the note was referring to the previous rule and not the one
+then in force. Judge Furman added that the Reporter had included an appendix with recent Rule
+609 rulings that suggested that some courts continue to misapply the rule.
+Judge Furman then solicited questions and discussion. On hearing none, Judge Furman
+called the question of whether to recommend that the Standing Committee give final approval to
+the proposed amendments to Rule 609. Upon a motion and second, and with two members
+opposed, the Committee voted to recommend final approval of the amendments to Rule 609.
+III. Deepfakes and Federal Rule 901 Governing Authenticity
+The Chair next directed the Committee ’s attention to Tab 4 of the agenda book and the
+issue of amending Rule 901 that governs authenticity to include a new subsection that would
+regulate claims that proffered evidence is a deepfake generated by Artificial Intelligence (“AI”).
+The Chair explained that it was appropriate to discuss a proposed deepfake amendment before
+discussing proposed Rule 707 governing machine-generated evidence because any decision on
+how to proceed with respect to Rule 901 might impact next steps for Rule 707.
+Judge Furman summarized the Committee’s work on AI that began in 2023. He noted that
+one area of focus had been authentication issues relating to deepfakes - audio and video evidence
+that can be now easily fabricated using generative AI and is increasingly difficult to detect. He
+noted that the Committee ha d largely coalesced on the substance of proposed Rule 901(c) that
+appeared on page 224 of the agenda book. Rule 901(c) would impose a burden on an opponent
+challenging an item as a deepfake to present evidence sufficient to support a finding of fabrication.
+If the opponent satisfies that burden, then the burden would shift to the proponent of the evidence
+to demonstrate by a preponderance of the evidence that the item is authentic. This Rule 104(a)
+preponderance standard is higher than the typical prima facie standard that applies to issues of
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 544 of 587
+5
+authentication. Judge Furman emphasized that the higher standard is the key innovation in
+proposed Rule 901(c), because it would establish a standard that would require the court to engage
+in a more rigorous gatekeeping role. The big question for the Committee is whether a proposed
+amendment is warranted.
+Turning to the substance of the proposed rule and note, Judge Furman directed the
+Committee’s attention to the Reporter’s memorandum on pages 221- 223 of the agenda book and
+to several changes made to the draft rule originally discussed by the Committee. The first change
+proposes to cover claims that evidence was fabricated by “generative AI,” as opposed to simply
+“AI.” The second change adds a notice provision to the text of the rule to ensure that deepfake
+claims are raised and resolved before trial. The third adds a definition of “ generative artificial
+intelligence” to the text of the rule. Judge Furman noted that the language in the agenda book in
+subsection 4 of the draft rule on notice stated that “. . . the party claiming that an item is fabricated
+in whole or in part by generative artificial intelligence must . . .” Judge Furman suggested that this
+language could be simplified to refer to “ a party challenging an item of evidence under this
+subdivision . . .” . The Reporter noted that the original language was drawn from the notice
+provision in Rule 807 that was amended in 2019, but explained that Judge Furman ’s proposed
+change would be appropriate as it would be stylistic only. Judge Furman emphasized that the Rule
+901(c) notice provision should be a flexible one that requires sufficient notice to respond to the
+evidence at trial, and not a rigid requirement to provide written notice as in Rule 807.
+Judge Furman then invited discussion of draft Rule 901(c). One Committee member raised
+a question about limiting the proposal to “generative AI” and queried whether there are other ways
+of producing a deepfake that should also be covered by the proposed rule. The Reporter explained
+that the focus on “generative artificial intelligence” was intentional because other fakes are much
+more easily detectable. He explained that the current draft rule would apply only to items allegedly
+produced with generative AI and that standard authentication rules would continue to apply to
+other items of evidence.
+The Committee member then asked about defining “generative artificial intelligence” to
+allow courts and litigants to distinguish between generative AI and non -generative AI . He
+suggested that tracking a legislative definition and having consistency between definitions that
+would apply to both Rules 707 and 901(c) makes good sense, but he stated that he was unable to
+discern what was meant to be covered by the draft definition simply by reading it . The Reporter
+explained that the draft definition would capture synthetic content created by a computer . The
+Committee member noted that generative AI also can take existing, genuine content and make
+something else out of it. The Reporter explained that the draft definition was based on language in
+the Executive Order on AI, and that the draft provides a starting point for discussion utilizing
+language that is already in the law. He suggested that public comment might offer useful ideas for
+improving or refining the definition. Judge Furman observed that there are slight differences
+between the proposed definition of “generative AI” in the draft of Rule 901(c) and the more general
+definition of artificial intelligence in proposed Rule 707. He agreed with the Reporter that it makes
+sense to start with a definition already developed by the legislative or executive branches and to
+refine the definition through input from members of the public and specialists in the area.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 545 of 587
+6
+Another Committee member suggested that the language in the notice provision should
+refer to “all parties” rather than simply to “opposing parties” to account for situations (such as co-
+defendants) where parties are not technically opposing each other but may need notice of a
+deepfake claim. The Chair queried whether the language “all parties” would risk including parties
+who are no longer in the case. He noted upcoming changes to Civil Rule 41 to address parties who
+are no longer in the case. Another Committee member suggested that the most natural reading of
+the language “all parties” in the notice provision would be to reference existing parties only.
+Alternatively, the rule could refer to “ all existing parties ” or to “parties remaining in the case .”
+The Chair then suggested shortening the notice provision to require “pretrial notice of the intent to
+present evidence of fabrication so that all other parties have a reasonable opportunity to respond.”
+The Reporter and Committee members agreed that this language would best capture the intent of
+the notice provision.
+Another Committee member noted that Rule 807 requires “written” pretrial notice and
+asked whether Rule 901(c) should also require notice to be in writing unless otherwise ordered by
+the court. Judge Furman opined that requiring “written” notice might be too inflexible for AI
+objections. He explained that a discussion of deepfakes at a pretrial conference could be sufficient
+to provide the requisite notice without any writing. The Reporter explained that Rule 807, which
+governs residual hearsay, raises distinct notice concerns. He agreed that more flexible notice would
+be appropriate for Rule 901(c) . All agreed that draft Rule 901(c) should not require notice in
+“writing.” The Reporter then read the updated notice language in subsection 4:
+Unless the court orders otherwise, a party challenging an item of evidence under
+this subdivision (c) must provide reasonable pretrial notice of the intent to present
+evidence of fabrication so that all other parties have a reasonable opportunity to
+respond to that evidence.
+The Chair then called upon Ms. Shapiro to weigh in regarding draft Rule 901(c) on behalf
+of the DOJ. She explained that the DOJ does not believe Rule 901(c) is ready for publication. That
+position notwithstanding, Ms. Shapiro offered input on the existing draft. She first opined that the
+notice provision would not function appropriately in criminal cases where it provides that notice
+is required “unless the court orders otherwise.” She predicted that notice would be routinely
+excused for criminal defendants because criminal defendants are unwilling to share trial strategy
+and judges are understandably reluctant to force them to do so. Ms. Shapiro also raised c oncerns
+about the definition of generative AI as applied to criminal matters, where evidence can be created
+through a combination of generative AI and other AI functions. She further highlighted situations
+in which the evidence against a criminal defendant is admittedly created through generative AI,
+such as in child exploitation cases where the government offers AI-generated images. She
+suggested that a defendant might seek to use Rule 901(c) to exclude such evidence as inauthentic.
+The Reporter explained that Rule 901(c) would not cover AI -generated images offered to prove
+an element of a child exploitation crime when the government concedes that the images are
+fabricated because this would not involve a deepfake being offered as something that it is not. Ms.
+Shapiro responded that prosecutors and the courts ha ve been handling photo-shopped and edited
+evidence for many years. She opined that the existing Federal Rules of Evidence are adequate to
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 546 of 587
+7
+address the issue of potential deepfake evidence, and she suggested that the Committee has much
+more work to do before proposing a deepfake rule.
+One Committee member suggested removing the requirement that notice be given
+“pretrial” in favor of a simple provision requiring sufficient notice to give other parties a “fair
+opportunity to respond.” The judge would then be the arbiter of when that notice has to be given,
+and “fair” notice might not be given before trial in every instance . Ms. Shapiro reiterated her
+concern that, in criminal cases at least, a judge would be unlikely to enforce any notice provision
+against a defendant. The Reporter noted that the notice provision had been added to improve the
+draft at the DOJ ’s suggestion. Another Committee member suggested that deepfake objections
+could be easily handled through motions in limine, even in criminal cases.
+A nother Committee member expressed sympath y for the DOJ ’s concerns. She
+hypothesized that the government would generally not be the party seeking to admit deepfakes as
+genuine evidence, but that a criminal defendant might. She hypothesized a scenario involving a
+defense deepfake video depicting a cooperator in a damning situation. The Committee member
+opined that the government would not learn of the video until the defense pressed play at trial. The
+Committee member agreed that Rule 901(c) is premature, and suggested that it seeks to regulate a
+situation that has yet to arise with any frequency . She emphasized that a litigant would be
+committing a crime by proffering deepfake evidence, which remains a significant disincentive.
+She argued that the Committee could address the issue if it ever starts to arise in federal
+proceedings, armed with real -world examples . The Reporter asked what would happen under
+existing law if a defendant offered a deepfake video to incriminate a cooperator , suggesting that
+Rule 901(c) would afford the government more protection than it currently enjoys in such a
+scenario. The Committee member responded that the defense would be able to present the video
+under existing evidentiary standards, but that the obligations of the prosecution and defense remain
+symmetrical under existing law. She suggested that Rule 901(c) would create asymmetry between
+the prosecution and defense, Another Committee member added that the burden -shifting feature
+of draft Rule 901(c) i s its principal innovation. He suggested that the government would obtain
+more information than it would currently under the proposed rule and ultimately would get the
+benefit of the higher standard of proof.
+Ms. Shapiro next explained that the Committee note should not utilize the word “deepfake”
+because it is not definitionally appropriate where a “deepfake” may be created by generative or
+nongenerative AI. The Reporter responded that the term “deepfake” was used in the note
+colloquially as a term that everybody understands . Ms. Shapiro and the Reporter then discussed
+possible ways to define deepfakes created through generative AI as a way to narrow the types of
+fake evidence covered by the proposed rule. They also discussed the scope of the rule to clarify
+that it would include any item that can be generated by AI, images, photos, videos, reports, papers,
+and forgeries.
+T he Chair turned to the broader issue of whether the issue of deepfakes is ripe for rule -
+making. The Reporter referred to his agenda memorandum detailing case law indicating that these
+issues are already arriving in federal and state courts . He noted a New York appellate opinion
+excluding a video on the grounds that it was a deepfake and was insufficiently authenticated. The
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 547 of 587
+8
+dissent in that case objected that the court was shifting the traditional burden of proof regarding
+authenticity, requiring the proponent of the evidence to prove that it ’s not a deepfake in every
+instance. He noted a case in the Eastern District of Virgina in which the court held that witness
+testimony was sufficient to authenticate a video despite a credible deepfake challenge. He noted
+that draft Rule 901(c) would change both these results. He further referenced the FJC Survey of
+district, magistrate and bankruptcy judges regarding the incidence of deepfake arguments (page
+226 of the agenda book).
+Judge Furman thanked the FJC for conducting the survey and explained that t he FJC
+surveyed all federal trial court judges (district, magistrate, and bankruptcy) on their experience
+with deepfake challenges. Mr. Lau, present on behalf of the FJC, thanked his colleague, Ashley
+Walters, for her work on the survey and noted that she could answer any questions from the
+Committee. The Chair also summarized the survey, noting that there was a 45 percent response
+rate. Of the 931 judges who responded, only 15 reported having encountered a deepfake challenge.
+Of those who had not yet encountered such a challenge, 82 percent said that they would require
+some initial showing before entertaining a claim of fabrication, as would proposed Rule 901(c). A
+narrow majority of respondents without prior deepfake experience also said that the rules should
+be amended to address deepfake issues. Judge Furman also pointed to one noteworthy anecdote in
+the survey results in which a defendant plead ed guilty to obstruction of justice for fabricating
+audio/visual evidence that resulted in the indictment of another person. Although the deepfake
+issue came up only at sentencing and was not adjudicated, the anecdote suggests that these issues
+are emerging. Judge Furman further added that AI capabilities are advancing very quickly, and
+while issues may start to appear more in state courts (in family court cases , for example ), the
+Federal Rules of Evidence are a model for the state courts. Judge Furman also acknowledged the
+slow pace of rulemaking, and emphasized that Rule 901(c) would not go into effect until December
+1, 2028 – even if published this summer. This could militate in favor of putting it out for public
+comment to gather information and feedback with respect to the definition of “generative AI” and
+an appropriate notice provision. The Reporter added that the public comments to Rule 707
+provided a number of helpful insights from the Innocence Project and other government groups,
+and suggested that it is important for the Committee to start addressing deepfakes.
+One Committee member then pushed back on the premise that th e deepfake issue is
+unprecedented and cannot be handled using existing rules. He noted that forgeries have long been
+difficult to detect and that trial judges have ample experience using the existing Federal Rules of
+Evidence to address such concerns. He opined that the Committee is not political and that there is
+no need to propose a rule addressing deepfakes in response to some voices clamoring for it. The
+Committee member emphasized that it is a crime to present deepfake evidence, that there are other
+laws that regulate in this arena, and that the Committee should wait to see how these issues appear
+in federal court before proposing a new rule. The Federal Public Defender disagreed, opining that
+this problem is coming for the federal court system and that the Committee should get ahead of it
+by publishing Rule 901(c), especially if the Committee decides to republish Rule 707 for additional
+public comment.
+A Committee member followed up on whether federal judges could handle deepfake claims
+under existing rules. He queried whether the same burden- shifting approach embodied in Rule
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 548 of 587
+9
+901(c) could be applied to regulate claims of deepfake evidence without an amendment. Another
+Committee member pointed out that the current authentication rules require only a showing
+“sufficient for a jury to find” an item authentic – the low prima facie standard of Rule 104(b).
+Under the proposed Rule 901(c) draft, a trial judge would have to find an item of evidence
+authentic by a preponderance of the evidence before passing it on to the jury (once a credible
+deepfake showing is made by the opponent of the evidence). Rule 901(c) would thus make the trial
+judge the gatekeeper and raise the standard of proof above the existing standard . The Reporter
+added that, under current law, if there ’s a credible charge of a deepfake video, for example, the
+proponent could simply respond with a witness who testifies that he “recognizes” the people in the
+video and that this would be sufficient to authenticate and send the potentially fabricated video to
+the jury. Under the Rule 901(c) proposal, the judge would determine, using the more likely than
+not standard, that the item is authentic before sending it to the jury. And a witness who recognizes
+people in the video would be insufficient to defeat a credible deepfake claim under that standard
+of proof. Judge Furman agreed, noting that the jury would not be able to discern whether the
+hypothetical video was a deepfake based on a witness ’s testimony that he recognizes the people
+depicted in the video.
+The Chair next turned to Ms. Shapiro to report on efforts by the DOJ to evaluate AI issues.
+Ms. Shapiro introduced Ms. Kira Antell from the Office of Legal Policy to discuss the issue. Ms.
+Antell explained that a beta version of a survey had been sent to the administrative law judge (ALJ)
+community to determine the importance of the type of technology used to create fake evidence.
+DOJ is working on the survey with the Bureau of Justice Statistics, and they are working through
+the Institutional Review Board. The goal is to receive results back in September. The survey covers
+a broad array of evidence and surveys ALJs regarding their needs in handling potentially fabricated
+evidence, whether it be a rule or additional training. A Committee member asked why the DOJ is
+surveying ALJs, rather than the litigating federal lawyers who deal with the presentation of
+evidence. Ms. Antell explained that the directive under the American Action Plan was to talk to
+the ALJ community and potentially to issue guidance to ALJs. The ALJ community deals with
+many unrepresented individuals and there is a a question as to whether forged documents are
+coming from these parties or even from represented parties. For example, many people are looking
+for SSI benefits or veterans’ benefits and may use AI or just traditional Microsoft Word to create
+fake reports or fake results. The goal of the survey is to better understand what ALJs are
+experiencing and does the mode of creation of the fake evidence matter to judges . Ms. Antell
+agreed that a useful follow-up to the ALJ survey would be one directed at litigators.
+T he Reporter suggested that the surveys and work being done by the DOJ would not help
+trial judges resolve claims of fabricated evidence. He explained that the unique undetectability of
+fabrications created by generative AI was the justification for Rule 901(c). He reminded the
+Committee that even the technology companies that develop AI tools cannot find a reliable
+discriminator that can detect fabrications created by generative AI. Ms. Antell asked whether the
+proposed rule would cover only audio/visual evidence or whether it would apply to other types of
+evidence. She cautioned that the rule as drafted may produce different outcomes depending on the
+type of evidence allegedly fabricated. For example, she suggested that an allegation about a forged
+signature created by ChatGPT may not be covered by Rule 901(c) if it is limited to “audio/visual”
+forgeries only. The Reporter responded that the rule as written applies to any item of evidence
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 549 of 587
+10
+created by generative AI and would not be limited to audio/visual evidence . Ms. Shapiro queried
+how an opponent could ever make the prima facie showing of fabrication required to trigger the
+higher preponderance standard under Rule 901(c) if deepfakes created by generative AI are
+completely undetectable. The Reporter acknowledged this difficulty but suggested that there are
+certain indicia of fakery that could satisfy the prima facie standard – such as the origin of the
+evidence on a particular device, or its placement among other genuine items. In any event, he
+explained that lay jurors are not equipped to detect deepfakes and that the draft rule would put trial
+judges, who are repeat players and who will gain experience, in charge of the authentication
+determination when a credible deepfake claim is made.
+Judge Dever suggested that the Committee should consider first whether there is a problem
+that needs to be addressed by the proposed rule, whether the rule needs to include this burden
+shifting framework, and if so, why the burden shifting framework should be applicable only to
+fakes allegedly made with generative AI as opposed to all alleged forgeries . The Reporter
+answered that deepfakes created by generative AI are becoming much more prevalent and are
+easier to generate and much harder to detect than traditional forgeries. Another Committee member
+added that the premise of Rule 901(c) is that deepfakes created by generative AI present a question
+akin to expert testimony where the trial judge needs to act as the gatekeeper before sending the
+evidence to the jury. Another Committee member responded that he remained unconvinced that
+the issues presented by alleged deepfakes in the courtroom are materially different from the issues
+presented by more traditional forgeries. He suggested that litigants have had to call experts to
+authenticate signatures after claims of forgery and that such issues were not simply handed off to
+juries to decide unassisted under current law . A nother Committee member strongly disagreed,
+arguing that g enerative AI is here now with people creating fabricated content every day. He
+suggested that publishing a rule on deepfakes would not be a public relations exercise but an
+important step toward protecting the integrity of the justice system given the inevitability of this
+content reaching the courtroom. The Committee member opined that it would be a mistake for the
+Committee not to be vigilant.
+T he Chair acknowledged the point that courts have capably handled claims of forgery
+under current law . Still, he suggested that there is something fundamentally different about AI -
+generated deepfakes because: 1) they are very easy to create; 2) they are very difficult to detect;
+and 3) they can have an outsized impact on the jury when they are in audio/visual form. For
+example, if a jury sees or hears a recording of a defendant doing something, this is very impactful
+evidence that is difficult to disregard . He queried whether it may make sense to broaden the rule
+to cover all claims of fakery and not just generative AI, which would have the added benefit of
+eliminating the need for a definition of “generative AI .” The Reporter responded that the
+Committee could consider broadening Rule 901(c) but expressed reservations. He noted that such
+a change would alter the law in many settled areas, including authentication of social media
+evidence. The Reporter also explained that the justification for Rule 901(c) is the special problem
+presented by generative AI that calls for a change to authentication standards.
+A Committee member asked whether an opponent of evidence under Rule 901(c) would
+still be permitted to present evidence of deepfakery to the jury once the trial judge evaluates the
+allegation and determines under the preponderance standard that the evidence is authentic and
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 550 of 587
+11
+admits it. The Reporter responded that this would be permitted and is allowed in connection with
+authenticity disputes even under current rules. The Chair agreed, noting that it would be similar to
+the handling of allegedly coerced confessions, where the court plays a gatekeeping role but a
+defendant may argue coercion before the jury. The Committee member queried whether it would
+make sense to apply Rule 901(c)’s burden shifting framework more broadly beyond just generative
+artificial intelligence. The Reporter responded that the distinct question with respect to generative
+AI is whether you need the trial judge to act as a gatekeeper before the evidence is sent to the jury.
+Once it gets past the gatekeeper, the opponent would remain free to present evidence on
+authenticity as can be done with respect to other evidence.
+Another Committee member pointed to a case identified in the Reporter’s memorandum in
+which a criminal defendant argued that a video of him committing a sexual assault was simply a
+deepfake. The Committee member suggested that the government might benefit from the notice
+provision and the threshold showing required by Rule 901(c) in such circumstances. The Reporter
+noted that the court in that case held that the defendant ’s deepfake allegation was a question of
+weight and not admissibility, and that Rule 901(c) would require a finding of authenticity by a
+preponderance if the defendant made a prima facie showing of deepfakery. Another Committee
+member pointed out that Criminal Rule 16(b) has a notice provision already that should provide
+the DOJ with appropriate notice in criminal cases. The Chair responded that, to DOJ’s point, notice
+is not always enforced as rigorously against criminal defendants as it is against the Government.
+Ms. Shapiro suggested that a criminal defendant might raise a deepfake allegation at the
+last minute, forcing the Government to stop trial to come up with an expert. The Reporter countered
+that the Government would have only the burden of presenting prima facie evidence of authenticity
+unless the defendant first made the requisite showing of deepfakery – enough evidence for a
+reasonable person to believe the Government’s evidence is a deepfake. A bare defense allegation
+of a deepfake would not suffice. Judge Furman suggested that it might be fairly easy for a
+defendant to make the requisite showing to shift the burden to the Government . For example, the
+defendant could produce a sworn statement or affidavit that he was not the person depicted in a
+Government video. The Reporter suggested that the judge would have to find such evidence
+sufficient under Rule 104(b), but a simple claim deepfake would not shift the burden.
+Ms. Shapiro added that the FJC survey results show that judges are dealing with deepfake
+issues in the absence of a bespoke rule . She suggested that R ule 901(c) might also encourage
+parties to raise deepfake claims, which will delay trials and force the Government to retain experts
+routinely. She suggested that having the trial judge act as gatekeeper may not improve the situation
+with respect to generative AI deepfakes given that they are so difficult to detect. She further
+emphasized that AI might be in a new and presently unforeseeable place in two years’ time given
+the race between content generators and content detectors and urged the Committee to await more
+technological development before taking action. The Federal Defender countered that he did not
+see the harm in going forward with publication for public comment that could a dd a lot of
+beneficial information for the rulemaking process.
+T he Chair then asked the Committee to consider the threshold question of whether to
+proceed with publication and public comment on Rule 901(c). Although the Committee may not
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 551 of 587
+12
+be ready to propose an amendment at this time, he suggested that public comment might provide
+important data on what is happening in the court system and from technological experts that could
+advance the Committee ’s work on a deepfake rule. One Committee member expressed concern
+about publication for the purpose of gather ing data. He noted that the Committee ’s practice has
+traditionally been to publish a proposal when it is ready to propose a rule change. The Committee
+member opined that a decision to publish to gather data may not match public expectations
+surrounding publication of an amendment proposal. He suggested that there are other avenues for
+obtaining information other than the public comment process. Judge Furman noted that, according
+to Judge Dever, the Criminal Rules Committee had hosted a mini-conference that included subject-
+matter experts to aid its work on Criminal Rule 17. Judge Furman suggested that such a conference
+could assist in formulating a deepfake rule. He added that if the decision was to not proceed with
+publication today, the Committee could devote time at its Fall meeting to such a mini-conference
+to delve further into these issues. He suggested thinking carefully about whom to bring, to include
+both litigators and technical experts to discuss the reality on the ground and how a rule could help.
+Judge Dever explained that the Criminal Rules Committee held a mini-conference after creating a
+workable draft of Rule 17 because concerns still existed. The Criminal Rules Committee used the
+mini-conference to explore th e language of the working draft before publication. Judge Dever
+noted that while this takes a little longer , deliberation is a feature and not a bug of this whole
+process as we try to get it right.
+T he Reporter reminded Committee members that they had hosted two symposia on the
+problems of AI (one in Minneapolis and one in Washington DC), and that legal and technological
+experts had reported that generative AI is a real problem that needs to be addressed. One
+Committee member expressed support for the idea of another mini-conference, explaining that the
+earlier symposia had focused on understanding the world of AI, particularly for those who did not
+use it , and that a mini- conference in Fall 2026 c ould include input from lawyers to ask if AI
+presents a problem in the courtroom and how they encounter it. Judge Furman agreed that the
+earlier symposia were more educational and noted that a Fall 2026 symposia could provide
+concrete feedback on the Rule 901(c) working draft. He also noted that ChatGPT was introduced
+in 2023 and that there has been much progress since these earlier symposia. The DOJ expressed
+support for a mini-conference and Ms. Shapiro said she could assist with finding panelists.
+Judge Furman suggested that , in light of the amount of disagreement on the Committee ,
+and notwithstanding the fact that it would mean a delay of another year, the better course would
+be to have a mini -conference at the F all 2026 meeting. Judge Furman stated that there would be
+no need for a Committee vote regarding public comment now given that plan, and that the issue
+of deepfakes would remain on the agenda. A mini-conference will allow for a deeper dive
+concerning the prevalence of deepfake issues, the need for a rule regulating those issues, and the
+merits of draft Rule 901(c). The Reporter suggested that the mini- conference would take place
+during the morning session of the Fall 2026 meeting and would involve two panels. The first panel
+would include AI experts who can opine as to the evolving operation of AI and the optimal
+terminology to be used in a rule regulating deepfake evidence. A second panel would include both
+criminal and civil litigators regarding their experience with deepfake issues in the courtroom. The
+Committee would then discuss the feedback and data received in the afternoon session. One
+Committee member expressed support for this plan of action, urging the Committee to include the
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 552 of 587
+13
+plaintiff’s bar in civil cases. The Federal Public Defender urged the Committee to keep the issue
+of deepfakes on the agenda, and emphasized the importance of including practitioners as part of a
+mini-conference.
+Judge Furman stated that the issue of deepfakes would be kept on the agenda and that
+hearing no opposition, the Committee would host a mini- conference focused on this issue at the
+fall meeting. He then invited suggestions concerning the optimal structure for the mini-conference
+and regarding participants, including a mix of tech people and litigators in both civil and criminal
+cases.
+IV. Artificial Intelligence and Proposed Rule 707
+The Chair next directed the Committee ’s attention to Tab 3 of the agenda book and a
+proposal to create new Federal Rule of Evidence 707, which is designed to impose reliability
+requirements on AI -generated evidence when it is offered with out the testimony of an expert.
+Judge Furman stated that this proposed new rule would typically be considered for final approval
+because it had been through the publication and public comment process. But Judge Furman
+explained that, in contrast to the favorable comments received regarding the proposed amendment
+to Rule 609, the comments concerning proposed Rule 707 provided some cause to potentially hold
+off on final approval of R ule 707. He noted that the Committee could choose to revise and
+republish it now or could choose to combine consideration of Rule 707 with the deepfake draft
+and reevaluate both together at the Fall 2026 meeting.
+To briefly recap the Committee ’s work on proposed new Rule 707, Judge Furman
+recounted that the Committee had approved proposed Rule 707 for public comment at the Spring
+2025 meeting. The rule would apply the Rule 702 reliability requirements on AI-generated
+evidence offered without an accompanying expert witness . The Standing Committee approved
+Rule 707 for public comment in 2025, and the comment period closed on February 16, 2026. There
+were two public hearings concerning the proposal and t he Committee re ceived 59 written
+comments by the deadline . The comments were mixed: only 3 comments expressed unqualified
+support; 27 supported the rule subject to revisions; and 27 opposed it. Themes among the criticisms
+included the overbreadth of the term “machine-generated evidence ” utilized in the proposed
+provision, the vagueness of the “simple scientific instruments” exception, and the possibility that
+the rule would provide a pathway to admi t AI-generated evidence without an expert. There were
+also some objections to tethering Rule 707 to the Rule 702 requirement, and there were a number
+of objections that the rule is premature. The Reporter’s memorandum addresses each of the major
+criticisms and concludes that the criticisms do not warrant abandonment of the rule.
+Judge Furman then explained potential changes to the published version of Rule 707 based
+on the public comments . These included the suggestion to use the term “ artificial intelligence”
+instead of “machine-generated” to describe the coverage of the rule to be more precise and to make
+clear that the provision does not cover things like faxes, emails, cellphone extractions, and the like.
+A second change would be to delete the “simple scientific instruments” exception altogether. The
+third would add a notice requirement to the rule text . The issue of notice had previously been
+discussed only in the Committee note, based on concerns expressed by the DOJ and others. A
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 553 of 587
+14
+revision of proposed Rule 707 completed before the meeting included a flexible notice provision
+modeled on Rules 404 and 807. Although there were some suggestions that Rule 707 should be
+untethered from Rule 702 and that distinct standards should be applied to AI evidence, the Reporter
+recommended no change based upon these suggestions. He explained that applying different
+standards to expert opinion testimony and to AI -generated conclusions would be problematic
+because in many instances this evidence would be presented with an expert, making expert
+testimony based upon AI-generated information subject to two distinct standards . The Reporter
+acknowledged that it could be helpful to incorporate the relevant language from Rule 702 directly
+into Rule 707 rather than simply cross-referencing it. He explained that one big question remaining
+is whether an expert should be required to present this evidence to the jury or, at least, for purposes
+of demonstrating reliability to the trial judge.
+Judge Furman then directed the Committee’s attention to the Reporter’s memorandum at
+page 170 of the agenda book, explaining that it included three different versions of a revised rule
+707 for the Committee’s consideration. Version One would require an expert to establish reliability
+and therefore admissibility. Version Two would ordinarily require an expert to establish
+admissibility, but it would allow for exceptional circumstances in which the court could rely upon
+another source to show reliability, suc h as convincing validation studies that establish the
+foundation for the AI opinion. Version Three would require an expert, not only for admissibility,
+but also a t trial to ensure there is a witness subject to cross -examination. This version would
+effectively collapse Rule 707 into Rule 702 insofar as it would require an expert in all cases.
+The Reporter added that the issue of expert foundation was the most important reason for
+offering the Committee three versions of a revised Rule 707. He explained that there were a
+number of public comments that advocated for an expert witness requirement, at least for the
+foundation for AI-produced evidence. The Reporter noted that there might be ways to ensure that
+AI-generated evidence is reliable without having to produce an expert, such as validation tests,
+unbiased studies, and the like. As things proceed technologically, it may be more likely that an
+expert is not necessary to establish the reliability of some AI output. He explained that Version
+Two, on page 173 of the a genda book, offers a middle ground on this issue by providing that
+admissibility is ordinarily established through an expert but doesn’ t necessarily need to be . He
+explained that the notice requirement in the revised draft was taken from Rule 807, and that the
+draft included a carve-out for AI that can be judicially noticed. He offered the example of evidence
+of distances through Google Maps that is already judicially noticed by courts under Rule 201.
+Finally, he explained that the revised drafts include a definition of “artificial intelligence” taken
+from a statute.
+The Chair then thanked those who submitted public comments and testified at the hearings
+and noted that he found it quite helpful. As all agreed that the changes to proposed Rule 707 made
+after public comment were substantial , Judge Furman explained that the question for the
+Committee was whether to republish a revised version of Rule 707 for additional public comment,
+or to table further consideration of Rule 707 for now and make the Fall 2026 meeting focused on
+both AI rules together. Judge Furman acknowledged that Version Two of the revised Rule 707
+was likely the leading contender for republication if the Committee chose to take that route.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 554 of 587
+15
+The Chair invited Ms. Shapiro, on behalf of the DOJ, and Ms. Nicole Owens, on behalf of
+the Federal Defenders, to offer their thoughts. He also sought feedback from Professor Roth, who
+has been involved in developing Rule 707 from the beginning. Ms. Shapiro explained that some
+of the DOJ’s concerns detailed in its letter regarding Rule 707 persist despite the revisions. She
+expressed concern about how Rule 707 would function in practice, as well as concern about the
+coverage of many machine-generated technologies commonly used in court that may depend upon
+some combination of AI and other technology. She further noted that t he statutorily derived
+definition of “artificial intelligence” in the revised rule differs from the definition used by the DOJ.
+Ms. Shapiro appreciated the carve-out for judicially noticed artificial intelligence in the revised
+draft but opined that judicial notice is very subjective and not a reliable mechanism for exempting
+accepted technologies from Rule 707. The Reporter asked whether the DOJ would prefer nothing
+in the Rule to exempt reliable technologies. Ms. Shapiro stated that the DOJ would rather have no
+Rule 707 at all and suggested that trial judges currently are capable of regulating the need for
+experts and other information as a condition to presenting AI evidence under Rule 611. Ms.
+Shapiro explained that the DOJ believes that the issue of litigants presenting AI evidence in the
+absence of an expert witness remains an anticipatory problem that has yet to materialize in court.
+She stated that the DOJ favors consideration of Rule 707 at the Fall 2026 meeting alongside draft
+Rule 901(c).
+Ms. Owens offered a different perspective, stating that a rule covering AI-generated
+evidence offered without an accompanying expert witness is not premature. She explained that
+federal defenders are already seeing this kind of evidence coming into cases . She cited examples
+of such evidence described in the Reporter ’s memorandum. Ms. Owens acknowledged that
+computers can assist in investigations and that certain machine-generated evidence may require no
+expert foundation. Still, she explained that concerns arise when generative AI is doing the work
+and analysis that normally an expert would do and that these concerns need to be addressed by a
+rule. Ms. Owens noted that a Cellebrite extraction that is simply a mirror of a phone or other device
+may not require an expert foundation. But she explained that, if the extracted information is fed
+into an AI tool to identify patterns or infer relationships, then this opinion output should be subject
+to a different analysis. For that reason, Ms. Owens opined that utilizing the Rule 702 reliability
+requirements, and allowing courts to require expert foundation for such output, is absolutely
+appropriate.
+Professor Roth thanked the Committee for its work, stated that the revised versions of Rule
+707 nicely addressed feedback received during public comment, and shared several observations.
+She first addressed the use of Cellebrite, and echoed Ms. Owens’ comments that its admissibility
+depends upon whether it is simply being used to extract data from a phone or is instead being used
+to analyze information, for example, to determine who’s a key contact and who’ s not. Second,
+Professor Roth observed that under the status quo, a judge could admit an analytical conclusion by
+Cellebrite technology through a lay witness without any Rule 702 scrutiny. As to the subjectivity
+of a judicial notice carve -out in Rule 707, Professor Roth predicted that there would be a period
+of transition in which courts would coalesce around technologies appropriate for judicial notice.
+But she opined that the option of admitting analytical AI input without Rule 702 scrutiny i s
+untenable. Professor Roth also suggested that the notice provision in Rule 707 should include a
+good cause exception akin to those in Rules 404 and 807 because defendants, either civil or
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 555 of 587
+16
+criminal, may not know prior to trial that they are going to need to call an expert. Finally, Professor
+Roth noted that Version Two of revised Rule 707 talks about “providing” an expert. She explained
+her assumption that this language was chosen deliberately and would not require that an expert
+would need to testify in all circumstances . She noted that litigants may offer an expert ’s
+conclusions through an affidavit in current Daubert hearings.
+After hearing these perspectives, the Chair invited discussion of next steps. He explained
+that the Committee could either republish one of the revised versions of Rule 707 for another round
+of public comment or fold further consideration of Rule 707 into the Fall 2026 meeting. Committee
+members expressed a preference for Version 2 of revised Rule 707 and agreed that they would
+appreciate receiving additional feedback on that draft at the Fall meeting . Committee members
+expressed an interest in feedback from technological experts with respect to an appropriate
+definition of “artificial intelligence , as well as a desire for additional information about how
+litigants may demonstrate the reliability of AI -generated conclusions. The Chair of the Standing
+Committee also supported further study to obtain additional feedback on the revised draft of Rule
+707 from both AI experts and practicing lawyers. Committee members then unanimously agreed
+that discussions regarding Rule 707 should continue at the Fall 2026 mini-conference with a focus
+on Version 2 of revised Rule 707. The Chair concluded the discussion, stating that Rule 707 would
+be taken up at the Fall 2026 mini-conference. He noted that combining the consideration of Rules
+707 and 901(c) would create helpful synergy and would allow for potential publication of both
+proposed AI rules together.
+V. Rule 902(1) and Indian Tribes and Nations
+The Chair next directed the Committee ’s attention to Tab 6 of the agenda book and the
+proposal to amend Federal Rule of Evidence 902(1), the provision that allows self -authentication
+of the signed and sealed records of enumerated domestic government entities. The proposal would
+add federally recognized Indian Tribes and Nations to the list of entities whose sealed and signed
+documents are self-authenticating. Judge Furman provided a brief recap of the proposal’s history,
+noting that it was originally made by Judge Frizzell of the Northern District of Oklahoma and was
+briefly taken up by the Committee in the Fall of 2024. The Committee deferred consideration of
+the issue pending input from the DOJ. At the Spring 2025 meeting, the DOJ formally proposed
+amending Rule 902(1) to add federally recognized Indian Tribes and Nations to the list of covered
+entities. Judge Furman also noted that the Federal Public Defender community has consistently
+opposed the amendment and that both the DOJ ’s and the Federal Defender ’s memoranda have
+done an excellent job of squarely presenting the issues for the Committee ’s consideration. After
+extensive discussion of the proposal at the last two meetings, the Committee solicited input from
+the Tribes on this issue. Judge Furman sent a letter to all federally recognized Indian Tribes and
+Nations, as well as to other representative groups and entities, explaining the proposal and seeking
+input. Judge Furman explained that a summary of the responses received were included in the
+agenda book. Judge Furman commented that the responses received were relatively small in
+number but were very supportive of amending the rule to add Indian Tribes and Nations.
+The Chair then directed Committee members to the Consultant ’s memorandum prepared
+by Professor Richter at page 253 of the agenda book, which summariz ed the issues for the
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 556 of 587
+17
+Committee’s consideration. He then asked Professor Richter to offer remarks. Professor Richter
+thanked Judge Furman and focused on the feedback received from the Indian Tribe s. She stated,
+as Judge Furman noted, that while sparse, the feedback was unanimously supportive and identified
+some additional factors supporting an amendment to Rule 902(1). Professor Richter explained that
+tribal leaders emphasized the value of self -authentication in civil litiga tion, as well as in the
+criminal context previously explored by the Committee. She informed the Committee that tribal
+leaders also emphasized the burdens on tribal governments in supporting and cooperating with
+criminal prosecutions as a result of the lack of self-authentication. Professor Richter explained that
+the responding Indian Tribes and Nations also emphasiz ed the importance of tribal sovereignty
+and dignity and of allowing their records to be self-authenticating along with the records of other
+government entities.
+Professor Richter reported that she als o evaluated the impact of the proposed amendment
+on criminal prosecutions . She concluded that the amendment would allow the Government to
+present a sealed and signed tribal record to prove the Indian status of either a defendant or a victim
+without any accompanying witness or certification, so long as the record satisfied a hearsay
+exception. The Government would not need to provide a live witness to authenticate tribal records.
+Nor would the Government need to provide a certification under Rule 902(11), the business
+records certification, if it were to rely on a different hearsay exception such as the public records
+exception. Thus, Professor Richter explained that an amendment would alter the status quo by
+allowing a tribal record alone to establish Indian status in a criminal case. Lastly, Professor Richter
+reviewed the open records statutes and codes of tribal N ations and governments discussed in her
+agenda memorandum . Professor Richter explained that she was unable to perform a
+comprehensive review of the open records acts of all 578 federally recognized Indian Tribes and
+Nations, but that she did locate sophisticated open records acts in several tribal Nations . She
+described the common features of the open records laws she reviewed, explaining that the Navajo
+Nation and the Cherokee Nation , for example, do not provide access to any information about
+individual members without their consent, and provide little access to other tribal records to non-
+tribal members. Judge Furman also flagged the portion of the memorandum noting that five states
+have already changed their self -authentication rules or statutes to include Indian T ribes and
+Nations (Arizona, New Mexico, Wyoming, Oregon, and Washington). He noted that the proposed
+amendment to Rule 902(1) appeared on p age 253 of the a genda book, along with a helpful
+Committee note on page 254.
+The Chair then asked the DOJ to offer comments on the proposal. Ms. Shapiro thanked
+Professor Richter for her fantastic memorandum and noted that the DOJ has written extensively
+on this issue and believes that an amendment is long overdue to respect tribal sovereignty and to
+treat the records of federally recognized Indian Tribes and Nations like the records of other
+government entities already included in Rule 902(1). She argued that there is no reason to require
+tribal records to surmount the many hurdles necessary to establish reliability under the business
+records exception to the hearsay rule. In addition, Ms. Shapiro noted that issues of Indian status
+are arising much more frequently now that Indian land covers much of the State of Oklahoma. She
+suggested that the amendment would also help Indian defendants who want to be tried by their
+Tribes, by making it easier for them to prove Indian blood. Ms. Shapiro further suggested that
+certifications satisfying Rule 902(11) that are currently utilized to authenticate tribal records may
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 557 of 587
+18
+present confrontation clause issues in criminal cases. The Reporter replied that every Circuit has
+rejected a confrontation clause challenge to Rule 902(11) certifications and that there is no
+confrontation problem for such certifications that do no more than authenticate an existing record.
+The Chair then invited Jami Johnson, Assistant Federal Public Defender for the District of
+Arizona, to offer feedback on the proposed amendment . Ms. Johnson thanked the Committee for
+the opportunity to speak and informed the Committee that, in addition to being an Assistant Federal
+Public Defender, she is an enrolled citizen of the Choctaw Nation of Oklahoma. Ms. Johnson
+raised a concern about the DOJ’s potential misunderstanding of the relevant statutes and stated
+that an amendment to Rule 902(1) would in no way help Indian defendants. For example, Ms.
+Johnson noted that the DOJ’s letter in support of the amendment stated that an Indian defendant
+potentially would need to prove the status of a victim to have a criminal case moved to tribal court
+and away from federal court. Ms. Johnson stated that this is incorrect because an Indian defendant
+may always be tried in tribal court for crimes committed on federal land, regardless of whether the
+victim is Indian or not Indian. Only where there is a non- Indian victim and the case does not
+involve a major crime, as defined by the Major Crimes Act, would there be a need for such proof.
+Ms. Johnson also noted that in her 11 years practicing federal criminal law in Indian country, she
+had never seen the federal Government attempt to charge a non-major crime committed on federal
+land, regardless of whether the victim was Indian or non-Indian. Even if this type of case did occur
+where the victim’s Indian blood was at issue, Ms. Johnson stated that there may be difficulty in
+accessing the records, whether self -authenticating or not. Based on this experience, Ms. Johnson
+did not see a benefit to this rule for Indian defendants.
+On the other hand, Ms. Johnson reported significant downsides with respect to criminal
+defendants’ ability to identify witnesses who may be called at trial to challenge tribal records that
+establish an element of the offense. For example, she noted that once the federal Government
+presents a tribal record with a signature and a seal, that essentially will end the inquiry into Indian
+status in most instances due to the lack of open records laws and the inapplicability of FOIA to the
+tribal Nation s. Ms. Johnson emphasized that allowing tribal records alone to establish federal
+criminal jurisdiction would be particularly significant in Oklahoma, where many individuals with
+mixed tribal status liv e on reservations . Ms. Johnson also added that the status quo on
+authentication does not impair the Government’s ability to prove its cases and at the same time
+maintains important safeguards for the rights of criminal defendants.
+With regard to the supportive feedback received from some Tribes, Ms. Johnson also
+expressed concern about the very limited response rate regarding the proposed amendment . She
+noted that, while every one of the eight responding Tribes is a sovereign nation worthy of dignity
+and respect, only one of the respondents is a large Tribe: the Navajo Nation. She further noted that
+the Chickasaw Nation was the only medium-sized Tribe to respond to the Committee’s request for
+feedback. She explained that all other responding Tribes are small, ha ving fewer than 10,000
+members with some having fewer than 1,000 members. Given that feedback was solicited from
+578 Tribes, Ms. Johnson emphasized that the positive response received was very limited in nature.
+She further suggested that a Tribe may be reluctant to express opposition to a proposal rooted in
+respect for tribal sovereignty even if it had concerns about its application.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 558 of 587
+19
+Judge Furman thanked Ms. Johnson for her comments and invited Committee members to
+ask questions. One Committee member asked Ms. Johnson for clarification regarding the
+significance of mixed occupancy of tribal land for the accuracy of tribal records. Ms. Johnson
+explained that such mixed occupancy does not affect the accuracy of tribal records but sweeps
+more criminal defendants and victims into federal court whose status is unclear or ambiguous. She
+explained that when a party’s identity is an element of an offense, it becomes much more important
+to adequately investigate and produce evidence of status when that status is unclear or ambiguous.
+Judge Furman asked whether this status element is more likely to be contested or potentially
+contested in those circumstances. Ms. Johnson responded that uncertainty may not lead to a contest
+if there was adequate investigation on the front end. For example, she noted that defendants do not
+contest status in the large majority of these cases currently, because the defender has access to
+reliable documents and can interview custodians if necessary. She suggested that allowing these
+documents to be self -authenticating could increase instances in which a defender has legitimate
+doubts concerning Indian status but has no avenue to dispel those doubts in advance of trial.
+Judge Furman then asked about the certification that the Government currently must
+present under Rule 902(11) to self-authenticate tribal records as business records . He suggested
+that, in his experience , the Government obtains this certification relatively close to trial. Judge
+Furman asked when defendants typically receive those certifications, and what kind of
+investigation is typically conducted in that scenario. Ms. Johnson explained that timing depends
+on the circumstance, and that in the vast majority of these cases, there’s no dispute regarding Indian
+status that requires an investigation. She suggested that there is no consistent timing for receiving
+these certifications but that they are typically received a week before trial, which allows defense
+counsel to interview the tribal custodian to understand the recordkeeping practices and to subpoena
+the tribal custodian to testify if there are genuine concerns.
+A Committee member then asked Ms. Johnson whether she was suggesting that the
+Committee should infer that tribal Nations are critical of the proposed amendment from the low
+rate of response to the request for feedback. Ms. Johnson responded that she did not intend to
+suggest that Tribes are critical of the proposed change based on the lack of widespread response.
+Still, she suggested that tribal Nations that harbored concerns about the proposal could reasonably
+conclude that abstaining from comment was superior to offering affirmative criticism of a proposal
+grounded in tribal sovereignty. She wanted to highlight for the Committee that 98% of tribal
+Nations offered no response and that the positive feedback received did not reveal a groundswell
+of support from tribal leaders. Ms. Johnson added that she does not view self-authentication as a
+matter of dignity or sovereignty, but as a matter of forgery . She suggested that there is nothing
+respectful or dignified about having inauthentic documents purporting to emanate from your Tribe
+admitted into evidence.
+Ms. Shapiro highlighted for the Committee many instances in which self-authenticating
+documents currently are used to establish an element of a criminal offense and explained that
+allowing self-authenticating tribal records to establish the necessary status element of a criminal
+offense would be no different. Moreover, she emphasized that a defendant may always challenge
+authenticity, even if a tribal record is admitted. Ms. Shapiro reiterated that there is no rational
+reason for allowing the many entities already listed in Rule 902(1) to present self-authenticating
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 559 of 587
+20
+documents while denying the same treatment to sovereign Tribes. One Committee member asked
+whether it was appropriate for the Committee to determine the status of tribal documents given the
+treaties that govern relationships with tribal Nations. He asked whether the sovereign Tribes should
+retain full control over the status of their own records. The Chair noted that only records that a
+Tribe chose to sign and seal would become self -authenticating under an amended rule . The
+Committee member agreed that the Tribe s could prevent self-authentication by declining to sign
+or seal particular records and was satisfied that the Tribes would retain control over the status of
+their own records even under an amended Rule 902(1).
+The Chair then called the Committee’s attention to the draft of the proposed amendment
+and Committee note on pages 253 and 254 of the agenda book. He suggested two separate
+Committee votes: 1) regarding approval of the rule text and 2) regarding the content of the
+Committee note. The Committee first voted to approve publication of the text of Rule 902(1) for
+public comment, with only the Federal Public Defender opposing.
+The Committee next considered the language of the proposed Committee note. Professor
+Richter explained two bracketed items in the proposed C ommittee note for the Committee to
+consider. She directed the Committee’s attention to the first bracketed item appearing on lines 14
+through 17 on page 253 of the agenda book that contained a reference to Federal Rule of Criminal
+Procedure 6(e) that the DOJ included in its original Rule 902(1) proposal . Professor Richter
+reminded the Committee that it had previously discussed whether Rule 6(e) – which addresses the
+disclosure of grand jury information to tribal officials – offers an apt comparison for Rule 902(1)
+(which addresses the admissibility of tribal records) . She noted that the draft Committee note
+utilized a “cf.” cite to indicate that Rule 6(e) offers a distinct but helpful analogy. Professor Richter
+noted that the second bracket ed section appeared on page 254 of the agenda memo at lines 27
+through 30. She explained that this bracketed material was added as a result of tribal feedback and
+emphasizes that the amendment concerns authenticity only, that other evidentiary requirements
+continue to apply (such as hearsay rules, relevance, and Rule 403), and that parties may still
+challenge the authenticity of the covered public documents at trial if there is a genuine dispute.
+The Reporter suggested that the second bracketed section should be its own paragraph and that he
+favored cutting out the final five words (“where authenticity is generally disputed”). He noted that
+a defendant can always challenge authenticity, and the Committee note should not appear to add a
+condition for doing so. With that change, the Reporter stated his support for including the material
+in the second bracketed section. Judge Furman recognized those suggestions as friendly
+amendments with respect to the second bracketed section on page 254, making the section a new
+paragraph, and striking the words “where authenticity is genuinely disputed.”
+As to the first bracket, the Reporter stated that using a “cf.” signal to indicate the distinction
+between Criminal Rule 6(e) and Rule 902(1) was helpful . Judge Furman offered that he did not
+think the reference was necessary but saw no harm in it. Judge Furman suggested that the points
+made by the second bracketed section should go without saying because Rule 902(1) covers only
+authentication, but stated that he saw no harm in including the language and some potential benefit
+in underscoring t he point t hat authenticity can be challenged at trial even if tribal records are
+admitted. Ms. Shapiro questioned whether the “cf.” suggestion in the first bracket came from the
+DOJ, and Professor Richter stated that it was included in the draft Committee note accompanying
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 560 of 587
+21
+the DOJ’s original proposal in May 2025 to show that tribal sovereignty was otherwise recognized
+within the Federal Rules . Ms. Shapiro opined that this was intended as a point of argument, and
+that the citation did not need to be included in the Committee note. The Chair recognized this as a
+friendly amendment to remove the first bracketed citation, which was accepted by the Committee.
+Ms. Shapiro confirmed that the DOJ was fine with including the second bracketed section, as
+modified by the Committee’s discussion.
+Judge Furman then called for a vote regarding approval of the proposed Committee note
+for publication, as amended to remove the first bracketed section with the “cf.” citation and with
+the second bracketed section modified in the two ways proposed by the Reporter. Upon a motion
+and second, the Committee voted to accept the changes to the Committee note and to publish it for
+publication, with one objection.
+VI. Smith v. Arizona and Rule 703/ Peña-Rodriguez and Rule 606(b)
+The Chair next raised the issue of the Supreme Court ’s decision in Smith v. Arizona and
+whether amendments to Rule 703 are needed to reflect that decision . He referred members to
+Professor Richter’s excellent memorandum on this issue, found at Tab 6 of the agenda book, at
+page 295.
+Judge Furman provided the Committee with a recap of the issue, stating that in Smith, the
+Supreme Court held that a prosecution expert’s testimony violated the confrontation clause of the
+Sixth Amendment when the expert conveyed the testimonial state ments of an absent forensic
+analyst to support the testifying witness’ opinion. The question for the Committee is whether that
+decision warrants an amendment of Rule 703, which permits experts to rely on otherwise
+inadmissible information in forming an opinion, and in certain circumstances, subject to a stringent
+balancing test, to disclose that information to the jury. Thus far, the Committee has been of the
+view that an amendment to Rule 703 is not needed in the event that Smith is construed to prohibit
+only the disclosure of testimonial hearsay by an expert because Rule 703 already prohibits such
+disclosure absent satisfaction of a stringent balancing test. On the other hand, Judge Furman noted
+that if Smith is interpreted more broadly to prohibit expert reliance on testimonial hearsay as well,
+that would pose a bigger problem for Rule 703, which authorizes expert reliance on inadmissible
+information when other experts would reasonably rely upon the information. Judge Furman
+observed that there is an emerging and deepening split on the issue of whether Smith regulates
+expert reliance on testimonial h earsay, and that many courts have construed the ruling to reach
+expert reliance upon testimonial hearsay, as well as disclosure of that information to the jury.
+I n light of that developing case law , Judge Furman reminded the Committee that it had
+requested a Reporter’s memo proposing a “red flag” amendment to Rule 703 that would at least
+signal that inadmissible basis information may not be relied upon or disclosed under to Rule 703
+when doing so would violate the Constitution. He acknowledged that the rules can never be applied
+in a way that violates the Constitution, but noted the concern that an unwary litigant or court might
+apply Rule 703 in an unconstitutional manner. Judge Furman also emphasized, as set forth in
+Professor Richter’s memorandum, that there had been 88 decisions citing Smith in the six-month
+period between the Committee’s last meeting and the completion of the agenda memorandum. He
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 561 of 587
+22
+highlighted that the Massachusetts Supreme Court held that its state law counterpart to Rule 703
+“no longer comports with the right of confrontation.” Judge Furman also noted that in light of the
+deepening split, it seems very likely that the Supreme Court will return to this issue in the near
+future and resolve the question of whether Smith applies beyond disclosure to expert reliance on
+testimonial hearsay . If the Supreme Court were to extend Smith to prohibit all reliance on
+testimonial hearsay, Judge Furman stated that the argument in favor of amending Rule 703 would
+be much stronger. Conversely, he noted that there would be a weaker case for an amendment if
+the Court were to clarify that the holding forecloses only the disclosure of testimonial hearsay.
+Judge Furman reminded the Committee that it had also decided to reconsider whether to
+amend Rule 606, which prohibits post-verdict juror testimony regarding jury deliberations, to add
+a constitutional exception reflecting the Supreme Court ’s 2017 decision in Peña-Rodriguez. In
+Peña-Rodriguez, the Court held that the Sixth Amendment right to a fair and impartial jury requires
+post-verdict juror testimony when a juror makes a clear statement indicating that racial animus
+was a significant motivating factor in the decision to convict. Judge Furman noted that Rule 606
+clearly conflicts with Peña-Rodriguez as written because it prohibits post-verdict juror testimony
+to impeach a verdict and offers no exception for such racially biased statements . Judge Furman
+also commented that most courts have narrowly construed Peña -Rodriguez to be limited to
+circumstances where there are clear statements of racial or ethnic animus . He explained that t he
+argument for amending Rule 606(b) to include a constitutional “red flag” would be similar to the
+argument for amending Rule 703. On the other hand, Judge Furman emphasized that Rule 606
+applies to a post-verdict situation in which courts generally are not having to make snap judgments
+about admissibility. He further noted that courts and litigants appear to be pretty familiar with the
+law in this area. Judge Furman concluded his introduction by noting that if the Committee is going
+to amend Rule 703 to provide a constitutional red flag, there ’s an argument for doing the same
+with respect to Rule 606.
+Professor Richter added that Rule s 606(b) and 703 stand on slightly different footing
+because it is clear that Rule 606(b)(1) as drafted is inconsistent with the Constitution as interpreted
+in Peña-Rodriguez. She noted that the extent to which Rule 703 may be capable of unconstitutional
+application in a criminal case remains unclear. She echoed Judge Furman, noting that most courts
+have narrowly construed the Peña-Rodriguez exception to Rule 606(b)’s no impeachment rule.
+She highlighted one notable exception — a Sixth Circuit opinion that extended the ruling to the
+civil context. Professor Richter directed the Committee ’s attention to one proposed amendment
+alternative for the Committee ’s consideration that appeared on pages 309 and 310 of the agenda
+book that would track the language in Peña-Rodriguez specifically to avoid any potential
+expansion of the constitutional exception through rulemaking. She noted that concerns about the
+unintended expansion of the constitutional exception to the no- impeachment rule through
+rulemaking was a significant factor in the Committee ’s decision to table a Rule 606(b)
+constitutional amendment in 2018. Given that the case law has not shown any significant
+expansion of the exception in the nine years since Peña -Rodriguez was decided and given that
+three states have amended their versions of Rule 606 to include specific language tracking Peña-
+Rodriguez, Professor Richter explained that the Committee may wish to consider this narrow
+amendment alternative. She explained that a second , more generic, amendment alternative was
+also provided on pages 313 and 314 of the agenda book for the Committee’s consideration. She
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 562 of 587
+23
+explained that this generic alternative would offer more flexibility in case of future expansion of
+the constitutional exception to the no impeachment rule.
+Judge Furman then opened the issue up for discussion. One Committee member supported
+the Rule 606(b) narrow fix but expressed the view that Rule 703 was not ripe for amendment .
+Judge Dever added that he believed that the Supreme Court would grant review on the Rule 703
+issue. Judge Dever noted that the Standing Committee was generally skeptical of red flags in the
+rules. He offered examples, such as Rule 16 of the Federal Rules of Criminal Procedure that does
+not address Brady and Giglio and Rule 47 of the Civil Procedure Rules that does not mention
+Batson challenges. He opined that judges and lawyers are well aware of the constitutional issues
+underlying these rules despite the lack of red flags in rule text. As to Rule 606, Judge Dever also
+noted that there is no indication in the case law that judges are misapplying Rule 606 to exclude
+testimony required by Peña-Rodriguez. He also emphasized the Supreme Court’s lengthy defense
+of the no- impeachment rule in Peña-Rodriguez and the policy choice that Congress made to
+prohibit post -verdict juror testimony in most circumstances . Judge Dever also opined that the
+proposed language in the narrow amendment alternative did not accurately track the holding in
+Peña-Rodriguez. He cautioned that the broader, more flexible amendment alternative would
+broadly expand the decision in a way that is inconsistent with the policy choice that Congress
+made. Judge Dever noted a similar issue that came up with respect to Criminal Rule 23 at the
+height of COVID regarding the defendant’s ability to ask for a bench trial over the government ’s
+objection. He stated that he believed that the Committee was wise nine years ago in tabling
+amendments to Rule 606, and that there had been no problems in applying Rule 606(b) in the
+intervening nine years that warranted any fix.
+Professor Richter agreed with Judge Dever that there was no indication in the case law that
+that judges or lawyers are missing the Peña-Rodriguez issue. She further acknowledged the
+difficulty in drafting an amendment that track s the decision exactly. For example, she noted that
+the draft on page 310 of the agenda book would apply in the civil context because it covers
+“verdicts” and not only “convictions” and that the holding in Peña-Rodriguez applied only in the
+criminal context.
+The Reporter then commented that the idea of the red flag i s not that judges are unaware
+of the law, but that unschooled defense attorneys might not know that there is a constitutional
+argument out there because the Rule does not address it. He explained that it is also suboptimal to
+have a rule of evidence that is unconstitutional when applied as written and that this amendment
+would resolve that problem. But the Reporter also agreed that a line has to be drawn because
+there’s a potential constitutional argument in every single case, and where to draw that line is
+difficult. Judge Furman noted that if the Committee were drafting Rule 606 today, it may proceed
+differently, but the question for the Committee is whether to revisit the issue nine years later.
+Judge Furman then re turned to consideration of potential amendments to Rule 703 and
+asked if anyone was aware of any cert petitions on the proper interpretation of Smith. Ms. Shapiro
+responded that she had not checked but that in all likelihood, one would be filed soon. With that
+context, Judge Furman then suggested that the Committee hold off on addressing Rule 703 to await
+a decision by the Supreme Court.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 563 of 587
+24
+After hearing no objection to holding off on amendments to Rule 703 until the Supreme
+Court weighs in, Judge Furman then asked for the Committee’s thoughts on moving forward with
+an amendment to Rule 606. On the one hand, he noted that there is an argument for an amendment
+because the rule on its face is unconstitutional. On the other hand, he acknowledged that an
+amendment may be a solution in search of a problem. Judge Dever then reiterated the concern that
+the Standing Committee might wish to see a much stronger argument for revisiting Rule 606,
+especially because many rules may have case law that calls their application into question and
+because tracking the language, as Professor Richter noted, would be very difficult to do in the rule.
+Judge Dever also emphasized that a Rule 606 inquiry comes after trial, and that the Court in Peña-
+Rodriguez described the many mechanisms in place to prevent juror issues during a trial, such as
+voir dire, juror misconduct being reported during a trial, and polling.
+The Reporter also commented that an amendment may sometimes be appropriate after a
+Supreme Court decision to make a rule operable, such as the amendments to Rule 803(10) that
+Professor Richter noted in her memorandum. He offered that this change was not a red flag because
+it was necessary to make the rule operable. Judge Dever agreed that Rule 803(10) was a good
+example of a needed amendment. Judge Furman also agreed, remarking that if there were an easy
+way to conform Rule 606(b) to the Constitution, as was done with Rule 803(10), then there would
+be a stronger argument for an amendment. But he acknowledged that even the narrow approach
+proposed for Rule 606 could not be completely coextensive with Peña-Rodriguez.
+Following this discussion, the Chair asked the Committee to vote on whether to keep Rule
+606 on the agenda , noting that the Committee w ould continue to monitor Rule 703 to see if the
+Supreme Court weighs in. Judge Furman suggested that , unless there ’s a strong argument for
+revisiting it, Rule 606 should be removed from the agenda. One Committee member asked if the
+Standing Committee would oppose an amendment to Rule 606, and Judge Dever responded that
+he spoke only for himself but rested on the issues he raised. Another Committee member also
+asked if an amendment with general introductory language such as “unless otherwise provided”
+would be helpful, and Judge Dever again suggested that the Standing Committee may have the
+same concerns. With no more comments, and upon a motion and second, and with no opposition,
+Rule 606 was removed from the agenda.
+VII. Possible Changes to Rules 104(a) and (b)
+The Chair next addressed the last issue on the agenda, potential amendments to Rule 104.
+He directed the Committee’s attention to the Reporter’s memorandum found behind Tab 7, starting
+at page 333 of the agenda book. Judge Furman explained that Rule 104 governs the court’s role in
+deciding preliminary questions about the admissibility of evidence. The first provision for the
+Committee’s consideration is Rule 104(a), which provides that the court must decide preliminary
+questions about whether evidence is admissible. This rule, however, does not actually specify the
+standard of proof that the court must apply. Judge Furman explained that the Supreme Court held
+in the Bourjaily case that the standard for admissibility is preponderance of the evidence, but that
+standard does not appear in the rule. Judge Furman then explained that the Committee is also
+considering amendments to Rule 104(b), which governs “conditional relevance,” that is, when the
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 564 of 587
+25
+relevance of certain evidence depends on whether a fact exists, then proof must be introduced
+sufficient to support a finding that the fact does exist. He explained that some commentators, most
+notably Professor Allen who was an invited guest at the meeting, have criticized the idea of
+conditional relevance as distinct from relevance generally . In the Huddleston case, the Supreme
+Court construed the Rule 104(b) standard to require sufficient evidence for a reasonable juror to
+find that a conditional fact exists.
+Judge Furman then summarized the two recommended amendments, noting that if the
+Committee were drafting the rules in the first instance, it could do better than the existing rules .
+The first recommended change would be to add the preponderance-of-the-evidence standard
+explicitly to Rule 104(a), thus codifying the Supreme Court ’s holding in Bourjaily. The second
+recommended change would be to eliminate the concept of conditional relevance in Rule 104(b)
+and replace it with a uniform standard applicable to all relevance questions.
+Judge Furman noted that one of the principal questions wa s whether to proceed with any
+amendment at all, with the case for amending Rule 104(a) fairly straightforward. Judge Furman
+observed that this issue arose in connection with the amendment of Rule 702 in 2023. In addition,
+one of the comments in connection with proposed Rule 707 also flagged that that rule contained
+no reference to the standard of proof . Judge Furman noted that t he absence of an express burden
+of proof can also cause problems, as the Reporter ’s memo indicated with respect to the standard
+applicable to party opponent statements under Rule 801(d)(2)(A). Judge Furman added that while
+widespread evidence of problems may not exist, there are salutary reasons for an amendment to
+clear up the rule. The Reporter added that part of the reason to amend Rule 104(a) to add the
+standard of proof is to cut off potential arguments that its absence is significant where other rules
+address it. Adding the standard of proof would also be helpful to the unschooled lawyer because
+there is no way to discern the standard without legal research.
+As to Rule 104(b), Judge Furman stated that he would give Professor Allen an opportunity
+to speak as one of the leading experts on the issue of conditional relevance, noting that there is an
+argument that the whole notion of conditional relevance is incoherent , unnecessary, and
+complicated. He reminded the Committee that it had discussed whether this rule is causing
+problems at its Fall 2025 meeting , which he explained was certainly something that should be
+considered in deciding whether to proceed. Judge Furman also pointed out that the Reporter ’s
+memo catalogued cases showing that courts have been confused by the concept of conditional
+relevance, most notably a 10th Circuit case from just this last year, which made the observation
+that conditional relevance is “very blurry and that a savvy lawyer can basically turn any question
+of relevance into a 104 (b) conditional relevance question.” Having said that, Judge Furman also
+commented that one question that he would like to address to Professor Allen and the Reporter is
+whether the confusion is impacting outcomes in cases.
+Professor Allen then thanked the Committee for inviting him to speak and began his
+remarks by acknowledging the influence of the Federal Rules of Evidence . That said, Professor
+Allen opined that some mistakes were made in the original drafting of the Rules and that the
+understanding of certain issues had changed since the original enactment . Professor Allen then
+explained that part of the problem with Rule 104(b) is that the Rules as written suggest a difference
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 565 of 587
+26
+between relevancy under Rule 401 and conditional relevancy under Rule 104(b). But he noted that
+there is always a reason why evidence is relevant, whether that reason is found in the record itself,
+or simply in the mind of the decision- maker. For example, Professor Allen explained that if you
+try a case in Iowa involving nitrogen fertilizer, you don’ t need to put in evidence that nitrogen
+fertilizer is a dangerous commodity because jurors in Iowa are well aware of the properties of
+nitrogen fertilizer. In New York, you do. As another example, Professor Allen referenced a case
+in his casebook about a prison fight in which the disputed issue was who was the first aggressor .
+The defendant want ed to introduce evidence that when the guards came to his cell, they were
+putting on leather gloves. This prison was in a town where the prison was the main employer, and
+everybody knew that when the guards went to a cell putting on gloves, they intended to have a
+fight. The evidence of the gloves obviously increases the probability that the defendant was acting
+in self-defense. But if you try that case in New York or Chicago, people don’ t know that custom
+or practice in the prison. T he only difference in the se cases is the source of the knowledge
+necessary to connect this evidence by a chain of logic to the consequence. The evidence connecting
+the facts may be in the record or may be general knowledge already in the mind of the decision-
+maker.
+Professor Allen characterized Rule 104 a s a “mess” for all the reasons the Reporter
+described in his agenda memo and argued that forcing litigants and courts to distinguish between
+Rule 401 and Rule 104(b) relevance was a waste of resources. Professor Allen acknowledged that
+the issue of whether Rule 104(b) is worth changing is up to the Committee, and that the conceptual
+mess as he described it may not be a sufficient reason to amend the rule. Still, Professor Allen
+opined that all of the litigation efforts currently required to address Rule 104(b) issues could be
+avoided if the rule provided a simple, straightforward, reasonableness determination about the
+relevancy of evidence. Professor Allen also drew from personal experience as a consultant to law
+firms in complex cases and described a tremendous amount of effort and resources used to evaluate
+these questions. He explained that a reasonableness inquiry under Rule 104(b) would allow the
+trial judge to determine if a reasonable factfinder could see the connection between the evidence
+and the fact of consequence, and, if not, the judge could tell the litigants that they have to produce
+evidence. Professor Allen concluded his remarks by expressing the hope that the Committee would
+take this issue further and dig into the real transaction costs created by Rule 104(b) that are hidden
+by the cases.
+Judge Furman thanked Professor Allen for his presentation and noted that the Reporter had
+identified Rule 104(b) as the worst rule in the Federal Rules of Evidence and the one he would
+most like to change. Judge Furman then directed Committee members to the proposal to amend
+Rule 104 on page 353 of the agenda book. Judge Furman explained that when he presented this
+issue to the Standing Committee at the January 2026 meeting, he had suggested that it would be a
+question of whether to proceed with both amendments or neither. He reported that there was some
+sentiment on the Standing Committee that there would be some virtue in continuing to move
+forward with Rule 104(a) even if the Committee decided not to address Rule 104(b). He explained
+that adding the preponderance standard to Rule 104(a) would be helpful for lawyers unfamiliar
+with Bourjaily and, further, that the Committee would likely include a standard of proof if it were
+writing Rule 104 today. The Reporter supported the idea of seeking Committee feedback and then
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 566 of 587
+27
+holding a vote regarding Rule 104(a) first. He also noted that the case law indicates problems
+applying Rules 104(a) and 104(b) that amendments could address.
+The members then discussed the proposed amendment to Rule 104(a) to add the
+preponderance standard of proof. One Committee member commented that he had always found
+the distinction between Rule 104(a) and (b) and the necessary standards of proof in various
+circumstance unnecessarily confusing. Ms. Shapiro added that the DOJ supports the change to
+Rule 104(a) to add the standard of proof.
+Based on this feedback, and with no other comments, Judge Furman called the question
+about whether to approve the amendments to Rule 104(a) for publication and public comment.
+This would involve the proposed language on page 353 of the agenda book and would add a
+sentence “Unless otherwise provided in these rules, the proponent must establish the existence of
+a preliminary fact by a preponderance of the evidence.” Upon a motion and a second, and with no
+objection, the Committee approved the amendment to Rule 104(a) for publication and public
+comment, along with the draft Committee note.
+Judge Furman then moved on to consideration of amendments to Rule 104(b), the so-called
+conditional relevance rule, calling the Committee’s attention to the proposed amendments on page
+253 of the agenda book. The Reporter explained the benefits of eliminating the concept of
+dependency created by the concept of “conditional relevance.” He explained that t his concept is
+problematic and confusing because the relevance of every item of evidence i s dependent upon
+everything else. Another benefit of the proposed amendment is that it would no longer require
+“proof” that must be introduced sufficient to support a finding. This is helpful where the relevance
+question is not only about “proof” of relevance but also about logic and experience — somebody
+can determine that evidence is relevant without “proof.” Under the new formulation, the Reporter
+explained that evidence would be relevant if the court determines the trier of fact could reasonably
+find that the requirements of Rule 401 ha ve been met. In making that determination, the
+amendment would allow the court to consider “the evidence itself, other evidence, and common
+knowledge and experience. ” The Reporter opined that this new language would also be helpful
+because Rule 401 currently contains no standard of proof.
+Committee members then discussed the proposed amendments to Rule 104(b). One
+Committee member expressed support for the new language in the first sentence of the proposed
+amendment, arguing that it tracks the argument that lawyers must make to the judge on relevance
+issues. He expressed some concern about the “common knowledge and experience ” language in
+the second sentence — suggesting that jurors are already reminded to rely upon common sense in
+their instructions and that it would be odd for an Evidence rule to direct a judge to use common
+sense. Another Committee member did not fully support the changes because judges routinely
+consider the issue of relevance with no problems . The Reporter explained that the change would
+address t he standard of proof that the judge must apply in determining a relevance question,
+language that could also be added to Rule 401. The Committee member responded that this change
+is not needed in either place. Another Committee member expressed concern that the proposed
+amendment appears to define relevance in a slightly different manner than Rule 401. In addition,
+the Committee member observed that the proposed amendment would seem to change the purpose
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 567 of 587
+28
+of Rule 104(b), which could lead to more confusion. The Reporter responded that the amendments
+were not intended to change Rule 401, only to provide guidance for a judge in determining whether
+the standards of 401 have been met. Judge Furman interjected that the Committee might have
+added the amended language to Rule 401 if it were drafting from scratch, but that it was important
+to preserve the architecture of the existing rules in crafting amendments and that placement in Rule
+104(b) would make more sense at this point in the history of the Rules.
+Another Committee member asked whether Rule 104(a) would apply to all preliminary
+questions of admissibility except relevance under the proposed amendments, with Rule 104(b)
+covering only questions of relevance and deferring to the jury in appropriate circumstances . The
+Reporter agreed, explaining that the reason for that allocation is the idea that judges are no better
+at determining relevancy than juries are, but that judges are superior arbiters of other admissibility
+requirements, such as whether an expert’s testimony is reliable. Another Committee member asked
+if the problem with the current rule is that it generates confusion between the concepts of
+“conditional relevancy ” and “ conditional admissibility .” The Reporter agreed, explaining that
+courts sometimes apply the lower Rule 104(b) standard of proof to questions of conditional
+admissibility — such as the coconspirator exception — when those questions do not raise
+relevancy concerns and should be handled by the higher preponderance standard of proof. The
+Reporter opined that an amendment would alleviate some of this confusion, though it would need
+to retain language about “connecting up” admissibility requirements with later proof.
+The Chair then referenced Professor Allen’s remarks that substantial resources are wasted
+in trying to figure out the concept of conditional relevance and the necessary “conditions.” He
+asked if trial judges or litigators were seeing resources wasted on litigating some of these issues
+or experiencing the confusion that we see in some of these cases. One Committee member
+responded that she had not seen problems with these rules in all the time she has litigated and
+presided over trials and sees the proposed amendment as a fix in search of a problem. She opined
+that people understand the idea that A is relevant only if B also can be proven. The Reporter noted
+that the cases did not reveal problems with judges so much as the parties who misconceive
+conditional relevance, although some cases did indicate that judges had made mistakes in this
+regard as well. Another Committee member argued that the amendment would be helpful because
+it would give the litigator language to explain to the judge why evidence should, or should not, be
+admitted. And while judges can instinctively make relevance decisions, this language has been
+missing from the dialogue and arguments in court. Ms. Shapiro added that DOJ practitioners do
+not seem to have a problem with this although it does come up. She added that the proposed
+amendments set out two different standards , a preponderance standard for preliminary questions
+of admissibility, and a lower sufficiency standard for relevance. She suggested that the way in
+which the amended rule would divide these concepts could be confusing and suggested a general
+preponderance standard for admissibility determinations with an “exception” for relevance
+determinations all in Rule 104(a). The Reporter responded that the Committee could not eliminate
+Rule 104(b) altogether without damaging the architecture of the Rules.
+Although the Committee had been considering the amendment to Rule 104(b) separately
+from the previously approved amendment to Rule 104(a), Judge Furman asked whether both Rules
+104(a) and 104(b) have to be amended together to avoid making Rule 401 questions subject to a
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 568 of 587
+29
+preponderance standard under an amended Rule 104(a). The Reporter agreed that an amendment
+to Rule 104(a) without a corresponding change to Rule 104(b) could be read to impose a
+preponderance standard for all relevance determinations that are not “conditional.” The Federal
+Public Defender opined that both provisions should be amended because the concept of conditional
+relevance is extremely confusing and unnecessary.
+Based on this discussion, Judge Dever made some suggested changes to the proposed Rule
+104(b) language. To avoid any conflict with Rule 401, he suggested that Rule 104(b) could be
+amended to read that: in deciding relevance, “the court determines whether the trier of fact could
+reasonably find that the requirements of Rule 401 have been met.” The Reporter noted this change
+as a friendly amendment. Another Committee member offered another friendly amendment to
+structure Rule 104(b) in exactly the same way as subsection (a). This would add language
+providing that to establish that evidence is relevant, “the proponent must demonstrate to the court
+that a trier of fact could reasonably find . . .” The Reporter suggested that Judge Dever’s language
+was more direct and stated that it was not clear how this change was structured like (a). The
+Committee member explained that (a) says “the proponent must establish the existence of a
+preliminary fact by a preponderance of the evidence ” and that (b) could also say that “ the
+proponent must demonstrate, et cetera ” to establish that evidence is relevant. At this point, the
+Chair suggested a break to coalesce around proposed changes to the draft amendments to Rule
+104(b). Committee members then offered f eedback on the changes and the Federal Public
+Defender member noted that he had to leave the meeting but would vote to move forward to
+publication and public comment for amendments to both (a) and (b) as a package.
+Following the break, the Chair reconvened the meeting to share a revise d version of the
+proposed changes to Rule 104(b) for discussion. This included a change to the first sentence in
+Rule 104(b) so that it reads: “T o e stablish that evidence is relevant , t he proponent must
+demonstrate to the court that the trier of fact could reasonably find that the requirements of Rule
+401 have been met.” Ms. Shapiro confirmed that she had withdrawn an earlier suggested revision
+to include the word “ information” as foundation for a relevance finding because a jury could
+consider only “evidence” and not outside information available only to the judge in determining
+relevance. With these changes to the draft amendment, the Chair asked the Committee to vote on
+whether to amend Rule 104(a) and (b) together, or do nothing at all. Another Committee member
+suggested that the language in the second sentence of the proposed amendment to Rule 104(b) that
+read “In making its determination ” was awkward because the first sentence no longer discussed
+the court making a determination. The reporter agreed and asked whether modifying the second
+sentence to read: “In making its relevance determi nation, the court may...” All agreed that this
+was a good fix. With this change, and upon a motion and a second, and with no opposition, the
+Committee voted to recommend amendments to Rule 104(a) and (b) to be published for public
+comment. (The Chair confirmed with the Federal Public Defender member after the meeting that
+he too supported the proposal as modified.)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 569 of 587
+30
+VIII. Closing Matters
+The Chair closed the meeting by inviting Committee members and liaisons to offer
+suggestions for panelists to participate in the Fall 2026 mini-conference regarding draft Rules 707
+and 901(c), which will include a panel of technical experts to help the Committee understand the
+technology and refine definitions, and a panel of judges and practitioners to address the AI issues
+they are confronting and to comment on whether the proposed rules would provide a solution.
+Judge Furman then thanked Judge Sullivan again for his service on the Committee and
+observed that the work of the Rules Committees shows government at its best. Although the rule-
+making process can be lengthy, he noted that it is a sign that the Committee is being appropriately
+cautious and considerate. Judge Furman also thanked the members of the Rules Committee Staff
+for their assistance and reminded the members that the next meeting will be in Boston,
+Massachusetts on October 15, 2026. The meeting was then adjourned.
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 570 of 587
+PROPOSED AMENDMENTS TO THE
+FEDERAL RULES OF EVIDENCE1
+Rule 609. Impeachment by Evidence of a Criminal 1
+Conviction 2
+(a) In General. The following rules apply to attacking3
+a witness’s character for truthfulness by evidence of4
+a criminal conviction:5
+(1) for a crime that, in the convicting jurisdiction,6
+was punishable by death or by imprisonment7
+for more than one year, the evidence:8
+(A) must be admitted, subject to9
+Rule 403, in a civil case or in a10
+criminal case in which the witness is11
+not a defendant; and12
+(B) must be admitted in a criminal case in13
+which the witness is a defendant, if14
+the probative value of the evidence15
+1 New material is underlined in red; matter to be omitted is
+l
+ined through.
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 572 of 587
+2 FEDERAL RULES OF EVIDENCE
+substantially outweighs its prejudicial 16
+effect to that defendant; and 17
+(2) for any crime regardless of the punishment, 18
+the evidence must be admitted if the court can 19
+readily determine that establishing the 20
+elements of the crime required proving—or 21
+the witness’s admitting—a dishonest act or 22
+false statement. 23
+(b) Limit on Using the Evidence After 10 Years. This 24
+subdivision (b) applies if more than 10 years have 25
+passed since between the witness’s conviction or 26
+release from confinement for it , (whichever is later) 27
+and the date that the trial begins . Evidence of the 28
+conviction is admissible only if: 29
+(1) its probative value, supported by specific 30
+facts and circumstances, substantially 31
+outweighs its prejudicial effect; and 32
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 573 of 587
+FEDERAL RULES OF EVIDENCE 3
+(2) the proponent gives an adverse party 33
+reasonable written notice of the intent to use 34
+it so that the party has a fair opportunity to 35
+contest its use. 36
+* * * * * 37
+Committee Note 38
+Rule 609(a)(1)(B) has been amended to provide that 39
+a non-falsity-based conviction should not be admissible to 40
+impeach a criminal defendant unless its probative value 41
+substantially outweighs the risk of unfair prejudice to the 42
+defendant. Congress allowed such impeachment with non-43
+falsity-based convictions under Rule 609(a)(1), but imposed 44
+a reverse balancing test when the witness was the accused. 45
+That test is more protective so as not to infringe on the 46
+accused’s constitutional right to testify. The amendment 47
+underscores the importance of applying a protective balance. 48
+The amendment also makes the balancing test consistent 49
+with that in Rule 703. Courts are familiar with the 50
+formulation “substantially outweighs” as the same phrase is 51
+used throughout the rules of evidence to describe various 52
+balancing tests. Cf. Rule 403. 53
+If a conviction is inadmissible under this rule, it is 54
+inappropriate to allow a party, under Rule 608(b), to inquire 55
+into the specific instances of conduct underlying that 56
+conviction. Rule 608 permits impeachment only by specific 57
+acts that have not resulted in a criminal conviction. Evidence 58
+relating to impeachment by way of criminal conviction is 59
+treated exclusively under Rule 609. 60
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 574 of 587
+4 FEDERAL RULES OF EVIDENCE
+Nothing in this rule prohibits the use of convictions 61
+to impeach by way of contradiction. Such impeachment is 62
+governed by Rule 403. So for example, if the witness 63
+affirmatively testifies that he has never had anything to do 64
+with illegal drugs, a prior drug conviction may be admissible 65
+for purposes of contradiction even if not admissible under 66
+Rule 609. See United States v. Castillo , 181 F.3d 1129 (9 th 67
+Cir. 1999) (unequivocal denial of involvement with drugs on 68
+direct examination warranted admission of the witness’s 69
+drug activity under Rule 403). 70
+A number of courts have, in a kind of compromise, 71
+admitted only the fact of a conviction to impeach a defendant 72
+in a criminal case. Thus the jury hears only that the 73
+defendant was convicted of a felony, not what the crime was. 74
+Absent agreement by the parties, that solution is problematic 75
+because convictions falling within Rule 609(a)(1) have 76
+varying probative value, and admitting only the fact of 77
+conviction deprives the jury of the opportunity to properly 78
+weigh the conviction’s effect on the witness’s character for 79
+truthfulness. 80
+In addition, Rule 609(b) has been amended to set an 81
+endpoint by which the rule’s 10-year period is to be 82
+measured. The lack of such an endpoint in the original rule 83
+has led courts to apply various endpoints, including the date 84
+of the charged offense, the date of indictment, the date of 85
+trial, and the date the witness testifies. The rule provides for 86
+the date that trial begins as the endpoint, as that is a clear and 87
+objective date and it is the time at which the factfinder begins 88
+to analyze the truthfulness of witnesses. 89
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 575 of 587
+FEDERAL RULES OF EVIDENCE 5
+_________________________________
+Changes Made After Publication and Comment
+The Committee Note was slightly altered to
+emphasize the prejudice that may occur if a court allows the
+jury to hear that the accused committed a felony, but not tell
+the jury what the felony was.
+Summary of Public Comment
+Bobby Levine, Esq., (USC-RULES-EV-2025-
+0034-0003) objects to the proposed amendment to Rule
+609(b), contending that the date of indictment is preferable
+to the date of trial for assessing whether the conviction falls
+within the rule.
+Melody Brannon, Esq., (USC-RULES-EV-2025-
+0034-0004), writing on behalf of the Federal Defender and
+Community Defender members of Defender Services
+Advisory Group (“DSAG”) strongly supports the proposed
+amendment to Rule 609(a)(1)(B). She states that “this
+Committee must amend the rule to address the judicial
+misapplication of the test, which is due in part to the
+appellate courts’ standards of reviewing Rule 609 issues and
+evidence issues more broadly.” She also states that the
+prevailing application of the current test “violates
+defendants’ constitutional rights by chilling the right to
+testify” and that “social science does not support the
+proposition that impeachment by prior convictions
+contributes to the truthseeking goal it seeks to serve.”
+Aspen Griffing, Esq. (USC-RULES-EV-2025-
+0034-0005) states that “[a]dding the necessity of evidence
+under 609(a)(1)(b) to be substantially more probative than
+prejudicial provides a much needed safeguard on
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 576 of 587
+6 FEDERAL RULES OF EVIDENCE
+defendants’ rights” but that “the rule should calculate the
+time frame under 609(b) to extend to the date the defendant
+offers testimony.”
+Leah Brown, Esq. (USC-RULES-EV-2025-0034-
+0008) supports the proposed amendment to Rule
+609(a)(1)(B) because it “better safeguards a defendant's right
+to testify.” She notes that the risk of impeachment
+“discourages defendants from sharing their side of the story,
+even when their testimony is crucial for a fair trial.” Ms.
+Brown also agrees with the proposed endpoint in Rule
+609(b), contending that “lack of clarity regarding the ten
+years creates unnecessary uncertainty for both defendants
+and their attorneys.” She concludes that “[t]ogether, these
+revisions promote consistency, fairness, and transparency.
+Most importantly, they uphold the broader goals of the
+criminal justice system by ensuring that defendants feel
+empowered to testify without being unfairly burdened by
+convictions that do not accurately reflect their honesty.”
+Elliot Ashley, Esq., (USC-RULES-EV-2025-0034-
+0010) approves of the amendment but argues that the term
+“substantially” must be “better defined for the rule to have
+its intended effect.”
+Elizabeth Schultz, Esq., (USC-RULES-EV-0034-
+0011) approves of both proposed changes to Rule 609. As
+to the amendment to Rule 609(a)(1)(B), she states that the
+addition of the word “substantially” is “necessary because it
+gives more appropriate weight to the stakes involved when a
+defendant testifies in a criminal case, and it removes existing
+inconsistency within the Rules.” Ms. Schultz argues that the
+amendment “will encourage more careful judicial analysis
+and promote fairer trial outcomes for defendants.” As to the
+proposed amendment to Rule 609(b), Ms. Schultz states that
+the “clarification is a welcome improvement” and that “[b]y
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 577 of 587
+FEDERAL RULES OF EVIDENCE 7
+explicitly defining the relevant time frame and anchoring it
+to the trial date, which is a clear and unambiguous endpoint,
+the amendment promotes uniformity and predictability in the
+measurement application.”
+The Federal Magistrate Judges Association,
+(USC-RULES-EV-2025-0034-0017), supports the
+proposed amendment to Rule 609 providing for more
+protection of criminal defendants from impeachment with
+prior convictions. The Association states: “The proposed
+addition of ‘substantially’ is likely to have the effect of
+courts considering more carefully the admission of such
+evidence. The FMJA endorses this change because it
+minimizes the potential for prejudice to criminal defendants
+and focuses the jury on the conduct at issue in the trial rather
+than the individual’s past conduct.”
+The American College of Trial Lawyers, (USC-
+RULES-EV-2025-0034-0030), supports the proposed
+changes to Rule 609. As to Rule 609(a)(1)(B), the College
+states that the amendment “will help effectuate Congress’
+intent to provide robust, but fair, protections for criminal
+defendants.” As to the proposed amendment to Rule 609(b),
+the College “agrees with the Committee that the date of trial
+is the date that is most easily administered, the least
+susceptible to manipulation, and that it is a proper date for
+determining the credibility of a witness who is going to
+testify at the trial.”
+The New York City Bar Association, (USC-
+RULES-EV-2025-0034-0046), strongly supports the
+proposed amendment to Rule 609(a)(1)(B). It states that, as
+currently applied by courts, “Rule 609(a)(1) imposes an
+unwarranted burden on criminal defendants’ right to testify
+and, ultimately, to a fair trial.” It concludes that “[t]he
+proposal to raise the standard that must be satisfied before
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 578 of 587
+8 FEDERAL RULES OF EVIDENCE
+the admission of a prior conviction for the purpose of
+impeaching a defendant-witness’s credibility will help
+reduce this burden, bring the rule in line with its original
+intent, and promote a fairer adversarial process.” The
+Association concludes that the amendment “will hopefully
+restore the intended balance that Congress meant to strike
+when Rule 609 was enacted.”
+The National Association of Criminal Defense
+Lawyers, (USC-RULES-EV-2025-0034-0052), strongly
+supports the proposed amendment to Rule 609(a)(1)(B). It
+states that the amendment “marks an important step toward
+enhancing the fairness and integrity of our judicial system.
+By strengthening the threshold governing the admissibility
+of prior convictions for the purpose of impeaching a
+defendant-witness’s credibility, we move closer to ensuring
+that every defendant receives a fair trial.”
+The American Association for Justice, (USC-
+RULES-EV-2025-0034-0057), supports the proposed
+amendment to Rule 609 “as a small step toward greater
+fairness.”
+The Coalition for Prior Impeachment Reform,
+(USC-RULES-EV-2025-0034-0059), supports the
+proposed amendment to Rule 609(a)(1). It states that “[w]e
+know from our research and efforts that change is hard to
+achieve in the prior conviction impeachment sphere. We
+therefore express our appreciation for the fact that after years
+of work . . . a proposal has reached this stage.” The Coalition
+concludes that the proposed amendment “has the potential to
+limit the extent to which Federal Rule of Evidence
+609(a)(1)(B) detracts from ascertaining the truth.”
+University of Connecticut Law School Students,
+(USC-RULES-EV-2025-0034-0066), “write to express our
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 579 of 587
+FEDERAL RULES OF EVIDENCE 9
+strong support for adding the word ‘substantially’ to Federal
+Rules of Evidence 609(a)(1)(B)’s balancing test.” The
+students state that the current rule “derails Congress’
+intention to offer strong protections for defendants and
+serves to deter defendants with prior convictions from
+testifying.” They conclude that “[t]he addition of the word
+“substantially” will serve as a promising first step in creating
+a judicial system that protects defendants’ rights and furthers
+the purpose of the Federal Rules of Evidence.” The students
+go further and ask the Committee to propose abrogation of
+Rule 609, and state that “[j]ust as the 2020 amendment to
+Rule 404(b) became a barrier to meaningful reform of that
+Rule, we are concerned the 2026 Rule 609 amendment will
+become a barrier to true reform or elimination of the Rule.”
+The New York Council of Defense Lawyers,
+(USC-RULES-EV-2025-0034-0075), strongly supports the
+proposed amendment to Rule 609(a)(1)(B). The Council
+states that there is a “wide disparity” in the case law in
+applying the balancing test of the rule, with some courts
+applying it carefully “while others almost routinely admit
+prior convictions as impeachment evidence.” The Council
+believes that the amendment “will not materially affect
+courts in the former category; it will signal to the latter courts
+that the Rule’s balancing test is not to be taken lightly, with
+the result that fewer convictions that have little to do with a
+defendant’s character for truthfulness are admitted.”
+Proposed Amendments for Final Approval (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 580 of 587
+PROPOSED AMENDMENTS TO THE
+FEDERAL RULES OF EVIDENCE1
+Rule 902. Evidence That Is Self-Authenticating 1
+* * * * * 2
+(1) Domestic Public Documents That Are 3
+Sealed and Signed. A document that bears: 4
+(A) a seal purporting to be that of the 5
+United States; any state, district, 6
+commonwealth, territory, or insular 7
+possession of the United States; a 8
+federally recognized Indian Tribe or 9
+Nation; the former Panama Canal 10
+Zone; the Trust Territory of the 11
+Pacific Islands; a political subdivision 12
+of any of these entities; or a 13
+department, agency, or officer of any 14
+entity named above; and 15
+1 New material is underlined in red.
+Proposed Amendments for Publication (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 582 of 587
+2 FEDERAL RULES OF EVIDENCE
+(B) a signature purporting to be an 16
+execution or attestation. 17
+* * * * * 18
+Committee Note 19
+The rule has been amended to provide that a sealed and 20
+signed document from a federally recognized Indian Tribe 21
+or Nation is entitled to the same presumption of 22
+authenticity as a comparable document from the 23
+government entities currently listed in Rule 902(1)(A). 24
+The amendment thus recognizes the sovereignty of Indian 25
+Tribes and Nations. Furthermore, self-authentication of the 26
+public documents of Indian Tribes and Nations will allow 27
+for more efficient proof of tribal records in federal court 28
+and will conserve the valuable resources of tribal officials 29
+who often had to appear in court to authenticate documents 30
+prior to the amendment. 31
+Under the Federally Recognized Indian Tribe List Act 32
+of 1994 (P.L. 103-454), the Secretary of the Interior 33
+publishes a list of all federally recognized Indian tribes in 34
+the Federal Register, through which courts may identify 35
+covered Tribes and Nations. The amendment permits self-36
+authentication of the qualifying sealed and signed 37
+documents of any Indian Tribe or Nation that is federally 38
+recognized as of the date that the document is offered into 39
+evidence. 40
+The amendment concerns authenticity only; other 41
+evidentiary requirements continue to apply. As with other 42
+902(1) documents, parties may still challenge the 43
+authenticity of the covered public documents at trial. 44
+Proposed Amendments for Publication (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 583 of 587
+PROPOSED AMENDMENTS TO THE
+FEDERAL RULES OF EVIDENCE1
+Rule 104. Preliminary Questions1
+(a) In General. The court must decide any preliminary2
+question about whether a witness is qualified, a3
+privilege exists, or evidence is admissible. In so4
+deciding, the court is not bound by evidence rules,5
+except those on privilege. Unless otherwise provided6
+in these rules, the proponent must establish the7
+existence of a preliminary fact by a preponderance of8
+the evidence.9
+(b) Relevance That Depends on a Fact. When the10
+relevance of evidence depends on whether a fact11
+exists, proof must be introduced sufficient to support12
+a finding that the fact does exist. To establish that13
+evidence is relevant, the proponent must demonstrate14
+1 New material is underlined in red; matter to be omitted is
+l
+ined through.
+Proposed Amendments for Publication (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 584 of 587
+2 FEDERAL RULES OF EVIDENCE
+to the court that the trier of fact could reasonably find 15
+that the requirements of Rule 401 have been met. In 16
+making its relevance determination, the court may 17
+consider the evidence itself, other evidence, and 18
+common knowledge and experience. The court may 19
+admit the proposed evidence on the condition that the 20
+further proof be introduced later. 21
+* * * * * 22
+Committee Note 23
+Two changes are made to Rule 104. First, the 24
+amendment codifies the holding in Bourjaily v. United 25
+States, 483 U.S. 171, 175 (1987), that preliminary questions 26
+of fact under Rule 104(a) are to be determined by a 27
+preponderance of the evidence. The Committee has 28
+determined that codification would be useful because there 29
+has been some confusion about the applicable standard of 30
+proof for preliminary questions. See the 2023 amendment to 31
+Rule 702. 32
+Some situations call for a lower standard of proof for 33
+a preliminary question, ordinarily because on those 34
+questions, the jury is in as good a position as the court to 35
+determine the contested fact, and there is little to no risk that 36
+the jury will be misled or subject to unfair prejudice in 37
+making the determination. See Rules 104(b), 602, 901 and 38
+1008. 39
+Proposed Amendments for Publication (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 585 of 587
+FEDERAL RULES OF EVIDENCE 3
+Second, the amendment to Rule 104(b) eliminates 40
+the concept of “conditional relevance.” There is no reason 41
+for special treatment of facts that are conditionally relevant, 42
+because in almost all cases, the relevance of a particular fact 43
+is dependent on a showing of other facts and so the relevance 44
+is “conditional.” Moreover, if the existence of one fact is 45
+conditionally relevant upon another, the result is that both 46
+facts are “conditionally relevant.” See Ronald Allen, The 47
+Myth of Conditional Relevance, 25 Loyola L. Rev. 871-884, 48
+879 (1992) (“Evidence is relevant only because there is an 49
+intermediate premise or set of premises that connects the 50
+evidence to some proposition involved in the litigation. But 51
+if determining the relevance of evidence always requires 52
+relying on some intermediate premise, no distinction can be 53
+drawn between relevancy and conditional relevancy.”). 54
+Providing a uniform approach to all questions of relevance 55
+avoids confusion, especially because most courts currently 56
+use the same permissive approach to all relevant evidence, 57
+conditional or not. All questions of relevance should be 58
+governed by the same “a reasonable person could find” 59
+standard because the jury is in as good a position to 60
+determine relevance as is the court. 61
+The rule 104(b) test that “proof must be introduced 62
+sufficient to support a finding” has been revised, because a 63
+court’s preliminary determination of relevance is not limited 64
+to proof submitted to it. A court could find evidence relevant 65
+under Rule 104(b) by considering the evidence itself, as well 66
+as common knowledge and experience. For example, if the 67
+proffered evidence is that the defendant was carrying a gun, 68
+its relevance to a charge of armed robbery can be determined 69
+without any further proof. The standard has been changed to 70
+whether the factfinder “could reasonably find” the evidence 71
+to be relevant. That standard is the same as “sufficient to 72
+support a finding.” See Huddleston v. United States, 485 73
+U.S. 681, 687 (1988) (in determining whether the proponent 74
+Proposed Amendments for Publication (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 586 of 587
+4 FEDERAL RULES OF EVIDENCE
+has introduced sufficient evidence to meet Rule 104(b), the 75
+trial court decides whether “the jury could reasonably find” 76
+the contested fact). 77
+In deciding whether evidence is relevant, the judge 78
+must not only take into account the evidence formally in the 79
+record, but also the likely background knowledge and 80
+experience of a reasonable juror from the area where trial is 81
+being held. For example, suppose a trial concerns the cause 82
+of a large explosion and fire. The plaintiff claims that the 83
+defendant mishandled nitrogen fertilizer containing 84
+ammonium nitrate. A witness is asked whether such a 85
+fertilizer was stored on the premises and an objection on 86
+relevancy is made. If the trial is in a rural state with a large 87
+farming population, the trial judge would overrule the 88
+objection because a reasonable person from that population 89
+would likely know the dangerous properties of the material. 90
+If, by contrast, the trial were held in an urban area, the judge 91
+would likely conclude that evidence of the dangerous 92
+properties must be entered into the record to satisfy the 93
+requirement of relevancy. 94
+The amendment retains the provision allowing proof 95
+to be introduced later. It should be noted that allowing proof 96
+to be introduced later is within the discretion of the court 97
+under Rule 104(a) as well. 98
+Proposed Amendments for Publication (Evidence Rules)
+Committee on Rules of Practice & Procedure | June 3-4, 2026
+Page 587 of 587

@@ -1,0 +1,14 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+STANDING ORDER RE: ARTIFICIAL INTELLIGENCE IN
+CASES ASSIGNED TO JUDGE SCOTT
+If any attorney for a party, or a pro se party, has used generative Artificial Intelligence
+(“AI”)—including but not limited to ChatGPT, Gemini, Claude, or any other program that uses
+machine learning to create new content—in a citation of any legal authority filed with the Court,
+and assigned to Judge Kai N. Scott, then they MUST, in a clear and plain factual statement,
+disclose that generative AI has been used to assist with the citation of legal authority, disclose
+what specific generative AI program was used, and CERTIFY that each and every citation of
+legal authority has been verified as accurate.
+DATED: 03/03/2025 BY THE COURT:
+HON. KAI N. SCOTT,
+United States District Court Judge

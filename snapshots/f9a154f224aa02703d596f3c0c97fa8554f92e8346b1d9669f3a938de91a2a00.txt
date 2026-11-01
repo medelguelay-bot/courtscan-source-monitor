@@ -1,0 +1,695 @@
+1
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+ATLANTA DIVISION
+IN RE: CIVIL CASES ASSIGNED TO
+UNITED STATES DISTRICT JUDGE
+STEVEN D. GRIMBERG
+STANDING ORDER REGARDING CIVIL LITIGATION
+This Standing Order is a must read. It will likely answer any question you
+may have during the pre-trial stage of this case about my procedures and
+preferences. It may very well also help you avoid tragic pitfalls. Please review and
+refer to it early and often.
+To the extent this Standing Order conf licts with the Federal Rules of Civil
+Procedure or Local Rules of this Court, this Order cont rols. If a Magistrate Judge
+is assigned to this case, orders issued by that judge, rather than this Standing
+Order, govern while the case is pending before the Magistrate Judge.
+You must comply with the Standing Or der entered on the docket of your
+case, but you are not responsible for co mplying with any updated or amended
+version of the Standing Order that appears on the Court’s website. However, if
+you want an updated or amended version of this Standing Order (or a provision
+therein) to apply to your case, you are we lcome to do so with all parties’ written
+consent. You may memorialize any such agreement by filing a notice of same on
+the docket of your case.
+2
+TABLE OF CONTENTS
+I. Case Administration ............................................................................................. 4
+a. Communications with Chambers ............................................................ 4
+b. Courtesy Copies of Documents ................................................................ 5
+c. Pro Se Parties ............................................................................................... 5
+II. Case Management ................................................................................................. 6
+a. Diversity Jurisdiction ................................................................................. 6
+b. Certificate of Interested Persons ............................................................... 7
+c. Responses to Pleadings .............................................................................. 8
+d. Motions and Briefs ..................................................................................... 8
+e. Amended Complaints and Motions to Dismiss or
+Motions for Judgment on the Pleadings ................................................. 9
+f. Motions for Temporary Restraining Orders or
+Preliminary Injunctive Relief .................................................................. 10
+g. Electronic Filing of Exhibits and Attachments ..................................... 11
+h. Proposed Orders ....................................................................................... 11
+i. Extensions of Time ................................................................................... 12
+j. Enlargement of Page Limit...................................................................... 13
+k. Conferences ............................................................................................... 13
+l. Oral Argument .......................................................................................... 14
+m. Courtroom Technology ........................................................................... 14
+n. Mediation ................................................................................................... 15
+o. Settlements ................................................................................................. 16
+3
+III. Discovery .............................................................................................................. 16
+a. General Principles of Discovery ............................................................. 16
+b. Rule 26(f) Conference and Joint Preliminary Report and
+Discovery Plan .......................................................................................... 17
+c. Initial Disclosures ..................................................................................... 18
+d. Written Discovery Responses ................................................................. 18
+e. Depositions ................................................................................................ 20
+f. Discovery Disputes .................................................................................. 21
+g. Discovery Period Extensions .................................................................. 23
+h. Protective Orders and Motions to Seal .................................................. 24
+i. Expert Witness Disclosure and Discovery ............................................ 27
+IV. Summary Judgment ............................................................................................ 27
+a. Successive Motions for Summary Judgment Prohibited .................... 27
+b. Record Citations ....................................................................................... 27
+c. Statements of Undisputed or Disputed Material Facts ....................... 28
+d. Failure to Respond to Motions for Summary Judgment .................... 28
+e. Daubert Motions ........................................................................................ 28
+V. Trial ........................................................................................................................ 29
+a. Consolidated Proposed Pretrial Order .................................................. 29
+b. Trial Order ................................................................................................. 30
+c. Artificial Intelligence ................................................................................ 30
+d. Feedback .................................................................................................... 31
+Appendix A: Special Instructions for Pro Se Litigants .............................................. 33
+4
+I. Case Administration
+a. Communications with Chambers
+My Courtroom Deputy Clerk (CRD) is Danielle Brye, and she will be your
+principal point of contact with my Chambers, although one of my law clerks may
+also contact you from time to time. These communications will generally be
+oriented around scheduling or logistics. Please do not discuss the merits of the
+case through these informal communications unless authorized by this Standing
+Order or as otherwise directed. Please also note that we may file on the docket any
+written communication submitted to Chambers.
+Email is our much-favored form of communication. It avoids ex parte
+communications (because you should alwa ys copy co- and opposing counsel on
+your emails) and helps us internally route the communication to the right
+person(s). CRD Brye’s email address is: Danielle_Brye@gand.uscourts.gov.
+Please always include the style of the case and case number in the subject
+line of your email, and if you are referring to a motion or other docket entry, please
+reference the title of that item and ECF number.
+We generally try to email counsel to confirm availability in advance of
+scheduling a conference or hearing. This is a professional courtesy. Please return
+the courtesy by responding to the email wi thin 24 hours. If you fail to do so, the
+conference or hearing will be scheduled without further notice.
+5
+If you wish to check on the status of a pending motion, please be mindful
+that our court is busy, one of the busiest federal district courts in the nation, and
+we are doing our best. You can realisti cally anticipate that any contested
+dispositive motion will take at least six months to resolve.
+If there is a time-sensitive motion or other matter that you wish to bring to
+our attention, please copy my career law clerk, KJ Jones, on your email to CRD
+Brye. Ms. Jones’s email is: Kristina_Jones@gand.uscourts.gov.
+Although disfavored, if necessary, you may contact Chambers by telephone
+(404-215-1470), or by mail or hand delivery to the following address:
+The Honorable Steven D. Grimberg
+ATTN: Courtroom Deputy Danielle Brye
+1701 United States Courthouse
+75 Ted Turner Drive, S.W.
+Atlanta, Georgia 30303
+b. Courtesy Copies of Documents
+Courtesy copies of filings should not be provided to the Court unless
+requested.
+c. Pro Se Parties
+Specific procedures applicable to pro se parties are contained in the
+Appendix to this Standing Order and should be followed by individuals who are
+not represented by counsel, in addition to the provisions contained in this
+Standing Order itself.
+6
+II. Case Management
+a. Diversity Jurisdiction
+Federal courts are courts of limited ju risdiction, and it is my responsibility
+to ensure that cases are properly in federa l court. Subject matter jurisdiction is a
+predicate to my ability to hear your case. For cases based on diversity jurisdiction,
+if I enter an Order to Show Cause inquirin g into a party’s citizenship, it is your
+responsibility to properly allege that party’s citizenship and the existence of
+subject matter jurisdiction.
+To demonstrate diversity of citizenship as the basis for this court’s subject
+matter jurisdiction, the complaint or noti ce of removal must sufficiently allege
+more than $75,000 in controversy and the citizenship of the parties. For domestic
+parties, this means state citizenship. I realize that often we think of citizenship in
+terms of countries, but for purposes of diversity jurisdiction, domestic parties must
+be citizens of different states. Citizenship for individuals for this purpose is
+equivalent to domicile, not to a person’s residence. McCormick v. Aderholt, 293 F.3d
+1254, 1257–58 (11th Cir. 2002 ) (Domicile is a party’s “t rue, fixed, and permanent
+home and principal establishment, and to which he has the intention of returning
+whenever he is absent therefrom.”).
+One of the most common mistakes we se e in originally filed complaints or
+notices of removal alleging diversity juri sdiction is reliance on allegations of a
+7
+party’s residence rather than the party’s citizenship. I recognize that these words
+may appear to say the same thing, but trus t me, the Eleventh Circuit does not. If
+you fail to properly allege diversity of citizenship, your case will be dismissed or
+remanded.
+The citizenship of an artificial entity depends on the form of the entity. You
+are advised to confirm, prior to making any jurisdictional allegation, how the
+citizenship of that specific entity is determined. See generally 28 U.S.C. § 1332(c). I
+have observed countless litigants struggle to properly allege the citizenship of a
+domestic LLC. The citizenship of the LLC is determined by the citizenship of each
+of its members and submembers until the Co urt is left with only individuals or
+corporations. Rolling Greens MHP, L.P. v. Comcast SCH Holdings LLC, 374 F.3d 1020,
+1022 (11th Cir. 2004). It is irrelevant, for purposes of citizenship, under which
+state’s laws the domestic LLC was formed.
+b. Certificate of Interested Persons
+Each party must file a certificate of interested persons and corporate
+disclosure statement (CIP) at the time of first appearance, using the current version
+of the form provided in the Court’s Local Rules. See Local Rule 3.3(C). This is
+important to ensure that no conflict of in terest exists and for me to assess (where
+necessary) whether the parties are of dive rse citizenship. Please file your CIP
+8
+timely. Failure to do so may result in sa nctions, up to and including dismissal or
+default.
+c. Responses to Pleadings
+If you are filing an answer to a complaint, counterclaim, crossclaim, or third-
+party complaint, you must copy into your answer the paragraph of the pleading
+to which you are responding and pr ovide the answer to that paragraph
+immediately following.
+A responsive pleading must admit or deny each of the averments of the
+adverse party’s pleading. For example, if the complaint alleges, “A copy of the
+parties’ contract is attached as Exhibit A,” the defendant may not plead,
+“Defendant admits that Exhibit A is attached to the complaint,” or “the document
+speaks for itself.” Evasive denials such as these will be di sregarded, and the
+averments to which they are directed will be deemed admitted.
+d. Motions and Briefs
+You need not file a moti on and supporting brief as separate documents on
+the docket. Rather, you should consolidate your motion and brief into one
+document, and file it on the docket as a motion.
+9
+e. Amended Complaints and Motions to Dismiss or Motions for
+Judgment on the Pleadings
+If, in response to a motion to dismiss or motion for judgment on the
+pleadings, a plaintiff properly files an amended complaint, the pending motion
+will be denied as moot. The defendant-movant must answer the amended
+complaint or file a renewed motion to di smiss (or similar moti on under Fed. R.
+Civ. P. 12) within 14 days of the court’s order. The plaintiff may not file a second
+amended complaint without leave of court or the consent of all opposing parties.
+If a plaintiff fails to timely respond to a motion to dismiss or motion for
+judgment on the pleadings, in whole or in part, the claim(s) that are the subject
+of that motion will be deemed abandoned and dismissed.
+During the pendency of a motion to dismiss (or similar Rule 12 motion) by
+any party, in whole or in part, all litigatio n activity is automatically stayed until I
+rule on the motion or otherwise direct , unless all parties agree in writing
+otherwise. This stay includes the Local Rule 16.1 conference, the Joint Preliminary
+Report and Discovery Plan, initial disclosu res, and discovery. This stay does not
+apply to the parties soberly reevaluating the strength of their respective cases and
+seeking a resolution among themselves or wi th the assistance of a neutral. If you
+would like me to refer your case to a United States Magistrate Judge for mediation
+at any stage of the case, please see Section II.n. of this Standing Order.
+10
+If you believe good cause exists for any or all pretrial activity to continue or
+deadlines to remain in effect notwithstanding the pendency of a motion to dismiss
+(or similar Rule 12 motion), you may submit a request pursuant to the discovery
+dispute procedures outlined in Section III.f. of this Standing Order.
+f. Motions for Temporary Restraining Orders or Preliminary
+Injunctive Relief
+Any request for a temporary restraining order or for preliminary injunctive
+relief must be made by separate motion. If you request such relief only in the
+complaint or other pleading but fail to file a separate motion seeking the same, the
+request will not be considered until the merits of the case are addressed.
+After filing such a motion, you should contact Chambers by email to request
+expedited consideration. If you do not reach out to us, we will presume that it is
+not time-sensitive for you. If your motion, in whole or in part, has been filed under
+seal, please attach the sealed filings to your email. If your motion seeks an ex parte
+temporary restraining order, please include a proposed order in your filing. Your
+email to Chambers should attach a Word version of all the proposed orders that
+you have filed. Please see more about proposed orders in Section II.h. of this
+Standing Order.
+11
+g. Electronic Filing of Exhibits and Attachments
+You should make every effort to label all electronically uploaded exhibits
+and attachments according to their conten t. For example, documents should be
+uploaded as Ex. A: Smith Deposition; Ex. B: Employment Contract; Ex. C: Jones
+Letter, etc., rather than simply Ex. A, Ex. B, and Ex. C. When practicable, you
+should file documents in a text-searcha ble PDF format. Exhibits or attachments
+that are not referenced and relied on in the body of your submission will not be
+considered.
+h. Proposed Orders
+My practice is to enter many non-disp ositive orders by docket entry only,
+with no “paper” order attached. The text of these docket entry orders will
+generally begin with: “ORDER (by docket entry only) . . . .” Please monitor the
+electronic docket of your case carefully so as not to miss an important deadline or
+instruction.
+For this reason, you generally need no t prepare and file a proposed order
+unless we request one. One exception to this is motions seeking ex parte temporary
+restraining orders (as referenced above). If a proposed order is submitted, please
+do not include the word “Proposed” in the title or any other words that would
+necessarily need to be deleted before en try. All orders submitted by counsel are
+proposed until and unless we’ve entered them. In other words, please prepare the
+12
+proposed order exactly as you would want it entered, save for my signature on it.
+Please style the signature line as follows:
+________________________________
+Steven D. Grimberg
+United States District Judge
+Please email Chambers a Word version of your proposed orders.
+i. Extensions of Time
+I am responsible for moving cases towards a prompt and just resolution. To
+that end, I try to set reasonable but firm deadlines. Motions for extension of time,
+even if joint or unopposed, may not be granted as a matter of course. You may not
+stipulate to an extension of time that I have not approved, except those explicitly
+allowed elsewhere in this Standing Order.
+If you are seeking an extension of time for any non-discovery related
+deadline, please file a motion and indicate in the title of the motion whether it is
+opposed or unopposed. The title of the motion should also indicate how many
+previous extensions of the same deadline have been sought an d received, if any:
+for example, “Third Unopposed Motion for Extension of the Answer Deadline.”
+Failure to do so may result in denial of the motion for this reason alone. For further
+information concerning discovery-related extensions, see Section III.g. of this
+Standing Order.
+13
+If a motion for extension of time is filed less than two business days prior to
+the deadline, you should follow the procedure for time-sensitive motions outlined
+in Section I.a. of this Standing Order.
+j. Enlargement of Page Limit
+If you are seeking an enlargement of th e page limit on a brief or objections
+to a Report and Recommendation, you must file a motion requesting same at least
+two business days in advance of the filin g deadline explaining the circumstances
+necessitating additional pages. Your motion should indicate whether the opposing
+party consents to the request for addi tional pages, and if so, whether a
+corresponding request for additional pages is being made for subsequent response
+and/or reply briefs. Please follow the time-sensitive motion process in Section I.a.
+of this Standing Order if your brief or objections are due in less than two business
+days.
+If you file a motion to enlarge the page limit simultaneously with the
+enlarged brief or objections, or worse, neve r seek leave to do so at all, your brief
+or objections may be stricken without notice.
+k. Conferences
+I try to make myself as available to counsel as practicable. You are
+encouraged to request a conference with me at any time if you believe it will help
+move the case along. To do so, please contact Chambers as outlined in Section I.a.
+14
+of this Standing Order. For discovery-related conferences, please reference Section
+III.f.
+l. Oral Argument
+We review all dispositive motions with an eye towards whether oral
+argument would be helpful in resolving the matter or clarifying the issues in
+dispute. That said, you are welcome to request oral argument by filing a
+standalone motion requesting same, ideally at the same time as the underlying
+motion or response thereto.
+In my experience, civil litigators do not get enough court appearances,
+especially early in their careers, and I want to do my part to correct that gap. If you
+represent in your motion for oral argument that an attorney with less than five
+years of experience will conduct the oral argument (or a substantial part thereof),
+I will most likely grant the motion for oral argument.
+m. Courtroom Technology
+My courtroom has various electronic equipment available to counsel for use
+at trial or hearings, and oftentimes counsel do not take enough advantage of the
+tools available to enhance their presentations. It is your responsibility to make sure
+you know in advance of the hearing or trial how to use the equipment available,
+to have the cables necessary to hook up your equipment, and to ensure that your
+equipment will interface with the Court’s technology. Please contact CRD Brye if
+15
+you wish to set up an appointment to do so. As with all things technology-
+oriented, however, please always be prep ared to proceed without the benefit of
+the courtroom technology if necessary.
+If you do not have an Attorney Identification Card (i.e., a Blue Card) for our
+courthouse, I encourage you to get one. More information can be found on our
+court’s website, at: gand.uscourts.gov/attorney-identification-id-card.
+Without a Blue Card, you must file a motion and proposed order if you
+would like to bring any electronic equipment into the courthouse for a scheduled
+hearing or trial, including cell phones, laptop computers, electronic tablets, cords,
+or cables. The proposed order should identify the person(s) seeking to bring in the
+electronic equipment, specify the type of equipment and date(s) of the hearing or
+trial to which you desire to bring the equipment, and identify the courtroom (mine
+is generally Courtroom 1701) to which the equipment will be brought. The motion
+and accompanying order should be filed at least two business days prior to the
+hearing or trial, and you should email a Word version of the proposed order to
+CRD Brye.
+n. Mediation
+You are encouraged to mediate and to do so as early as practicable. The
+earlier you do so, the more likely it is that I will agree to stay discovery and other
+pretrial deadlines during the pendency of mediation.
+16
+Our court has a terrific program that allows me to refer parties to mediation
+before a United States Magistrate Judge pu rsuant to Local Rule 16.7(B). There is
+no cost for this mediation service, and our magistrate judges have an excellent
+track record of resolving cases. Requests to mediate before a magistrate judge may
+be made jointly or ex parte by emailing Chambers.
+o. Settlements
+If you reach a tentative settlement or agree to a settlement in principle but
+have not yet completed all steps necessary to document the settlement, please
+notify Chambers immediately. This he lps us to potentially avoid expending
+unnecessary time and resources on a case that is likely going away. You may do
+so by filing a Notice of Settlement on the docket or by emailing Chambers. The
+sooner the better. Please.
+III. Discovery
+a. General Principles of Discovery
+In conducting discovery, your guidin g principles should be three “C’s”:
+courtesy, candor, and common sense. I cannot emphasize enough the importance
+of stepping away from your keyboard and engaging with opposing counsel face-
+to-face (in person or by videoconference) or at least by phone to resolve discovery
+issues. I realize you are busy and firing off a passive-aggressive email may feel
+good in the moment, but in the end you w ill likely regret it. I am amenable to
+17
+imposing sanctions on counsel who demonstrate a lack of professionalism of any
+variety, including repeated non-responsiveness.
+b. Rule 26(f) Conference and Joint Preliminary Report and Discovery
+Plan
+Notwithstanding Local Rule 16.1, parties by agreement may conduct their
+Rule 26(f) Conference by videoconferenc e rather than in person. Parties by
+agreement may also extend the date by which the Rule 26(f) Conference is
+completed. However, extensions for fi ling the Joint Preliminary Report and
+Discovery Plan (Joint Report) must be requested by motion.
+After the Joint Report is filed, I w ill generally enter a Scheduling Order by
+docket entry. For this reason, it is unne cessary to submit a proposed order with
+your Joint Report unless you are reques ting specific intervening discovery
+deadlines (such as deadlines for expert discovery, etc.). I will rarely authorize an
+initial discovery period that is longer than six months (u nless the case is initially
+assigned to an eight-month track). If you would like a scheduling conference
+(which generally will be held by Zoom), pl ease request one in your Joint Report
+and email Chambers. Neither the timing of a conference nor entry of the
+Scheduling Order delays the start of discov ery, so whether you hear from us or
+not please get started because time is of the essence.
+18
+c. Initial Disclosures
+Initial disclosures should be as co mplete as practicable based on the
+information reasonably available at the time of disclosure. Responses may not be
+reserved for later supplementation. Parties by agreement may extend the date by
+which initial disclosures are exchanged.
+d. Written Discovery Responses
+The Federal Rules prohibit boilerplate and general objections in response to
+written discovery requests, and I agree. Pl ease do not carelessly invoke the usual
+litany of rote objections, i.e., attorney-client privilege, work-product protection,
+overly broad/unduly burdensome, irrelevant, or not reasonably calculated to lead
+to the discovery of admissible evidence.
+You should not include in response to a discovery request a “Preamble” or
+a “General Objections” section stating that you object to a discovery request “to
+the extent that” it violates some rule pe rtaining to discovery. Instead, you must
+respond to each individual discovery request with every specific objection
+thereto—but only those objections that actually apply to that particular request.
+Otherwise, it is impossible for the party on which the discovery response is served
+(or me) to know exactly what objections have been asserted to each request. For
+this reason, if a discovery dispute with general objections comes to me for
+19
+resolution, I will disregard all objections that are not specifically tailored to the
+discovery request at issue.
+If you object in part and respond in part to a discovery request, you must
+indicate whether the response is complete, i.e., whether additional information or
+documents would have been provided but for the objection(s). For example, you
+may not raise objections and then state, “Subject to these objections and without
+waiving them, the response is as follows . . . .” unless you expressly indicate
+whether additional information would have been included in the response but for
+the objection(s).
+If a privilege objection is made, the claim must be supported by a privilege
+log or statement of particulars sufficient to enable the requesting party (and me)
+to assess the validity of the claim. In the case of a document, the privilege log or
+statement should specify the privilege re lied on and, when available, generally
+include: the date, title, subject, and purpose of the document; the name and
+position of the author; and the names and positions of all the recipients. In the case
+of an oral communication, the privilege log or statement should include the
+privilege relied on and generally identify: the date, place, subject, and purpose of
+the communication; and the names and positions of all individuals present.
+You are expected to observe the limitations regarding the number and scope
+of interrogatories as stated in Fed. R. Civ. P. 26(b) and 33, but the parties by
+20
+agreement may vary from those rules. Pa rties by agreement may also extend the
+date by which written discovery responses are due.
+e. Depositions
+Barring extraordinary circumstances, a ll parties should be consulted, and
+the convenience of counsel, witnesses, and the parties accommodated, before a
+deposition is noticed.
+If the parties enter into stipulations at the beginning of a deposition, the
+terms of each stipulation should be fully stated on the record. General stipulations
+such as “all objections except as to form are reserved” or “the usual stipulations”
+are disfavored.
+Objections to the manner of taking the deposition, to the evidence, or to the
+conduct of a party shall be noted on the record, but the evidence objected to shall
+be taken subject to the objection. In the absence of a good fait h claim of privilege
+or witness harassment, instructions not to answer are rarely justified and may lead
+to sanctions. Speaking objections and ot her tactics for coaching a witness during
+the deposition are not permissible. Please try to resolve deposition objections
+without my involvement; I will rarely be available to address issues in the midst
+of a deposition, so your best bet is to make a record and raise the issue afterwards
+by utilizing the discovery dispute procedure set forth in Section III.f. of this
+Standing Order.
+21
+f. Discovery Disputes
+You must confer with the opposing pa rty in good faith before bringing
+discovery disputes to my attention. The duty to confer is not satisfied by simply
+sending a written document (e.g. , email or letter) to the opposing party, unless
+repeated attempts to confer by telephone, videoconference, or in person are
+unsuccessful. As noted previously, repeat ed instances of non-responsiveness are
+a valid ground to seek sanctions.
+The filing of discovery-related motion s against a party to the litigation
+(except for unopposed, consent, or joint motions) is prohibited. This prohibition
+includes motions for discovery-related sanctions. Instead, please email Chambers
+a statement outlining your position and re quest a conference with the Court. All
+parties must be copied on such emails. Unless the issues are complex or numerous,
+the statement should not exceed 3 pages, as its purpose is simply to apprise me of
+the issue(s). It is not intended as a subs titute for full briefing. You may attach to
+your email particularly pert inent exhibits if you wish (such as an excerpt of the
+discovery requests and the responses or ob jections in dispute), but please do not
+inundate us with voluminous exhibits. Again, the purpose of the written statement
+is simply to flag the issues and determine whether a conference or formal briefing
+is necessary. The opposing party may email a responding statement, subject to the
+22
+same limitations, no later than 24 hour s before a scheduled conference on the
+matter or as I otherwise direct.
+Please note that the statements you submit, and the exhibits you attach, will
+generally not be placed on the docket. If you wish to preserve these items as part
+of the record, you may enter them on the docket with the lead document titled
+“Notice of Filing,” describing the items you have attached. To the extent you wish
+some or all of these filings to be sealed, please reference Section III.h. of this
+Standing Order.
+Following receipt of a di scovery-dispute statement, we will either provide
+further instructions via email or docket entry, or we will schedule a conference
+(generally by Zoom). During the conference , I will try to resolve or rule on the
+dispute without the necessity of formal briefing, if practicable. The conference will
+be transcribed by a court reporter like any other hearing.
+If a dispute between a party and a non-party arises ( e.g., a disagreement
+regarding a third-party subpoena), the party must promptly inform the non-party
+of this discovery-dispute policy. In rais ing the discovery disp ute with the Court,
+both the party and the non-party must follow the same procedure detailed above.
+If a non-party fails to provide any response at all to a properly served subpoena,
+the party issuing the subpoena must file a formal motion seeking relief and alert
+Chambers to the filing via email so that the motion can receive prompt attention.
+23
+g. Discovery Period Extensions
+Please formulate your discovery plans early to facilitate the completion of
+necessary discovery before the close of the discovery period. That said, if all parties
+agree that an extension or reopening of the discovery period is necessary, please
+file a consent motion. The consent motion should state: (1) the original (and, if
+applicable, current) date from which the extension or reopening is being sought;
+(2) the number of previous requests for extensions or reopenings that have been
+made, if any; and (3) why the extension or reopening is needed to complete
+identifiable tasks. Failure to do so may result in denial of the extension request for
+these reasons alone.
+The parties may agree in writing and without the necessity of seeking Court
+approval to complete certain discrete discovery items out of time, such as
+conducting a particular deposition or re sponding to certain outstanding written
+discovery requests, if it will not otherwise disrupt pending Court deadlines (such
+as the dispositive motion or proposed pretrial order deadline).
+Where requests to extend or reopen the discovery period are not made by
+consent, or are otherwise opposed, the requesting party should provide the same
+information outlined above but make th e request using the discovery dispute
+procedure outlined in Section III.f. of this Standing Order.
+24
+Absent extraordinary circumstances, requests or motions for extension of
+discovery must be filed prior to the expiration of the existing discovery period.
+Failure to do so may result in denial of the request for that reason alone.
+h. Protective Orders and Motions to Seal
+The parties may jointly seek by moti on the entry of a protective order
+concerning discovery materials, or they may file an agreed-upon stipulation on
+the docket. However, subsequent opinions and orders entered in the case may
+publicly disclose material that has previously been designated by a party or the
+parties as confidential or f iled under seal if I determine that such designation or
+sealing is not warranted under the circ umstances. Addition ally, if any party
+wishes to challenge a confidentiality designation, the party must follow the
+Court’s discovery dispute procedure set fo rth in Section III.f. of this Standing
+Order, notwithstanding any contrary procedure agreed-upon by the parties, even
+if that procedure is memorialized in a protective order that has been entered on
+the docket.
+Absent extraordinary circumstances making prior consultation impractical
+or inappropriate, the party seeking to file documents containing confidential
+information should first consult with the party who designated the document as
+confidential to determine if some less restrictive measure than filing the document
+25
+under seal may provide adequate protection. Any motion to file under seal should
+indicate whether it is by consent, unopposed, or opposed.
+In the absence of a protective order ente red by the Court, to request to file
+material under seal, counsel should follow the procedures described in the Local
+Rules and consult the Court’s Procedures for Electronic Filing Under Seal in Civil
+Cases, which can be found at: www.gand.uscourts.gov/cv-sealed-procedures.
+These procedures require filing an unredacted version of the document as
+provisionally under seal and publicly filing a redacted version of the document, in
+addition to the motion to file under seal. Counsel are encouraged to email the
+unredacted version of all sealed filings to Chambers simultaneously with their
+filing.
+When filing the unredacted, provisionally sealed document, counsel should
+use the CM/ECF event code “Notice of Filing.” The Notice of Filing should be the
+lead document, and the brief and all supporting documents should be included as
+exhibits to the notice. For example, if the party is requesting that Exhibit A to a
+Motion for Summary Judgment and a po rtion of the memorandum of law in
+support of the motion be filed under seal, the Notice of Filing Sealed Document
+should attach as exhibits: the motion for summary judgment, the unredacted
+supporting memorandum of law, Exhibit A, and all other exhibits to the motion.
+If you are filing documents under seal pursuant to a protective order that has been
+26
+entered by the Court, no motion to file under seal is necessary. The Notice of Filing
+should indicate the applicable provision of the protective order under which the
+documents are being sealed. You also need not file a motion to file under seal
+information that is required to be redacted by NDGa Standing Order Nos. 04-02
+and 08-02, including Social Security numb ers, names of minor children, dates of
+birth, street addresses, and financial account numbers.
+These instructions do not apply to parties appearing pro se . For pro se
+litigants, motions to seal must be filed with the Clerk of Court in person or by mail.
+In such instances, the material subject to the request to seal should be attached as
+an exhibit to the motion. The Clerk will enter the motion on the docket under a
+provisional seal, without public viewing access.
+The party filing the motion to file under seal should clearly indicate the type
+o f m a t e r i a l t h e p a r t y i s s e e k i n g t o s e a l and the justification for protecting that
+material from disclosure. Please note that sealing motions will not be granted as a
+matter of course, and I will only do so on a showing of good cause. Given the
+public’s interest in disclosure, good cause will generally only be established where
+the materials contain trade secrets, person al identifying information, or sensitive
+commercial information.
+27
+i. Expert Witness Disclosure and Discovery
+Absent explicit deadlines provided in the scheduling order, expert
+witnesses must be disclosed at least 60 days prior to the close of the discovery
+period, and rebuttal experts must be disclosed within 30 days of the initial expert
+disclosure. There is no separate “exp ert discovery period” that follows fact
+discovery unless explicitly provided in the scheduling order.
+IV. Summary Judgment
+a. Successive Motions for Summary Judgment Prohibited
+The filing of piecemeal or successive motions for summary judgment by a
+single party is prohibited, absent prior permission. This prohibition does not
+preclude a party from filing both a moti on for summary judgment asserting an
+immunity from suit and a later motion for summary judgment addressing any
+issues that may remain in the case. This prohibition also is not triggered when, as
+permitted by Fed. R. Civ. P. 12(d), the Court elects to treat a motion filed pursuant
+to Fed. R. Civ. P. 12(b) or 12(c) as a summary judgment motion.
+b. Record Citations
+Record citations should be made only in the statement of undisputed
+(or disputed) material facts or responses thereto (hereinafter collectively referred
+t o a s “ S M F s ” ) . S u m m a r y j u d g m e n t b r i e f s s h o u l d c i t e o n l y t o t h e r e l e v a n t
+numbered paragraph(s) of the SMFs, not the underlying record.
+28
+c. Statements of Undisputed or Disputed Material Facts
+Opening SMFs are each limited to 25 pages absent prior permission of the
+Court. A party responding to SMFs shou ld copy the statement to which it is
+responding and provide its response to that statement immediately following.
+Failure to do so will render the statement as admitted.
+d. Failure to Respond to Motions for Summary Judgment
+I require a written response to all motions for summary judgment. If you do
+not wish to contest it, then say so, but a written response is required. If you fail to
+respond, you will be subject to sanction s for failure to follow a court order,
+including but not limited to possible dismissal of the claim(s) or defense(s) that are
+the subject of that motion.
+e. Daubert Motions
+Absent an explicit deadline in the scheduling order, parties should file any
+Daubert or other expert witness-related motion no later than the dispositive motion
+deadline. The parties should state explicitly in their respective briefings whether
+they believe an evidentiary hearing is re quired to resolve any issues related to
+expert witnesses.
+29
+V. Trial
+a. Consolidated Proposed Pretrial Order
+A consolidated proposed pretrial order must be filed by the parties within
+30 days after the close of discovery or a ruling on all remaining dispositive
+motions, whichever is later. In listing witnesses and exhibits in the proposed
+pretrial order, a party may not reserve the right to supplement the list and may
+not adopt another party’s list by reference. Witnesses and exhibits not identified
+in the proposed pretrial order may not be used during trial, (1) unless the witness
+or exhibit is solely for impeachment or rebuttal and could not have been
+anticipated in advance, or (2) to prevent a manifest injustice.
+By written agreement of all parties, you may file a streamlined proposed
+pretrial order that does not include, or varies from, the items set forth in Local Rule
+16.4(B) (except for the witness and exhibits lists referenced above). In making this
+determination, you should consider the deadlines that will be set forth in my
+subsequent Trial Order (see Section V.b. of this Standing Order).
+Counsel must file any Notice of Leave of Absence requests on the docket no
+later than the filing of the consolidated proposed pretrial order. Counsel may
+include on this Notice any dates that conflict not only for themselves, but also for
+their clients or designated client representatives, as well as key witnesses. The trial
+and pretrial conference will be scheduled thereafter without further notice. Best
+30
+efforts will be made to avoid conflicti ng dates, but given competing scheduling
+demands this cannot be guaranteed. For th is reason, you are encouraged to only
+include dates in your Notice that are truly in need of protection.
+b. Trial Order
+Following the parties’ filing of their consolidated proposed pretrial order, I
+will enter a Trial Order. The Trial Order w ill schedule a final pretrial conference
+and trial date. It will also set deadlines and provide in structions for motions in
+limine briefing, proposed voir dire, proposed jury charges, and the submission of
+final exhibit lists and witness lists to Ch ambers. Read this Tr ial Order carefully
+after it is entered in your case and inte rnally calendar for yourself the deadlines,
+because you will be bound to them. I wi ll address any questions you have about
+trial procedure during the Pretrial Conference.
+If you want to get a jump start, a te mplate Trial Order is available on the
+Court’s website at https://www.gand.uscourts.gov/DJdir/SDG. The Trial Order
+entered on the docket of your case at the appropriate time will control over the
+Trial Order on the Court’s website, to the extent they conflict.
+c. Artificial Intelligence
+Many courts and individual judges around the country have entered
+specific rules or procedures concerning th e use of artificial intelligence tools. My
+rule is simple: You can use whatever AI tools you like, but only human beings will
+31
+be held responsible for the outcome. So, if a pleading or paper that is filed in a case
+contains factual or legal errors, the part y and lawyers who filed it will be held
+responsible. This includes each and every lawyer listed on the signature block of
+the filing. Govern yourself accordingly, as they say.
+d. Feedback
+I am asked from time to time by counsel who have appeared in my
+courtroom for a hearing or trial to provide feedback on how they did. My answer
+is always yes. But if the case is still pendin g, or if there is an actual or potential
+appeal pending, my feedback will necessarily be limited to the non-case related
+performative aspects of the presentation rather than the underlying merits. If you
+would like to schedule such a meeting, either in person or by Zoom, please email
+Chambers.
+By the same token, I do not receive enou gh (honest) feedback in this job. If
+you have any constructive feedback to provide, whether it’s about this Standing
+Order or an experience you have during the course of your case, I welcome you
+emailing it to Chambers. Please refrain fr om doing so until your case (and any
+other case you may have before me) is fully and finally resolved, including
+potential appeals.
+32
+I look forward to working with you to achieve an efficient and just
+resolution of this case.
+SO ORDERED this 10th day of February, 2026.
+Steven D. Grimber g
+United States District Judge
+33
+APPENDIX A:
+SPECIAL INSTRUCTIONS FOR PRO SE LITIGANTS
+Parties proceeding pro se (without an attorney) must comply with the
+Federal Rules of Civil Procedure (“Fed. R. Civ. P.”) as well as the Court’s Local
+Rules (“NDGa LR”). Pro se parties may obtain certain basic materials and hand-
+outs from the Office of the Clerk of Court located on the 22nd Floor of the Richard
+B. Russell Federal Building, 75 Ted Turner Drive, S.W., Atlanta, Georgia 30303.
+Many documents are also available on the Court’s website at
+www.gand.uscourts.gov.
+Litigants are generally prohibited from engaging in ex parte communications
+with the Court. “ Ex parte communications” means any fo rm of contact with the
+Court outside the presence of the opposing party or opposing party’s counsel. If a
+litigant seeks court action, the appropriate procedure is to put the request in
+writing, in the form of a motion, file the motion with the Clerk’s office, and serve
+the opposing party or party’s counsel.
+A pro se litigant is required to (1) provide the Clerk with an original of any
+further pleadings or other papers filed after the Complaint, and (2) serve on the
+opposing party or party’s co unsel, by mail or hand delivery, a copy of every
+additional pleading or other paper described in Fed. R. Civ. P. 5. Once counsel for
+the opposing party has appe ared in the case, the opposing party should not be
+served individually; service should be made directly on the opposing party’s
+34
+counsel. The Clerk of Court and the U.S. Marshals Service will not serve
+documents filed by either party, unless expressly directed to do so by the Court.
+Each pleading or paper described in Fed. R. Civ. P. 5 shall include a
+certificate stating the date on which an accurate copy of that document was served.
+This Court may disregard any papers that have not been properly filed with the
+Clerk, or that do not include a certificate of service. Pro se litigants are also advised
+that, under NDGa LR 7.1, if the deadline for a response to a motion passes without
+a response being filed, the motion is deemed unopposed. Further, under NDGa
+LR 56.1(B)(2)(a)(2), if a respondent to a motion for summary judgment contests
+facts included in the movant ’s statement of material facts, the respondent must
+file, along with the response brief, a response to the movant’s statement of material
+facts, otherwise the Court will deem the movant’s facts as admissions.
+Pro se litigants are further REQUIRED to keep the Court advised of their
+current address at all times during th e pendency of the lawsuit. NDGa LR
+83.1(D)(3) provides that parties appearing pro se have a duty to notify the Clerk’s
+Office by letter of any change in address or telephone number. A pro se litigant’s
+failure to do so where such failure “causes delay or adversely affects the
+management of a case” may be subject to sanction by the Court. Pro se litigants are
+encouraged to provide the opposing party/counsel with an email address for
+purposes of communicating regarding the case and serving copies of court filings
+35
+and discovery. Pro se litigants are advised, however, that the Court serves papers
+via regular mail only and not via email.
