@@ -1,0 +1,179 @@
+Judge: Otis D. Wright II (ODW)
+Judge's Procedures
+TABLE OF CONTENTS:
+II. CONTACT WITH CHAMBERS
+III. CALENDAR CONFLICTS
+IV. CONTINUANCES
+V. MANDATORY CHAMBERS COPIES
+VI. RULES GOVERNING CIVIL ACTIONS
+A. Service of the Complaint
+B. Removed Actions
+C. Presence of Lead Counsel
+D. Discovery
+E. Settlement and ADR
+F. Consent to Magistrate Judge
+VII. FILINGS
+A. Artificial Intelligence
+B. General Motion Requirements
+C. Specific Motion Requirements
+D. Ex Parte Applications
+E. Temporary Restraining Orders
+VIII. TELEPHONIC HEARINGS
+IX. CIVIL AND CRIMINAL TRIAL SUBMISSIONS
+A. Trial Exhibits
+B. Witness Lists
+C. Joint Statement of the Case
+X. JURY INSTRUCTIONS
+A. Civil Jury Trials
+B. Criminal Jury Trials
+XI. TRANSCRIPT ORDERS
+XII. INTERPRETERS
+XIII. OTHER INFORMATION
+XIV. LAW CLERK AND EXTERN APPLICANTS
+XV. PURCHASING COPIES OF LOCAL RULES
+XVI. UNDER SEAL FILINGS
+II. CONTACT WITH CHAMBERS
+Counsel are not to communicate with chambers unless first contacted by Judge Wright’s Courtroom Deputy Clerk (CRD).
+Calls and emails WILL NOT be returned regarding the status of submitted motions, stipulations, or proposed orders. A copy of any proposed order should be emailed to chambers email address in word or word perfect. Counsel may also determine the status of any submitted motion, stipulation, or proposed order by accessing PACER.
+III. CALENDAR CONFLICTS
+If counsel has an appearance with another district judge, please leave a voice mail message with the Court Clerk at 213-894-8266 indicating the time of the appearance and the name of the other judge. On the day of the appearance, if possible, request the other judge’s Court Clerk to update Judge Wright’s Court Clerk as to when counsel will be appearing in Judge Wright’s courtroom.
+If counsel cannot make a court appearance, good cause must be shown.
+IV. CONTINUANCES
+Continuances and special requests must be approved by the Court. Good cause must be shown. Refer to Local Rule 7-1 and 52-4 for the proper format.
+The Court has a strong interest in keeping scheduled dates certain. Changes in dates are disfavored. Trial dates set by the Court are firm and will rarely be changed. Therefore, a stipulation to continue the date of any matter before this Court must be supported by a sufficient basis that demonstrates good cause why the change in the date is essential. Without such compelling factual support, stipulations continuing dates set by this Court will not be approved. Counsel requesting a continuance must lodge a proposed stipulation and order including a detailed declaration of the grounds for the requested continuance or extension of time. Failure to comply with the Local Rules and this Order will result in rejection of the request without further notice to the parties. Proposed stipulations extending scheduling dates do not become effective unless and until this Court so orders.
+If a stipulation cannot be reached, counsel must submit an ex parte application and proposed order. (See Section VII.C., infra.) The written opposition to the ex parte application must be submitted within 24 hours for consideration by the Court.
+All stipulations and applications to extend the time to file any required document or to continue any hearing, pre-trial conference, or trial date must, at a minimum, set forth the following:
+The existing due date or hearing date, as well as the discovery cut-off date, the pretrial conference date, and the trial date;
+Specific, concrete reasons supporting good cause for granting the extension; and
+Whether there have been prior requests for extensions, and whether these requests were granted or denied by the Court.
+Time does not permit the Court Clerk to respond to questions regarding whether the Court has approved requests, or to confirm a message left for counsel.
+V. MANDATORY CHAMBERS COPIES
+One set of Chambers copies is required ONLY for papers filed in connection with Motions for Summary Judgment and other evidence-heavy motions.
+USB flash drives should be submitted in lieu of compact discs.
+Chambers copies of applications to seal and associated documents are required only if chambers copies are required for the underlying motion. Chambers copies of under seal documents shall be placed together in a manilla envelope labeled "UNDER SEAL.” Chambers copies shall be delivered to and placed in the Judge's courtesy box, located outside of the Clerk's office on the 4th floor.
+VI. RULES GOVERNING CIVIL ACTIONS
+Service of the Complaint – FRCP 4(m):
+Time Limit for Service. If a defendant is not served within 90 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time.
+Removed Actions – Any answers filed in state court must be refiled in this Court as a supplement to the petition. Any pending motions must be re-noticed in accordance with the Local Rules. If an action is removed to this Court that contains a form pleading, i.e., a pleading in which boxes are checked, the party or parties utilizing the form pleading must file an appropriate pleading with this Court within 30 days of receipt of the Notice of Removal. The appropriate pleading referred to must comply with the requirements of Federal Rules of Civil Procedure 7, 7.1, 8, 9, 10, and 11.
+Presence of Lead Counsel – The attorney attending any proceeding before this Court, including all status and settlement conferences, must be the lead trial counsel.
+Discovery - All non-patent discovery matters have been referred to a United States Magistrate Judge. (The Magistrate Judge’s initials follow the Judge’s initials next to the case number.) All discovery documents must include the words “DISCOVERY MATTER” in the caption to ensure proper routing. Counsel are directed to contact the Magistrate Judge’s Courtroom Deputy Clerk to schedule matters for hearing. Please do not deliver courtesy copies of discovery papers to this Court.
+The decision of the Magistrate Judge shall be final, subject to modification by this Court only where it has been shown that the Magistrate Judge’s order is clearly erroneous or contrary to law. Any party may file and serve a motion for review and reconsideration before this Court. The moving party must file and serve the motion within 10 days of service of a written ruling or within 10 days of an oral ruling that the Magistrate Judge states will not be followed by a written ruling. The motion must specify which portions of the text are clearly erroneous or contrary to law, and the claim must be supported by points and authorities. Counsel shall deliver a conformed copy of the moving papers and responses to the Magistrate Judge’s clerk at the time of filing.
+Settlement and ADR - The Court reminds the parties that while they have the option of choosing their preferred ADR method, participation in a settlement conference is mandatory under Local Rule 16-15.1. Failure to participate in good faith in a formal settlement conference on or before the date set in the Case Management Order may result in sanctions.
+Consent to Magistrate Judge - The parties may consent to proceed before a Magistrate Judge appearing on the voluntary consent list.
+VII. FILINGS
+For all e-filed documents that accompany a proposed order. You must send the proposed order in word or word perfect to the chambers email address at: ODW_chambers@cacd.uscourts.gov. Failing to do so will result in your document being stricken for non-compliance.
+Artificial Intelligence
+Any memorandum of points and authorities, pretrial brief, trial brief, or posttrial brief must include on the last page of the document a certificate by the attorney or the unrepresented party filing the document that the document complies with the following rule governing use of generative artificial intelligence.
+Any party who uses generative artificial intelligence (such as ChatGPT, Harvey, CoCounsel, or Google Bard) to generate any portion of a brief, pleading, or other filing must disclose the use of artificial intelligence and certify that the filer has reviewed the source material and verified that the artificially generated content is accurate and complies with the filer's Rule 11 obligations.
+The certificate must be in substantially the following form:
+“The undersigned certifies that this submission ______ does not use _____ uses generative artificial intelligence. If generative artificial intelligence was used, following drafting, I reviewed, revised, and supplemented all portions of the brief, including those that were informed by the use of Artificial Intelligence or based on prior templates. I independently verified the factual and legal accuracy of the content and confirmed that all arguments and authorities were appropriate to the issues presented.”
+General Motion Requirements
+Time for Filing and Hearing Motions - Motions shall be filed in accordance with Local Rules 6 and 7. This Court hears motions on Mondays, beginning at 1:30 p.m. If Monday is a national holiday, motions will be heard the following Monday. If the motion date selected is not available, the Court will issue a minute order continuing the date. When the Court continues a motion date in this way, the briefing schedule under Local Rules 7-9 and 7-10 shall apply to the originally noticed date, NOT the continued date. This means Local Rule 7-11 does not apply unless the Court expressly orders otherwise.
+Opposition or reply papers due on a holiday must be filed the preceding Friday (not the following Tuesday) and must be hand-delivered or faxed to opposing counsel on that Friday. Professional courtesy dictates that moving parties should, whenever possible, avoid filing motions for which opposition papers will be due the Friday preceding a holiday. Such a filing is likely to cause a requested continuance to be granted.
+Adherence to timing requirements is mandatory for Chambers’s preparation of motion matters.
+Meet and Confer Requirements - Counsel must comply with Local Rule 7-3, which requires counsel to engage in a pre-filing conference “to discuss thoroughly . . . the substance of the contemplated motion and any potential resolution.” Counsel should discuss the issues to a sufficient degree that if a motion is still necessary, the briefing may be directed to those substantive issues requiring resolution by the Court. Counsel should resolve minor procedural or other non-substantive matters during the conference. The pro per status of one or more parties does not negate this requirement.
+Length and Format of Motion Papers - Memoranda of points and authorities in support of or in opposition to motions shall not exceed 7,000 words. Replies shall not exceed 3,300 words. Only in rare instances and for good cause shown will the Court grant an application to extend these page limitations. If documentary evidence in support of or in opposition to a motion exceeds 50 pages, the evidence must be in a separately bound and tabbed pleading and include a table of contents. If such evidence exceeds 200 pages, the documents shall be placed in a Slant D-Ring binder, including a table of contents, with each item of evidence separated by a tab divider on the right side.
+USB flash drives should be submitted in lieu of compact discs.
+Times New Roman font must be used, and the font size must be 14 point. Footnotes shall be in 12-point font and shall be used sparingly. All other typeface and spacing regulations are governed by Local Rules 11-3.1.1, 11-3.2, 11-3.6, and 11-3.7.
+Filings that do not conform to the Local Rules and this Order will not be considered.
+Specific Motion Requirements
+Motions to Amend - In addition to the requirements of Local Rule 15-1, all motions to amend pleadings shall:
+(a) state the effect of the amendment;
+(b) be serially numbered to differentiate the amendment from previous amendments; and
+(c) state the page and line numbers and wording of any proposed change or addition of material.
+Motions for Class Certification - Motions for class certification shall be filed in accordance with Local Rule 23-3 and this Court’s Scheduling Order. The Court will not extend this deadline, even by stipulation, absent a showing of good cause.
+Discovery Motions
+All discovery motions must be heard prior to the discovery cut-off date.
+Discovery motions are to be scheduled before the magistrate judge assigned to the case (the magistrate judge’s initials, followed by a small “x”, are in the parenthetical in the case number). All discovery motion papers must include “DISCOVERY MATTER” in the caption.
+Other Motions - Refer to the Court’s Scheduling and Case Management Order for specific rules governing motions for summary judgment and motions in limine.
+Ex Parte Applications - All ex parte applications will be decided on the papers and without a hearing unless the Court orders otherwise.
+The Court considers ex parte applications on the papers and does not usually set these matters for hearing. If a hearing is necessary, the parties will be notified. Ex parte applications are solely for extraordinary relief and should be used with discretion. Sanctions may be imposed for misuse of ex parte applications. See Mission Power Eng’g v. Cont’l Casualty Co., 883 F. Supp. 488 (C.D. Cal. 1995).
+Counsel’s attention is directed to the Local Rules. Applications that fail to conform to Local Rule 7-19 and 7-19.1, including a statement of opposing counsel’s position, will not be considered except on a specific showing of good cause. A party using PACER for electronic service is considered served once the ex parte application has been e-filed (all parties set up for electronic service are sent a notification of ECF filing each time a document is e-filed with a link to the document for one free view). Parties set up for service by fax or mail must be served the ex parte application by fax or mail.
+The moving party shall, following service of the ex parte papers by electronic service, facsimile transmission, or personal service, notify the opposing party that opposing papers must be filed no later than 24 hours following service, except in cases where the opposing party has not previously appeared (i.e., responded to the Complaint). In those cases where the opposing party has not previously appeared, the moving party shall, following service of the ex parte papers, notify the opposition that opposing papers must be filed no later than 48 hours following service. No party may file a reply unless expressly authorized by the Court.
+When e-filing your documents, you must submit a courtesy copy of the moving, opposition, or notice of non-opposition papers are to be hand-delivered to the courtesy box outside the Clerk's Office on the 4th floor, or you can mail in. Counsel will be notified by the clerk of the Court’s ruling. If counsel does not intend to oppose an ex parte application, he or she must inform the Courtroom Deputy Clerk by email at: sheila_english@cacd.uscourts.gov.
+Temporary Restraining Orders - Parties seeking emergency or provisional relief shall comply with Rule 65 and Local Rule 65. The Court will not rule on any application for such relief for at least 24 hours after the party subject to the requested order has been served, unless service is excused. Such party may file opposing or responding papers in the interim.
+VIII. TELEPHONIC HEARINGS
+At least one week prior to the scheduled hearing, counsel located outside the Central District may arrange to appear telephonically. Contact the Court Clerk by email: Sheila_english@cacd.uscourts.gov for the Court’s permission. The requesting attorney is responsible for coordinating and initiating the telephone call. No cellular or speaker telephones may be used.
+IX. CIVIL AND CRIMINAL TRIAL SUBMISSIONS
+The following documents are to be submitted to the court three-hole punched, with 3/8" holes : (Proposed) Pretrial conference order, joint witness list, joint exhibit list, memoranda of fact and law, joint statement of the case to be read to the jury and jury instructions. "NEW INSTRUCTIONS"
+Trial Exhibits
+Counsel must deliver two sets of exhibits to the Court Clerk (one for witnesses and one for the Judge) on the morning of the first day of trial. Both sets shall be prepared as follows:
+Counsel are to prepare the exhibits by placing them in 3-ring binders. The holes are to be 3/8" in diameter. The notebooks are to be tabbed down the right side with numeric tabs separating each exhibit.
+The exhibits are to be numbered sequentially, with Plaintiff’s exhibits numbered 1, 2, 3, etc. and Defendant’s exhibits numbered 1000, 1001, 1002, etc. Exhibit numbering must further comply with Local Rule 26-3.
+The complete original transcript of any depositions to be used at trial shall be lodged on the first day of trial.
+Exhibit Tags
+Digital exhibit tags are now available on the Court’s website under Court Forms> General Forms>Form G-014A (plaintiff) and G-014B (defendant). Digital exhibit tags may be used in place of the tags obtained from the Clerk’s Office.
+Each exhibit should have an exhibit tag stapled to the lower right-hand corner of its first page. The spine on the exhibit notebook must reflect the exhibit numbers contained within that volume. For example: Trial Exhibit Notebook 1, Ex. Nos. 1-25. The plaintiff's exhibits shall be tagged with yellow tags; and the defendant's exhibits shall be tagged with blue tags. The tags shall indicate the case number, case name, and exhibit number. All exhibits are to be sequentially numbered regardless of which party produces the exhibit. The joint exhibit list must be in substantially the following format:
+Exh No.
+Description
+Date I.D.
+Admitted
+Witness Lists
+The parties must submit a joint witness list. For each witness the party proposing the witness must provide a description of the witnesses anticipated testimony with enough specificity to demonstrate that the witnesses’ testimony will not be duplicative of that of another witness. In addition, for each witness the attorneys are to provide a realistic estimate of the time needed to complete the direct and cross examination.
+Joint Statement of the Case
+Counsel will also prepare and submit to the court a joint statement to be read to the prospective panel of jurors prior to the commencement of voir dire. The statement should not be longer than one or two paragraphs. The statement shall be filed with the Court five (5) court days before the Pre-Trial Conference. The statement is to be a non-argumentative neutral recitation of the basic facts of the case and the parties’ positions. This is not intended to be an adjunct to the opening statements, but a means to assist in jury selection.
+X. JURY INSTRUCTIONS
+Civil Jury Trials
+Local Rule 16.2 requires that counsel meet at least forty (40) days in advance of the date set for the final Pre-Trial Conference for the purpose of accomplishing various tasks in preparation for trial. In addition to the tasks set forth in Local Rule 16.2, the parties shall meet with the goal of reaching agreement to one set of joint jury instructions and one verdict form. The set of joint jury instructions must be filed at least five (5) court days before the final Pre-Trial Conference. The parties may submit another set of jury instructions containing the instructions upon which the parties disagree and the objections to those instructions. It is expected that the Court's involvement with the settling of disputed instructions will be minimal.
+Where the parties disagree on an instruction, the party opposing the instruction must attach a short (i.e., one to two paragraphs) statement supporting the objection and the party submitting the instruction must attach a short statement supporting the instruction. Each statement should be on a separate page and should follow directly after the disputed instruction.
+The parties ultimately will submit one document or, if the parties disagree to any proposed jury instructions, two documents. If the parties submit two documents, those documents should consist of: (1) a set of agreed upon jury instructions and (2) a set of disputed jury instructions along with reasons supporting and opposing each disputed instruction.
+The Court orders the parties to make every attempt to agree upon the jury instructions before submitting them to the Court. In addition, where the Manual of Model Civil Jury Instructions for the Ninth Circuit (2017 edition) provides a version of a requested instruction, the parties shall submit the Model instruction. Where California law applies, the Court prefers counsel to use California Jury Instructions -- Civil ("BAJI") or CACI. If neither of the above sources is applicable, counsel are directed to use the instructions from O'Malley-Grenig-Lee, et al., Federal Jury Practice and Instructions (Fifth Edition). Each requested jury instruction shall cover only one subject or principle of law and shall be numbered and set forth in full on a separate page, citing the authority or source of the requested instruction (except for the jury copy discussed below).
+The Court will send one or more sets of the jury instructions into the jury room for use by the jury during deliberations. Accordingly, in addition to the filed copies described above, the parties shall send the Courtroom Deputy Clerk the day before closing arguments a "clean set" of the final jury instructions which contain only the text of each instruction set forth in full on each page, with the caption "Court’s Instruction Number " (eliminating titles, supporting authority, indication of party proposing, etc.). This will be referred to as the "Jury Copy" of the jury instructions.
+An index page shall accompany all jury instructions submitted to the Court. The index page shall indicate the following:
+a. The number of the instruction;
+b. A brief title of the instruction;
+c. The source of the instruction or the relevant case citation; and
+d. The page number of the instruction.
+EXAMPLE:
+Number
+Title
+Source
+Page
+1
+Burden of Proof
+9th Cir. 12.02
+7
+Criminal Jury Trials
+At least five (5) court days prior to the final Pre-Trial Conference, the parties shall meet with the goal of reaching agreement to one set of joint jury instructions.
+Where the parties disagree on an instruction, the party opposing the instruction must attach a short (i.e., one to two paragraphs) statement supporting the objection and the party submitting the instruction must attach a short statement supporting the instruction. Each statement should be on a separate page and should follow directly after the disputed instruction.
+The parties ultimately will submit one document or, if the parties disagree over any proposed jury instructions, two documents. If the parties submit two documents, those documents should consist of: (1) a set of agreed upon jury instructions and (2) a set of disputed jury instructions along with reasons supporting and opposing each disputed instruction.
+The Court orders the parties to make every attempt to agree upon the jury instructions before submitting them to the Court. In addition, where the Manual of Model Criminal Jury Instructions (current edition) for the Ninth Circuit provides a version of a requested instruction, the parties shall submit the Model instruction. The only exception to the above is that the Court prefers the instruction from Edward J. Devitt, et al., Federal Jury Practice and Instructions on the burden of proof. If a Model instruction does not exist for a particular subject, counsel may submit an instruction from Devitt (supra). Each requested jury instruction shall cover only one subject or principle of law and shall be numbered and set forth in full on a separate page, citing the authority or source of the requested instruction (except for the jury copy discussed below).
+The Court will send a copy of the jury instructions into the jury room for use by the jury during deliberations. Accordingly, in addition to the filed copies described above, the parties shall file with the Courtroom Deputy Clerk the day before closing arguments a "clean set" of the final jury instructions which contain only the text of each instruction set forth in full on each page, with the caption "Court’s Instruction Number" (eliminating titles, supporting authority, indication of party proposing, etc.). This will be referred to as the "Jury Copy" of the jury instructions.
+An index page shall accompany all jury instructions submitted to the Court. The index page shall indicate the following:
+a. The number of the instruction;
+b. A brief title of the instruction;
+c. The source of the instruction and any relevant case citations; and
+d. The page number of the instruction.
+EXAMPLE:
+Number
+Title
+Source
+Page
+1
+Burden of Proof
+9th Cir. 12.02
+7
+XI. TRANSCRIPT ORDERS
+To obtain a transcript of any reported or digitally recorded proceeding, please contact the assigned court reporter/recorder. To determine the court reporter/recorder for a particular proceeding, go to the Court Reporter Schedule web page and click on View by Date. Once you've determined the correct court reporter/recorder for the desired session, click on Court Reporter Phone and Email List for contact information.
+XII. INTERPRETERS
+Procedures for obtaining the services of an interpreter on a civil case are the responsibility of counsel. Interpreters must be certified. For information, dial 213-894-4599.
+XIII. OTHER INFORMATION
+General information: 213-894-3535 or 213-894-1565 (recording).
+XIV. LAW CLERK AND EXTERN APPLICANTS
+Applicants may submit applications to Judge Otis D.Wright, II , 350 w. 1st Street, Ste 4311 Los Angeles, California 90012-4565. Applications are to include a cover letter, resume, transcript, and writing sample. Letters of recommendation are to be directed to this address.
+XV. PURCHASING COPIES OF LOCAL RULES
+Los Angeles Daily Journal, 915 East First Street, Los Angeles, California 90012;
+Metropolitan News, 210 South Spring Street, Los Angeles, California 90012;
+West Publishing Company, 50 West Kellogg Boulevard, St. Paul, Minnesota 55164-9979.
+XVI. UNDER SEAL FILINGS
+ALL "CIVIL ONLY" SEALED DOCUMENTS, please refer to L.R. 79-5.2 for instructions to submit.
+"CRIMINAL SEALED" and IN CAMERA - procedures will remain the same (send an email with attachments to chambers email address). File the "Notice of Manual Filing" on the docket ONLY.
+Counsel shall EMAIL all under seal filings to ODW_Chambers@cacd.uscourts.gov. Follow the instructions below where applicable. When submitting an exhibit(s) NOT attached to a document, you must prepare a caption page on each separately prepared exhibit.
+When the application and proposed order ARE NOT filed under Seal:
+Electronically file the application to seal and/or declaration giving notice of proof of service. During the electronic filing process, attach the proposed order to the application. (Standard procedure for filing any application with proposed order).
+After electronically filing the application and proof of service, send an e-mail to ODW_Chambers@cacd.uscourts.gov containing a PDF of the application to seal, declaration giving notice or proof of service, Word or WP version of the proposed order and a PDF of the document to be filed under seal.
+When the request is to seal the application, order and document(s):
+Electronically file a NOTICE OF MANUAL FILING indicating that an application to seal, declaration giving notice or a proof of service, proposed order sealing and under seal documents have been submitted to the Court.
+Prepare a title page for EACH document to be sealed.
+Send an e-mail to ODW_Chambers@cacd.uscourts.gov containing a PDF of the application to seal, declaration giving notice or a proof of service, Word or WP version of the proposed order and a PDF of the document to be filed under seal.
+IF A PROTECTIVE ORDER IS ALREADY ON FILE, ADVISE THE CLERK.
