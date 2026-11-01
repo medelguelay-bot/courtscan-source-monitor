@@ -1,0 +1,54 @@
+name: Daily public source text checks
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: source-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned PDF extractor
+        run: python -m pip install -r requirements.txt
+      - name: Semantic tests
+        run: |
+          set -o pipefail
+          python -m unittest discover -s tests -v 2>&1 | tee test-results.txt
+      - name: Synchronize public text
+        id: sync
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          python monitor.py 2>&1 | tee sync-output.txt
+      - name: Commit data and snapshots, including visible error states
+        if: steps.sync.outcome == 'success' || steps.sync.outcome == 'failure'
+        run: |
+          git config user.name 'CourtScan source monitor'
+          git config user.email 'courtscan-source-monitor@users.noreply.github.com'
+          git add -- data snapshots
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update public source observations'
+            git push
+          fi
+      - name: Preserve failed check outcome
+        if: steps.sync.outcome == 'failure'
+        run: exit 1
+      - name: Failure diagnostics
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-monitor-diagnostics
+          path: |
+            diagnostics.json
+            test-results.txt
+            sync-output.txt
+          retention-days: 14
