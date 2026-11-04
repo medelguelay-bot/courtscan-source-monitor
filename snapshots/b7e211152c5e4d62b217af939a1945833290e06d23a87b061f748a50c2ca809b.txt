@@ -1,0 +1,600 @@
+MAGISTRATE JUDGE GABRIEL A. FUENTES
+219 South Dearborn Street
+Chicago, IL 60604
+Courtroom 1342 Telephone: (312) 435-7570
+Chambers 1334
+Web Site: http://www.ilnd.uscourts.gov
+Courtroom Deputy — Jannette Nunez
+(312) 818-6514
+jannette_nunez@ilnd.uscourts.gov
+STANDING ORDER FOR CIVIL CASES BEFORE MAGISTRATE JUDGE FUENTES
+Please review this order in its entirety at the outset of a district court referral of your case to U.S.
+Magistrate Judge Fuentes for discovery supervision or for other civil litigation case management,
+or at the outset of your consent to proceed before the magistrate judge. A separate standing order
+is on the Court’s website for settlement conference referrals. This Standing Order will be revised
+continually, so counsel may want to re-review it from time to time.
+Introduction
+Civil matters come before U.S. Magistrate Judge Fuentes in one of two ways. First, the parties
+may consent to have Judge Fuentes, as the assigned magistrate judge, preside over all aspects of
+the case. 28 U.S.C. § 636(c). Second, in matters not before Judge Fuentes on consent, the
+assigned U.S. district judge may refer a matter to Judge Fuentes, also as the assigned magistrate
+judge, for a specific purpose. 28 U.S.C. § 636(b). Usually, the scope of these referrals is for
+supervision of discovery and/or for settlement including conducting a settlement conference.
+This standing order is meant to give the parties guidance in civil matters before Judge Fuentes. It
+sets forth the practices the Court expects itself and the parties will follow in these cases, but the
+practices may vary to suit the peculiarities of any given case. Judge Fuentes is open to a
+continuing discussion in any case about the best, most efficient way to proceed. In the absence
+of such a discussion, this standing order should be treated as a set of default rules. This order
+applies to all matters pending before Judge Fuentes on consent or referral. Litigants should
+review the federal rules and the procedures of their assigned district judge(s), and in the case of
+any conflict, the federal rules generally govern. The Court’s goal in this order is not to create a
+separate overlay of additional rules calling for compliance on pain of being accused of “violating
+the Court’s standing order.” The Court will not generally entertain such arguments, as the
+Standing Order is here to help litigants, and not to burden them or to add more grounds for
+satellite litigation. The Court’s goal for each case is to promote the just, speedy and inexpensive
+determination of the matter. Fed. R. Civ. P. 1. In pursuit of that goal, the Court will exercise the
+broad discretion afforded to it under the applicable rules and the common law. See Jones v. City
+of Elkhart, 737 F.3d 1107, 1115 (7th Cir. 2013).
+Motion Practice Guidelines
+e On December 18, 2024, the Court revised its standing order to provide greater clarity
+about the Court’s practices for setting motion and status hearings after the easing of
+pandemic conditions.
+o The Court has continued its practice, adopted during the COVID-19 pandemic, of
+not having parties notice their discovery motions for presentation or for motion
+hearing at the time of filing of the motion.
+o The Court has not set aside standing dates and times for the hearing of discovery
+motions because the Court’s practice is to determine on its own whether a hearing
+is even necessary, and the Court continually keeps its weekly calendar open for
+settlement conferences at the parties’ convenience. From time to time, the Court
+may schedule multiple hearings for a motion or status call on a given weekday.
+The Court’s current preference is for in-person hearings, which offer more
+opportunities for the Court and counsel to pick up on non-verbal cues and to know
+when a party or counsel wants to be heard further. The in-person format also
+allows the Court to take a brief recess to allow attorneys to confer with each other
+and reach agreements outside the Court’s presence before the case is recalled.
+The Court will accommodate requests, made reasonably in advance of a
+scheduled hearing, for telephonic participation based on substantial expense,
+medical necessity, or other hardship.
+o For agreed or unopposed motions, the movant should file the motion and indicate
+in the title that it is agreed or unopposed. Most of these motions will be granted
+promptly without a hearing. If the Court has a question, the Court will schedule a
+hearing at a date and time when the Court is available.
+o For contested motions, after required conferral, the movant should file the motion
+without noticing it for a hearing date. The Court will review the motion promptly,
+and one of the following scenarios will occur:
+= If the contested motion does not comply strictly with Rule 37.2 (all
+counsel are advised to review that rule carefully), the motion may be
+denied without prejudice.
+= If the Court determines that the contested motion does not state grounds
+for relief, or that the requested relief is plainly unwarranted under the
+circumstances of the case at that time and in the Court’s substantial
+discretion, the Court may deny the motion promptly without a hearing and
+without any further briefing. This practice conserves the resources of the
+Court and the parties while ensuring that the losing party, in the case the
+movant, had a full opportunity to be heard.
+= Ifthe contested motion states grounds for relief and the Court deems the
+disputed issue straightforward, the Court may order a prompt hearing with
+oral argument and no further briefing, so that the parties may present their
+positions more efficiently and inexpensively simply by appearing for a
+brief motion hearing. If the motion cannot be heard reasonably promptly,
+the Court may order prompt additional briefing and decide the motion on
+the papers. If a hearing is held and the Court is persuaded that additional
+briefing is necessary before a decision, the Court may order additional
+briefing. With respect to these less complex motions, the non-movant
+should consider whether to seek an agreed resolution that avoids a hearing
+and a judicial resolution; in those cases, counsel need only notify the
+courtroom deputy, before the hearing, that the motion has been resolved
+and is either withdrawn or should be denied as moot. Generally, the Court
+requires strict compliance with Local Rule 37.2, which movants should
+read carefully. Bare emails to resolve discovery disputes are not enough,
+and the required certification must state the details of the in-person or
+remote conference that was had, or state why through no fault of the
+movant, the conference could not be had.
+= Ifthe Court’s review of the motion indicates that it raises more complex
+issues that will not lend themselves to a fair airing at a motion hearing
+without additional briefing, the Court may order additional briefing and
+may decide the motion on the papers or set the motion for a hearing after
+briefing is completed. The Court may or may not order a reply.
+If counsel communicates to the courtroom deputy a scheduling conflict with a
+date the Court selects for a hearing, the Court commonly will accommodate
+the parties by rescheduling the hearing. Counsel should not hesitate to raise
+scheduling issues arising from health or family commitments, as the Court
+views those issues as important.
+New Referral Procedures and Guidelines — Discovery Supervision
+Upon a district court referral including discovery supervision, the magistrate
+judge is likely to order a prompt, in-person, initial status hearing on a floating
+status call date. The purpose of the initial status is to meet counsel and hear
+briefly from them about the nature of the case. The Court usually will direct
+the parties to confer in advance of the hearing about discovery scheduling. In
+that event, or if the parties already have addressed proposed discovery
+scheduling, the Court will entertain oral motions to enter an agreed or
+contested discovery schedule or for other relief. In the event that the district
+court already has entered a schedule, the Court ordinarily will not adjust it
+initially, except perhaps on oral motion at the initial status hearing and for
+good cause.
+At the initial hearing, the parties also should be prepared to address whether
+they have considered, or will consider, phased discovery aimed at determining
+whether they mutually might wish to engage in a settlement conference sooner
+rather than later. Further, counsel are kindly requested to take note of Illinois
+Rules of Professional Conduct 1.2(a) (‘a lawyer shall abide by a client’s
+decisions concerning the objective of representation and, as required by Rule
+1.4, shall consult with the client as to the means by which they are to be
+pursued”) and 1.4(b) (“A lawyer shall explain a matter to the extent
+reasonably necessary to permit the client to make informed decisions
+regarding the representation”), and the degree to which, together, those rules
+may require counsel to advise clients of the option of Alternative Dispute
+Resolution in lieu of litigation.
+As with motion calls and hearings, the Court will accommodate requests,
+made reasonably in advance of a scheduled hearing, for telephonic
+participation based on substantial expense, medical necessity, or other
+hardship. That said, counsel otherwise and ordinarily are expected to appear
+at all court hearings. Contacting opposing counsel to relay agreement with a
+motion or a scheduling issue, with the expectation that opposing counsel will
+communicate that agreement and that the Court will have no other questions
+for either counsel, is not how the Court does business.
+New Referral Procedures and Guidelines -- Settlement
+Upon a district court referral including settlement before the parties have
+requested a settlement conference, the parties will be advised that they may
+seek to schedule a settlement conference with the magistrate judge at any time
+by contacting the courtroom deputy, and the Court will do its best to
+accommodate the request as soon as scheduling allows. The Court ordinarily
+will not seek to schedule a settlement conference unless and until all parties
+have stated that they wish to participate in a settlement conference, and where
+the referral also includes discovery supervision, discovery usually will
+proceed until all parties wish to attempt to negotiate a resolution. The Court
+will not ordinarily stay discovery pending settlement discussions unless a
+mediation or settlement is scheduled, or unless the Court otherwise is
+persuaded of the serious or advanced nature of settlement discussions.
+Once the parties mutually agree that they wish to engage in a settlement
+conference and have so advised court staff, or upon a referral for the express
+purpose of a settlement conference at the parties’ request, the Court promptly
+will schedule a pre-settlement telephonic conference to confirm mutual
+interest and readiness for a settlement conference (including whether the
+parties have enough information to make concrete proposals to each other in
+writing to resolve the case), to discuss the Court’s settlement practices and
+procedures, to give counsel information to be shared with clients about the
+mediation and how to prepare them to be successful at the mediation, and to
+schedule an in-person or remote mediation. The Court may schedule more
+impromptu pre-settlement conferences as necessitated by the circumstances.
+Miscellany
+e In lieu of in-person hearings on motions and scheduling issues, the Court may resort
+to written status reports as may be necessary.
+e The Court expects all counsel to treat each other with courtesy and civility. The
+Court believes that life is too short to take litigation disputes too personally, and that a
+measure of patience and detachment in dealing with opposing counsel can add
+longevity to one’s practice of law. And as the late Jerold S. Solovy liked to say,
+many of his referrals in his long career at the bar came from former opposing counsel.
+SO ORDERED.
+ENTER:
+\t 4. Fate.
+U.S. Magistrate Judge Gabriel A. Fuentes
+Dated: March 3, 2026
+APPENDIX
+The following appendix to the Court’s Standing Order for Civil Cases Before Magistrate Judge
+Fuentes is not a part of the Standing Order and is included here to provide attorneys with helpful
+background information and with the Court’s general requests and preferences.
+Initial Status Reports and Hearings
+If a recent status report is on file, the Court will not require an additional report and will rely on
+the previously filed report. Where the Court orders an initial joint status report upon referral, the
+report is requested to contain the below information, included here as guidance. Where the Court
+orders a joint status report to address identified issues during the Court’s ongoing management of
+a case, the parties may limit their report to those identified issues.
+1. Description of Claims and Relief Sought.
+a. Describe the claims and defenses raised by the pleadings, including
+the basis for federal jurisdiction. Include enough detail to color in
+the nature of the key factual allegation(s) and dispute(s). In other
+words, a bare statement to the effect of “this is a Title VII
+employment discrimination lawsuit in which the plaintiff alleges a
+hostile work environment and a retaliatory discharge” is not very
+helpful to the Court.
+b. State the relief sought, including an itemization of damages.
+2. Referral Cases.
+Describe the matter(s) referred to the magistrate judge.
+3. Discovery Schedule.
+Identify any existing discovery cut-off dates. If no discovery schedule has
+yet been set, and the case has been referred for discovery supervision, the parties
+should confer and submit the following information:
+a. Initial Disclosures
+i. The due date for Fed. R. Civ. P. 26(a)(1) disclosures.
+ii. A date to issue written discovery requests.
+iii. (The Court’s Mandatory Initial Discovery Pilot Program
+expired on June 1, 2020. The program is no longer in
+effect as to cases filed after June 1, 2020. As to cases filed
+before June 1, 2020, if an order has been entered requiring
+MIDP disclosures, parties should abide by that order or
+seek relief as appropriate by motion.)
+b. A fact discovery completion date. For claims involving medical
+conditions, fact discovery ordinarily includes treating physician
+depositions.
+c. If there will be expert discovery, proposed dates for Rule 26(a)(2)
+expert disclosure reports and depositions, with an expert discovery
+completion date.
+4. Consideration of Issues Concerning ESI.
+State whether the parties anticipate or are engaged in discovery of ESI in
+this case, and, if so, what agreements have been reached regarding ESI and whether
+there are any areas of disagreements.
+Please note the Court has adopted the Principles of the Seventh Circuit
+Electronic Discovery Pilot Program and the parties should be familiar with them.
+In a patent case, the Court will apply the Local Patent Rules for Electronically
+Stored Information. In addition, all counsel should have a thorough understanding
+of their ESI discovery obligations under Federal Rule of Civil Procedure 26 and
+their related ethical obligations including but not limited to the requirements of
+Rules of Professional Conduct 1.1, 3.3, 3.4, and 8.4. See generally DR Distributors,
+LLC v. 21 Century Smoking, Inc., 513 F. Supp. 3d 839, 923-49 (N.D. Ill. 2021)
+(containing detailed outline of the obligations of parties and counsel with respect
+to ESI discovery).
+5. Settlement.
+a. Describe the status of settlement discussions.
+b. State whether all parties wish to participate in a settlement
+conference or believe such a conference would be productive.
+6. Magistrate Judge Consent.
+State whether all parties will consent to have Judge Fuentes conduct all
+further proceedings in this case, including trial and entry of final judgment, in
+accordance with 28 U.S.C. § 636(c) and Federal Rule of Civil Procedure 73.
+7. Pending Motions.
+Indicate the status of any pending motions.
+8. Trial.
+In consent cases, state whether a jury trial is requested, the date when the
+parties expect to be ready for trial, and the probable length of trial.
+9. Other Matters.
+State any other matters that should be brought to the Court’s attention for
+scheduling purposes.
+10. Standards for Professional Conduct.
+The Court calls all counsel’s attention to the Seventh Circuit's “Standards
+for Professional Conduct,” available on the Seventh Circuit's website at
+http://www.ca7.uscourts.gov/rules-procedures/rules/rules.htm#standards. At the
+outset of each case assigned to Judge Fuentes, counsel for each of the parties should
+review the standards and make a good-faith effort to abide by them during the
+litigation of the case and during any settlement discussions. Counsel should pay
+particular attention to the statement in the preamble of the Standards, stating that
+“Ta] lawyer's conduct should be characterized at all times by personal courtesy and
+professional integrity in the fullest sense of those terms,” and to the first of the listed
+“Lawyers’ Duties to Other Counsel,” stating that although the lawyers’ role is to
+advance the legitimate interests of their clients, “[iJn our dealings with others we
+will not reflect the ill feelings of our clients. We will treat all other counsel, parties,
+and witnesses in a civil and courteous manner, not only in court, but also in all other
+written and oral communications.” Lawyers practicing in Illinois are reminded that
+their conduct is subject to the Illinois Rules of Professional Conduct, including but
+not limited to Rules 3.1, 3.2, 3.3, 3.4, 3.5, and 8.4. In particular, Rule 3.5(d) broadly
+prohibits conduct that is “intended to disrupt a tribunal.” As the commentary to
+Rule 3.5 states, “[a]n advocate can present the cause, protect the record for
+subsequent review and preserve professional integrity by patient firmness no less
+effectively than by belligerence or theatrics,” and “[t]he duty to refrain from
+disruptive conduct applies to any proceeding of a tribunal, including a deposition.”
+Depositions
+Resolving disputes
+The Court generally prefers that parties resolve their deposition disputes consistent with Local
+Rule 37.2 and then present the dispute to the Court by motion if the dispute cannot be resolved.
+On the other hand, the Court recognizes that in some circumstances, a same-day resolution to a
+dispute during a deposition can save the litigants time and fees, in that a deposition might be
+completed on that day instead of being reconvened after a judicial ruling. The costs of reconvening
+the deposition can be substantial, particularly where the witness or the attorneys must travel. If,
+in the judgment of at least one of the parties at the deposition, the Court’s same-day intervention
+would further the just, speedy and inexpensive determination of the matter, and if the dispute
+reasonably can be presented briefly and orally, such party is welcome to telephone chambers to
+request a same-day hearing. Again, the Court expects that this will be the exception and not the
+rule, but the Court will make every attempt to make itself available on that same day. The Court
+cannot promise that it will be available. If a hearing is not conducted at the time of the call or later
+in the day, the parties should continue the deposition and reserve the disputed issue for
+determination. See Fed. R. Civ. P. 30(c)(2). All same-day hearings shall be conducted on the
+record as transcribed by the retained private court reporter, with the hearing transcript prepared
+and filed on an expedited basis to ensure public access. In rare cases, the Court may supervise a
+deposition remotely.
+Technology and cost management
+Even before the COVID-19 public health emergency, many litigants were gravitating toward video
+depositions in the interest of efficiency and cost savings. They are encouraged to continue doing
+so. The Court directs the parties to Judge Gilbert’s well-reasoned approach to video depositions as
+set forth in In re Broiler Chicken Antitrust Litig., No. 16 C 8637, 2020 WL 3469166, at *4-5, 11-
+12 (N.D. Ill. June 25, 2020), and to Judge Gilbert’s protocol for such depositions at Docket Entry
+3729 of that matter. The Court views the Broiler Chicken protocol as the starting point for a
+discussion of an applicable protocol, subject to proposed, tailored revisions in individual cases.
+Rule 30(b)(6) Depositions
+Rule 30(b)(6) deposition notices generate much motion practice that arises from some fundamental
+misunderstandings of the rule. Rule 30(b)(6) permits a party to bind another party, through the
+testimony of one or more representative deponents, to testimony given on the topics contained in
+the notice of deposition. See Fed. R. Civ. P. 30(b)(6). The rule is intended to streamline the
+discovery process and to do away with the practice of “bandying,” in which business entities would
+present individual witnesses who would disclaim knowledge of particular issues and put the other
+party to a costly and burdensome task of determining which individual witnesses might be
+competent to testify to a variety of relevant issues. Fed. Deposit Ins. Corp. v. Giancola, 13 C 3230,
+2015 WL 5559804, at *2 (N.D. Ill. Sept. 18, 2015), citing SmithKline Beecham Corp. v. Apotex
+Corp., No 98 C 3952, 2000 WL 116082, at *8 (N.D. Ill. Jan. 24, 2000).
+Here are some pointers on the rule:
+e The rule does not require the noticed party to produce a witness “most knowledgeable”
+about the topics. The rule provides that the noticed party must designate representative
+deponents who “must testify about information known or reasonably available to the
+organization.” Fed. R. Civ. P. 30(b)(6).
+e By its terms, the rule recognizes that the task of educating and presenting a representative
+deponent to testify on the topics in the notice can be burdensome, and thus the rule requires
+the “matters for examination” to be “describe[d] with reasonable particularity.” Jd. Courts
+have limited or narrowed Rule 30(b)(6) topics that were found not to describe the matters
+for examination with reasonable particularity. See Ball Corp. v. Air Tech of Mich., Inc.,
+329 F.R.D. 599, 604-05 (N.D. Ind. 2019). This Court also frowns upon 30(b)(6) notices
+that describe the topics with the vague term “including but not limited to.” See Winfield v.
+City of New York, No. 15-cv-05236 (LTS)(KHP), 2018 WL 840085, at *5 (S.D.N.Y. Feb.
+12, 2018) (“The Court must evaluate ‘reasonable particularity’ [of Rule 30(b)(6) topics]
+based on the nature of the topics listed in the deposition. ‘Reasonable particularity’ requires
+the topics listed to be specific as to subject area and to have discernible boundaries .... This
+means that the topics should not be listed as ‘including but not limited to;’ rather, they must
+be explicitly stated.”).
+e The 2015 amendments to Rule 26(b)(1) provide that the scope of permissible discovery is
+not only relevance to claims or defenses in the action but also proportionality to the needs
+of the case. Fed. R. Civ. P. 26(b)(1). This Court generally agrees with courts that, after the
+2015 amendments, have applied the proportionality limitation on discovery under Rule
+26(b)(1) to overbroad Rule 30(b)(6) notices. See Schyvincht v. Menard, Inc., 18 C 50286,
+2019 WL 3002961, at *2 (N.D. Ill. July 10, 2019); Ball, 329 F.R.D. at 602. But
+proportionality should be considered on an individualized basis with attention to the needs
+of the particular case. The amended rule dictates that judicial consideration of the needs of
+a particular case includes consideration of “the importance of the issues at stake in the
+action, the amount in controversy, the parties’ relative access to relevant information, the
+parties’ resources, the importance of the discovery in resolving the issues, and whether the
+burden or expense of the proposed discovery outweighs its likely benefit.” Fed. R. Civ. P.
+26(b)(1). As former U.S. Magistrate Judge Schenkier of this district has stated, “the factual
+nuances of each case are what guide the courts.” Giancola, 2015 WL 5559804, at *3, citing
+cases.
+e Rule 30(b)(6) topics calling for representative deponents to address legal contentions or
+conclusions are disfavored. See Schyvincht, 2019 WL 3002961, at *3 (holding that legal
+conclusions, legal opinions, and legal positions in the case are outside the scope of
+permissible Rule 30(b)(6) discovery). Some courts have exercised their discretion to
+determine that written interrogatories (directed at a party’s contentions or bases for those
+contentions) are a more efficient means of obtaining discovery than a 30(b)(6) deposition,
+while others have viewed the circumstances as making the 30(b)(6) deposition the better
+vehicle. Compare Clauss Constr. v. UChicago Argonne LLC, 13 C 5479, 2015 WL
+191138, at *5 (N.D. III. Jan. 1, 2015) (allowing 30(b)(6) testimony where court determined
+that written interrogatories would not be efficient) with Schyvincht, 2019 WL 3002961, at
+*3 (concluding that inquiry into the legal bases for certain contentions is better suited to
+contention interrogatories than to Rule 30(b)(6) testimony). The outcome of such an
+analysis inevitably will depend on the factual nuances of each case.
+Counsel's conduct during depositions
+“Litigation is not a contest to see how much trouble you can cause your opponents. Those who
+treat it as such do so at their peril.” Hal Commodity Cycles Mgmt. Co. v. Kirsh, 825 F.2d 1136,
+1139 (7th Cir. 1987). Depositions must be conducted in a manner that avoids wasting time and
+protects witnesses from harassment and undue embarrassment. Fed. R. Evid. 611(a); Fed. R. Civ.
+P. 30(d)(3). Borrowing heavily from U.S. District Judge Steven C. Seeger’s standing order on
+depositions (available on the Court’s website at https://www.ilnd.uscourts.gov/judge-
+info.aspx?+q7AroZFqQJxIXbDV5X80Q==), the Court sets forth the following for informational
+purposes:
+Counsel should behave professionally at all times during depositions. Depositions should
+be civil, and attorneys should be respectful to witnesses, to the court reporter, and to other
+attorneys. Counsel should conduct themselves as if the Court were present, and as if the
+jury were watching. See Fed. R. Civ. P. 30(c)(1).
+Objections should be stated concisely and in a nonargumentative and nonsuggestive
+manner. Fed. R. Civ. P. 30(c)(2); LM Ins. Corp. v. ACEO, Inc., 275 F.R.D. 490, 491 (N.D.
+Ill. 2011). Interruptions, by counsel defending a deposition, with words such as “if you
+know,” or “if you remember,” are considered by some to be improper attempts to coach
+witnesses or influence their testimony. The same goes for “speaking objections” that go
+beyond a short and nonsuggestive statement of the basis for the objection. Objections to
+relevance during a deposition generally are not waived if not made at the deposition. Fed.
+R. Civ. P. 32(d)(3)(A).
+There has been some confusion around when counsel might permissibly confer with the
+deponent during the course of questioning. In federal deposition practice, courts have
+cautioned that Rule 30 requires federal depositions to be conducted as examinations at trial,
+so that counsel has a very limited ability to communicate with a represented deponent once
+the deposition has begun. See Hunt v. DaVita, Inc., 680 F.3d 775, 780 (7th Cir. 2012).
+Hunt, though, gives district courts wide discretion about how to address conferences that
+occur during deposition recesses. This Court’s approach has been the consider whether the
+conferences were demanded by defending counsel during questioning, whether they
+occurred during the ordinary course of the deposition, whether they affected the truth-
+finding process of the deposition, and whether sanctions for such conferences would
+burden the right to counsel. See Strebel v. Scoular, No. 24 C 968, 2026 WL 579220, at *6-
+7 (N.D. Ill. Mar. 2, 2026) (discussing cases). Instead of interrupting the deposition, counsel
+may make an appropriate, nonspeaking objection and should consider how the testimony
+might be supplemented during counsel’s further examination later in the deposition.
+Counsel may also seek a protective order under appropriate circumstances as discussed
+below.
+Counsel need not, and should not, state every ground for objection by articulating a string
+of grounds that turns the objection into an improper speaking objection. In those instances,
+counsel may pick a ground. Objections to “form” may not be clear enough to preserve
+anything, and counsel should take care not to use this vague objection incessantly to
+interrupt the flow of an examination.
+“Asked and answered” is not an appropriate objection during depositions, absent truly
+abusive conduct in extraordinary cases. It coaches the witness to say nothing more than “I
+incorporate what I said earlier,” or “I already answered.” All too often, when an attorney
+makes an “asked and answered” objection during a deposition, the witness has not actually
+answered the question, and the witness shuts down instead of answering the question or
+appropriate follow-up questions. The remedy when examining counsel crosses the line
+from appropriate follow-up questions into harassment and undue annoyance of the witness
+is to seek a protective order. See Fed. R. Civ. P. 26(c); Fed. R. Evid. 611.
+e An objection that “the document speaks for itself” also is disfavored. The Court has yet to
+hear a document actually speak.
+e Counsel generally should not instruct a witness not to answer a question except to preserve
+a privilege, to enforce a limitation necessary to preserve a privilege, or to present a motion
+under Rule 30(d)(3). Fed. R. Civ. P. 30(c)(2). In the third of those circumstances, the
+Court of Appeals has held that even when counsel concludes that his or her witness has
+been asked the most outrageous of deposition questions, counsel may not simply instruct
+the witness not to answer without bringing a motion for protective order under Rule 26(c).
+Redwood vy. Dobson, 476 F.3d 462, 468 (7th Cir. 2007). The disputed matter may be
+reserved for the end of the deposition so that the deposition may otherwise continue, and
+counsel then may resort to the Court for intervention, but an instruction not to answer does
+not comply with the third circumstance stated in Rule 30(c)(2) if it not coupled with a
+motion for a protective order. Our Court of Appeals has spoken harshly of counsel who
+have not abided by this rule. See id. at 468-69.
+e Witnesses who turn their testimony into a narrative filibuster, and counsel who encourage
+or permit this conduct by the witness, do so at the peril of being deemed to have obstructed
+the deposition, and in that event, the Court may, in its discretion, allow additional
+deposition time. See Flores v. Bd. of Trs. of Cmty. Coll. Dist. No. 508, No. 14 C 7905,
+2015 WL 7293510, at *2 (N.D. Ill. Nov. 19, 2015).
+e On occasion, counsel in a deposition may resort to conduct that is downright insulting, or
+that conveys some form of insult, including the making of faces, the rolling of the eyes,
+laughter, editorial comments, or other conduct that is not only unbecoming, but is flat-out
+improper. See Redwood, 476 F.3d at 491 (citing “the insult-riddled performance . . . that
+incensed the Supreme Court of Delaware” in Paramount Communications Inc. v. QVC
+Network Inc., 736 A.2d 34, 52-57 (De. 1994)). Counsel must not engage in the sort of
+conduct of the sort exhibited in the Addendum to the Paramount Communications opinion.
+Discovery Motions
+Generally speaking, the parties are directed to the federal rules and the local rules with respect to
+the filing of discovery motions. Magistrate Judge Fuentes has expressed that he believes relevance
+under Rule 26(b)(1) is broad. See Coleman v. Illinois, No. 19 C 3789, 2020 WL 5752149, at *3-
+4 (N_D. Ill. Sept. 25, 2020). He also has expressed that Rule 26(b)(1)’s proportionality concept
+may also be broad, so that courts should consider the “burden” associated with a particular
+discovery issue in contexts beyond the mere cost in effort and expense. See Johnson v. Soo Line
+RR. Co., No. 17 C 7828, 2019 WL 4037963 at *2-3 (N.D. Ill. Aug. 27, 2019) (applying
+proportionality concept to assess burdens that compelled production of federal income tax returns
+in civil discovery could place on system of voluntary tax compliance); Washtenaw County
+Employees’ Retirement Sys. v. Walgreen Co., et al., No. 15 C 3187, 2019 WL 6108220, at *5-6
+(N.D. Ill. Nov. 15, 2019) (applying proportionality concept to assess burden that compelled
+production of settlement-related materials could place on the social policies underlying Federal
+Rule of Evidence 408).
+Local Rule 37.2 Compliance
+Local Rule 37.2 provides that the Court shall not hear a discovery dispute unless the movant
+certifies that it has complied with the rule. The plain language of Local Rule 37.2 requires more
+than an exchange of emails. See BankDirect Capital Fin., LLC v. Capital Premium Fin., Inc., 343
+F. Supp. 3d 742, 743-44 (N.D. Ill. 2018) (collecting cases). The Court does not consider an
+unanswered email, where no face-to-face or telephonic conference was requested, to be in
+compliance with the local rule. Nor does a motion comply with the rule if it does not identify the
+time, manner and persons who participated in the Local Rule 37.2 conference. Nonetheless, in
+some cases, the Court may exercise its discretion in favor of deciding a discovery dispute where
+requiring Local Rule 37.2 compliance may be futile, or where doing so may be inefficient. See In
+re Fluidmaster, Inc., Water Connector Components Prod. Liab. Litig., No. 14 C 5696, 2018 WL
+505089, at *3 (N.D. Ill. Jan. 22, 2018) (internal citations and quotations omitted); Munive v. Town
+of Cicero, No. 12 C 5481, 2016 WL 8673072, at *1 (N.D. Ill. Oct. 14, 2016), report and
+recommendation adopted sub nom. Colon v. Town of Cicero, No. 12 C 5481, 2017 WL 164377
+(N.D. Ill. Jan. 17, 2017). But filing a motion not in compliance with Local Rule 37.2 risks having
+the motion denied without prejudice.
+Summary Judgment Motions
+The Court will decide summary judgment motions in matters before the magistrate judge on
+consent. Parties should be mindful of the legal standards under which federal summary judgment
+motions are decided per Rule 56. No party should undertake the expense and effort involved in
+filing a summary judgment, and in complying with the procedural requirements of these motions,
+without considering carefully whether discovery in the case supports a colorable argument that
+there is no genuine issue of material fact. For example, in any case turning on the resolution of
+factual disputes over the statements or conduct of the parties or others, courts will have difficulty
+granting summary judgment, and a Rule 56 motion may not be a productive use of the Court's time
+or the parties' resources. Moreover, some attorneys believe that even a losing summary judgment
+motion may be productive if it “educates the judge” for purposes of a later trial. The Court does
+not need to review meritless summary judgment motions to become “educated” about a case.
+In the event a litigant decides that a summary judgment motion is appropriate, the Court prefers
+strict compliance with Local Rules 56.1(a) and 56.1(b) in the briefing of all summary judgment
+motions. In addition, to assist the Court in reviewing the factual record submitted in connection
+with summary judgment motions, the Court prefers the following:
+e Acourtesy copy of the memorandum of law, depositions and other materials relied upon
+in support of the motion (as required by Local Rule 56.1(a)(1)-(3) or in opposition to the
+motion (as required by Local Rule 56.1(b)(1)-(3)) may be requested by court staff. If so,
+the courtesy copy of the compendium must be securely bound, must separately tab each
+document, and must contain an index identifying what document is contained under each
+tab. It must also have the CM/ECF header.
+e All statements of undisputed material facts offered by the moving party under Local Rule
+56.1(a)(3) or statements of additional facts offered by the opposing party under Local Rule
+56.1(b)(3)(C), must list the facts in short, numbered paragraphs that refrain from argument.
+Argument must be reserved for the moving party’s memorandum of law. Each numbered
+fact statement must contain a specific citation to affidavits, depositions or other materials
+that support the fact statement, as well as to the tab(s) in the compendium where those
+materials may be found. Failure to provide support for a statement of fact may result in that
+alleged fact being disregarded. Friend v. Valley View Cmty. Unit Sch. Dist. 365U, 789
+F.3d 707, 710-11 (7th Cir. 2015).
+e All responses to statements of undisputed material facts offered by the opposing party
+under Local Rule 56.1(b)(3)(B), or responses to statements of additional facts offered by
+the moving party under Local Rule 56.1(a), shall be in a format similar to that used in
+answering a complaint: that is, the response must repeat each numbered paragraph of the
+fact statement, and then immediately following each numbered statement must state
+whether the alleged fact is undisputed or disputed. As with the fact statements
+submitted under Local Rules 56.1(a)(3) and 56.1(b)(3)(C), the responses to those fact
+statements must refrain from argument. The significance or lack of significance of a
+disputed or undisputed fact may be argued in the respondent’s legal memorandum. If a
+particular fact is undisputed, nothing more should be said in the response. If a particular
+fact assertion is disputed in whole or in part, the response must state what part of the
+assertion is disputed and must contain a specific citation to the supporting affidavits,
+depositions or other materials as well as to the tab(s) in the compendium where those
+materials may be found. Failure to provide support for an alleged fact dispute may result
+in that fact being deemed admitted. Curtis v. Costco Wholesale Corp., 807 F.3d 215, 218-
+19 (7th Cir. 2015).
+e In accord with Local Rule 56.1, absent prior leave of Court, the Court prefers that the
+movant not file more than 80 separately numbered statements of undisputed material fact,
+and a party opposing a summary judgment motion should not file more than 40 separately
+numbered statements of additional facts under Local Rule 56.1(b)(3)(C). The Court
+reminds parties that the fact statements under Local Rule 56.1(a)(3) and Local Rule
+56.1(b)(3)(C) “shall consist of short numbered paragraphs.”
+e Motions to strike or to have Local Rule 56.1 statement of facts deemed admitted are
+disfavored. These concerns should be raised in the parties’ briefs.
+Privilege Logs
+Ifa party withholds otherwise discoverable information on the ground of privilege, the withholding
+party generally should provide a log of the documents withheld. See Fed. R. Civ. P. 26(b)(5)(A)
+and Advisory Committee Comments to 1993 Amendments. Any privilege log should be detailed
+enough to enable other parties to assess the applicability of the privilege asserted, and should
+include: (1) the name and capacity of each individual from whom or to whom a document and any
+attachments were sent (including which persons are lawyers); (2) the date of the document and any
+attachments; (3) the type of document; (4) the Bates numbers of the documents, (5) the nature of
+the privilege asserted; and (6) a description of the subject matter in sufficient detail to determine
+if legal advice was sought or revealed, or if the document constitutes work product. See RBS
+Citizens, N.A. v. Husain, 291 F.R.D. 209, 218 (N.D. Ill. 2013).
+The Court reminds the parties that the meet and confer requirements of Local Rule 37.2 apply to
+privilege disputes, just as they do to other discovery disputes. In addition, the Court wishes the
+parties to be aware that it understands the burdens and high costs associated with preparing detailed
+privilege logs in very complex cases in which discovery, and privileged materials, may be
+voluminous. The Court is open to a discussion with the parties about developing creative ways to
+reduce this burden or to streamline the preparation process. Parties should feel free to address these
+issues themselves in complex cases, or, if no resolution can be reached, to bring their proposals to
+the Court.
+The Court also is aware that attorneys may have different approaches to preparing privilege logs.
+They may tend to claim privilege whenever a document is to or from an attorney, but without
+sufficient attention to whether the communication related to the rendering of legal advice or
+services. They may have varying conceptions of the degree of detail needed in the log's description
+of the document over which they are asserting a privilege claim. Parties should be mindful that
+“Tt]oo many lawyers think that they can paint claims of privilege with a broad brush and sweat the
+details later. But some courts have been troubled with that approach, and counsel may face
+arguments that genuine privileges have been waived by asserting dubious ones. The Seventh
+Circuit has made clear that “blanket” waiver of privileges based on the technical inadequacy of a
+privilege log is generally disfavored, absent bad faith. See Am. Nat’l Bank & Trust Co. vy. Equitable
+Life Assurance Soc’y of U.S., 406 F.3d 867, 879 (7th Cir. 2005). Nonetheless, parties are advised
+to make their privilege log entries specific enough to allow the Court to determine whether the
+document contains a privileged communication and whether the confidentiality of that
+communication has been maintained. See David M. Greenwald, Michele L. Slachetka, & Caroline
+L. Meneau, Testimonial Privileges § 1.69 (Thomson Reuters 2025 ed.) (stating that a party
+asserting privilege may not meet its burden through “mere conclusory or ipse dixit assertions,” and
+that “sufficient information must be presented to establish that the privilege applies”). For further
+guidance on the views of Judge Fuentes on privilege log content, see Washtenaw County
+Employees’ Retirement Sys. v. Walgreen Co., et al., No. 15 C 3187, 2020 WL 3977944 (N.D. Ill.
+July 14, 2020) and Williams v. City of Chicago, No. 22 C 1084, 2023 WL 3387915, at *6 & n.7
+(N.D. Ill. May 11, 2023).
+Finally, the Court wishes to be sensitive to the costs involved in preparing detailed privilege logs
+in today’s era of electronic discovery, and the Court is open to creative, innovative approaches to
+reduce the costs and burdens of preparing privilege logs under the concept of Rule 26(b)(1)
+proportionality. See McDonald's Corp. v. Hiscox Dedicated Corp. Member, Ltd., No. 22 C 2682,
+2024 WL 6993660, at *2 (N.D. Ill. Nov. 22, 2024).
+The Sedona Conference's recent advice on balancing the burden of logging
+privilege claims against ensuring that requesting parties may evaluate the privilege
+claims suggests that courts and litigants look at the needs of the individual case in
+considering how the introduction of proportionality into Rule 26(b)(1)’s discovery
+scope (as amended in 2015) might counsel in favor of steps to address practical
+burdens associated with privilege logs.
+Id., citing The Sedona Conference, Commentary on Privilege Logs, 25 Sedona Conf. J. 221, 233-
+36 & n.17 (2024), and The Sedona Conference, The Sedona Principles, Third Edition: Best
+Practices, Recommendations & Principles for Addressing Electronic Document Production, 19
+Sedona Conf. J. 1 (2018).
+Matters Before the Magistrate Judge on Consent
+Judge Fuentes encourages parties to consent to his jurisdiction so that he may preside over the
+entirety of the case, including ruling on dispositive motions and presiding over any trial and the
+entry of a final, appealable judgment. Because Judge Fuentes does not handle felony criminal
+cases, he generally is able to accommodate the requests of counsel for particular (and firm) trial
+dates. Parties are encouraged to read 28 U.S.C. § 636 and Fed. R. Civ. P. 73 regarding trial by
+consent and discuss this option with their clients and opposing counsel. In addition, some parties
+who have settled their cases in settlement conferences with the Court have found that consent to
+the magistrate judge’s jurisdiction at that point might complete settlement finalization more
+quickly and efficiently.
+Civility
+Civility is important to the Court. The Seventh Circuit’s Standards for Professional Conduct are
+a starting point. All counsel are referred to those standards, and it is the Court’s aspiration that
+counsel will comply with them. Counsel should take care to treat all persons with courtesy and
+respect. The Court will do so as well. Further, out-of-town counsel are advised that they will be
+treated no differently than Illinois- or Chicago-based counsel. Counsel will not be “hometowned.”
+Professional Development of Attorneys
+The Court continues its practice of encouraging (but not requiring) the parties to foster the
+professional development of less experienced attorneys or attorney who may have unique
+experiences, character traits or qualities such as an ability to overcome adversity, including how
+race may have affected the person’s life, “be it through discrimination, inspiration, or otherwise,”
+Students for Fair Admissions, Inc. v. President and Fellows of Harvard College, 600 U.S. 181,
+143 S. Ct. 2141, 2176 (2023). Parties at their discretion may do so by permitting such attorneys a
+greater speaking role at motion hearings or settlement conferences, and in that event, the Court
+will permit more experienced attorneys to supervise to the full extent they wish. The Court’s
+experience has been that when parties and senior counsel have offered such attorneys these
+opportunities, the attorneys and their supervising counsel have delivered excellence and have
+furthered the Court’s goal of arriving at the correct result in every case.
+Artificial Intelligence
+The Court refers all counsel to the Illinois Supreme Court’s policy on artificial intelligence use
+effective January 1, 2025. The Court expects that no counsel will submit hallucinated authorities,
+and that all counsel will follow Rule 11 of the Federal Rules of Civil Procedure. The Court has
+gravitated toward the Illinois Supreme Court policy, as it is a product of bench-bar collaboration
+and should be known to practitioners in the state. The Court will continue to presume that the pre-
+existing Rule 11 certification is a representation by filers, as living, breathing, thinking human
+beings, that they themselves have read and analyzed all cited authorities to ensure that such
+authorities actually exist and that the filings comply with Rule 11(b)(2).
