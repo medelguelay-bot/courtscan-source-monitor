@@ -1,0 +1,898 @@
+Federal Register
+::
+Guidance on Use of Artificial Intelligence-Based Tools in Practice Before the United States Patent and Trademark Office
+Skip to Content
+Home
+Sections
+Money
+Environment
+World
+Science & Technology
+Business & Industry
+Health & Public Welfare
+Browse
+Agencies
+Topics (CFR Indexing Terms)
+Dates
+Public Inspection
+Presidential Documents
+Search
+Document Search
+Advanced Document Search
+Public Inspection Search
+FR Index
+Reader Aids
+Reader Aids Home
+Office of the Federal Register Announcements
+Using FederalRegister.Gov
+Understanding the Federal Register
+Recent Site Updates
+Federal Register & CFR Statistics
+Videos & Tutorials
+Developer Resources
+Government Policy and OFR Procedures
+My FR
+My Account
+My Clipboard
+My Comments
+My Subscriptions
+Sign In / Sign Up
+Site Feedback
+Search the Federal Register
+Legal Status
+This site displays a prototype of a “Web 2.0” version of the daily
+Federal Register. It is not an official legal edition of the Federal
+Register, and does not replace the official print version or the official
+electronic version on GPO’s govinfo.gov.
+The documents posted on this site are XML renditions of published Federal
+Register documents. Each document posted on the site includes a link to the
+corresponding official PDF file on govinfo.gov. This prototype edition of the
+daily Federal Register on FederalRegister.gov will remain an unofficial
+informational resource until the Administrative Committee of the Federal
+Register (ACFR) issues a regulation granting it official legal status.
+For complete information about, and access to, our official publications
+and services, go to
+About the Federal Register
+on NARA's archives.gov.
+The OFR/GPO partnership is committed to presenting accurate and reliable
+regulatory information on FederalRegister.gov with the objective of
+establishing the XML-based Federal Register as an ACFR-sanctioned
+publication in the future. While every effort has been made to ensure that
+the material on FederalRegister.gov is accurately displayed, consistent with
+the official SGML-based PDF version on govinfo.gov, those relying on it for
+legal research should verify their results against an official edition of
+the Federal Register. Until the ACFR grants it official status, the XML
+rendition of the daily Federal Register on FederalRegister.gov does not
+provide legal notice to the public or judicial notice to the courts.
+Legal Status
+Notice
+Enter a search term or FR citation e.g.
+88 FR 382
+30 FR 7878
+2024-13208
+USDA
+09/05/24
+RULE
+0503-AA39
+SORN
+Choosing an item from
+full text search results
+will bring you to those results. Pressing enter in the search box
+will also bring you to search results.
+Choosing an item from
+suggestions
+will bring you directly to the content.
+Background and more details are available in the
+Search & Navigation
+guide.
+Guidance on Use of Artificial Intelligence-Based Tools in Practice Before the United States Patent and Trademark Office
+A Notice by the Patent and Trademark Office on 04/11/2024
+Published Document: 2024-07629 (89 FR 25609)
+This document has been published in the Federal Register. Use the PDF linked in the document sidebar for the official electronic format.
+Published Document: 2024-07629 (89 FR 25609)
+Document Details
+Published Content - Document Details
+Agencies
+Department of Commerce
+Patent and Trademark Office
+Agency/Docket Number
+Docket No. PTO-P-2024-0013
+Document Citation
+89 FR 25609
+Document Number
+2024-07629
+Document Type
+Notice
+Pages
+25609-25617
+(9 pages)
+Publication Date
+04/11/2024
+Published Content - Document Details
+PDF
+Official Content
+View printed version (PDF)
+Official Content
+Document Details
+Published Content - Document Details
+Agencies
+Department of Commerce
+Patent and Trademark Office
+Agency/Docket Number
+Docket No. PTO-P-2024-0013
+Document Citation
+89 FR 25609
+Document Number
+2024-07629
+Document Type
+Notice
+Pages
+25609-25617
+(9 pages)
+Publication Date
+04/11/2024
+Published Content - Document Details
+Document Dates
+Published Content - Document Dates
+Dates Text
+This guidance on the use of AI in practicing before the USPTO is applicable as of April 11, 2024.
+Published Content - Document Dates
+Table of Contents
+Enhanced Content - Table of Contents
+This table of contents is a navigational tool, processed from the
+headings within the legal text of Federal Register documents.
+This repetition of headings to form internal navigation links
+has no substantive legal effect.
+AGENCY:
+ACTION:
+SUMMARY:
+DATES:
+FOR FURTHER INFORMATION CONTACT:
+SUPPLEMENTARY INFORMATION:
+I. Background
+II. The USPTO's Existing Rules and Policies
+A. Duty of Candor and Good Faith
+B. Signature Requirement and Corresponding Certifications
+C. Confidentiality of Information
+D. Foreign Filing Licenses and Export Regulations
+E. USPTO Electronic Systems' Policies
+F. Duties Owed to Clients
+III. Application of the Existing Rules as to the Use of AI, Including Generative AI, Before the USPTO
+A. The Use of Computer Tools for Document Drafting
+1. All Submissions and Correspondence With the USPTO
+2. Additional Examples in the Patent Context
+3. Additional Examples in the Trademark Context
+B. Filing Documents With the USPTO
+C. Accessing USPTO IT Systems
+D. Confidentiality and National Security Considerations
+E. Fraud and Intentional Misconduct
+IV. Conclusion
+Footnotes
+Enhanced Content - Table of Contents
+Public Comments
+Enhanced Content - Public Comments
+Comments are no longer being accepted.
+See DATES for details.
+Enhanced Content - Public Comments
+Regulations.gov Data
+Enhanced Content - Regulations.gov Data
+FederalRegister.gov retrieves relevant information about this document
+from Regulations.gov to provide users with additional context. This
+information is not part of the official Federal Register document.
+Guidance on Use of Artificial Intelligence-Based Tools in Practice Before the United States Patent and Trademark Office
+Docket ID
+PTO-P-2024-0013
+Supporting Documents
+No supporting documents available
+Enhanced Content - Regulations.gov Data
+Sharing
+Enhanced Content - Sharing
+Shorter Document URL
+https://www.federalregister.gov/d/2024-07629
+Email
+Email this document to a friend
+Enhanced Content - Sharing
+Print
+Enhanced Content - Print
+Print this document
+Enhanced Content - Print
+Document Statistics
+Enhanced Content - Document Statistics
+Document page views are updated periodically throughout the day and are
+cumulative counts for this document. Counts are subject to sampling,
+reprocessing and revision (up or down) throughout the day.
+Page views
+14,209
+as of
+11/06/2026 at 12:15 am EST
+Enhanced Content - Document Statistics
+Other Formats
+Enhanced Content - Other Formats
+This document is also available in the following formats:
+JSON
+Normalized attributes and metadata
+XML
+Original full text XML
+MODS
+Government Publishing Office metadata
+More information and documentation can be found in our
+developer tools pages.
+Enhanced Content - Other Formats
+Public Inspection
+Public Inspection
+This PDF is FR Doc. 2024-07629 as it appeared on Public Inspection on
+04/10/2024 at 8:45 am.
+It was viewed
+347
+times while on Public Inspection.
+If you are using public inspection listings for legal research, you
+should verify the contents of the documents against a final, official
+edition of the Federal Register. Only official editions of the
+Federal Register provide legal notice of publication to the public and judicial notice
+to the courts under 44 U.S.C. 1503 & 1507.
+Learn more here.
+Public Inspection
+Published Document: 2024-07629 (89 FR 25609)
+This document has been published in the Federal Register. Use the PDF linked in the document sidebar for the official electronic format.
+Document Headings
+Document headings vary by document type but may contain
+the following:
+the agency or agencies that issued and signed a document
+the number of the CFR title and the number of each part
+the document amends, proposes to amend, or is directly
+related to
+the agency docket number / agency internal file number
+the RIN which identifies each regulatory action listed in
+the Unified Agenda of Federal Regulatory and Deregulatory
+Actions
+See the
+Document Drafting Handbook
+for more details.
+Department of Commerce
+Patent and Trademark Office
+[Docket No. PTO-P-2024-0013]
+AGENCY:
+United States Patent and Trademark Office, Department of Commerce.
+ACTION:
+Notice.
+SUMMARY:
+The United States Patent and Trademark Office (USPTO) issues this guidance to inform practitioners and the public of the important issues that patent and trademark professionals, innovators, and entrepreneurs must navigate while using Artificial Intelligence (AI) in matters before the USPTO. The USPTO recognizes the possibility that AI will be used to prepare and prosecute patent and trademark applications, as well as other filings before the Office including filings submitted to the Patent Trial and Appeal Board (PTAB) and Trademark Trial and Appeal Board (TTAB). While the USPTO is committed to maximizing AI's benefits and seeing them distributed broadly across society, the USPTO recognizes the need, through technical mitigations and human governance, to cabin the risks arising from the use of AI in practice before the USPTO. At this time, based on the USPTO's engagement with stakeholders through the USPTO's AI and Emerging Technologies (ET) Partnership (AI/ET Partnership) and a review of existing rules, the USPTO has determined that existing rules protect the USPTO's ecosystem against such potential perils. This guidance reminds individuals involved in proceedings before the USPTO of the pertinent rules and policies, helps inform those same individuals of the risks associated with the use of AI systems, and provides suggestions to mitigate those risks. The USPTO will continue to engage with the public, including through the AI/ET Partnership, as the use of AI advances and evolves.
+DATES:
+This guidance on the use of AI in practicing before the USPTO is applicable as of April 11, 2024.
+FOR FURTHER INFORMATION CONTACT:
+For patent matters contact Matthew Sked, Senior Legal Advisor, at 571-272-7627 or Nalini Mummalaneni, Senior Legal Advisor, at 571-270-1647, both with the Office of Patent Legal Administration, Office of the Deputy Commissioner for Patents.
+For matters regarding the PTAB contact Michael W. Kim, Vice Chief Administrative Patent Judge, or Charles J. Boudreau, Lead Administrative Patent Judge, at 571-272-9797.
+For trademark matters contact Robert J. Lavache, Senior Trademark Legal Policy Advisor, Office of the Deputy Commissioner for Trademark Examination Policy, at 571-272-5881.
+For matters regarding the TTAB contact Cheryl A. Butler, Senior Counsel and Editor of the Trademark Board Manual of Procedure, at 571-272-4259.
+SUPPLEMENTARY INFORMATION:
+I. Background
+Recognizing that “[r]esponsible AI use has the potential to help solve urgent challenges while making our world more prosperous, productive, innovative, and secure,” while “[a]t the same time, irresponsible use could exacerbate societal harms such as fraud, discrimination, bias, and disinformation; displace and disempower workers; stifle competition; and pose risks to national security,” President Biden issued the Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence on October 30, 2023 (“Executive Order”).[1]
+The Executive Order calls upon the Federal Government to enact and enforce protections as to AI-related harms, including “in critical fields like healthcare, financial services, education, housing,
+law
+, and transportation” (emphasis added), while promoting responsible uses of AI.[2]
+This notice, which recognizes the ways in which the USPTO's existing protections address AI-related harms, is one of the USPTO's numerous efforts, such as the AI/ET Partnership and the Inventorship Guidance on AI-Assisted Inventions,[3]
+to address AI considerations at the intersection of innovation, creativity, and intellectual property (IP).
+As we see AI being increasingly integrated with and deployed into a variety of sectors including finance, manufacturing, healthcare, and transportation,[4]
+we also see a growth in the use of AI in the legal field and in practice before the Office. With the advent of large language models and
+( printed page 25610)
+generative AI, legal professionals and others who practice before the Office are currently exposed to AI-based solutions that can create content, author legal research memos, perform due diligence analysis, extract legal principles contained in court opinions, and assist in deposition preparation. The ability of AI to analyze massive amounts of data and find patterns that are undetectable to the human eye makes it a valuable asset in the toolkits of examiners, parties, and practitioners. For example, patent examiners are performing AI-enabled prior art searches using features like More Like This Document (MLTD) [5]
+and Similarity Search [6]
+in the Office's Patents End-to-End (PE2E) Search tool. Patent practitioners are increasingly relying on AI-based tools to research prior art, automate the patent application review process, and to gain insights into examiner behavior.
+These tools have the potential to lower the barriers and costs of practicing before the Office as well as helping law practitioners offer services to their clients with improved quality and efficiency. As the use of AI continues to grow in the IP community, however, it is essential to address the legal and ethical considerations that arise with the use of these technologies. Some of these considerations were discussed in a panel on practitioners' use of AI at the AI/ET Partnership event, “AI tools and data,” held at the USPTO on September 27, 2023.[7]
+Patent practitioners suggested that AI tools have the potential to make prior art searches, claim charting, and document reviews easier while acknowledging that human verification of the outputs of AI tools is necessary. They also discussed confidentiality and ethical issues that may be of concern when using such tools.
+Incomplete or inaccurate outputs by AI, which, when not thoroughly verified by parties and practitioners, can also result in critical misstatements and omissions. For example, legal briefs and motions, the preparation of which was assisted by AI, have included fictionalized citations and quotations, resulting in sanctions for the attorneys filing these briefs.[8]
+Other issues arise from seeking AI assistance by sharing sensitive and confidential client information to third-party AI systems, including those potentially located outside of the United States.[9]
+The legal community has recognized the need to identify and explore AI risks in legal proceedings. For example, in the 2023 Year-End Report on the Federal Judiciary, Chief Justice Roberts identified that AI has the potential to “increase access to key information for lawyers and non-lawyers alike” but comes with risks such as “invading privacy interests and dehumanizing the law.” [10]
+The American Bar Association (ABA) created the ABA Task Force on Law and Artificial Intelligence to provide the legal community with insights for developing and using AI in a trustworthy and responsible manner.[11]
+Several federal and state court judges have issued standing orders requiring, for example, certifications by filers that any court filings, or citations, assertions, or analysis therein, generated by AI are verified to be accurate.[12]
+Following the lead of these judges, courts are beginning to propose local rules to address such issues for all judges on those courts.[13]
+Recognizing the importance of these issues, on February 6, 2024, the USPTO Director issued guidance (“February 2024 Guidance”) to the PTAB and TTAB to remind those business units about the scope and applicability of existing rules.[14]
+Given the uncertainties faced by practitioners in the use of AI tools, the USPTO publishes this guidance to remind practitioners about existing rules and policies that may be relevant to the use of these tools, and to help educate practitioners on possible risks presented by the use of these tools so that practitioners can mitigate these risks. In the event of any conflict between the February 2024 Guidance and this notice, this notice controls.
+This guidance is not intended to provide an exhaustive list of possible rules, policies, or issues that may arise with use of AI in matters before the USPTO. As noted above, the USPTO has separately addressed the use of AI before the office when AI is used as part of the inventive process.[15]
+The USPTO continues to engage with stakeholders through the AI/ET Partnership to seek the public's views on various policy issues that uniquely affect the AI/ET community.[16]
+The USPTO will continue to study considerations raised by the use of AI within the IP community, including impacts on the integrity and accessibility of the IP system.
+This notice is organized as follows: Section II provides an overview of the USPTO's existing rules and policies. Section III describes how these existing rules and policies apply in the context of the use of AI tools in matters before the USPTO. Specifically, section III(A) discusses the use of AI systems in drafting documents for submission to the USPTO. Section III(B) addresses the filing of documents at the USPTO with the assistance of AI tools. Section III(C) discusses USPTO information technology (IT) systems and the appropriate use of AI tools in interacting with those systems. Finally, section III(D) raises confidentiality and national security concerns related to the use of AI systems.
+Disclaimer:
+This guidance does not constitute substantive rulemaking and does not have the force and effect of law. The guidance does not create any right or benefit, substantive or procedural, enforceable by any party against the USPTO. This guidance is not intended to announce any new USPTO practice or procedure and is meant to be consistent with current USPTO policy. However, if any earlier guidance from the USPTO, including any section of the current Manual of Patent Examining Procedure (MPEP), is inconsistent with the guidance set forth in this notice, USPTO personnel are to follow this
+( printed page 25611)
+guidance. This guidance will be incorporated into the MPEP in due course.
+II. The USPTO's Existing Rules and Policies
+The USPTO's rules and policies described in this guidance—including those meant to ensure full, fair and accurate disclosure to the USPTO and to protect clients of USPTO practitioners—apply broadly, regardless of any AI assistance in preparing submissions to the USPTO. These broadly applicable rules and policies help mitigate the risks of AI assistance and require practitioners and others to exercise special care when using AI as a tool in connection with USPTO practice.
+A. Duty of Candor and Good Faith
+Each individual associated with a proceeding at the USPTO (
+e.g.,
+patent and trademark examination, reexamination, appeal or other proceedings before the PTAB or TTAB) has a duty of candor and good faith in dealing with the Office. For practitioners, these duties are detailed in 37 CFR 11.303 and apply to practice before the USPTO including any USPTO tribunal. Furthermore, other rules may act cumulatively to § 11.303. In patent examination and reissue proceedings, for example, individuals owe the Office a duty of candor and good faith as detailed in 37 CFR 1.56(a), which states in part: “[e]ach individual associated with the filing and prosecution of a patent application has a duty of candor and good faith in dealing with the Office, which includes a duty to disclose to the Office all information known to that individual to be material to patentability as defined in this section.” This duty extends to all dealings these individuals have with the USPTO and is not limited to representations or dealings with a patent examiner.[17]
+Therefore, the duty of candor and good faith covers other interactions associated with a proceeding at the USPTO such as, without limitation, filing a petition to the USPTO Director or filing a response to a pre-examination notice from the Office of Patent Application Processing.
+Included within the duty of candor and good faith in patent proceedings is the duty of disclosure. The duty of disclosure requires that each individual identified in 37 CFR 1.56(c) disclose to the USPTO all information known to be material to patentability as defined in 37 CFR 1.56(b). While § 1.56(a) refers to the duty to disclose material information to the USPTO, the duty of candor and good faith is broader.[18]
+The rule states “no patent will be granted on an application in connection with which fraud on the Office was practiced or attempted or the duty of disclosure was violated through bad faith or intentional misconduct.” The duty of candor and good faith applies to positions taken by applicants or parties involving the claimed subject matter.[19]
+It also applies to errors that occur during the course of the proceeding. “If a party to a USPTO proceeding discovers that an earlier position taken in a submission to the USPTO or another Government agency was incorrect or inconsistent with other statements made by the party, the party must promptly correct the record.” [20]
+Under the duty of candor and good faith, any acts of fraud and intentional misconduct are not permitted.
+The duty of candor and good faith operates to achieve the important functions of safeguarding the integrity of proceedings before the USPTO and ensuring robust and reliable patents are issued. “The rules serve to remind individuals associated with the preparation and prosecution of patent applications of their duty of candor and good faith in their dealings with the Office, and will aid the Office in receiving, in a timely manner, the information it needs to carry out effective and efficient examination of patent applications.” [21]
+Further, the duty also provides for the efficient resolution of matters by permitting the USPTO to accept certain applicant statements as true without further investigation.[22]
+Those individuals subject to the duty of candor and good faith should exercise care to avoid any potential negative consequences.[23]
+The duty of candor and good faith in patent proceedings extends beyond
+ex parte
+patent examination and reissue proceedings. In reexamination proceedings and supplemental examination, 37 CFR 1.555(a) states: “Each individual associated with the patent owner in a reexamination proceeding has a duty of candor and good faith in dealing with the Office, which includes a duty to disclose to the Office all information known to that individual to be material to patentability in a reexamination proceeding.” When parties and individuals are involved in a proceeding before the PTAB, they are also subject to the duty of candor and good faith pursuant to 37 CFR 42.11. The duty of candor and good faith applies in patent term extension proceedings as well.[24]
+As the duty of candor and good faith applies to all conduct before the USPTO, the duty underlies all the discussions on the use of AI systems in matters before the USPTO throughout Section III. However, the duty is explicitly referenced in Section III(A). For example, this section explains that those involved in patent proceedings have a duty to disclose all information—including on the use of AI tools by inventors, parties, and practitioners—that is material to patentability.
+B. Signature Requirement and Corresponding Certifications
+Generally, all patent correspondence filed in the USPTO must bear a person's signature.[25]
+By including this signature, the individual inserting the signature or submitting the paper is certifying that the person's signature appearing on the document was actually inserted by that person.[26]
+In other words, a person, including a practitioner, must insert their own signature on the paper. “The requirement does not permit one person (
+e.g.,
+a secretary) to type in the signature
+( printed page 25612)
+of a second person (
+e.g.,
+a practitioner) even if the second person directs the first person to do so.” [27]
+Except for trademark correspondence that is required to be signed by the applicant, registrant or party to a proceeding, each piece of trademark correspondence filed in the Office by a trademark practitioner must bear a signature, personally signed or inserted by such practitioner.[28]
+This signature may be: (1) a handwritten signature personally signed in permanent ink by the person named as the signatory, or a true copy thereof, or (2) an electronic signature on correspondence filed on paper or through the USPTO's electronic filing systems that meets the requirements of 37 CFR 2.193(c) and is personally entered by the person named as the signatory.
+By signing or presenting a piece of correspondence,[29]
+the party is making a certification under 37 CFR 11.18(b).[30]
+That section is based upon and includes the same substantive requirements as Rule 11(b) of the Federal Rules of Civil Procedure (2007).[31]
+Under 37 CFR 11.18(b)(1), the party presenting the paper certifies that “[a]ll statements made therein of the party's own knowledge are true, all statements made therein on information and belief are believed to be true, and all statements made therein are made with the knowledge that whoever, in any matter within the jurisdiction of the Office, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or knowingly and willfully makes any false, fictitious, or fraudulent statements or representations, or knowingly and willfully makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be subject to the penalties set forth under 18 U.S.C. 1001 and any other applicable criminal statute, and violations of the provisions of this section may jeopardize the probative value of the paper.” In addition to the certification under 37 CFR 11.18(b)(1), 37 CFR 11.18(b)(2) imposes a duty of reasonable inquiry.[32]
+This duty ensures that “the paper is not being presented for any improper purpose, the legal contentions are warranted by law, the allegations and other factual contentions have evidentiary support, and the denials of factual contentions are warranted on the evidence.” [33]
+The existence and extent of this duty is based on the circumstances known to the party presenting the paper to the USPTO.[34]
+Failure to inquire when the circumstances warrant it could result in sanctions or other appropriate action.[35]
+As will be discussed in Section III(B), below, the signature requirement and corresponding certifications ensure that documents drafted with the assistance of AI systems have been reviewed by a person and that person believes everything in the document is true and not submitted for an improper purpose. This issue is more fully discussed in Section III(B).
+C. Confidentiality of Information
+Under 37 CFR 11.106(a), “[a] practitioner shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation, the disclosure is permitted by paragraph (b) of this section, or the disclosure is required by paragraph (c) of this section.” This rule requires practitioners to maintain the confidentiality of client information except in limited circumstances. This rule was amended in 2021 to bring this provision into alignment with the 2012 amendments to the ABA Model Rule 1.6.[36]
+In particular, 37 CFR 11.106(d) was added, which states: “[a] practitioner shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure of, or unauthorized access to, information relating to the representation of a client.” Therefore, practitioners must take steps to maintain the confidentiality of their clients' information including reasonable steps to prevent inadvertent and unauthorized disclosure. In addition, the USPTO Rules of Professional Conduct concerning conflicts of interest generally prohibit a practitioner from using information relating to the representation of a client (or a former client) to the disadvantage of that client.[37]
+Use of AI systems to perform prior art searches, application drafting, etc. may result in the inadvertent disclosure of client-sensitive or confidential information to third parties through the owners of these systems, causing harms to the client.
+In light of these considerations, those using AI systems in practicing before the USPTO, such as drafting applications, should be cognizant of the risks and take steps to ensure confidential information is not divulged as discussed in Section III(D).
+D. Foreign Filing Licenses and Export Regulations
+Patent practitioners must comply with foreign filing license requirements prior to filing any patent application in a foreign country or exporting technical data for purposes related to the preparation, filing or possible filing, and prosecution of a foreign application. In particular, under 37 CFR 5.11(a), “[a] license from the Commissioner for Patents under 35 U.S.C. 184 [38]
+is required before filing any application for patent . . . or for the registration of a utility model, industrial design, or model, in a foreign country or in a foreign or international intellectual property authority, . . . if the invention was made in the United States, and: (1) An application on the invention has been filed in the United States less than six months prior to the date on which
+( printed page 25613)
+the application is to be filed; or (2) No application on the invention has been filed in the United States.” Further, 37 CFR 5.11(b) provides that “[t]he license from the Commissioner . . . referred to in paragraph (a) . . . would also authorize the export of technical data abroad for purposes related to . . . [t]he preparation, filing or possible filing, and prosecution of a foreign application.” Under 37 CFR 5.11(c), “[w]here technical data in the form of a patent application, or in any form, are being exported for purposes related to the preparation, filing or possible filing and prosecution of a foreign application, without the license from the Commissioner for Patents referred to in paragraphs (a) or (b) of this section, or on an invention not made in the United States, the export regulations contained in 22 CFR parts 120 through 130 (International Traffic in Arms Regulations of the Department of State), 15 CFR parts 730 through 774 (Export Administration Regulations of the Bureau of Industry and Security, Department of Commerce), and 10 CFR part 810 (Assistance to Foreign Atomic Energy Activities Regulations of the Department of Energy) must be complied with unless a license is not required because a United States application was on file at the time of export for at least six months without a secrecy order under § 5.2 being placed thereon.”
+Practitioners are further reminded, however, that “[a] foreign filing license from the USPTO does not authorize the exporting of subject matter abroad for the preparation of patent applications to be filed in the United States.” [39]
+Rather, “the export of subject matter abroad pursuant to a license from the USPTO, such as a foreign filing license, is limited to purposes related to the filing of foreign patent applications,” and “[a]pplicants who are considering exporting subject matter abroad for the preparation of patent applications to be filed in the United States should contact the Bureau of Industry and Security (BIS) at the Department of Commerce for the appropriate clearances.” [40]
+“The BIS has promulgated the Export Administration Regulations (EAR) governing exports of dual-use commodities, software, and technology, including technical data, which are codified at 15 CFR parts 730 through 774.” [41]
+Release of controlled technology to a foreign person may be deemed an export. 15 CFR 734.13(b).[42]
+Practitioners must be mindful of these concerns and ensure data is not improperly exported when using AI systems as discussed in Section III(D).
+E. USPTO Electronic Systems' Policies
+In addition to the requirements set forth above, access to USPTO electronic systems is subject to a number of terms and conditions. Exceeding authorized access or violating those terms and conditions in connection with accessing USPTO electronic systems may result in criminal or civil liability under federal law (including the Computer Fraud and Abuse Act, 18 U.S.C. 1030) and/or state law. In addition, such conduct may result in penalties or sanctions administered by the USPTO.
+The USPTO's websites provide access to a rich collection of information and services including online filing for patents and trademarks, fee handling, and search. Some of these services may require the user to create and use a dedicated account. For example, users may use the USPTO patent electronic filing system, Patent Center, to electronically file patent correspondence or view the status of, and documents filed in or associated with, patent applications and proceedings, including appeals to the PTAB with respect to such applications. In order to take advantage of all the capabilities of Patent Center, a user must be a registered user by creating a
+USPTO.gov
+account and completing the Patent Electronic System Verification Form PTO-2042a including the Patent Electronic Subscriber agreement.[43]
+The
+USPTO.gov
+account is exclusive to an individual and it is not permitted to be shared with other users. Even support staff individuals who are sponsored by one or more practitioners must create and use their own individual
+USPTO.gov
+account. Likewise, users are required to have an active
+USPTO.gov
+account in order to access the USPTO's Patent Trial and Appeal Case Tracking System (P-TACTS) for filing documents in connection with interferences [44]
+and inter partes disputes [45]
+established under the Leahy-Smith America Invents Act (AIA), including inter partes review (IPR), transitional program for covered business method patents (CBM), post grant review (PGR), and derivation (DER) proceedings.[46]
+Similarly, trademark applicants and registrants are required to electronically file trademark correspondence through the trademark electronic filing systems. Users can view the status of, and documents filed in or associated with, trademark applications and registrations in the trademark electronic filing systems. In order to take advantage of all trademark electronic systems, a user must be a registered user by creating a
+USPTO.gov
+account and completing an online or paper-based verification including the Trademark Verified
+USPTO.gov
+Account Agreement.[47]
+The
+USPTO.gov
+account is exclusive to an individual and it is not permitted to be shared with other users.[48]
+Even support staff individuals who are sponsored by one or more practitioners must create and use their own individual
+USPTO.gov
+account.[49]
+Trademark applicants, registrants, and parties to a proceeding before the TTAB are required to file submissions and correspondence electronically, currently through Electronic System for Trademark Trials and Appeals (ESTTA). 37 CFR 2.126(a).[50]
+Additionally, the Terms of Use apply to all USPTO websites, applications, software, and services that are intended for public use on the
+USPTO.gov
+domain or USPTO-branded mobile applications and social media presences.[51]
+In other words, the Terms of Use are the policies that all users must abide by when accessing USPTO services. These Terms of Use prohibit the unauthorized access, actions, use, modification, or disclosure of the data contained in the USPTO system or in transit to/from the system.
+( printed page 25614)
+Further information on USPTO's electronic system policies and how they relate to the use of AI systems in filing documents and accessing USPTO systems can be found in Sections III(B) and (C).
+F. Duties Owed to Clients
+The USPTO Rules of Professional Conduct require that a practitioner provide competent and diligent representation to a client.[52]
+The USPTO adopted the competence and diligence rules in 2013 to correspond to ABA Model Rules 1.1 and 1.3, respectively, and guided practitioners to refer to the Comments and Annotations to the ABA Model Rules, as amended through August 2012, for useful information on how to interpret the equivalent USPTO Rules.[53]
+Under 37 CFR 11.101, a practitioner must have “the legal, scientific, and technical knowledge, skill, thoroughness and preparation reasonably necessary for the representation.” [54]
+Practitioners must keep abreast of the benefits and risks associated with any technology used to handle client matters before the USPTO.[55]
+The diligence requirement, which corresponds to ABA Model Rule 1.3, states that the practitioner shall act with reasonable diligence in representing a client.[56]
+In addition, 37 CFR 11.104 requires a practitioner to “reasonably consult with the client about the means by which the client's objectives are to be accomplished” and “explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.” A practitioner who supervises the work of other practitioners and non-practitioner assistants in representing a client is responsible for making reasonable efforts to ensure that the practitioners and non-practitioner assistants comply with the professional obligations of the practitioner or the USPTO Rules of Professional Conduct.[57]
+When using AI tools, practitioners must ensure they are not violating the duties owed to clients as highlighted in Section III(A). For example, practitioners must have the requisite legal, scientific, and technical knowledge to reasonably represent their client.
+III. Application of the Existing Rules as to the Use of AI, Including Generative AI, Before the USPTO
+As set forth above, parties and practitioners appearing or practicing before the USPTO (including the PTAB and TTAB), or accessing USPTO electronic resources, are subject to a number of conditions and obligations. Those conditions and obligations readily apply to situations in which the party or practitioner uses AI as a tool, as set forth in the examples below.
+A. The Use of Computer Tools for Document Drafting
+For years, computer tools have been ubiquitous in document drafting. Word processing software with features such as spelling and grammar check are commonplace in most industries. More recently, word processing software and other computer tools have begun adopting generative AI features that can develop a written document with much less human involvement. For example, recent tools directed to the IP industry include the ability to draft technical specifications, generate responses to Office actions, write and respond to briefs, and even draft patent claims.
+The capabilities of these tools continue to grow, and there is no prohibition against using these computer tools in drafting documents for submission to the USPTO. Nor is there a general obligation to disclose to the USPTO the use of such tools.[58]
+However, and especially absent such an obligation, applicants, registrants, practitioners, parties to proceedings, and others submitting papers to the USPTO are reminded of the related USPTO policies and duties to the Office and clients (if applicable) when using these computer tools. These policies and duties apply in a variety of exemplary contexts.
+1. All Submissions and Correspondence With the USPTO
+As explained above, nearly all forms of correspondence with the USPTO must be signed. This includes documents that were drafted entirely by AI tools or drafted with the assistance of AI tools. By presenting to the Office (whether by signing, filing, submitting, or later advocating) any paper, a party (
+i.e.,
+the person signing, filing, submitting, or later advocating for the paper) certifies under 37 CFR 11.18(b) that all statements to the party's own knowledge are true and that the party performed an inquiry reasonable under the circumstances. In order to obtain the knowledge necessary to make these certifications, the party presenting the paper must have reviewed and verified the paper and its contents.
+Accordingly, any paper submitted to the USPTO must be reviewed by the party or parties presenting the paper. Those parties are responsible for the contents therein. Simply relying on the accuracy of an AI tool is not a reasonable inquiry.[59]
+Therefore, if an AI tool is used in drafting or editing a document, the party must still review its contents and ensure the paper is in accordance with the certifications being made. For example, given the potential for generative AI systems to omit, misstate, or even “hallucinate” [60]
+or “confabulate” information, the party or parties presenting the paper must ensure that all statements in the paper are true to their own knowledge and made based on information that is believed to be true. Additionally, the party or parties should also perform an inquiry reasonable under the circumstances confirming all facts presented in the paper have or are likely to have evidentiary support and confirming the accuracy of all citations to case law and other references. This review must also ensure that all arguments and legal contentions are warranted by existing law, a nonfrivolous argument for the extension of existing law, or the establishment of new law. For example, if an AI system is used to draft a portion of a response to an examiner Office action, the party should review the response, including checking the accuracy of the citations and ensuring the arguments are legally warranted. Further, practitioners and others involved in a matter before the USPTO may be required to disclose certain known facts to the USPTO under their duty of candor and good faith. For example, in patents and patent applications, all patent claims must have a significant contribution by a human inventor. Thus, if an AI system is used to draft patent claims that are submitted for examination, but an individual listed in 37 CFR 1.56(c) has knowledge that one or more of the claims did not have a significant contribution by a human inventor, that
+( printed page 25615)
+information must be disclosed to the USPTO.[61]
+Upon review of the document drafted with the assistance of an AI tool, any errors or omissions in the document must be corrected. Filing a paper with the USPTO that includes erroneous facts, arguments, or authorities would not be in compliance with 37 CFR 11.18(b). Similarly, filing a paper with known material omissions in not accordance with the duty of candor and good faith. Violations of 37 CFR 11.18 could include striking the offending paper, referring the practitioner's conduct to the Director of the Office of Enrollment and Discipline, or terminating the proceedings in the Office.[62]
+Additionally, practitioners are prohibited under 37 CFR 11.301 [63]
+from bringing or defending a proceeding, or asserting or controverting an issue therein, unless there is a basis in law or fact for doing so.[64]
+While those parties presenting a paper to the USPTO are under a duty to review the information in the paper and correct any errors, there is not presently a general duty to inform the USPTO that an AI tool was used in the drafting of the paper unless specifically requested by the USPTO.[65]
+However, practitioners must competently represent their clients.[66]
+That is, they must have the requisite legal, scientific, and technical knowledge to reasonably represent their client.
+In addition, under 37 CFR 11.104(a)(2), practitioners must reasonably consult with the client about the means by which their clients' objectives are to be accomplished.[67]
+2. Additional Examples in the Patent Context
+While there is no per se requirement to notify the USPTO when AI tools are used in the invention creation process or practicing before the USPTO, applicants and practitioners should be mindful of their duty of disclosure. This is, if the use of an AI tool is material to patentability as defined in 37 CFR 1.56(b), the use of such AI tool must be disclosed to the USPTO. For example, as discussed in more detail in the Inventorship Guidance for AI-Assisted Inventions, material information could include evidence that a named inventor did not significantly contribute to the invention because the person's purported contributions were made by an AI system.[68]
+This could occur where an AI system assists in the drafting of the patent application and introduces alternative embodiments which the inventor(s) did not conceive and applicant seeks to patent. If there is a question as to whether there was at least one named inventor who significantly contributed to a claimed invention developed with the assistance of AI, information regarding the interaction with the AI system (
+e.g.,
+the inputs/outputs of the AI system) could be material and, if so, should be submitted to the USPTO.[69]
+Practitioners are also under a duty to refrain from filing or prosecuting patent claims that are known to be unpatentable. Therefore, in situations where an AI tool is used to draft patent claims, the practitioner is under a duty to modify those claims as needed to present them in patentable form before submitting them to the USPTO. In situations where the specification and/or drawings of the patent application are drafted using AI tools, practitioners need to take extra care to verify the technical accuracy of the documents and compliance with 35 U.S.C. 112. Also, when AI tools are used to produce or draft prophetic examples, appropriate care should be taken to assist the readers in differentiating these examples from actual working examples.[70]
+This should be done before initial filing with the USPTO because amending the specification and/or drawings after the initial submission may constitute new matter.[71]
+Care should be taken to ensure that the disclosures of foreign or international patent applications drafted using AI tools, to which the U.S. patent application claims priority, are technically accurate to avoid loss of priority due to the filing of amendments to correct technical errors in the U.S. application.
+When AI systems are relied upon to draft or modify claims, such drafts or changes could impact inventorship or patentability (
+e.g.,35 U.S.C. 112(a)). For example, when AI makes contributions to drafting portions of the specification and/or claims (
+e.g.,
+introducing alternate embodiments not contemplated by the inventor(s)), it is appropriate to assess whether the contributions made by natural persons rise to the level of inventorship, in accordance with the law and recent USPTO guidance.[72]
+In particular, each named inventor must have significantly contributed to a claimed invention of the application as described by the
+Pannu
+factors.[73]
+Therefore, practitioners should carefully reevaluate that the appropriate inventors are listed on the patent application. It is particularly important for a practitioner to review applications prepared with the assistance of AI, before filing, to see that information is not incorrectly or incompletely characterized.
+AI systems could also be used in the submission of evidence of patentability or unpatentability (
+e.g.,
+evidence of secondary considerations). Though AI may be used to identify evidence or even draft affidavits, petitions, responses to Office actions, etc., practitioners are required to verify the accuracy of factual assertions, both technical and legal, and ensure that all documents, including those prepared with the assistance of AI, do not introduce inaccurate statements and evidence into the record, either inadvertently or intentionally, or omit information that is material to patentability.
+Additionally, AI may be used to automatically populate the USPTO's PTO/SB/08 form (Information Disclosure Statement (IDS) form) with citations for submission to the USPTO, and may be used to collect prior art references in the first place.[74]
+While AI could be attractive to some patent applicants and practitioners, the unchecked use of AI poses the danger of increasing the number and size of IDS submissions to the USPTO, which could
+( printed page 25616)
+burden the Office with large numbers of cumulative and irrelevant submissions. First, 37 CFR 1.4(d) requires a natural person to personally sign or insert their signature on the IDS. By signing, that person is certifying that they have performed a reasonable inquiry—including not just reviewing the IDS form but reviewing each piece of prior art listed on the form—and determined the paper is compliant with 37 CFR 11.18(b). Regardless of where prior art is found, submitting an IDS without reviewing the contents may be a violation of 37 CFR 11.18(b). After the contents have been reviewed, clearly irrelevant and marginally pertinent cumulative information to the instant proceeding should be removed to avoid violating 37 CFR 11.18 by overburdening the examiner with a large amount of irrelevant information.[75]
+Including such information in an IDS could be construed as a paper presented for an improper purpose because it could “cause unnecessary delay or needless increase in the cost of any proceeding before the Office.” [76]
+Similarly, third-party preissuance submissions under 37 CFR 1.290 must also be signed by a natural person and, therefore, implicate the certifications under 37 CFR 11.18(b).
+The duty of disclosure applies to the individuals identified in 37 CFR 1.56(c). This duty cannot be transferred to another person or a computer system such as an AI tool. Therefore, it is the § 1.56(c) individuals who must ensure that all material information is submitted to the USPTO. Therefore, IDSs should also be reviewed to ensure that all material information is disclosed to prevent material information from being unknowingly omitted.
+3. Additional Examples in the Trademark Context
+Trademark and TTAB submissions generated or assisted by AI must be carefully reviewed prior to filing to ensure that the facts and statements provided are true and have appropriate evidentiary support, consistent with the requirements of 37 CFR 11.18(b). This includes any information or evidence provided in trademark applications, registration maintenance filings, and TTAB proceedings, as well as legal arguments and citations made in response to refusals and requirements in Office actions or in briefs before the TTAB, whether in appeals or trial cases. Particular care should be taken to avoid submitting any AI-generated specimens, which do not show actual use of the trademark in commerce, or any other evidence created by AI that does not actually exist in the marketplace. In addition, AI-generated material that misstates facts or law, includes irrelevant material, or includes unnecessarily cumulative material, could be construed as a paper presented for an improper purpose because it could “cause unnecessary delay or needless increase in the cost of any proceeding before the Office.” [77]
+B. Filing Documents With the USPTO
+Beyond assisting with the preparation of documents, AI tools could be used to assist or automate the mechanical aspects of filing documents with the USPTO. For example, these tools could potentially autocomplete USPTO forms, access information on USPTO websites, and upload documents and other information to USPTO servers. Care should be taken by persons using such tools to ensure USPTO rules and policies are not violated.
+As previously explained, nearly all forms of correspondence filed with the USPTO must bear a signature.[78]
+This must be the signature of a “person.” [79]
+It would not be acceptable for the correspondence to have the signature of an AI tool or other non-natural person.[80]
+The signer must insert their signature in accordance with 37 CFR 1.4(d) and 2.193(c).[81]
+The signer of the document cannot delegate this act to another person or entity. Thus, it is not compliant with the rules to have the AI tool apply the signature of a person without being personally entered by that person.[82]
+This requirement ensures that natural persons are overseeing the submissions to the USPTO and ensuring they are compliant with USPTO rules and policies.
+Another issue practitioners and others should consider when using AI tools to submit papers to the USPTO is the USPTO's policies regarding electronic filing, websites, and other services. For example, in order to submit papers to the USPTO through the Patent Center, Trademark Electronic Application System (TEAS), P-TACTS, or other USPTO electronic systems, a user should obtain a
+USPTO.gov
+account.[83]
+Because obtaining a
+USPTO.gov
+account requires individual agreement to the Terms of Use for USPTO websites, the USPTO Patent Electronic System Subscriber Agreement (as applicable), and the Trademark Verified
+USPTO.gov
+Account Agreement (as applicable),
+USPTO.gov
+accounts are limited to natural persons and cannot be obtained by non-natural persons. Therefore, AI systems may not obtain a
+USPTO.gov
+account. Further, practitioners may not sponsor AI tools as a support staff individual to obtain an account.
+C. Accessing USPTO IT Systems
+While AI tools have the capabilities to access and interact with USPTO IT systems, attention should be paid to ensure the use of these tools does not run afoul of federal and state law, and USPTO regulations and policies. One important policy to note is the requirement that users must not file documents or access information for which they do not have authorization.[84]
+In order to be authorized, a user must be the applicant, registrant, party to a proceeding, inventor, third party (who may submit some papers such as third-party submissions via a dedicated interface), a practitioner of record, a practitioner acting in representative capacity pursuant to 37 CFR 1.34, or a sponsored support staff individual.[85]
+Further, in addition to being authorized, only registered users may file follow-on documents in applications. An AI system or tool is not considered a “user” for filing and/or accessing documents via the USPTO's electronic filing systems, and as such, cannot obtain a
+USPTO.gov
+account. If a person is using a computer tool, including an AI system, to assist in submitting documentation to the USPTO, that person is responsible for ensuring that computer tool does not exceed
+( printed page 25617)
+authorized access, including submitting or accessing papers in an application that the person does not have authorization to access. Violations of the Legal Framework for Patent Electronic System, Trademark Verified
+USPTO.gov
+Account Agreement, Terms of Use for USPTO websites, or other applicable policies may lead to revocation of the user's
+USPTO.gov
+account, in addition to criminal, civil, and/or administrative action and penalties as previously described.[86]
+Users should also be extremely careful when attempting to data mine information from USPTO databases. Using computer tools, including AI systems, in a manner that generates unusually high numbers of database accesses violates the Terms of Use for USPTO websites, and users using tools in this way will be denied access to USPTO servers without notice and could be subject to applicable state criminal and civil laws.[87]
+Instead, users should consider using the USPTO's bulk data products for permitted and appropriate data mining efforts.[88]
+D. Confidentiality and National Security Considerations
+Use of AI in practice before the USPTO can result in the inadvertent disclosure of client-sensitive or confidential information, including highly-sensitive technical information, to third parties. This can happen, for example, when aspects of an invention are input into AI systems to perform prior art searches or generate drafts of specification, claims, or responses to Office actions. AI systems may retain the information that is entered by users. This information can be used in a variety of ways by the owner of the AI system including using the data to further train its AI models or providing the data to third parties in breach of practitioners' confidentiality obligations to their clients under,
+inter alia,37 CFR 11.106. If confidential information is used to train AI, that confidential information or some parts of it may filter into outputs from the AI system provided to others.
+When practitioners rely on the services of a third party to develop a proprietary AI tool, store client data on third-party storage, or purchase a commercially available AI tool, practitioners must be especially vigilant to ensure that confidentiality of client data is maintained. Practitioners who supervise the work of other practitioners and non-practitioner assistants must ensure that the practitioners and staff under their supervision comply with the USPTO Rules of Professional Conduct when relying on AI tools and/or AI-related third party services.[89]
+Such disclosures can also implicate national security, export control, and foreign filing license issues.[90]
+Specifically, practitioners must be mindful of the possibility that AI tools may utilize servers located outside the United States, raising the likelihood that any data entered into such tools may be exported outside of the United States, potentially in violation of existing export administration and national security regulations or secrecy orders. Even if the servers are located within the United States, certain activities related to the use of AI systems hosted by these servers by non-U.S. persons may be deemed an export subject to these regulations.[91]
+Moreover, AI system developers or maintainers may suffer data breaches, further subjecting user data to disclosure risks. Therefore, before using these AI tools, it is imperative for practitioners to understand an AI tool's terms of use, privacy policies, and cybersecurity practices.
+E. Fraud and Intentional Misconduct
+The USPTO does not tolerate fraud or intentional misconduct in any manner in a proceeding before the Office or in connection with accessing USPTO IT systems. As explained above, all individuals associated with a proceeding before the USPTO have a duty of candor and good faith. The duty extends not only to the personal actions of these individuals, but also to the actions these individuals take with any automated tools, including AI tools. Additionally, the use of AI tools on USPTO websites for the “[u]nauthorized access, actions, use, modification, or disclosure of the data contained herein or in transit to/from [USPTO web systems] constitutes a violation of the Computer Fraud and Abuse Act.” [92]
+The USPTO monitors network traffic to identify such behaviors. As previously discussed, violators are subject to criminal, civil, and/or administrative action and penalties.
+IV. Conclusion
+This guidance on the use of AI Before the Office is not meant to be exhaustive. Those appearing before the USPTO or accessing its systems are reminded to comply with the laws, regulations, precedent, and guidance in force at the time of their dealings with the USPTO.
+Katherine K. Vidal,
+Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
+Footnotes
+1.
+Executive Order 14110, 88 FR 75191 (November 1, 2023).
+Back to Citation
+2.
+Id
+at 75193.
+Back to Citation
+3.
+Events for the Artificial Intelligence and Emerging Technologies Partnership, 87 FR 34669 (June 7, 2022); Inventorship Guidance for AI-Assisted Inventions, 89 FR 10043 (February 13, 2024).
+Back to Citation
+4.
+“Inventing AI—Tracing the diffusion of artificial intelligence with U.S. patents,” (October 2020). Available at
+www.uspto.gov/​sites/​default/​files/​documents/​OCE-DH-AI.pdf.
+Back to Citation
+5.
+See
+“New PE2E Search Tool Using AI Search Features,” 1494 OG 251 (January 11, 2022).
+Back to Citation
+6.
+See
+“New Artificial Intelligence Functionality in PE2E Search,” 1504 OG 359 (November 15, 2022).
+Back to Citation
+7.
+“AI tools and data” AI/ET Partnership Series #4, September 2023 (recording available at
+https://www.uspto.gov/​about-us/​events/​aiet-partnership-series-4-ai-tools-and-data).
+Back to Citation
+8.
+See
+OPINION AND ORDER ON SANCTIONS at 2,
+Mata
+v.
+Avianca Inc.,
+Case No. 22-CV-1461 (S.D.N.Y., June 22, 2023) (lawyers sanctioned for filing a brief that included non-existent citations and quotations that were output by a generative AI system).
+Back to Citation
+9.
+See
+Panel Discussion on Practitioners' Evaluation and Use of AI, “AI tools and data” AI/ET Partnership Series #4, September 2023 (recording available at
+https://www.uspto.gov/​about-us/​events/​aiet-partnership-series-4-ai-tools-and-data).
+Back to Citation
+10.
+2023 Year-End Report on the Federal Judiciary at 5, available at
+www.supremecourt.gov/​publicinfo/​year-end/​2023year-endreport.pdf
+(Dec. 31. 2023).
+Back to Citation
+11.
+See
+ABA forms task force to study impact of artificial intelligence on the legal profession, American Bar Ass'n (Aug. 28, 2023),
+https://www.americanbar.org/​news/​abanews/​aba-news-archives/​2023/​08/​aba-task-force-impact-of-ai/​.
+Back to Citation
+12.
+See, e.g.,
+Standing Order Re: Artificial Intelligence (“AI”) in Cases Assigned to Judge Baylson (E.D. Pa. June 6, 2023), available at
+www.paed.uscourts.gov/​sites/​paed/​files/​documents/​locrules/​standord/​Standing%20Order%20Re%20Artificial%20Intelligence%206.6.pdf).
+Back to Citation
+13.
+Notice of Proposed Amendment to 5th Cir. R. 32.3, available at
+www.ca5.uscourts.gov/​docs/​default-source/​default-document-library/​public-comment-local-rule-32-3-and-form-6.
+Back to Citation
+14.
+The February 2024 Guidance is available at
+www.uspto.gov/​sites/​default/​files/​documents/​directorguidance-aiuse-legalproceedings.pdf.
+Back to Citation
+15.
+Inventorship Guidance for AI-Assisted Inventions, 89 FR 10043.
+Back to Citation
+16.
+www.uspto.gov/​initiatives/​artificial-intelligence/​ai-and-emerging-technology-partnership-engagement-and-events.
+For more information on the USPTO's work at the intersection of AI and IP, see
+https://www.uspto.gov/​blog/​director/​entry/​ai-and-inventorship-guidance-incentivizing?​utm_​campaign=​subscriptioncenter&​utm_​content=​&​utm_​medium=​email&​utm_​name=​&​utm_​source=​govdelivery&​utm_​term=​.
+Back to Citation
+17.
+Manual of Patent Examining Procedure (9th Edition, rev. 07.2022, February 2023) (MPEP) 2001.03.
+Back to Citation
+18.
+MPEP 2001.04.
+Back to Citation
+19.
+Id.
+Back to Citation
+20.
+Id
+(citing
+In re Tendler,
+Proceeding No. D2013-17 (USPTO Jan. 1, 2014) (suspending a practitioner for four years for failure to correct the written record after learning of inaccuracies in a declaration the practitioner had filed));
+see also
+MPEP 2011 (“When an error is discovered, applicant should take steps to ensure that the error is corrected as soon as possible.”).
+Back to Citation
+21.
+Id.
+Back to Citation
+22.
+See, e.g.,
+MPEP 711.03(C) (“The Office usually relies upon the applicant's duty of candor and good faith and accepts the statement that `the entire delay in filing the required reply from the due date for the reply until the filing of a grantable petition pursuant to 37 CFR 1.137 was unintentional' without requiring further information in the vast majority of petitions under 37 CFR 1.137.”); MPEP 717.02(b) (“The applicant(s) or the representative(s) of record have the best knowledge of the ownership of their application(s) and reference(s), and their statement of such is sufficient because of their paramount obligation of candor and good faith to the USPTO.”).
+Back to Citation
+23.
+See
+MPEP 2016.
+Back to Citation
+24.
+37 CFR 1.765(a) (“A duty of candor and good faith toward the Patent and Trademark Office and the Secretary of Health and Human Services or the Secretary of Agriculture rests on the patent owner or its agent, on each attorney or agent who represents the patent owner and on every other individual who is substantively involved on behalf of the patent owner in a patent term extension proceeding.”).
+Back to Citation
+25.
+See 37 CFR 11.18(a);
+see also37 CFR 1.33(b); 37 CFR 42.6(a)(4) (“
+Signature; identification.
+Documents must be signed in accordance with §§ 1.33 and 11.18(a) of this title, and should be identified by the trial number (where known).”); 37 CFR 42.11(b) (“Every petition, response, written motion, and other paper filed in a [PTAB AIA Trial] proceeding must comply with the signature requirements set forth in § 11.18(a) of this chapter.”). Certain patent-related correspondence, including a notice of appeal to the PTAB, are not subject to these signature requirements.
+See, e.g.,37 CFR 41.31(b).
+Back to Citation
+26.
+37 CFR 1.4(d)(5)(ii).
+Back to Citation
+27.
+MPEP 502.02(subsection II).
+Back to Citation
+28.
+37 CFR 11.18(a).
+Back to Citation
+29.
+Presenting a correspondence includes signing, filing, submitting, or later advocating. It is noted that while many of the rules of professional conduct are directed at practitioners, 37 CFR 11.18 applies to anyone presenting a paper, including
+pro se
+applicants.
+Back to Citation
+30.
+37 CFR 1.4(d)(5)(i);
+see also37 CFR 42.11(c) (“By presenting to the Board a petition, response, written motion, or other paper—whether by signing, filing, submitting, or later advocating it—an attorney, registered practitioner, or unrepresented party attests to compliance with the certification requirements under § 11.18(b)(2) of this chapter.”).
+Back to Citation
+31.
+MPEP 410.
+Back to Citation
+32.
+37 CFR 11.18(b)(2) (“To the best of the party's knowledge, information and belief, formed after an inquiry reasonable under the circumstances, (i) The paper is not being presented for any improper purpose, such as to harass someone or to cause unnecessary delay or needless increase in the cost of any proceeding before the Office; (ii) The other legal contentions therein are warranted by existing law or by a nonfrivolous argument for the extension, modification, or reversal of existing law or the establishment of new law; (iii) The allegations and other factual contentions have evidentiary support or, if specifically so identified, are likely to have evidentiary support after a reasonable opportunity for further investigation or discovery; and (iv) The denials of factual contentions are warranted on the evidence, or if specifically so identified, are reasonably based on a lack of information or belief.”).
+Back to Citation
+33.
+MPEP 2002.02.
+Back to Citation
+34.
+MPEP 2001.06(e).
+Back to Citation
+35.
+See 37 CFR 11.18(c); 37 CFR 42.12.
+Back to Citation
+36.
+See
+“Changes to Representation of Others Before the United States Patent and Trademark Office,” 86 FR 28442 (May 26, 2021).
+Back to Citation
+37.
+See 37 CFR 11.107-109.
+Back to Citation
+38.
+See 35 U.S.C. 184(a) (“Filing in Foreign Country. Except when authorized by a license obtained from the Commissioner of Patents a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an order issued by the Commissioner of Patents pursuant to section 181 without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and the application does not disclose an invention within the scope of section 181.”).
+Back to Citation
+39.
+Scope of Foreign Filing Licenses, 73 FR 42781 (July 23, 2008) (citing MPEP 140 (8th ed., Rev. 5, Aug. 2006));
+See also
+MPEP 140 (“Note that the export of subject matter abroad for purposes not related to foreign filing of a patent application or a registration of an industrial design, such as preparing an application in a foreign country for subsequent filing in the USPTO is not covered by any license from the USPTO.”).
+Back to Citation
+40.
+Id.
+Back to Citation
+41.
+Id.
+Back to Citation
+42.
+See, e.g.,
+“Legal Framework for Patent Electronic System” at 28 (October 23, 2019) (available at
+www.uspto.gov/​sites/​default/​files/​documents/​2019LegalFrameworkPES.pdf) (“A sponsoring practitioner must take reasonable steps to ensure compliance by each sponsored practitioner support person with . . . the restrictions on the export (including deemed export) of technology and software included in patent applications in section 7. If a sponsored practitioner support person is not a U.S. citizen, their access to the technology and software constitutes an export.”).
+Back to Citation
+43.
+See MPEP 502.05.
+Back to Citation
+44.
+https://ptacts.uspto.gov/​interferences/​ui/​home.
+Back to Citation
+45.
+https://ptacts.uspto.gov/​ptacts/​ui/​home.
+Back to Citation
+46.
+See https://www.uspto.gov/​patents/​ptab/​patent-trial-and-appeal-case-tracking-system-p-tacts.
+Back to Citation
+47.
+“United States Patent and Trademark Office Trademark Verified
+USPTO.gov
+Account Agreement” (October 2023) (available at
+https://www.uspto.gov/​sites/​default/​files/​documents/​TM-verified-account-agreement.pdf).
+Back to Citation
+48.
+Id.
+Back to Citation
+49.
+Id.
+Back to Citation
+50.
+See also
+TTAB Manual of Procedure (TBMP) section 110.01.
+Back to Citation
+51.
+Terms of Use for USPTO websites (available at
+https://www.uspto.gov/​terms-use-uspto-websites).
+Back to Citation
+52.
+See 37 CFR 11.101, 11.103.
+Back to Citation
+53.
+See
+Changes to Representation of Others Before The United States Patent and Trademark Office, 78 FR 28445 (2013).
+Back to Citation
+54.
+37 CFR 11.101.
+Back to Citation
+55.
+See
+Model Code of Prof'l Conduct r. 1.1, cmt. (Am. Bar Ass'n 2012) (“To maintain the requisite knowledge and skill, a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with relevant technology . . .”).
+Back to Citation
+56.
+See 37 CFR 11.103.
+Back to Citation
+57.
+See 37 CFR 11.501-503.
+Back to Citation
+58.
+A duty to disclose the use of such tools is implicated when the use rises to the level of materiality under 37 CFR 1.56(b).
+Back to Citation
+59.
+See
+Opinion and Order on Sanctions at 2,
+Mata
+v.
+Avianca Inc.,
+Case No. 22-CV-1461 (S.D.N.Y., July 7, 2023).
+Back to Citation
+60.
+An AI hallucination, or sometimes referred to as “confabulation,” is a phenomenon where the AI tool outputs inaccurate or nonexistent information.
+Back to Citation
+61.
+37 CFR 1.56(a);
+See also
+Inventorship Guidance for AI-Assisted Inventions, 89 FR at 10049.
+Back to Citation
+62.
+See 37 CFR 11.18(c).
+Back to Citation
+63.
+“A practitioner shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good-faith argument for an extension, modification or reversal of existing law.”
+Back to Citation
+64.
+See also37 CFR 11.303(a).
+Back to Citation
+65.
+See, e.g.,37 CFR 1.105, 11.52.
+Back to Citation
+66.
+See 37 CFR 11.101.
+Back to Citation
+67.
+37 CFR 11.102(a) (“Subject to paragraphs (c) and (d) of this section, a practitioner shall abide by a client's decisions concerning the objectives of representation and, as required by § 11.104, shall consult with the client as to the means by which they are to be pursued. A practitioner may take such action on behalf of the client as is impliedly authorized to carry out the representation. A practitioner shall abide by a client's decision whether to settle a matter.”).
+Back to Citation
+68.
+Inventorship Guidance for AI-Assisted Inventions, 89 FR at 10049.
+Back to Citation
+69.
+MPEP 2004 (citing
+U.S. Industries
+v.
+Norton Co.,
+210 USPQ 94, 107 (N.D. N.Y. 1980)) (“[i]n short, the question of relevancy
+in close cases,
+should be left to the examiner and not the applicant.”). (emphasis added)
+Back to Citation
+70.
+See
+MPEP 2164.02 (“The claims should be drafted in a manner that assists readers in differentiating between actual working examples and prophetic examples (
+i.e.,
+prophetic examples should not be described using the past tense, but rather in future or present tense)”); MPEP 2004 (item 8).
+Back to Citation
+71.
+See
+MPEP 608.04(a).
+Back to Citation
+72.
+Inventorship Guidance for AI-Assisted Inventions, 89 FR 10043.
+Back to Citation
+73.
+Id
+at 10047.
+Back to Citation
+74.
+See e.g.,
+Juristat IDS, available at
+www.resources.juristat.com/​information-disclosure-statement;
+ClaimMaster, available at
+www.patentclaimmaster.com/​blog/​filling-out-ids-forms-with-claimmaster.
+Back to Citation
+75.
+See
+MPEP 2004 (advising parties to “[e]liminate clearly irrelevant and marginally pertinent cumulative information”).
+Back to Citation
+76.
+37 CFR 11.18(b)(2)(i).
+Back to Citation
+77.
+37 CFR 11.18(b)(2)(i) and (iii).
+Back to Citation
+78.
+37 CFR 1.4(d)(1) and 2.193(a).
+Back to Citation
+79.
+Id.; see also37 CFR 11.18(a) (“For all documents filed in the Office in patent, trademark, and other non-patent matters, and all documents filed with a hearing officer in a disciplinary proceeding, except for correspondence that is required to be signed by the applicant or party, each piece of correspondence filed by a practitioner in the Office must bear a signature, personally signed or inserted by such practitioner, in compliance with § 1.4(d) or § 2.193(a) of this chapter.”).
+Back to Citation
+80.
+“Non-natural person” used herein refers to those entities who would not qualify as a natural person under the law (
+e.g.
+sovereigns, corporations, or machines).
+Back to Citation
+81.
+See, e.g.,
+MPEP 502.02; TMEP 611.
+Back to Citation
+82.
+37 CFR 1.4(d)(2)(i).
+Back to Citation
+83.
+Some submissions, such as an initial filed patent application, do not require a
+USPTO.gov
+account.
+Back to Citation
+84.
+Legal Framework for Patents Electronic Systems at 6 (“No user, whether registered or unregistered, is permitted to file documents in applications, reexamination proceedings, or supplemental examination proceedings in which they are not authorized.”); Trademark Verified
+USPTO.gov
+Account Agreement at 2 (“I understand that my use of a trademark verified
+USPTO.gov
+account is . . . further limited to use in connection with applications and/or registrations I am authorized to access. I understand that any other use is strictly prohibited.”).
+Back to Citation
+85.
+See, e.g.,
+Legal Framework for Patents Electronic Systems at 2, 6, and 26.
+Back to Citation
+86.
+Id
+at 28; Trademark Verified
+USPTO.gov
+Account Agreement at 7-8; Terms of Use for USPTO websites.
+Back to Citation
+87.
+Terms of Use for USPTO websites.
+Back to Citation
+88.
+Available at
+www.uspto.gov/​learning-and-resources/​bulk-data-products.
+Back to Citation
+89.
+See 37 CFR 11.501-503.
+Back to Citation
+90.
+See, e.g.,37 CFR 5.11; Scope of Foreign Filing Licenses, 73 FR 42781 (July 23, 2008); Bureau of Industry and Security Online Training Room (available at
+www.bis.doc.gov/​index.php/​online-training-room).
+Back to Citation
+91.
+See, e.g.,15 CFR 734.13.
+Back to Citation
+92.
+Terms of Use for USPTO websites.
+Back to Citation
+[FR Doc. 2024-07629 Filed 4-10-24; 8:45 am]
+BILLING CODE 3510-16-P
+Published Document: 2024-07629 (89 FR 25609)
+Home
+Home
+Sections
+Money
+Environment
+World
+Science & Technology
+Business & Industry
+Health & Public Welfare
+Browse
+Agencies
+Topics (CFR Indexing Terms)
+Dates
+Public Inspection
+Executive Orders
+Search
+Document Search
+Advanced Document Search
+Public Inspection Search
+Reader Aids
+Office of the Federal Register Announcements
+Using FederalRegister.Gov
+Understanding the Federal Register
+Recent Site Updates
+Federal Register & CFR Statistics
+Videos & Tutorials
+Developer Resources
+Government Policy and OFR Procedures
+My FR
+My Clipboard
+My Subscriptions
+My Comments
+Sign In
+Information
+About This Site
+Legal Status
+Contact Us
+Privacy
+Accessibility
+FOIA
+No Fear Act
+Continuity Information
+Site Feedback
