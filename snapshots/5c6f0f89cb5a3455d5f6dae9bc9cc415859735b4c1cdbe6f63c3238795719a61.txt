@@ -1,0 +1,50 @@
+STANDING ORDER REGARDING THE USE OF GENERATIVE ARTIFICIAL
+INTELLIGENCE (“AI”) IN COURT FILINGS
+Judge Nina Y. Wang
+United States District Court
+District of Colorado
+Alfred A. Arraj United States Courthouse
+901 19th Street, Courtroom A-902
+Denver, Colorado 80294-3589
+Email: Wang_Chambers@cod.uscourts.gov
+Telephone: 303.335.2600
+Revised: December 1, 2026
+2
+USE OF GENERATIVE ARTIFICIAL INTELLIGENCE (“AI”) IN COURT FILINGS
+A. Applicable Standards
+1. Every pleading, written motion, or other paper is subject to Rule 11 of the
+Federal Rules of Civil Procedure, 28 U.S.C. § 1927, applicable ethical rules, and
+applicable Standing Orders and/or Local Rules of Practice. These standards
+apply to any language drafted with the assistance of generative AI. The Court
+expects that all filings, including those drafted using generative AI, will be
+reviewed by the filer or other authorized human representative and that: (i) the
+claims, defenses, and other legal contentions are warranted by existing law or
+by a nonfrivolous argument for extending, modifying, or reversing existing law or
+for establishing new law, and (ii) all legal citations reference actual non-fictitious
+cases or other authority. Failure to comply with these standards may lead to
+sanctions, including but not limited to monetary sanctions and/or dismissal of
+claims or defenses. See, e.g., Amarsingh v. Frontier Airlines, No. 24-1391, 2026
+WL 352016 (10th Cir. Feb. 9, 2026) (sanctioning pro se litigant $1,000 for
+hallucinated citations pursuant to Federal Rule of Appellate Procedure 38 and
+citing various decisions from the “related context” of Rule 11).
+B. Certification Re: Use of Generative Artificial Intelligence (“AI”) for Drafting
+1. Every filing shall contain an AI Certification regarding the use, or non- use,
+of generative AI in preparing the filing, signed by all individuals who contributed
+to the drafting of the filing. To the extent that generative AI was used in any
+drafting of the filing, each individual must certify that any language drafted by AI
+(even if later edited by a human) was personally reviewed by the filer or another
+human for accuracy and that all legal citations reference actual non- fictitious
+cases or authority. The AI Certification does not count against any page
+limitations.
+Examples of acceptable AI Certifications are provided below for illustrative
+purposes only:
+The undersigned counsel certifies/certify that generative artificial
+intelligence was not used to draft this filing.
+or
+The undersigned counsel certifies /certify that generative artificial
+intelligence—specifically, ChatGPT—was used to draft this filing. I/we
+further certify that [Party] was/were advised of and consented to such use.
+All cited authority was manually reviewed by counsel of record.
+2. Filings that do not comply with the AI Certification requirement may be
+stricken without substantive consideration and with leave to re- file a compliant
+document.
